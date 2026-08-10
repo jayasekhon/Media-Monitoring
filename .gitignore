@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# docs/ is a build artifact — the publish workflow regenerates it in CI
+# and uploads it directly to GitHub Pages, so it never needs to be committed.
+docs/
