@@ -1,0 +1,177 @@
+"""
+config.py — the rule-based editorial policy.
+
+Everything the original prompt expressed as instructions to a human/LLM
+analyst, expressed here as data: which themes to search, which region a
+theme or country belongs to, which keywords raise or lower a severity
+score, and which outlets count as "strongest sources".
+
+This is the file to edit if you want to tune behaviour — add a theme,
+re-weight a keyword, add a country to a region, etc.
+"""
+
+# ---------------------------------------------------------------------------
+# Search themes -> default region if no country override matches.
+# Mirrors the "Also review public news aggregation/search results for the
+# following themes" list in the original prompt, plus the extra watch items
+# under "Also pay attention to developments involving".
+# ---------------------------------------------------------------------------
+THEMES = [
+    ("Yemen humanitarian crisis", "Middle East"),
+    ("Yemen food crisis", "Middle East"),
+    ("Syria humanitarian crisis", "Middle East"),
+    ("Syria displacement", "Middle East"),
+    ("DRC conflict", "Africa"),
+    ("DRC Ebola", "Africa"),
+    ("Mali insecurity", "Africa"),
+    ("Burkina Faso violence", "Africa"),
+    ("Gaza humanitarian crisis", "Middle East"),
+    ("West Bank violence", "Middle East"),
+    ("OPT displacement", "Middle East"),
+    ("Haiti gangs", "Americas"),
+    ("Haiti displacement", "Americas"),
+    ("Sudan humanitarian crisis", "Africa"),
+    ("Sudan displacement", "Africa"),
+    ("Sudan aid access", "Africa"),
+    ("Myanmar conflict", "Asia-Pacific"),
+    ("Myanmar displacement", "Asia-Pacific"),
+    ("Afghanistan humanitarian crisis", "Asia-Pacific"),
+    ("Lebanon displacement", "Middle East"),
+    ("Ukraine conflict humanitarian impact", "Europe"),
+    ("cholera outbreak", "Global / Cross-Cutting"),
+    ("Ebola outbreak", "Global / Cross-Cutting"),
+    ("mpox outbreak", "Global / Cross-Cutting"),
+    ("major floods", "Global / Cross-Cutting"),
+    ("major earthquake", "Global / Cross-Cutting"),
+    ("tropical cyclone", "Global / Cross-Cutting"),
+    ("climate emergency displacement", "Global / Cross-Cutting"),
+    # "Also pay attention to" watch list
+    ("Iran Israel tensions", "Middle East"),
+    ("Venezuela crisis", "Americas"),
+    ("Strait of Hormuz shipping", "Global / Cross-Cutting"),
+]
+
+# ReliefWeb is inherently humanitarian, so it gets a shorter, higher-signal
+# query list rather than all 30 themes (keeps API calls modest and free-tier
+# friendly).
+RELIEFWEB_QUERIES = [
+    "Gaza", "Sudan", "Yemen", "Syria", "Ukraine", "Haiti", "Myanmar",
+    "Afghanistan", "DRC", "Mali", "Burkina Faso", "Lebanon",
+]
+
+# ---------------------------------------------------------------------------
+# Country / place name -> region. Checked against title+description text;
+# first match wins region assignment (overrides the theme's default region).
+# Keep keys lowercase. Order matters only where ambiguity exists.
+# ---------------------------------------------------------------------------
+COUNTRY_REGION = {
+    # Middle East
+    "gaza": "Middle East", "israel": "Middle East", "palestin": "Middle East",
+    "west bank": "Middle East", "yemen": "Middle East", "syria": "Middle East",
+    "lebanon": "Middle East", "iraq": "Middle East", "iran": "Middle East",
+    "jordan": "Middle East", "houthi": "Middle East",
+    # Africa
+    "sudan": "Africa", "darfur": "Africa", "el-obeid": "Africa",
+    "congo": "Africa", "drc": "Africa", "kinshasa": "Africa",
+    "mali": "Africa", "burkina faso": "Africa", "somalia": "Africa",
+    "ethiopia": "Africa", "tigray": "Africa", "nigeria": "Africa",
+    "chad": "Africa", "niger": "Africa", "south sudan": "Africa",
+    "kenya": "Africa", "uganda": "Africa", "sahel": "Africa",
+    # Americas
+    "haiti": "Americas", "venezuela": "Americas", "puerto rico": "Americas",
+    "united states": "Americas", "u.s.": "Americas", "canada": "Americas",
+    "mexico": "Americas", "colombia": "Americas", "ecuador": "Americas",
+    # Europe
+    "ukraine": "Europe", "russia": "Europe", "kyiv": "Europe",
+    "odesa": "Europe", "poland": "Europe", "moldova": "Europe",
+    # Asia-Pacific
+    "myanmar": "Asia-Pacific", "afghanistan": "Asia-Pacific",
+    "bangladesh": "Asia-Pacific", "philippines": "Asia-Pacific",
+    "china": "Asia-Pacific", "india": "Asia-Pacific", "pakistan": "Asia-Pacific",
+    "sri lanka": "Asia-Pacific", "indonesia": "Asia-Pacific",
+}
+
+# ---------------------------------------------------------------------------
+# Priority crises get a scoring bonus regardless of raw keyword hits, per
+# the prompt's "Always prioritise reporting related to" list.
+# ---------------------------------------------------------------------------
+PRIORITY_CRISIS_TERMS = [
+    "gaza", "palestin", "sudan", "ukraine", "congo", "drc", "syria",
+    "yemen", "lebanon", "haiti", "myanmar", "afghanistan", "mali",
+    "burkina faso", "sahel", "ebola", "cholera", "mpox",
+]
+
+# ---------------------------------------------------------------------------
+# Severity keyword weights (additive). Base score starts at BASE_SCORE.
+# Deliberately simple and auditable rather than "clever" — every point in
+# a story's score should be traceable to a specific matched phrase.
+# ---------------------------------------------------------------------------
+BASE_SCORE = 3.0
+PRIORITY_CRISIS_BONUS = 1.5
+
+KEYWORD_WEIGHTS = {
+    # casualties
+    "killed": 2.5, "dead": 2.0, "deaths": 2.5, "death toll": 2.5,
+    "fatalities": 2.0, "massacre": 3.0,
+    "injured": 1.5, "wounded": 1.5, "casualties": 2.0,
+    # displacement / protection
+    "displaced": 2.5, "displacement": 2.5, "evacuat": 2.0,
+    "fled": 1.5, "refugee": 1.5, "forced return": 1.5,
+    # hunger
+    "famine": 3.0, "starvation": 3.0, "malnutrition": 2.0,
+    "food insecurity": 2.0, "hunger": 1.5, "food crisis": 2.0,
+    # health / outbreak
+    "outbreak": 2.5, "cholera": 2.0, "ebola": 2.5, "mpox": 2.0,
+    "epidemic": 2.0, "measles": 1.5,
+    # conflict
+    "ceasefire": 1.0, "offensive": 1.5, "strike": 1.5, "attack": 1.5,
+    "shelling": 1.5, "airstrike": 2.0, "drone attack": 1.5,
+    "clashes": 1.0, "insecurity": 1.0,
+    # access
+    "humanitarian access": 2.0, "blockade": 2.0, "siege": 2.0,
+    "aid restrictions": 2.0, "aid cut": 1.5,
+    # disasters / climate
+    "earthquake": 2.0, "flood": 2.0, "cyclone": 2.0, "hurricane": 2.0,
+    "typhoon": 2.0, "drought": 1.5, "wildfire": 1.5,
+    # economic knock-ons with humanitarian relevance
+    "fuel shortage": 1.0, "food prices": 1.0, "sanctions": 0.5,
+}
+
+MAX_SCORE = 10.0
+MIN_SCORE = 1.0
+
+# An item that matches a theme's search query but hits zero severity
+# keywords and isn't a named priority crisis is very likely a false
+# positive from the search (Google News queries are not perfectly
+# precise) rather than a real humanitarian development. Require at
+# least one matched keyword or the priority-crisis bonus to be included
+# at all — this is a relevance floor, separate from the severity score
+# itself, which still starts at BASE_SCORE for anything that clears it.
+MIN_KEYWORD_HITS_FOR_INCLUSION = 1
+
+# ---------------------------------------------------------------------------
+# Source hierarchy — used to pick which outlet name to lead with when an
+# item is corroborated by more than one, and to populate "strongest
+# sources" in the footer.
+# ---------------------------------------------------------------------------
+SOURCE_HIERARCHY = [
+    "Reuters", "AFP", "BBC", "Al Jazeera English", "Wall Street Journal",
+    "France 24 English", "Financial Times", "The Guardian", "Washington Post",
+    "The Economist", "The East African", "Xinhua English World", "Agencia EFE",
+    "ReliefWeb", "OCHA", "UNICEF", "WHO", "UNHCR",
+]
+
+# ---------------------------------------------------------------------------
+# Blocklist — titles containing these terms are dropped even if they
+# matched a theme query (guards against Google News drifting off-topic).
+# ---------------------------------------------------------------------------
+BLOCKLIST_TERMS = [
+    "box office", "grammy", "oscar", "world cup group", "transfer window",
+    "premier league table", "celebrity", "royal wedding", "film review",
+    "album review", "stock market close", "earnings call", "quarterly profit",
+]
+
+REGION_ORDER = ["Middle East", "Americas", "Africa", "Europe", "Asia-Pacific", "Global / Cross-Cutting"]
+MAX_ITEMS_PER_REGION = 4
+MAX_ESCALATION_RISKS = 4
+MONITORING_WINDOW_HOURS = 24

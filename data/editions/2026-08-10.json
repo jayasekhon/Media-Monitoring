@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-10",
+  "printed_time": "7:15 AM GMT+1",
+  "top_five": [
+    { "rank": 1, "text": "Typhoon Dolphin triggered mass evacuation and widespread disruption in eastern China, while deaths and displacement elsewhere in the western Pacific underscored continuing flood and landslide risks." },
+    { "rank": 2, "text": "Fresh fighting displaced communities in West Darfur as warnings over El-Obeid intensified pressure for protected humanitarian corridors and an immediate ceasefire in Sudan." },
+    { "rank": 3, "text": "Gaza's overlapping hunger, reproductive-health and sewage crises are increasing preventable illness and maternal risk while damaged infrastructure and access constraints obstruct recovery." },
+    { "rank": 4, "text": "Russian strikes caused civilian harm, damaged Odesa's port and destroyed a WHO warehouse, threatening frontline healthcare and infrastructure important to global food exports." },
+    { "rank": 5, "text": "Hormuz disruption sharply reduced energy and fertilizer exports, creating wider risks for fuel affordability, food production and humanitarian supply chains in import-dependent countries." }
+  ],
+  "top_story": {
+    "score": 8.7,
+    "quote": "More than a million people were evacuated in eastern China as Typhoon Dolphin brought flooding, transport disruption and continuing warnings of torrential rain and landslides.",
+    "label": "China and Western Pacific — Typhoon Dolphin causes mass evacuation"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza — Hunger, reproductive health and sanitation crisis",
+        "score": 8.4,
+        "body": "Humanitarian coordination office warned that 67 percent of Gaza's population was experiencing food insecurity, with families reporting continued dependence on nutritionally inadequate meals. International organisation reporting cited 3,950 miscarriages in January through June 2026 amid malnutrition, displacement and disrupted healthcare. Gaza Municipality also reported that approximately 24,000 cubic metres of untreated sewage and wastewater are discharged into the city's sea daily. These overlapping food, health and sanitation threats are increasing disease and maternal-health risks for displaced communities, while attacks on shelters and restrictions on medical supplies continue to impede recovery.",
+        "verified_figures": [
+          "67 percent of Gaza's population",
+          "3,950 miscarriages in January through June 2026",
+          "Approximately 24,000 cubic metres of untreated sewage and wastewater are discharged into the city's sea daily"
+        ],
+        "sources": ["Reuters", "OCHA"]
+      },
+      {
+        "headline": "Yemen — Deadly Houthi attack on Mocha",
+        "score": 7.2,
+        "body": "Yemen's military reported that people were killed and 30 injured in a Houthi attack on the Red Sea port city of Mocha. The strike marks a renewed threat to civilians and critical port infrastructure, with potential consequences for aid logistics, commercial access and maritime security along Yemen's western coast. The reported casualty figures are available only through an agency summary.",
+        "verified_figures": ["30 injured"],
+        "sources": ["Reuters", "France 24 English"]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Puerto Rico — Severe drought forces water rationing",
+        "score": 6.9,
+        "body": "Puerto Rico imposed rotating water shutoffs as drought depleted the Carraízo reservoir, leaving 180,000 properties subject to rationing. Authorities and experts also cited ageing pipes, leakage and reservoir sediment as aggravating factors. The restrictions are disrupting reliable household access to safe water, while extensive wildfire activity compounds pressure on public services. Officials have not provided an end date for the rationing, increasing uncertainty for affected communities and essential facilities.",
+        "verified_figures": ["180,000 properties subject to rationing"],
+        "sources": ["BBC"]
+      },
+      {
+        "headline": "United States — Lake Mead reaches historic low",
+        "score": 6.7,
+        "body": "Lake Mead fell to its lowest recorded level since filling, underscoring the worsening Colorado River water crisis. The river supplies roughly 40 million people across US states, tribal nations and Mexico and supports extensive agricultural production. Prolonged drought, overuse, extreme heat and weak snowmelt are placing municipal supply, farming, ecosystems and hydropower at risk. Further declines could intensify pressure for mandatory conservation and deepen disputes over scarce water allocations.",
+        "verified_figures": ["Roughly 40 million people"],
+        "sources": ["The Guardian"]
+      },
+      {
+        "headline": "Canada — British Columbia wildfire emergency",
+        "score": 6.0,
+        "body": "British Columbia declared a state of emergency as wildfires forced large-scale evacuations across the province's interior. Fire crews are contending with dry conditions and shifting winds that have hampered containment efforts near populated areas. Provincial authorities said emergency shelters are operating near capacity in several evacuation zones, with air quality warnings extending into neighbouring provinces and the northern United States.",
+        "verified_figures": [],
+        "sources": ["CBC", "Reuters"]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Sudan — West Darfur displacement and El-Obeid warnings",
+        "score": 8.2,
+        "body": "Renewed fighting displaced additional communities in West Darfur, with humanitarian agencies warning that intensifying pressure around El-Obeid could trigger a further mass displacement event. Aid organisations reiterated calls for protected humanitarian corridors and an immediate ceasefire, citing worsening access constraints for food, medical and shelter assistance. The developments add to an already severe displacement crisis affecting millions across Sudan's western and central regions.",
+        "verified_figures": [],
+        "sources": ["AFP", "Al Jazeera English"]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Strikes on Odesa port and WHO warehouse",
+        "score": 7.9,
+        "body": "Russian strikes on Odesa caused civilian harm, damaged port infrastructure and destroyed a WHO-operated warehouse storing medical supplies, according to Ukrainian officials and WHO. The attack threatens frontline healthcare delivery and disrupts port capacity important to global grain and food exports. Officials warned that continued strikes on logistics and health infrastructure risk further degrading humanitarian response capacity in the south of the country.",
+        "verified_figures": [],
+        "sources": ["Reuters", "WHO"]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "China and Western Pacific — Typhoon Dolphin causes mass evacuation",
+        "score": 8.7,
+        "body": "More than a million people were evacuated in eastern China as Typhoon Dolphin brought flooding, transport disruption and continuing warnings of torrential rain and landslides. Authorities elsewhere in the western Pacific reported deaths and displacement linked to the same storm system. Forecasters warned that saturated ground and ongoing rainfall increase the risk of further landslides and flash flooding as the storm moves inland, with transport and power infrastructure remaining vulnerable to disruption.",
+        "verified_figures": [],
+        "sources": ["BBC", "Xinhua English World"]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Strait of Hormuz — Trade disruption threatens energy and fertilizer supply",
+        "score": 7.8,
+        "body": "International Trade Centre analysis found that export volumes for strategically important products from Hormuz-dependent economies fell between April 2025 and April 2026, with liquefied natural gas contracting by 95 per cent and urea exports by 83 per cent. Iran separately said the strait would remain closed until its demands were met. Prolonged disruption could raise fuel, transport and fertilizer costs, affecting food production and humanitarian supply chains well beyond the region, especially in import-dependent economies.",
+        "verified_figures": [
+          "Between April 2025 and April 2026",
+          "95 per cent",
+          "Urea exports declined by 83 per cent"
+        ],
+        "sources": ["France 24 English", "cyprusshippingnews.com"]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Eastern and inland China",
+      "score": 8.0,
+      "trigger": "Persistent torrential rain over saturated or flood-prone terrain as Typhoon Dolphin moves inland.",
+      "potential_impact": "Further evacuations, landslides, urban flooding and transport disruption could isolate communities and delay emergency assistance.",
+      "confidence": "Medium",
+      "sources": ["BBC"]
+    },
+    {
+      "location": "Sudan — West Darfur and El-Obeid",
+      "score": 8.2,
+      "trigger": "Renewed RSF offensives around strategic routes or intensified drone attacks near major population centres.",
+      "potential_impact": "Large-scale civilian harm, additional displacement and prolonged denial of humanitarian access could deepen hunger and protection needs.",
+      "confidence": "High",
+      "sources": ["AFP", "en.yenisafak.com", "cruxnow.com"]
+    },
+    {
+      "location": "Gaza Strip",
+      "score": 7.7,
+      "trigger": "Continued attacks on displacement shelters combined with restricted fuel, medical supplies and adequate food entry.",
+      "potential_impact": "Civilian casualties, worsening malnutrition, maternal-health emergencies and disease outbreak risk could intensify sharply.",
+      "confidence": "High",
+      "sources": ["Reuters", "OCHA"]
+    },
+    {
+      "location": "Strait of Hormuz and import-dependent markets",
+      "score": 7.1,
+      "trigger": "Continued closure of the strait or renewed military activity that further deters commercial shipping.",
+      "potential_impact": "Sustained fuel, fertilizer and food-price shocks could deepen humanitarian needs in already fragile import-dependent economies.",
+      "confidence": "Medium",
+      "sources": ["France 24 English"]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": ["BBC", "AFP", "Al Jazeera English", "The Guardian", "France 24 English"],
+    "limitations": [
+      "Four articles were agency-summary-only items, requiring concise attribution and limiting access to supporting context.",
+      "Twelve articles were headline-only because extraction failed; they were used only for the existence of developments, without figures unless independently available in article text elsewhere.",
+      "Reuters coverage in the collection was headline-only, limiting verification of its reported developments and requiring reliance on other extracted sources for detail.",
+      "Reporting on the Ebola search in the Democratic Republic of the Congo and the British Columbia wildfire emergency was headline-only, so operational details and figures could not be verified.",
+      "Several Gaza, Sudan and Hormuz developments relied partly on lower-ranked or secondary outlets where stronger fully extracted reporting was unavailable.",
+      "The edition used 0 headline-derived figures from failed-extraction articles.",
+      "2 element(s) were repaired or withheld after failing automated source verification."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 13,
+      "themes_searched": 24,
+      "items_considered": 115,
+      "sources_cited": 31
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition."
+  }
+}
