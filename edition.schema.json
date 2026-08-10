@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DailyBelleEdition",
+  "type": "object",
+  "required": ["date", "printed_time", "top_five", "top_story", "sections", "escalation_risks", "source_notes"],
+  "additionalProperties": false,
+  "properties": {
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Monitoring date, e.g. 2026-08-10"
+    },
+    "printed_time": {
+      "type": "string",
+      "description": "e.g. '7:15 AM GMT+1'"
+    },
+    "top_five": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["rank", "text"],
+        "additionalProperties": false,
+        "properties": {
+          "rank": { "type": "integer", "minimum": 1, "maximum": 5 },
+          "text": { "type": "string" }
+        }
+      }
+    },
+    "top_story": {
+      "type": "object",
+      "required": ["score", "quote", "label"],
+      "additionalProperties": false,
+      "properties": {
+        "score": { "type": "number", "minimum": 0, "maximum": 10 },
+        "quote": { "type": "string" },
+        "label": { "type": "string", "description": "e.g. 'CHINA AND WESTERN PACIFIC — TYPHOON DOLPHIN CAUSES MASS EVACUATION'" }
+      }
+    },
+    "sections": {
+      "type": "object",
+      "required": ["Middle East", "Americas", "Africa", "Europe", "Asia-Pacific", "Global / Cross-Cutting"],
+      "additionalProperties": false,
+      "properties": {
+        "Middle East": { "$ref": "#/definitions/reportList" },
+        "Americas": { "$ref": "#/definitions/reportList" },
+        "Africa": { "$ref": "#/definitions/reportList" },
+        "Europe": { "$ref": "#/definitions/reportList" },
+        "Asia-Pacific": { "$ref": "#/definitions/reportList" },
+        "Global / Cross-Cutting": { "$ref": "#/definitions/reportList" }
+      }
+    },
+    "escalation_risks": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "required": ["location", "score", "trigger", "potential_impact", "confidence", "sources"],
+        "additionalProperties": false,
+        "properties": {
+          "location": { "type": "string" },
+          "score": { "type": "number", "minimum": 0, "maximum": 10 },
+          "trigger": { "type": "string" },
+          "potential_impact": { "type": "string" },
+          "confidence": { "type": "string", "enum": ["Low", "Medium", "High"] },
+          "sources": { "type": "array", "items": { "$ref": "#/definitions/sourceRef" } }
+        }
+      }
+    },
+    "source_notes": {
+      "type": "object",
+      "required": ["strongest_sources", "limitations", "coverage_snapshot", "internal_sources_confirmation", "all_sources"],
+      "additionalProperties": false,
+      "properties": {
+        "strongest_sources": { "type": "array", "items": { "type": "string" } },
+        "all_sources": {
+          "type": "array",
+          "description": "Full breakdown of every distinct outlet used in this edition, with how many items it contributed to.",
+          "items": {
+            "type": "object",
+            "required": ["name", "count"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "count": { "type": "integer", "minimum": 1 },
+              "url": { "type": "string", "description": "Optional link to the outlet's homepage or section, when a single representative link makes sense." }
+            }
+          }
+        },
+        "limitations": { "type": "array", "items": { "type": "string" } },
+        "coverage_snapshot": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "outlets_reviewed": { "type": "integer" },
+            "themes_searched": { "type": "integer" },
+            "items_considered": { "type": "integer" },
+            "sources_cited": { "type": "integer" }
+          }
+        },
+        "internal_sources_confirmation": {
+          "type": "string",
+          "description": "Fixed confirmation string that no internal/enterprise sources were used."
+        }
+      }
+    }
+  },
+  "definitions": {
+    "sourceRef": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string", "description": "Outlet name, e.g. 'Reuters'" },
+        "url": { "type": "string", "description": "Direct link to the specific article referenced. Omit if no reliable link is available — the renderer will show the name as plain text rather than a broken link." }
+      }
+    },
+    "reportList": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["headline", "score", "body", "verified_figures", "sources"],
+        "additionalProperties": false,
+        "properties": {
+          "headline": { "type": "string", "description": "e.g. 'Gaza — Hunger, reproductive health and sanitation crisis'" },
+          "score": { "type": "number", "minimum": 0, "maximum": 10 },
+          "body": { "type": "string", "description": "40-120 words" },
+          "verified_figures": { "type": "array", "items": { "type": "string" } },
+          "sources": { "type": "array", "items": { "$ref": "#/definitions/sourceRef" } }
+        }
+      }
+    }
+  }
+}
