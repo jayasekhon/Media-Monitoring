@@ -8,7 +8,7 @@
    dark panel #24231f
 */
 
-@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@500;600;700&display=swap');
 
 :root {
   --bg-outer: #e6e0d2;
@@ -61,11 +61,12 @@ a:hover { text-decoration: underline; }
   margin: 0 0 22px;
 }
 .masthead h1 {
-  font-family: 'UnifrakturCook', 'Playfair Display', serif;
-  font-size: 76px;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 72px;
   margin: 0;
-  letter-spacing: 1px;
-  line-height: 1;
+  letter-spacing: -0.5px;
+  line-height: 1.05;
 }
 .masthead .tagline {
   color: var(--maroon);
@@ -248,8 +249,9 @@ select.edition-select {
   z-index: 10;
 }
 .nav .logo {
-  font-family: 'UnifrakturCook', serif;
-  font-size: 26px;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 24px;
   width: 60px;
   display: flex;
   align-items: center;
@@ -374,6 +376,8 @@ select.edition-select {
   color: #cfc7b3;
   margin: 0 0 18px;
 }
+.risks a { color: var(--coral); }
+.risks a:hover { color: #e8998a; }
 .risks .rule-double {
   border: none;
   border-top: 2px double #6d685c;
@@ -485,8 +489,9 @@ select.edition-select {
   gap: 16px;
 }
 .site-footer .brand {
-  font-family: 'UnifrakturCook', serif;
-  font-size: 24px;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 22px;
 }
 .site-footer .brand + div {
   font-family: 'Inter', sans-serif;
