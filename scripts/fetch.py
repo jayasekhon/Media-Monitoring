@@ -10,10 +10,24 @@ Two sources, deliberately:
 
 Both are free and require no authentication. Network calls are wrapped so
 a single failing theme/query doesn't take down the whole run.
+
+IMPORTANT — Google News RSS quirk: its <description> field is NOT a real
+article summary. It's almost always just the headline again, wrapped in
+decorative HTML, with the source name tacked on the end (something like
+"<a href=...>Headline text</a>&nbsp;&nbsp;<font>Source Name</font>").
+Stripping the HTML tags alone leaves that noise behind as if it were real
+body text — which is what was causing report bodies to read like the
+headline repeated twice followed by the outlet's own name, and made
+nearly every item short enough to trip the "thin description" filler.
+_clean_google_description() below detects and removes that pattern so a
+Google News item with no real summary is treated as headline-only (empty
+description) rather than as if it had (fake) body content.
 """
 import time
 import urllib.parse
 import re
+import html
+from difflib import SequenceMatcher
 from datetime import datetime, timezone
 
 import requests
@@ -27,7 +41,36 @@ REQUEST_TIMEOUT = 15
 
 def _strip_html(text: str) -> str:
     text = re.sub(r"<[^<]+?>", " ", text or "")
+    text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def _clean_google_description(headline: str, source_name: str, raw_summary: str) -> str:
+    """Strip Google News RSS's headline-plus-source noise out of the
+    description field, returning "" when there's no real summary content
+    left (the common case) rather than a near-duplicate of the headline.
+    """
+    text = _strip_html(raw_summary)
+    if not text:
+        return ""
+
+    # Drop a trailing "... Source Name" if it matches the byline we
+    # already parsed off the title.
+    if source_name and source_name != "Google News" and text.endswith(source_name):
+        text = text[: -len(source_name)].strip(" -\u2013\u2014")
+
+    if not text:
+        return ""
+
+    # If what's left is essentially just the headline again (Google News'
+    # normal case), treat it as no real summary rather than keeping a
+    # duplicate. Word-overlap similarity, not exact match, since minor
+    # punctuation/casing differences are common.
+    similarity = SequenceMatcher(None, text.lower(), headline.lower()).ratio()
+    if similarity > 0.75:
+        return ""
+
     return text
 
 
@@ -55,7 +98,7 @@ def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
             if published_ts is not None and published_ts < cutoff:
                 continue
             headline, source_name = _parse_google_news_source(entry.get("title", ""))
-            description = _strip_html(entry.get("summary", ""))
+            description = _clean_google_description(headline, source_name, entry.get("summary", ""))
             items.append({
                 "title": headline,
                 "description": description,
@@ -133,3 +176,76 @@ def fetch_all():
         theme_region_map.setdefault(query, "Global / Cross-Cutting")
 
     return all_items, theme_region_map
+
+
+# ---------------------------------------------------------------------------
+# Article-excerpt enrichment — only called for the ~20-30 items that survive
+# filtering, scoring and dedup and actually make it into the published
+# edition, not for every raw candidate (fetching full articles for every
+# theme's search results would be slow and mostly wasted work).
+# ---------------------------------------------------------------------------
+ARTICLE_FETCH_TIMEOUT = 10
+ARTICLE_EXCERPT_MAX_CHARS = 700
+
+
+def fetch_article_excerpt(url: str) -> str:
+    """Best-effort fetch of the actual article page and extraction of its
+    opening text, for items whose RSS description had no real content
+    (the common case for Google News — see module docstring).
+
+    This follows the item's own link, the same as any RSS reader or the
+    person clicking through themselves would — it does not bypass
+    paywalls or authentication, and returns "" (never raises) if:
+      - the link doesn't resolve
+      - the publisher blocks automated requests
+      - it's a Google News redirect link using a JS-based redirect a
+        plain HTTP fetch can't follow (a real limitation — some
+        Google-sourced items will not enrich successfully, and fall
+        back to headline-only, same as before this feature existed)
+      - trafilatura can't find a clean article body on the page
+    """
+    if not url:
+        return ""
+    try:
+        import trafilatura
+    except ImportError:
+        return ""
+    try:
+        downloaded = trafilatura.fetch_url(url)
+        if not downloaded:
+            return ""
+        text = trafilatura.extract(downloaded, favor_precision=True) or ""
+        text = re.sub(r"\s+", " ", text).strip()
+        return text[:ARTICLE_EXCERPT_MAX_CHARS]
+    except Exception:  # noqa: BLE001 — best-effort, must never break the run
+        return ""
+
+
+def enrich_items_with_article_text(items: list[dict], max_workers: int = 6) -> tuple[int, int]:
+    """Mutates `items` in place: for any item whose description is empty
+    or very short, tries to replace it with a real excerpt fetched from
+    the article itself. Runs fetches concurrently since this is I/O-bound
+    and each request can take several seconds.
+
+    Returns (enriched_count, attempted_count) for limitations reporting.
+    """
+    to_enrich = [it for it in items if len(_strip_html(it.get("description", "")).split()) < 15 and it.get("link")]
+    if not to_enrich:
+        return 0, 0
+
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    enriched_count = 0
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        future_to_item = {pool.submit(fetch_article_excerpt, it["link"]): it for it in to_enrich}
+        for future in as_completed(future_to_item):
+            it = future_to_item[future]
+            try:
+                excerpt = future.result()
+            except Exception:  # noqa: BLE001
+                excerpt = ""
+            if excerpt:
+                it["description"] = excerpt
+                enriched_count += 1
+
+    return enriched_count, len(to_enrich)
