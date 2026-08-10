@@ -23,12 +23,17 @@ def sentences(text: str) -> list[str]:
     return parts
 
 
-def build_body(title: str, description: str, min_words: int = 40, max_words: int = 120) -> str:
+def build_body(title: str, description: str, min_words: int = 40, max_words: int = 120) -> tuple[str, bool]:
     """Extractive body: uses the description as-is (trimmed to the word
     budget at a sentence boundary). If the description is too short to
     meet the minimum, prepends the title as a lead sentence rather than
     fabricating content — this keeps every word traceable to source
     text, at the cost of sometimes running under 40 words.
+
+    Returns (body_text, is_thin) rather than padding every short item
+    with a repeated boilerplate sentence — callers should count `is_thin`
+    across the edition and report it once, in aggregate, rather than
+    stamping the same disclaimer under nearly every card.
     """
     desc = clean_text(description)
     title_clean = clean_text(title)
@@ -55,10 +60,8 @@ def build_body(title: str, description: str, min_words: int = 40, max_words: int
             count += len(sent_words)
         combined = " ".join(truncated) if truncated else " ".join(words[:max_words]) + "…"
 
-    if len(combined.split()) < min_words:
-        combined += " Further operational detail was not available in reporting retrieved for this edition."
-
-    return combined
+    is_thin = len(combined.split()) < min_words
+    return combined, is_thin
 
 
 def build_top_five_line(title: str, description: str) -> str:
