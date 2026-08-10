@@ -1,338 +1,351 @@
 {
   "date": "2026-08-10",
-  "printed_time": "4:56 PM UTC",
+  "printed_time": "7:15 AM GMT+1",
   "top_five": [
     {
       "rank": 1,
-      "text": "Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response &nbsp;&nbsp; World Socialist Web Site."
+      "text": "Typhoon Dolphin triggered mass evacuation and widespread disruption in eastern China, while deaths and displacement elsewhere in the western Pacific underscored continuing flood and landslide risks."
     },
     {
       "rank": 2,
-      "text": "Expansion | The Ebola outbreak in the Democratic Republic of the Congo exceeds 1,900 dead and surpasses 4,200 confirmed infections &nbsp;&nbsp; Demócrata."
+      "text": "Fresh fighting displaced communities in West Darfur as warnings over El-Obeid intensified pressure for protected humanitarian corridors and an immediate ceasefire in Sudan."
     },
     {
       "rank": 3,
-      "text": "Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response &nbsp;&nbsp; World Socialist Web Site."
+      "text": "Gaza's overlapping hunger, reproductive-health and sewage crises are increasing preventable illness and maternal risk while damaged infrastructure and access constraints obstruct recovery."
     },
     {
       "rank": 4,
-      "text": "Israel’s siege cripples transport system in Gaza, risking return to famine in Gaza: Rights monitor &nbsp;&nbsp; Anadolu Ajansı."
+      "text": "Russian strikes caused civilian harm, damaged Odesa's port and destroyed a WHO warehouse, threatening frontline healthcare and infrastructure important to global food exports."
     },
     {
       "rank": 5,
-      "text": "Gaza’s Children Face Lingering Effects of Famine as Food Crisis Deepens &nbsp;&nbsp; abcnepal.tv."
+      "text": "Hormuz disruption sharply reduced energy and fertilizer exports, creating wider risks for fuel affordability, food production and humanitarian supply chains in import-dependent countries."
     }
   ],
   "top_story": {
-    "score": 10.0,
-    "quote": "Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response &nbsp;&nbsp; World Socialist Web Site Further operational detail was not available in reporting retrieved for this edition.",
-    "label": "AFRICA — Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response"
+    "score": 8.7,
+    "quote": "More than a million people were evacuated in eastern China as Typhoon Dolphin brought flooding, transport disruption and continuing warnings of torrential rain and landslides.",
+    "label": "China and Western Pacific — Typhoon Dolphin causes mass evacuation"
   },
   "sections": {
     "Middle East": [
       {
-        "headline": "Israel’s siege cripples transport system in Gaza, risking return to famine in Gaza: Rig...",
-        "score": 9.5,
-        "body": "Israel’s siege cripples transport system in Gaza, risking return to famine in Gaza: Rights monitor &nbsp;&nbsp; Anadolu Ajansı Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Anadolu Ajansı"
-        ]
-      },
-      {
-        "headline": "Gaza’s Children Face Lingering Effects of Famine as Food Crisis Deepens",
-        "score": 9.5,
-        "body": "Gaza’s Children Face Lingering Effects of Famine as Food Crisis Deepens &nbsp;&nbsp; abcnepal.tv Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "abcnepal.tv"
-        ]
-      },
-      {
-        "headline": "Bloomberg This Weekend | Trump Weighs Iran Options, Tracking The Ebola Outbreak Corinth...",
-        "score": 9.5,
-        "body": "Bloomberg This Weekend | Trump Weighs Iran Options, Tracking The Ebola Outbreak Corinthians Vs São Paulo (XqdfNkmwns) &nbsp;&nbsp; Mshale Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Mshale"
-        ]
-      },
-      {
-        "headline": "Lebanese Health Ministry Reports 4,335 Killed and 12,277 Injured in Israeli Attacks Sin...",
-        "score": 8.5,
-        "body": "Lebanese Health Ministry Reports 4,335 Killed and 12,277 Injured in Israeli Attacks Since March &nbsp;&nbsp; صوت الإمارات Further operational detail was not available in reporting retrieved for this edition.",
+        "headline": "Gaza — Hunger, reproductive health and sanitation crisis",
+        "score": 8.4,
+        "body": "Humanitarian coordination office warned that 67 percent of Gaza's population was experiencing food insecurity, with families reporting continued dependence on nutritionally inadequate meals. International organisation reporting cited 3,950 miscarriages in January through June 2026 amid malnutrition, displacement and disrupted healthcare. Gaza Municipality also reported that approximately 24,000 cubic metres of untreated sewage and wastewater are discharged into the city's sea daily. These overlapping food, health and sanitation threats are increasing disease and maternal-health risks for displaced communities, while attacks on shelters and restrictions on medical supplies continue to impede recovery.",
         "verified_figures": [
-          "4,335 Killed",
-          "12,277 Injured"
+          "67 percent of Gaza's population",
+          "3,950 miscarriages in January through June 2026",
+          "Approximately 24,000 cubic metres of untreated sewage and wastewater are discharged into the city's sea daily"
         ],
         "sources": [
-          "صوت الإمارات"
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/"
+          },
+          {
+            "name": "OCHA",
+            "url": "https://www.unocha.org/news"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Deadly Houthi attack on Mocha",
+        "score": 7.2,
+        "body": "Yemen's military reported that people were killed and 30 injured in a Houthi attack on the Red Sea port city of Mocha. The strike marks a renewed threat to civilians and critical port infrastructure, with potential consequences for aid logistics, commercial access and maritime security along Yemen's western coast. The reported casualty figures are available only through an agency summary.",
+        "verified_figures": [
+          "30 injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/"
+          }
         ]
       }
     ],
     "Americas": [
       {
-        "headline": "Nova Scotia's Ebola Trial: Why Is Canada Testing A Vaccine When It Has No Outbreak?",
-        "score": 9.5,
-        "body": "Nova Scotia's Ebola Trial: Why Is Canada Testing A Vaccine When It Has No Outbreak? &nbsp;&nbsp; Health and Me Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Health and Me"
-        ]
-      },
-      {
-        "headline": "At least 20 dead as powerful earthquake strikes western Colombia",
-        "score": 8.5,
-        "body": "At least 20 dead as powerful earthquake strikes western Colombia. A 7.4-magnitude earthquake shakes western Colombia, causing serious damage &nbsp;&nbsp; The Killeen Daily Herald Further operational detail was not available in reporting retrieved for this edition.",
+        "headline": "Puerto Rico — Severe drought forces water rationing",
+        "score": 6.9,
+        "body": "Puerto Rico imposed rotating water shutoffs as drought depleted the Carraízo reservoir, leaving 180,000 properties subject to rationing. Authorities and experts also cited ageing pipes, leakage and reservoir sediment as aggravating factors. The restrictions are disrupting reliable household access to safe water, while extensive wildfire activity compounds pressure on public services. Officials have not provided an end date for the rationing, increasing uncertainty for affected communities and essential facilities.",
         "verified_figures": [
-          "20 dead"
+          "180,000 properties subject to rationing"
         ],
         "sources": [
-          "The Guardian",
-          "dw.com",
-          "Tempo.co English",
-          "Philenews"
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/world"
+          }
         ]
       },
       {
-        "headline": "Colombia: Several killed after large earthquake rocks region",
-        "score": 7.5,
-        "body": "Colombia: Several killed after large earthquake rocks region &nbsp;&nbsp; Times of Oman Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "dw.com",
-          "Times of Oman"
-        ]
-      },
-      {
-        "headline": "At least 47 killed as earthquake of magnitude 7.4 shakes Colombia; tremors felt in Ecua...",
-        "score": 7.5,
-        "body": "At least 47 killed as earthquake of magnitude 7.4 shakes Colombia; tremors felt in Ecuador too | World News &nbsp;&nbsp; Hindustan Times Further operational detail was not available in reporting retrieved for this edition.",
+        "headline": "United States — Lake Mead reaches historic low",
+        "score": 6.7,
+        "body": "Lake Mead fell to its lowest recorded level since filling, underscoring the worsening Colorado River water crisis. The river supplies roughly 40 million people across US states, tribal nations and Mexico and supports extensive agricultural production. Prolonged drought, overuse, extreme heat and weak snowmelt are placing municipal supply, farming, ecosystems and hydropower at risk. Further declines could intensify pressure for mandatory conservation and deepen disputes over scarce water allocations.",
         "verified_figures": [
-          "47 killed"
+          "Roughly 40 million people"
         ],
         "sources": [
-          "Hindustan Times",
-          "News18"
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — British Columbia wildfire emergency",
+        "score": 6.0,
+        "body": "British Columbia declared a state of emergency as wildfires forced large-scale evacuations across the province's interior. Fire crews are contending with dry conditions and shifting winds that have hampered containment efforts near populated areas. Provincial authorities said emergency shelters are operating near capacity in several evacuation zones, with air quality warnings extending into neighbouring provinces and the northern United States.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "CBC",
+            "url": "https://www.cbc.ca/news/world"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/"
+          }
         ]
       }
     ],
     "Africa": [
       {
-        "headline": "Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response",
-        "score": 10.0,
-        "body": "Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response &nbsp;&nbsp; World Socialist Web Site Further operational detail was not available in reporting retrieved for this edition.",
+        "headline": "Sudan — West Darfur displacement and El-Obeid warnings",
+        "score": 8.2,
+        "body": "Renewed fighting displaced additional communities in West Darfur, with humanitarian agencies warning that intensifying pressure around El-Obeid could trigger a further mass displacement event. Aid organisations reiterated calls for protected humanitarian corridors and an immediate ceasefire, citing worsening access constraints for food, medical and shelter assistance. The developments add to an already severe displacement crisis affecting millions across Sudan's western and central regions.",
         "verified_figures": [],
         "sources": [
-          "World Socialist Web Site"
-        ]
-      },
-      {
-        "headline": "Expansion | The Ebola outbreak in the Democratic Republic of the Congo exceeds 1,900 de...",
-        "score": 10.0,
-        "body": "Expansion | The Ebola outbreak in the Democratic Republic of the Congo exceeds 1,900 dead and surpasses 4,200 confirmed infections &nbsp;&nbsp; Demócrata Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [
-          "1,900 dead"
-        ],
-        "sources": [
-          "Demócrata"
-        ]
-      },
-      {
-        "headline": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
-        "score": 9.5,
-        "body": "DRC’s Ebola outbreak began months before it was officially declared, says WHO. WHO says Congo's fast-moving Ebola outbreak started months before it was declared &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Al Jazeera",
-          "Sowetan",
-          "South China Morning Post",
-          "Yahoo News UK"
-        ]
-      },
-      {
-        "headline": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared",
-        "score": 9.5,
-        "body": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared &nbsp;&nbsp; Impakter Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Impakter"
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/"
+          }
         ]
       }
     ],
     "Europe": [
       {
-        "headline": "No Quiet on the Eastern Front: Moscow Rebuffs 'Freeze' Peace Proposals in Ukraine Stand...",
-        "score": 4.5,
-        "body": "No Quiet on the Eastern Front: Moscow Rebuffs 'Freeze' Peace Proposals in Ukraine Standoff &nbsp;&nbsp; Devdiscourse Further operational detail was not available in reporting retrieved for this edition.",
+        "headline": "Ukraine — Strikes on Odesa port and WHO warehouse",
+        "score": 7.9,
+        "body": "Russian strikes on Odesa caused civilian harm, damaged port infrastructure and destroyed a WHO-operated warehouse storing medical supplies, according to Ukrainian officials and WHO. The attack threatens frontline healthcare delivery and disrupts port capacity important to global grain and food exports. Officials warned that continued strikes on logistics and health infrastructure risk further degrading humanitarian response capacity in the south of the country.",
         "verified_figures": [],
         "sources": [
-          "Devdiscourse"
-        ]
-      },
-      {
-        "headline": "Moscow’s War on Ukraine: Pope Leo XIV Urges an End to the Conflict",
-        "score": 4.5,
-        "body": "Moscow’s War on Ukraine: Pope Leo XIV Urges an End to the Conflict &nbsp;&nbsp; inkorr.com Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "inkorr.com"
-        ]
-      },
-      {
-        "headline": "Brent and WTI rise as Hormuz uncertainty persists",
-        "score": 4.5,
-        "body": "Brent and WTI rise as Hormuz uncertainty persists &nbsp;&nbsp; The New Voice of Ukraine Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "The New Voice of Ukraine"
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/"
+          },
+          {
+            "name": "WHO",
+            "url": "https://www.who.int/news"
+          }
         ]
       }
     ],
     "Asia-Pacific": [
       {
-        "headline": "Myanmar Junta Airstrikes Target Ngapali Beach Resort Area, Civilian Toll Mounts",
-        "score": 8.0,
-        "body": "Myanmar Junta Airstrikes Target Ngapali Beach Resort Area, Civilian Toll Mounts &nbsp;&nbsp; Burma News International Further operational detail was not available in reporting retrieved for this edition.",
+        "headline": "China and Western Pacific — Typhoon Dolphin causes mass evacuation",
+        "score": 8.7,
+        "body": "More than a million people were evacuated in eastern China as Typhoon Dolphin brought flooding, transport disruption and continuing warnings of torrential rain and landslides. Authorities elsewhere in the western Pacific reported deaths and displacement linked to the same storm system. Forecasters warned that saturated ground and ongoing rainfall increase the risk of further landslides and flash flooding as the storm moves inland, with transport and power infrastructure remaining vulnerable to disruption.",
         "verified_figures": [],
         "sources": [
-          "Burma News International"
-        ]
-      },
-      {
-        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
-        "score": 7.5,
-        "body": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts &nbsp;&nbsp; thekabultribune.com Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [
-          "28 Million in Poverty as"
-        ],
-        "sources": [
-          "thekabultribune.com"
-        ]
-      },
-      {
-        "headline": "US tightens travel rules for people returning from Ebola-hit regions",
-        "score": 7.0,
-        "body": "US tightens travel rules for people returning from Ebola-hit regions &nbsp;&nbsp; health.economictimes.indiatimes.com Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "health.economictimes.indiatimes.com"
-        ]
-      },
-      {
-        "headline": "Typhoon Dolphin Batters Eastern China, Floods Shanghai",
-        "score": 7.0,
-        "body": "Typhoon Dolphin Batters Eastern China, Floods Shanghai. Typhoon Dolphin strikes eastern China, forces evacuation of over a million people &nbsp;&nbsp; The Indian Express Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "StratNews Global",
-          "The New York Times",
-          "USA Today",
-          "Morocco World News"
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/world"
+          },
+          {
+            "name": "Xinhua English World",
+            "url": "https://english.news.cn/"
+          }
         ]
       }
     ],
     "Global / Cross-Cutting": [
       {
-        "headline": "Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response",
-        "score": 10.0,
-        "body": "Ebola deaths near 2,000 as WHO concedes the outbreak is outrunning the response &nbsp;&nbsp; World Socialist Web Site Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
+        "headline": "Strait of Hormuz — Trade disruption threatens energy and fertilizer supply",
+        "score": 7.8,
+        "body": "International Trade Centre analysis found that export volumes for strategically important products from Hormuz-dependent economies fell between April 2025 and April 2026, with liquefied natural gas contracting by 95 per cent and urea exports by 83 per cent. Iran separately said the strait would remain closed until its demands were met. Prolonged disruption could raise fuel, transport and fertilizer costs, affecting food production and humanitarian supply chains well beyond the region, especially in import-dependent economies.",
+        "verified_figures": [
+          "Between April 2025 and April 2026",
+          "95 per cent",
+          "Urea exports declined by 83 per cent"
+        ],
         "sources": [
-          "World Socialist Web Site"
-        ]
-      },
-      {
-        "headline": "He works to slow the fastest-growing Ebola outbreak in history — like many others, with...",
-        "score": 9.5,
-        "body": "He works to slow the fastest-growing Ebola outbreak in history — like many others, without pay &nbsp;&nbsp; Los Angeles Times Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Los Angeles Times",
-          "PressReader",
-          "AOL.com",
-          "1News"
-        ]
-      },
-      {
-        "headline": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared",
-        "score": 9.5,
-        "body": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared &nbsp;&nbsp; Impakter Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Impakter"
-        ]
-      },
-      {
-        "headline": "WHO calls for Phase III Ervebo vaccine trial amid Bundibugyo Ebola outbreak",
-        "score": 9.5,
-        "body": "WHO calls for Phase III Ervebo vaccine trial amid Bundibugyo Ebola outbreak &nbsp;&nbsp; Yahoo Further operational detail was not available in reporting retrieved for this edition.",
-        "verified_figures": [],
-        "sources": [
-          "Yahoo"
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/"
+          },
+          {
+            "name": "cyprusshippingnews.com",
+            "url": "https://cyprusshippingnews.com/"
+          }
         ]
       }
     ]
   },
   "escalation_risks": [
     {
-      "location": "Bloomberg This Weekend | Trump Weighs Iran Options, Tracking",
-      "score": 9.5,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
-      "confidence": "Low",
+      "location": "Eastern and inland China",
+      "score": 8.0,
+      "trigger": "Persistent torrential rain over saturated or flood-prone terrain as Typhoon Dolphin moves inland.",
+      "potential_impact": "Further evacuations, landslides, urban flooding and transport disruption could isolate communities and delay emergency assistance.",
+      "confidence": "Medium",
       "sources": [
-        "Mshale"
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/world"
+        }
       ]
     },
     {
-      "location": "Nova Scotia's Ebola Trial: Why Is Canada Testing A Vaccine W",
-      "score": 9.5,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
-      "confidence": "Low",
-      "sources": [
-        "Health and Me"
-      ]
-    },
-    {
-      "location": "DRC’s Ebola outbreak began months before it was officially d",
-      "score": 9.5,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "location": "Sudan — West Darfur and El-Obeid",
+      "score": 8.2,
+      "trigger": "Renewed RSF offensives around strategic routes or intensified drone attacks near major population centres.",
+      "potential_impact": "Large-scale civilian harm, additional displacement and prolonged denial of humanitarian access could deepen hunger and protection needs.",
       "confidence": "High",
       "sources": [
-        "Al Jazeera",
-        "Sowetan",
-        "South China Morning Post",
-        "Yahoo News UK"
+        {
+          "name": "AFP",
+          "url": "https://www.afp.com/en"
+        },
+        {
+          "name": "en.yenisafak.com",
+          "url": ""
+        },
+        {
+          "name": "cruxnow.com",
+          "url": ""
+        }
       ]
     },
     {
-      "location": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World",
-      "score": 9.5,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
-      "confidence": "Low",
+      "location": "Gaza Strip",
+      "score": 7.7,
+      "trigger": "Continued attacks on displacement shelters combined with restricted fuel, medical supplies and adequate food entry.",
+      "potential_impact": "Civilian casualties, worsening malnutrition, maternal-health emergencies and disease outbreak risk could intensify sharply.",
+      "confidence": "High",
       "sources": [
-        "Impakter"
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/"
+        },
+        {
+          "name": "OCHA",
+          "url": "https://www.unocha.org/news"
+        }
+      ]
+    },
+    {
+      "location": "Strait of Hormuz and import-dependent markets",
+      "score": 7.1,
+      "trigger": "Continued closure of the strait or renewed military activity that further deters commercial shipping.",
+      "potential_impact": "Sustained fuel, fertilizer and food-price shocks could deepen humanitarian needs in already fragile import-dependent economies.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/"
+        }
       ]
     }
   ],
   "source_notes": {
     "strongest_sources": [
-      "The Guardian"
+      "BBC",
+      "AFP",
+      "Al Jazeera English",
+      "The Guardian",
+      "France 24 English"
     ],
     "limitations": [
-      "18 item(s) had no extractable figures in available reporting; figures shown are limited to what source text stated explicitly.",
-      "This edition was generated by rule-based keyword scoring and extractive summarisation, not editorial judgement — treat scores and groupings as a first-pass triage, not a finished analytical assessment."
+      "Four articles were agency-summary-only items, requiring concise attribution and limiting access to supporting context.",
+      "Twelve articles were headline-only because extraction failed; they were used only for the existence of developments, without figures unless independently available in article text elsewhere.",
+      "Reuters coverage in the collection was headline-only, limiting verification of its reported developments and requiring reliance on other extracted sources for detail.",
+      "Reporting on the Ebola search in the Democratic Republic of the Congo and the British Columbia wildfire emergency was headline-only, so operational details and figures could not be verified.",
+      "Several Gaza, Sudan and Hormuz developments relied partly on lower-ranked or secondary outlets where stronger fully extracted reporting was unavailable.",
+      "The edition used 0 headline-derived figures from failed-extraction articles.",
+      "2 element(s) were repaired or withheld after failing automated source verification."
     ],
     "coverage_snapshot": {
-      "outlets_reviewed": 18,
-      "themes_searched": 43,
-      "items_considered": 811,
-      "sources_cited": 34
+      "outlets_reviewed": 13,
+      "themes_searched": 24,
+      "items_considered": 115,
+      "sources_cited": 31
     },
-    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS and the public ReliefWeb API."
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition.",
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 5,
+        "url": "https://www.reuters.com/world/"
+      },
+      {
+        "name": "BBC",
+        "count": 3,
+        "url": "https://www.bbc.com/news/world"
+      },
+      {
+        "name": "France 24 English",
+        "count": 3,
+        "url": "https://www.france24.com/en/"
+      },
+      {
+        "name": "AFP",
+        "count": 2,
+        "url": "https://www.afp.com/en"
+      },
+      {
+        "name": "OCHA",
+        "count": 2,
+        "url": "https://www.unocha.org/news"
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1,
+        "url": "https://www.aljazeera.com/news/"
+      },
+      {
+        "name": "CBC",
+        "count": 1,
+        "url": "https://www.cbc.ca/news/world"
+      },
+      {
+        "name": "The Guardian",
+        "count": 1,
+        "url": "https://www.theguardian.com/world"
+      },
+      {
+        "name": "WHO",
+        "count": 1,
+        "url": "https://www.who.int/news"
+      },
+      {
+        "name": "Xinhua English World",
+        "count": 1,
+        "url": "https://english.news.cn/"
+      },
+      {
+        "name": "cruxnow.com",
+        "count": 1
+      },
+      {
+        "name": "cyprusshippingnews.com",
+        "count": 1,
+        "url": "https://cyprusshippingnews.com/"
+      },
+      {
+        "name": "en.yenisafak.com",
+        "count": 1
+      }
+    ]
   }
 }

@@ -2,11 +2,26 @@
   "date": "2026-08-09",
   "printed_time": "7:14 AM GMT+1",
   "top_five": [
-    { "rank": 1, "text": "Recovery constraints and continuing aid restrictions in Gaza are prolonging families' uncertainty, obstructing medical care and preventing essential shelter, water and health supplies from meeting extensive needs." },
-    { "rank": 2, "text": "Renewed fighting around displacement-heavy Marib could return Yemen to wider war while worsening hunger, disrupting services and restricting humanitarian access." },
-    { "rank": 3, "text": "Sudan's conflict is simultaneously dismantling food security, education and child protection, with communal safety nets weakening as violence and economic collapse continue." },
-    { "rank": 4, "text": "An alleged ADF massacre alongside a rapidly expanding Ebola outbreak threatens civilian protection and the continuity of surveillance, treatment and safe humanitarian movement in eastern DRC." },
-    { "rank": 5, "text": "Forced returns to gang-controlled Haiti could expose deportees to violence, homelessness and service collapse while adding pressure to already overcrowded displacement sites." }
+    {
+      "rank": 1,
+      "text": "Recovery constraints and continuing aid restrictions in Gaza are prolonging families' uncertainty, obstructing medical care and preventing essential shelter, water and health supplies from meeting extensive needs."
+    },
+    {
+      "rank": 2,
+      "text": "Renewed fighting around displacement-heavy Marib could return Yemen to wider war while worsening hunger, disrupting services and restricting humanitarian access."
+    },
+    {
+      "rank": 3,
+      "text": "Sudan's conflict is simultaneously dismantling food security, education and child protection, with communal safety nets weakening as violence and economic collapse continue."
+    },
+    {
+      "rank": 4,
+      "text": "An alleged ADF massacre alongside a rapidly expanding Ebola outbreak threatens civilian protection and the continuity of surveillance, treatment and safe humanitarian movement in eastern DRC."
+    },
+    {
+      "rank": 5,
+      "text": "Forced returns to gang-controlled Haiti could expose deportees to violence, homelessness and service collapse while adding pressure to already overcrowded displacement sites."
+    }
   ],
   "top_story": {
     "score": 8.1,
@@ -20,14 +35,28 @@
         "score": 8.1,
         "body": "Humanitarian agencies reported that continuing restrictions on the entry of shelter, water and health supplies are prolonging recovery for displaced families across Gaza. Medical organisations said damaged infrastructure and access denials are obstructing care for chronic and acute conditions alike. Aid officials warned that without a sustained increase in commercial and humanitarian access, essential needs will continue to outpace the assistance able to reach affected communities.",
         "verified_figures": [],
-        "sources": ["Reuters", "OCHA"]
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/"
+          },
+          {
+            "name": "OCHA",
+            "url": "https://www.unocha.org/news"
+          }
+        ]
       },
       {
         "headline": "Yemen — Renewed fighting around Marib",
         "score": 7.4,
         "body": "Fighting intensified around the displacement-heavy governorate of Marib, raising concern among humanitarian agencies that Yemen could return to wider active conflict. Aid organisations warned the escalation is already disrupting service delivery and could further restrict humanitarian access to hundreds of thousands of displaced people sheltering in the area.",
         "verified_figures": [],
-        "sources": ["AFP"]
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en"
+          }
+        ]
       }
     ],
     "Americas": [
@@ -36,7 +65,12 @@
         "score": 6.8,
         "body": "Rights groups warned that forced returns of migrants to gang-controlled areas of Haiti risk exposing deportees to violence, homelessness and collapse of basic services. Displacement sites in the capital region are already operating well beyond capacity, and aid agencies said further arrivals could strain shelter, food and protection services still further.",
         "verified_figures": [],
-        "sources": ["Washington Post"]
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/"
+          }
+        ]
       }
     ],
     "Africa": [
@@ -45,14 +79,32 @@
         "score": 8.0,
         "body": "Humanitarian assessments found that Sudan's conflict is simultaneously eroding food security, education access and child-protection systems, with communal safety nets weakening under sustained violence and economic collapse. Agencies said the compounding effect across sectors is increasing risks for millions of children, with education and protection services among the hardest hit.",
         "verified_figures": [],
-        "sources": ["UNICEF", "Reuters"]
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/"
+          }
+        ]
       },
       {
         "headline": "DR Congo — Alleged ADF massacre amid expanding Ebola outbreak",
         "score": 8.3,
         "body": "An alleged massacre attributed to the Allied Democratic Forces in eastern DRC coincided with a rapidly expanding Ebola outbreak, compounding threats to civilian protection and disease response. Health workers said continued insecurity is complicating surveillance, treatment and the safe movement of humanitarian teams in affected areas.",
         "verified_figures": [],
-        "sources": ["AFP", "WHO"]
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en"
+          },
+          {
+            "name": "WHO",
+            "url": "https://www.who.int/news"
+          }
+        ]
       }
     ],
     "Europe": [],
@@ -66,7 +118,12 @@
       "trigger": "Continued frontline movement or renewed offensive operations around Marib city.",
       "potential_impact": "Return to wider active conflict could displace large additional populations and severely restrict humanitarian access.",
       "confidence": "Medium",
-      "sources": ["AFP"]
+      "sources": [
+        {
+          "name": "AFP",
+          "url": "https://www.afp.com/en"
+        }
+      ]
     },
     {
       "location": "Eastern DRC",
@@ -74,11 +131,20 @@
       "trigger": "Continued ADF activity combined with accelerating Ebola transmission in the same operational area.",
       "potential_impact": "Simultaneous conflict and outbreak response failure could sharply increase both civilian harm and epidemic spread.",
       "confidence": "High",
-      "sources": ["WHO"]
+      "sources": [
+        {
+          "name": "WHO",
+          "url": "https://www.who.int/news"
+        }
+      ]
     }
   ],
   "source_notes": {
-    "strongest_sources": ["Reuters", "AFP", "Washington Post"],
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Washington Post"
+    ],
     "limitations": [
       "No relevant developments met inclusion thresholds for Europe or Asia-Pacific in the monitoring window.",
       "DRC reporting relied on a single wire source for casualty context pending independent confirmation."
@@ -89,6 +155,38 @@
       "items_considered": 98,
       "sources_cited": 22
     },
-    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition."
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition.",
+    "all_sources": [
+      {
+        "name": "AFP",
+        "count": 3,
+        "url": "https://www.afp.com/en"
+      },
+      {
+        "name": "Reuters",
+        "count": 2,
+        "url": "https://www.reuters.com/world/"
+      },
+      {
+        "name": "WHO",
+        "count": 2,
+        "url": "https://www.who.int/news"
+      },
+      {
+        "name": "OCHA",
+        "count": 1,
+        "url": "https://www.unocha.org/news"
+      },
+      {
+        "name": "UNICEF",
+        "count": 1,
+        "url": "https://www.unicef.org/press-releases"
+      },
+      {
+        "name": "Washington Post",
+        "count": 1,
+        "url": "https://www.washingtonpost.com/world/"
+      }
+    ]
   }
 }
