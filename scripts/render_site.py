@@ -32,7 +32,7 @@ DOCS_DIR = ROOT / "docs"
 
 REGION_ORDER = ["Middle East", "Americas", "Africa", "Europe", "Asia-Pacific", "Global / Cross-Cutting"]
 
-SITE_TITLE = "The Daily Belle"
+SITE_TITLE = "OCHA Mediaa Monitoring"
 SITE_URL = "https://example.github.io/daily-belle/"  # overwritten by build_config.json if present
 
 
