@@ -12,7 +12,7 @@ data/editions/YYYY-MM-DD.json. No AI/LLM calls anywhere in this script.
 import argparse
 import json
 import sys
-from collections import defaultdict
+from collections import defaultdict, Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -23,7 +23,7 @@ from config import (
     SOURCE_HIERARCHY, THEMES, RELIEFWEB_QUERIES,
     MIN_KEYWORD_HITS_FOR_INCLUSION,
 )
-from fetch import fetch_all
+from fetch import fetch_all, enrich_items_with_article_text
 from analyze import (
     is_blocklisted, classify_region, score_item, extract_verified_figures,
     dedup_items,
@@ -80,19 +80,42 @@ def run(date_str: str, out_dir: Path):
         deduped.sort(key=lambda x: x["score"], reverse=True)
         deduped_by_region[region] = deduped
 
-    # Build sections (top N per region, formatted per schema)
+    # Select the top N per region *before* doing any expensive per-item work
+    # (article-excerpt fetching happens once, in one batched/concurrent pass,
+    # only for the items that actually survive to publication — not for
+    # every raw candidate that got filtered out earlier).
+    selected_by_region = {
+        region: deduped_by_region.get(region, [])[:MAX_ITEMS_PER_REGION]
+        for region in REGION_ORDER
+    }
+    selected_items = [it for region in REGION_ORDER for it in selected_by_region[region]]
+
+    enriched_count, enrichment_attempted = enrich_items_with_article_text(selected_items)
+    if enrichment_attempted:
+        print(f"Article-excerpt enrichment: {enriched_count}/{enrichment_attempted} succeeded.")
+
+    # Build sections (formatted per schema)
     sections = {r: [] for r in REGION_ORDER}
     all_used_items = []
+    thin_body_count = 0
     for region in REGION_ORDER:
-        for it in deduped_by_region.get(region, [])[:MAX_ITEMS_PER_REGION]:
-            body = build_body(it["title"], it["description"])
+        for it in selected_by_region[region]:
+            # Re-extract figures now, after enrichment — the original
+            # extraction ran on the pre-enrichment (often empty) Google
+            # News description, so it would miss any casualty/displacement/
+            # outbreak figures that only became available once the real
+            # article text was fetched.
+            it["figures"] = extract_verified_figures(it["title"], it["description"])
+            body, is_thin = build_body(it["title"], it["description"])
+            if is_thin:
+                thin_body_count += 1
             headline = it["title"] if len(it["title"]) < 90 else it["title"][:87] + "..."
             sections[region].append({
                 "headline": headline,
                 "score": it["score"],
                 "body": body,
                 "verified_figures": it["figures"],
-                "sources": it.get("sources", [it["source"]]),
+                "sources": it.get("sources") or [{"name": it["source"], "url": it.get("link", "")}],
             })
             all_used_items.append(it)
 
@@ -121,7 +144,7 @@ def run(date_str: str, out_dir: Path):
     # Top story = #1 overall
     if overall_sorted:
         top_item = overall_sorted[0]
-        top_body = build_body(top_item["title"], top_item["description"])
+        top_body, _ = build_body(top_item["title"], top_item["description"])
         top_story = {
             "score": top_item["score"],
             "quote": build_top_story_quote(top_body),
@@ -136,21 +159,37 @@ def run(date_str: str, out_dir: Path):
     escalation_risks = []
     for it in risk_candidates[:MAX_ESCALATION_RISKS]:
         trigger, impact = build_risk_trigger_impact(it["title"], it["description"])
+        risk_sources = it.get("sources") or [{"name": it["source"], "url": it.get("link", "")}]
         escalation_risks.append({
             "location": it["title"][:60],
             "score": it["score"],
             "trigger": trigger,
             "potential_impact": impact,
-            "confidence": confidence_from_source_count(len(it.get("sources", [it["source"]]))),
-            "sources": it.get("sources", [it["source"]]),
+            "confidence": confidence_from_source_count(len(risk_sources)),
+            "sources": risk_sources,
         })
 
     # Source notes
     all_sources_used = set()
+    source_counter = Counter()
     for region in REGION_ORDER:
         for rep in sections[region]:
-            all_sources_used.update(rep["sources"])
-    strongest = [s for s in SOURCE_HIERARCHY if any(s.lower() in used.lower() for used in all_sources_used)]
+            for s in rep["sources"]:
+                all_sources_used.add(s["name"])
+                source_counter[s["name"]] += 1
+    for risk in escalation_risks:
+        for s in risk["sources"]:
+            all_sources_used.add(s["name"])
+            source_counter[s["name"]] += 1
+
+    strongest = [
+        s for s in SOURCE_HIERARCHY
+        if any(s.lower() in used.lower() or used.lower() in s.lower() for used in all_sources_used)
+    ]
+    all_sources_breakdown = [
+        {"name": name, "count": count}
+        for name, count in sorted(source_counter.items(), key=lambda kv: (-kv[1], kv[0]))
+    ]
 
     limitations = []
     if not raw_items:
@@ -168,6 +207,12 @@ def run(date_str: str, out_dir: Path):
         limitations.append(
             f"{no_figure_count} item(s) had no extractable figures in available reporting; figures shown are limited to what source text stated explicitly."
         )
+    if thin_body_count:
+        limitations.append(
+            f"{thin_body_count} item(s) had little or no real summary text available from source feeds "
+            "(common with Google News RSS, which often provides only a headline with no article excerpt) "
+            "— body text for these items is limited to the headline itself rather than a fuller extractive summary."
+        )
     limitations.append(
         "This edition was generated by rule-based keyword scoring and extractive summarisation, not editorial judgement — "
         "treat scores and groupings as a first-pass triage, not a finished analytical assessment."
@@ -175,6 +220,7 @@ def run(date_str: str, out_dir: Path):
 
     source_notes = {
         "strongest_sources": strongest or ["No hierarchy-listed outlets surfaced in this window"],
+        "all_sources": all_sources_breakdown,
         "limitations": limitations,
         "coverage_snapshot": {
             "outlets_reviewed": len(SOURCE_HIERARCHY),
