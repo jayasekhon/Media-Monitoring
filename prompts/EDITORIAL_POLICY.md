@@ -34,9 +34,21 @@ original human-analyst prompt or an LLM-backed version:
   important one just because its description happens to use more
   scoring-list words.
 - **Extractive, not written.** Body text is source description text
-  stitched together, occasionally with the headline prepended and a
-  filler sentence appended if it's short. It is not synthesized
-  narrative, and it will occasionally read awkwardly.
+  stitched together, occasionally with the headline prepended. It is not
+  synthesized narrative, and it will occasionally read awkwardly.
+  **This is a direct departure from the original prompt's "do not copy
+  article text" instruction** — a rule-based pipeline can't paraphrase,
+  only extract. To keep genuine content in reports (rather than
+  headline-only fallbacks), `fetch.enrich_items_with_article_text()`
+  fetches the actual article page and pulls a real excerpt via
+  `trafilatura`, capped at ~700 characters (roughly the lede, in line
+  with the prompt's 40-120 word target) rather than full articles. If
+  verbatim excerpting of published news text is a real concern for how
+  this briefing gets used or shared, either lower
+  `ARTICLE_EXCERPT_MAX_CHARS` further, or revisit whether an AI-backed
+  option (Copilot Studio or a paid API) that can genuinely paraphrase is
+  worth reconsidering — a rule-based pipeline structurally cannot do
+  that.
 - **Escalation-risk text is templated**, not reasoned — trigger/impact
   phrasing comes from five fixed templates keyed on keyword category, not
   from actually thinking through what could happen next.
