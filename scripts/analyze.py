@@ -97,8 +97,15 @@ def dedup_items(items: list[dict], threshold: float = 0.42) -> list[dict]:
     clusters: list[dict] = []
 
     def source_rank(name: str) -> int:
+        name_low = name.lower()
         for i, s in enumerate(SOURCE_HIERARCHY):
-            if s.lower() in name.lower():
+            s_low = s.lower()
+            # Bidirectional substring check: outlets are often reported under
+            # a shortened byline (Google News gives "Al Jazeera", "France 24"
+            # rather than the fuller "Al Jazeera English", "France 24 English"
+            # used in the hierarchy list), so a one-directional check misses
+            # real matches and silently demotes major outlets to "unranked".
+            if s_low in name_low or name_low in s_low:
                 return i
         return len(SOURCE_HIERARCHY) + 1
 
@@ -118,9 +125,11 @@ def dedup_items(items: list[dict], threshold: float = 0.42) -> list[dict]:
         members_sorted = sorted(members, key=lambda m: source_rank(m["source"]))
         best = members_sorted[0]
         sources = []
+        seen_names = set()
         for m in members_sorted:
-            if m["source"] not in sources:
-                sources.append(m["source"])
+            if m["source"] not in seen_names:
+                seen_names.add(m["source"])
+                sources.append({"name": m["source"], "url": m.get("link", "")})
         # Prefer the longest description among cluster members (more context)
         longest_desc = max((m["description"] for m in members), key=len, default="")
         merged = dict(best)
