@@ -6,8 +6,11 @@ A daily humanitarian media-monitoring briefing, styled after
 
 - **GitHub Actions** triggers a build every day before 9am CET, using
   free Actions minutes.
-- A **Python script** fetches free, keyless Google News RSS (queried per
-  humanitarian theme), then classifies by region and does a coarse
+- A **Python script** fetches free, keyless sources — Google News RSS
+  (queried per humanitarian theme) plus direct RSS feeds from BBC, Al
+  Jazeera English, The Guardian, and France 24 English, since
+  Google News' aggregation alone can miss real stories a direct outlet
+  feed catches immediately — then classifies by region and does a coarse
   deduplication pass, all deterministic, no model involved. (ReliefWeb's
   API was dropped — its v1 endpoint returns 410 Gone as of this writing;
   see `scripts/fetch.py`'s module docstring.)
@@ -42,7 +45,7 @@ before trusting the output for anything consequential.
 GitHub Actions (daily cron, 06:00 UTC)
    │
    ├─ scripts/build_edition.py
-   │     ├─ fetch.py         → Google News RSS (per theme)
+   │     ├─ fetch.py         → Google News RSS (per theme) + direct outlet RSS
    │     ├─ analyze.py       → region classification, coarse similarity dedup
    │     ├─ llm_pipeline.py  → Gemini: scoring, writing, risk reasoning
    │     │                      (per region + one cross-region synthesis call)
@@ -61,7 +64,7 @@ GitHub Actions (daily cron, 06:00 UTC)
 
 ```
 scripts/config.py              Themes, regions, scoring keywords, source hierarchy — the rule-based "policy"
-scripts/fetch.py                Pulls Google News RSS + article-excerpt enrichment, no key required
+scripts/fetch.py                Pulls Google News RSS + direct outlet RSS (BBC, Al Jazeera, Guardian, France24) + article-excerpt enrichment, no key required
 scripts/analyze.py              Region classification, coarse dedup, figure extraction (rule-based, always runs)
 scripts/llm_client.py           Thin Gemini API client — auth, retries, JSON extraction
 scripts/llm_pipeline.py         Per-region + synthesis prompts and calls; the LLM judgment layer
