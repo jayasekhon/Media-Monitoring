@@ -1,32 +1,32 @@
 {
   "date": "2026-08-11",
-  "printed_time": "7:05 AM UTC",
+  "printed_time": "10:56 AM UTC",
   "top_five": [
     {
       "rank": 1,
-      "text": "WHO: Ebola outbreak began in February, deaths near 2,000."
+      "text": "Ebola death toll in DR Congo outbreak rises to more than 2,000."
     },
     {
       "rank": 2,
-      "text": "Dozens of Civilians Killed, Two Missing, Eight Injured in Myanmar Airstrikes on Thandwe."
-    },
-    {
-      "rank": 3,
       "text": "WHO: Ebola outbreak began in February, deaths near 2,000."
     },
     {
+      "rank": 3,
+      "text": "Over 2,000 dead in DRC's Ebola outbreak, now fastest-growing on record."
+    },
+    {
       "rank": 4,
-      "text": "Keralam monsoon floods cause 25 deaths and major displacement."
+      "text": "Ebola deaths surpass 2,000 in Congo: World’s fastest-spreading outbreak in history shows no signs of slowing."
     },
     {
       "rank": 5,
-      "text": "Israel’s siege cripples transport system in Gaza, risking return to famine in Gaza: Rights monitor."
+      "text": "Dozens of Civilians Killed, Two Missing, Eight Injured in Myanmar Airstrikes on Thandwe."
     }
   ],
   "top_story": {
     "score": 10.0,
-    "quote": "WHO: Ebola outbreak began in February, deaths near 2,000.",
-    "label": "AFRICA — WHO: Ebola outbreak began in February, deaths near 2,000"
+    "quote": "Ebola death toll in DR Congo outbreak rises to more than 2,000.",
+    "label": "AFRICA — Ebola death toll in DR Congo outbreak rises to more than 2,000"
   },
   "sections": {
     "Middle East": [
@@ -37,7 +37,7 @@
         "verified_figures": [],
         "sources": [
           {
-            "name": "Anadolu Ajansı",
+            "name": "aa.com.tr",
             "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGFZTV9aUlFRTUdKLWQ5Q0dKaVYxUTBGUzJ2QTZSR3BaS1FIY0pmbXRqZGFKSFRtaG1lM01tREZPazNRckN4eHFLMmY2cHVwaU94MjJZanRyQks3bk4zQU1Od0ZyNHN2bEJCMm5hei1RaTBvQzBBUnVqLWVPQ2I2NTRpZWU1eVNRVGtURE8yYktUSTRMbzlSMzd3ZUJfMDllZDFoTGViYmQ3VXd0bWRGd1JyYTdOaVl6Zkp5d2k3TERnTTM4NC1hQlp1ZTdEZmtpWEl4V19JQWI?oc=5"
           }
         ]
@@ -69,11 +69,11 @@
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT20wQUVZQVA4TWlscXpEcVdyX3AzbkFYcjhGdmtfYUhyQnlYbFNzSjVlZmV5MzBNbmpPWXA3MjJyVmpoWXdwLTRvelcyeEN6S3RETFpORnZQVVlwalAzLW5RU3MzYlJwbWhWNVJ2a0c4UHlaNlZVRXpYZFBkclh3LTByRDhjckNaXzh4Z0h4bEI0SF95YzMwQkVtNWFWb1dHVnJUa0FrX2ZXN1RjTk1jR1F6T2JvdXB6Q2ExSm5RQlFBT05yVEZmVWE1SlktR24wWUt6eXRpTQ?oc=5"
           },
           {
-            "name": "Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pazhfZk1WN045TTE4dllCT1k4TFJEUjU2QUkwN2k2X2VVVDVlczFwLWlJTXZyY0ViQllJYVkwS1BraXlhWGs3UmpnVU9LMi1kekp2SlgzdlUxcURlb2c?oc=5"
+            "name": "باسنیوز",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XLS1CckdGdnhUV0VMdzB1T01fUXhXUnBXNTRvamlHMGFZc3M4VHd1UUJXLWFhZTQ2UGZIb2QtWTVyX3llRHlrb2wxWlFVQVhw?oc=5"
           },
           {
-            "name": "english.aawsat.com",
+            "name": "ASHARQ AL-AWSAT English",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd3dEV3ctcjN4S05HTEttVzUxci00UTlGU1JoNnZCTEFGWkluS3dualdwd0lZcllzTExlcnAteUsxNjFHM2hBLUZ2Wnk5Si03MzZMU1dUOTlkNjUyOUxhMm1JTm9TZUVrN3Z0d2lYbUc3VEw0NkJtWEhXNlM5MWRnZmFhek9lWlhNeXVOUjItUnU3R0tPR0dsTm5YcklLVVI2c3dmdHprSW9Zck5VS0E?oc=5"
           }
         ]
@@ -87,33 +87,11 @@
           {
             "name": "Xinhua",
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5aENQSGxtTHdfM2Q4MzM5YkVTQzBVY0dTWmZ4akhzcVFLT1BQWWJ3Wmt5bEdDSThITHhUVXpxREVuS0tfZExUd0QtV2J5MFMxLUk1cF9OdXFQR0M2cFhoMzY1aHQ0RlZ6c3dNOWFRd3M2NmlHRDhVa1JfQnQ?oc=5"
-          },
-          {
-            "name": "Rudaw",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VQjR5Z2hsa2ZWUHozXzduUlNOYm1HdDU2RjR4c244SmJDbW1PaTlVZzFBdDlWODNSdkJLRDdsVEFqcmdGU0pZTlBGTXIwMWhMS01KdENPalF4TTNRS2tZ?oc=5"
-          },
-          {
-            "name": "باسنیوز",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LNE40X1F4U3Z5d2xRNnhXb3U2eU9raWZLYlV1MjNTeGR5X0dLVExBRmNCMFctX0VtT2MxOHltU19OaXo5ZVV6V3BQRjhzbjlH?oc=5"
           }
         ]
       }
     ],
     "Americas": [
-      {
-        "headline": "1,200 killed in Haiti by drone strikes; are AI weapons next?",
-        "score": 8.5,
-        "body": "1,200 killed in Haiti by drone strikes; are AI weapons next?",
-        "verified_figures": [
-          "1,200 killed"
-        ],
-        "sources": [
-          {
-            "name": "Trinidad Guardian",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb21rNTg1M0d2ZXprWkpqYUFiY1dTWENsd2tLRmVxT2JwTGp6SWlVYlZFdEp4YmJUbk9BMnpHUFFEaHk5bkN2YzJoaDRqSjlRVTVaRXVFZnZTLWdsV0w5S0M1M2dUMVNySWpJbGx3NVFhQndIRzdFV1UxT05ZNHhfT1F1Uy0yRFFaa2lSNVhlVmZUQjU1T19aczU3dWJUcm1XY01uZmdWVG8zS21YSHVMNlpEWnhxdw?oc=5"
-          }
-        ]
-      },
       {
         "headline": "Scores dead in Colombia after powerful earthquake strikes west of country",
         "score": 8.5,
@@ -125,12 +103,28 @@
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlU3Yjk5TElmcWIyQU53OHI0cW02eHBKdnRfZlpuMlJSYm9QODhCRnE3MTk1Vi1ERjJVM2g2UkpReURyWVphMGRrd0NBbTZ6c0hSa2dvYkxGd0ViOFl3aDJ4eGwycnZ0ODhIc1RSc1lSX2tSVnRuWVZiSURsTGxKdElEYXdBaVdIX0JqcQ?oc=5"
           },
           {
-            "name": "Investing.com",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHNnZk12UmR5YUZ1YnplWVJIcEtxXzVoWWFOWW1RcGl0Nm1odEJGR3dmbERpb2hpelhtMkxUMWQ3RjdFU1RWYjlWOGh3UF9SN3lGLTQ3eUtHR0dONXd2c2s2ZHFmYmdnS3FpYndyQXJEZTRQWnpLS2pLNllZeGxGSHQtNjRodUd4Z1RzZnlGSUZ1MUhEWmJNVWx4RmNvcndSZ2hDbm02a2IwNGE0MGQxU2kza1cxeGtiNy00NWQ4RQ?oc=5"
+            "name": "dw.com",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNTRuR2FkLWZiWElxYkt1UTZyTm1VbDJTaEUyQTVxVE1mSzg4eUQ1N2EtcGUySmpjcHgzQkliRDVxQzM0bTNBX09XeGxJLU9rZllyOEhSS3hQRmxUZm1wWF93dkx2LXc1RG1HRmx6TV91Q05OZGJjNTNSYVhSLWJBVGpaTnVMMnFRamRPcXZnOHl2ZF9l?oc=5"
           },
           {
-            "name": "beIN SPORTS",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVnNFdFlQSFNOOHRrUmpsWjllTU8xMFFhWjQwNVg3cGVZVF9mV0NWUzh5Z0FJNGJCYnlJdXo5SW9YRzhCWHdvTzBoRnpXT01wRjJja2xxU2FQdnpiYUIwQ3RNeGlOTmJldVczUWRiQXc3YWc2QUJaV1JFM1UyeGNWNExRRmpBQkxxYzhkSnFTYkh0SDhOVmZ5emViV0xWZzRFaVFLNGw2dUU4MlNrakNZMng3Wms5NURyYTUwNnlzQXBiak5hU0pyQ0V3?oc=5"
+            "name": "FOX 35 Orlando",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IWm8yeEJjdmhIZDlxMGp5eHZuY3hYNFA2YlRlbjM1NU1qNWdHMmtROXN2ZXNaX2U0RjRyTm9adFFQSDN4OFpzZEh4UW9QOXpkZzFQM3R3eEUzcnNaR1BrelJYZ3BvQdIBa0FVX3lxTFA3c09Fc0tKRnk5Mm92dUhTeTBFeUZFeE42N1JSQlJ1emdubGx2YjBlUFRkRVdqWmxpSzFYRDhXLWRzNlJsaUFmZGtsVGJXamstaGNYZHVqbVNQMktZOUIxQU1HRzY1VU11cVpN?oc=5"
+          },
+          {
+            "name": "LiveNOW from FOX",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nXzRMb2pnU0R1eXUyX21TZ21ldVpQZlBUb2FiWUxpeVVXU29tSXcyM3dubmZ1RmpyWHdSUFVaYzhVdEhWVGJXb3daSk8wZ21BTXNtWlE1UGliSi1YRlRnN0VLa9IBaEFVX3lxTE5iVTYxNHVVQmFfSExUUi10V05YdU92NUhDY0tiQWlnQ1hJRE02RUdHdmM0ZVAxeXJCQm1nNkoxZ0xuX2tvYjd6UjZ3aGQ4WWNRU3U0SHkzZ3I0TDBYTkJ3X0VZd2RDeVZQ?oc=5"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia stocks fall after deadly earthquake strikes",
+        "score": 8.5,
+        "body": "Colombia stocks fall after deadly earthquake strikes.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHNnZk12UmR5YUZ1YnplWVJIcEtxXzVoWWFOWW1RcGl0Nm1odEJGR3dmbERpb2hpelhtMkxUMWQ3RjdFU1RWYjlWOGh3UF9SN3lGLTQ3eUtHR0dONXd2c2s2ZHFmYmdnS3FpYndyQXJEZTRQWnpLS2pLNllZeGxGSHQtNjRodUd4Z1RzZnlGSUZ1MUhEWmJNVWx4RmNvcndSZ2hDbm02a2IwNGE0MGQxU2kza1cxeGtiNy00NWQ4RQ?oc=5"
           }
         ]
       },
@@ -143,20 +137,20 @@
         ],
         "sources": [
           {
-            "name": "bbc.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOUZIazBTTXJFTDZ3QjVQYWRITkJQVUFMWjQ5LVQxUHJYSjRxYk1ySkg3OGpJOHpuVTJVWUZoNXUzdVg3cGFUdU9KMDRWcWxjaUpreHpmRWN3UQ?oc=5"
-          },
-          {
             "name": "BBC",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15Z21vMjJBeXZEZlNETGwya3pMWFppWlRwdEpvNEtLcXo2T0xDMlRUM3RMRXdQcFg0cFZuRDB1RnlnZ1FxbXplajNzVkYyNzYwREhPaGw4NE5iQWhH?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOUZIazBTTXJFTDZ3QjVQYWRITkJQVUFMWjQ5LVQxUHJYSjRxYk1ySkg3OGpJOHpuVTJVWUZoNXUzdVg3cGFUdU9KMDRWcWxjaUpreHpmRWN3UQ?oc=5"
           },
           {
             "name": "Xinhua",
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TY0tNN3cxU3hTV3FaVzRPNDhXQkdpNXhEMnJYS09iOXY3TUIzalV5UmRQTlJCYmluZDdkS185NmwxbHREZ0loYlNiRzlkcDRQYVZtbzFvc2k2enkwZjFScUs5SGdFcmNrUlU4Vms5MDU3em1WUE54cWUwWEM?oc=5"
           },
           {
-            "name": "CNBC",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHhiVnExaFF0SnpUeUJqSnNWQkxOelhWXzg0ZnRkRXR6WEZHNHZwLUZIR2pSMUFRZHpuMF9OaEd3VXVXYkw5SEJyZ1VvNFlERnhHTmhIZ3dTMlFmcVp6SXBlazAxdkZHVUt2by1RVnE2UjVZUFdqTXlEdVVWQlFnYkVhNG1LQ0tGVEF3RXJiMV9Fa2fSAZgBQVVfeXFMT3RRX2VUYVE3djFQREtnR090eXpVRGFwY1YtSExMaFBxa0dKQ1IyQVk5TkxudFVZUVZFS214NXZyN0xIbVV1YUZqblEyYTBpOFRIa3U0OEFsM2dLcWYyeEF4X01ISUE0MTV4WHlIY3JaSUMyYkNRdVg3VHB6YS1OTEttU1dOS1R1MlFKSDQ5SjJLY19ySnk3T20?oc=5"
+            "name": "newarab.com",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDZsWjQwMmtmWkw2UW51TWtja3BfSVhXTFhHNzN1aFZaMlR2cVRRQTVwZE5KMXFjdTRkNHJ2czFQSUotV2s5UkR5RGVIbFgyTUhkOGVReUxSdnUyRDUyWFZUNmM1YkxaSF9NNEdmMzdENkJqU2o4amNGOXh6ekRnUVdpWDBtd2vSAYcBQVVfeXFMTlg2bFo0MDJrZlpMNlFudU1rY2twX0lYV0xYRzczdWhWWjJUdnFUUUE1cGROSjFxY3U0ZDRydnMxUElKLVdrOVJEeURlSGxYMk1IZDhlUXlMUnZ1MkQ1MlhWVDZjNWJMWkhfTTRHZjM3RDZCalNqOGpjRjl4enpEZ1FXaVgwbXdr?oc=5"
+          },
+          {
+            "name": "Euronews.com",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOElHaWp1bzZmWi1BZ2t3NnpkVGU3RXRHVDFZa2ZWUzRaUzJXVldoeFZIa1c4TkVqQ2tGS2FkV3pLZU9HcXRackNqV2QydkwtMzI1bUJzRUI2aE02NzFEMU5GZEtyYkJuc25oMEJSMzRSTXpwakpuSy1KdEhwX3lsYjhXSmRNZWpTUjlLOUpsLUpwbWVfWlFSbVFXdHlRQmRwTHB3U21pOWF3X1pKSThDREdKbFUzQ2t5Yk5reGE1Wjc?oc=5"
           }
         ]
       },
@@ -175,6 +169,30 @@
     ],
     "Africa": [
       {
+        "headline": "Ebola death toll in DR Congo outbreak rises to more than 2,000",
+        "score": 10.0,
+        "body": "Ebola death toll in DR Congo outbreak rises to more than 2,000.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Modern Ghana",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTdaWEFCbWhIRkh5dkExTGVfeXJqbDNFSEY3SXhRTVBGR2xoeVRTdjJHdURBeUlNZGJBWVU3cTA0MHVpRGVxWXVWSDhVQXVwbUk1cmxxTGRfMFdoblVubUl1LWYxUjk2cW1oNlNxYTZhakV5OVVqM1V3alJaTkZIbEpqLUlmdFVhbUJ4UnEwNkhXc3J1a0hj0gGWAUFVX3lxTFA4emsxdm5QV1Z3MlprV3c4ZmtINGhrRUdBTll0dUVZdjdrbVJ2QjhiOUVEbGtlSUpYdDN1clI1N1d1SW1acUdWNUpnQWY1elVsQVJpZ0k1SDJSVnZoNWswN3RRcGRSS2tkUDZiQmtIMUVlVUxUbGI3Q3dIRXd2S01fRGZuMHJtYlJTSUxvRnBWRTFrYVkxUQ?oc=5"
+          },
+          {
+            "name": "tovima.com",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5BRnhTV2VFMFdPdmFRam9yNmhfMGJTUktlazYxTm5VQnZMM2h2eDFTdDg4alVkNmV5VzBTRms1MFc1RzNkQXRxazBqUUVtNnZJV0dJYVRzT201eldBNWlQbXUyR05hdE94Sjc5ZGZiZzRSVEQ0YTYxR3RWXzdsUjdoV3FOV1ZabEViTnlsUnpjaUJRRnfSAZYBQVVfeXFMT1RuQUZ4U1dlRTBXT3ZhUWpvcjZoXzBiU1JLZWs2MU5uVUJ2TDNodngxU3Q4OGpVZDZleVcwU0ZrNTBXNUczZEF0cWswalFFbTZ2SVdHSWFUc09tNXpXQTVpUG11MkdOYXRPeEo3OWRmYmc0UlRENGE2MUd0Vl83bFI3aFdxTldWWmxFYk55bFJ6Y2lCUUZ3?oc=5"
+          },
+          {
+            "name": "İlke Haber Ajansı",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVNIV1R2Z2NFRmJvekt5bDdodElkUnA4bjlWS2RCZzNSdVB3TXVvYXJYMlpFLTlXc0lhNUlTVWpuNWFCREd1cHFnaldFOWdjbjdUbmpPWFZKbzZkSExNTlRhSXFXbXVPMnhpVncwbnVwNE8zNTFSZ0sxZWNoajlVa2ZEcmdyNm9FVEMzWQ?oc=5"
+          },
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVNHdUF2aGJOMmhsbmdfNEVVemtkWHNlWURMMVZRQzJaZWhTanJyWGtFamI4N0pWOXp3S1g0TGxRQ2tyYkRJb2w4Vkc3SHc4VUZGOTVxT1BKN2xHTFBuNG5ITHgyMUx0cEEyLU1XcS0zTDh4dTMwZk5GbUxpbVFhSmRtR2wxQ3J3WFVzZVRROHpWZE5ReVc4?oc=5"
+          }
+        ]
+      },
+      {
         "headline": "WHO: Ebola outbreak began in February, deaths near 2,000",
         "score": 10.0,
         "body": "WHO: Ebola outbreak began in February, deaths near 2,000.",
@@ -191,62 +209,40 @@
         ]
       },
       {
-        "headline": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
-        "score": 9.5,
-        "body": "DRC’s Ebola outbreak began months before it was officially declared, says WHO.",
-        "verified_figures": [],
+        "headline": "Over 2,000 dead in DRC's Ebola outbreak, now fastest-growing on record",
+        "score": 10.0,
+        "body": "Over 2,000 dead in DRC's Ebola outbreak, now fastest-growing on record.",
+        "verified_figures": [
+          "2,000 dead"
+        ],
         "sources": [
           {
-            "name": "Al Jazeera",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmg1NElsQzVER2ZCY3lpcUlHSlRfT2RQV0g3cjJnUXVBLU15bDljdVc5WEhhek9MRUV5X0dDeTFCb0ZRTVBqa3RYbUJ5VTBlYm9UdFd4UHlyNFd1bTlqSExtVDVDMWFYMEdBTjhsRHd2bF9Bc1VCTEhWUVNrOUxpU2RyVDAtQTB6SnRmb3V6YmtKUEw5dnRvSW9ZNnBPQ2VzcXQyQnhDXzdTZmxTalHSAbMBQVVfeXFMUEdyemxGTVNXbGg5UFJNS3JmVEJ2TlZISEk4M3ctVVZiT0QtQ0JCSWRNbTBNOXR6bzdlcWd1SEg3ZGp5QzhRaFZzN0E0VnJFTHl5d1RySjNUYlNPQUNQQzBsUVVNeUNsejZhdmVTSzlNMlpnMU9GbGltRURPQ3N0TUxFNWU1NnM0WDJIaEVWWEg5UVNTaVRWLUJ2ZnBoOVFld1oyZWpMeDBfT0hJeUxQZVJNRkk?oc=5"
+            "name": "TRT World",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxVjF2Z2N3R2N6Zm1MYmgyeVJRamk4b2x6SExtMFFMNmk5dnUyX2xkUi1yZTlkVV9hM1FwaVZnbnZINldJWXNzVmxOamgtUTNMcWZnRlFPV1A?oc=5"
           },
           {
-            "name": "Sowetan",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelJlVjNCcDVISE1zNTlCTWxDXzF1bUcwNElybUl5QUZQYUw4WkEtemhtRU5SMkJMbzdZYWhhNUJwbk9HbzYxOENWSUxUWFJyWGgycl92QzYxSlFIYzFaYW53cEVJNjVOdHhSMHJDdDNmYjJJU3N4Yy1LY29nSll1ZkQyeHVnYkZseWlndWpUdkFNYlFEaXRRaGYtdUU2Zm5Fa3NfVjJqdE5XcFY5aWc?oc=5"
+            "name": "whalesbook.com",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUk2dXEwbTlIZk91amhMTnZtd2M3dXRDY0R2YVhyRDE2RFRlc29jRVJoNk5ZMDFjTGFZczJKQ3ZqcWpqMGZRV094SEJUVkxWMzBTNTRwck9ZNnVWWmZXYUNSQ0NNWWJLejNOUmRRQWlqNThQRGN0eEI5SnctOEVEank4SFRQb01VcENkenYzRDVNQlpXU2QzVFd0cl9PbURzSUQ4VXVHNEFvOFZERXBmbGs3blBOYXFVYjMyN1VocWNOdjdnZmlUVy1TX1lybmcyS2NMLWN0aWluY2M?oc=5"
           },
           {
-            "name": "Health and Me",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0s5WF9JVkNsU3liaGh3N3V6bk5SMmJyeGhLYjFNRUxqSFh2Ukxrc25oUTFWYTk5ZmlPcXRRNElkbGwyVERfajdwa1l4NHB5elRJMUVrMUpDLWdjVVZRWVlvVTFySFBLa0dkN3pzTEpnZ0RISnItaUR3ZDlyZXpXZ3dpUHVVYXZEODFGTEo3VXZoV0lWanJCbXhlMWhraUlYdjlaSlBqNXBXaC1sd1dQTmlBZGlyLUNkLVhQSXdPVVAyd3Jna19qZ0p6WHRzaGVyazlhR0RkaTJ0RTd2d09PM0ZULVNsQzdKTUlMVw?oc=5"
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjNRalA0Y0Zrak1iZXN6eElrZE1WMUJqSWtkdmJiclNManppdjEtYXdoWWFKRTN5UHdwMDMzQXlwakVNVEVuS0hjU1ZQTlU5TDUzWXV3ME5fRUl2VUhrTTFxa1RxNHJYMGFxRVM1NEw4Y1hlSEJCd0stUG1kTzVLSWRaT3QxbjNKaXdZZmVTbTNKUXZHVmhRTTBfa01fSEt1Q1HSAacBQVVfeXFMTnFYYkxKa3VvVHl3TjFMcERUX2RtZHJaMDNHdnJPWWUzNmEtVVU4V2MtRk1ZREtFNlhVekdkRXl2VlZfeE5qVUdhZXVzNmxXQjJzLWtjYmlJWTZiUEp2bTVjWU5CczJBNGd6ZEN1UWlPbmtjTThKMXZrY0t5djdKdXg5TUlaQ2xBanFXTEFmVlZJSVByRlR5eGQ0cHlodkd6Z19TVTZKeWM?oc=5"
           },
           {
-            "name": "PBS",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjZBSzdRV19oSE9vX1l4MnY4ZmdKSjYzWFpGUkpFX3RGeExPSS16YVF0QTFzQndZZ24xSVNpc3hNVDN6ODVZSzY5bEJaVGYtalF5bzU0UUJrbVRxQUxxdkJJZkxjTjBuYVJIT0dldEEycVpxRUdCZUU1RTVDNV9LR2gwemlnMEJYSktlRUhkb0VjQkRtNzhhYkRsUVp3bTJVMW9fVmVXbm5HSVp5cm5YMlVGZHFjUQ?oc=5"
+            "name": "The Seattle Times",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2pQcGF3bnBmUWN0a3JpX0hzWXYyVDJCSXNvUW50WDhZUHlqTURzektCVzEzcUNXT1JFandrZDBJaU0tcWMwNW1nalJ6VGxuaWJKUlBXSDZycmMyTktERjZjMnd4MUh1MnFjOFdpN2NLYmx6RGRzZmxaY2xYYTh1Xy1HdXFCYmZNQkRmWGdFMXFzQTNUeklEcHBEemxFTTZtT0R0WTdRQ2oyaFA3Z2Y5YXd2Rm1TdUw5bC1IWFRlNlNSSkhMdnVsLUF4WG5jZWc?oc=5"
           }
         ]
       },
       {
-        "headline": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared",
-        "score": 9.5,
-        "body": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared.",
+        "headline": "Ebola deaths surpass 2,000 in Congo: World’s fastest-spreading outbreak in history show...",
+        "score": 10.0,
+        "body": "Ebola deaths surpass 2,000 in Congo: World’s fastest-spreading outbreak in history shows no signs of slowing.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "Impakter",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kVDZiZDI0RU5FQlRmTTVkbmJLaUhiYlBPYUZzNlFaVzhmYlU5aF9jY2pHbm1VdDhrU0Q3MVZBV2dJNzJ6NVhycHN4TG5PSVd3MDFQUXpxSzd2NnJvaGlLcVNXT3hsb3N3SG9GWEltYlNjcnJHbFF2TmMwVDc?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak",
-        "score": 9.5,
-        "body": "WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak.",
-        "verified_figures": [],
-        "sources": [
-          {
-            "name": "France 24",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUI0MkFfVXZBU3gtczZtU3BDeEo4UFpUeFlYQVZZTG1abG1VWGtDeEVtdmZWYzd6LVloXzBjTWhlWFN0VXdYazdyWXlTdGxmd0Jzdi00WGQ4MmJDTWIwR3BGZWlmZ05qdE9UT3ZRRnVSZENYNC11YU9MWTZRNW5iWjhGMXl2Zmk4bU5LQ3JBQzU1SlgyT0VVeF8xNHBPQkdSZmc?oc=5"
-          },
-          {
-            "name": "اسلام تايمز",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVURRc1otQ1NOX2pubTI1QlgtejNEeWVCNE9Lb2RtVU1KZlRiWEVYaDF6WGQ4TVY4SFBJTWMzTnJqRjhRVmt2ZVE2Z2cyTGt3bHdtQUh4NG1xclNaLWZLZlphVzdMVlRWNnlCUEtObXREWW1ZN2JxZzhLeDhXWXhhUkdhUjFISjZ4QWRTbi0xZF9IdUw1dDdyV2JfTzRLRnhFa2Z6WmxB?oc=5"
-          },
-          {
-            "name": "Modern Ghana",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PenY0OHh2alpDWjlxQ3FnUHpiclZoMHVKVld2UTJZQ0doYU5VVzgzY3I2dXlaQWk4eFZTOUJyV3R5SjRIQ2wtQ0VabDlfNER2TXktbFY5dFc5UDlIYm1DeEdBLXJRZ9IBXEFVX3lxTE9TTEdVSUZhMVdLeXdJRG9sazN1WVllUEhkVUtBY2VsVzRka0ZfejI0WlVPd0dKNDB2NWpuTDZJOV9wZG1GUmptZk1BTVc2czlEbGVlU01DSjJzaFBl?oc=5"
-          },
-          {
-            "name": "Inbox.eu",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHBzZGxRZkMwZnlqR2NrVEw5c3JQcEJycWwwTnc0Sm1saHI3NE5NSHZ0V0RwbTFJQVdheno3bDExQU56UXU4S0xENGkyTkdFTzVUbUREU1FTMzlwYW5fUUtTNndoSjVqNGhQQlNISGo4T1RtdDRUdnZ0WUFraHFKT29YSEJCb0dPNVBkNzRFdzhxU1duWnFoNFljRGp2X1hD?oc=5"
+            "name": "The Statesman",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGFNSi1GdENQZWJxQ1pROG42SF9YSEVOVTBma3pjbC1IUG4wdldsTUJzOU16U1ptT0Myem9nT01ZRVhuYjlOLXJDc09kTl80V1pFdjZuMGZhZjRKMlN5ZFZYZkR0aFg4TVJ4Y1VwbnZ1MV8tMlpvZjJSZEU2VXNjLUxCSGdUMzdQVTVjTXN5T3lzcDB6RFpNUXQ1bHBoTnlldWRHd9IBqgFBVV95cUxQclJ0emliR3RFdkM1aGlmZk5CVHlBOG1jZHV3UHhDRkdySTY1aVduVzhZek5Tc09EbDYwSFN3MHZza29mMm9iVUpFVjlsVFRCZ3ktUXFPbEdUaTMyS3k1ZTE2SjdVcVluZnNMeGgwQUl3YkdfN0RfNW1sLTgyYjJiSFVOTHBZQW83ZkZ6Y1Z0ZjB4bHE1cDVMQmxDSWE4aFEzWEN6d3gya1ZhUQ?oc=5"
           }
         ]
       }
@@ -265,14 +261,26 @@
         ]
       },
       {
-        "headline": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-        "score": 6.0,
-        "body": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say.",
+        "headline": "CMAC: Beyond casualties, temples, homes, schools, hospitals and tens of thousands of bu...",
+        "score": 5.0,
+        "body": "CMAC: Beyond casualties, temples, homes, schools, hospitals and tens of thousands of buildings damaged by Thai military.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "Daily Jefferson County Union",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmpsbmllM1drbnBmeFZGaU9Ua1hkOFV6cG9KZlpJVlNjMDMtR2FhMmVITTFLMkplc0pjTEwxUVJrZExUaV93d1dETDRxUnNSZnJsMHZtbXUzUk9qbW1haE16ellYMUU1UzRDcmo5aEV4N2hPUGItd0hpZVJIWDRnQm1VelVrQ19zS3Ryd3VtRFlPZUl0clJIeFRDUXFCc0xPLVAzek8xRENSR1pNWjUyWGdkNm9aWkN3dU9ENXQ2eGU1dlYzbTBDYmVTaXd6aHU1end5a3ZlMHpxb045dDJSdkJ6YlFrdVZidnhYQi1BeHNHcTY3QTJPcGlERVN3UnhLblF6TjJUU2E?oc=5"
+            "name": "Khmer Times",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVNVblN3RVZDR2pLNUxwY0RFaTkxRG94UGlOWDlGeDNGelZ6NVd2Q1R3NXZIekxnY2JxcUc1VlFibnBPbUhKTGRXUERrZWRLSFJDVV9kTU9UWXdiU1lUQWs2ZjY1dVJkM0xKcngwUmFhS0c5Q2M2RUg4OGF2RG9aeS1BRnVIamh3eVJPTG45ZExpN19ZM0h6YkloRGJXc01NSzZ1SDJ3azFsYTlOY29ZZEZtZzBwN1dPR3dibWRhU0lSdUZUMHhBLUp4X0QzeUxMdVZWRUxUWENjWG5lLXA3bWp5dUJZdUowOEE?oc=5"
+          }
+        ]
+      },
+      {
+        "headline": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia | Associated Press",
+        "score": 4.5,
+        "body": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia | Associated Press.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ACLED",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWZidGRSOVdic3NDOWoxTkFXRHprZUdxQU1fMkgxeklOOGx4cnZ2ckYtci1Oa3hHMW5aRjRNVU53RlRCZGg3V2tkaFJsSHNFektrMHhBYVpkSzNpVDBQU0N5TUxQWmZsNFFIZU1IZzhKeFlOUW1iMjJqSG1TX1pXRkkyZlNGMG51Q290Q0JsYV91aE9EY1ZpVXJIQTlCbm9zUk5HWkRRdEszR2JrT3Fsbk04Zk4?oc=5"
           }
         ]
       },
@@ -284,7 +292,7 @@
         "sources": [
           {
             "name": "fundsforNGOs",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG9QZmxGU3UxbGhOakVhaWw2WVZxVjR1RUhCbjlsTTlQQzJ6aXVRYnlpX2w2a2p2QzNNbFlGdWlabF9JSmxLM0I5elNvR2RPcnlhaW5XV3o3MlAzTU1NZEVxdFBNb1hWM0ZGVE11NGxacWJFYnE4OGVMWDBqbHkzOGtrXy03R2lyTFRRY3Yxc3I5eFdINDM2azZtRzRjUUtPaTFPbWFhcjBEajA1dkVRVdIBtgFBVV95cUxPNEhpWkRwbkk2ZWYyM1h1WlV5OElXN2hFNjlYeTA4TGwwa0dqSmlpWHdfcUtJZ3Roblh0UWpPcHhsNndwcWJRZnFSSlktOEdFWGxNYkpXeS1NS0ZWTEYwa2ZMOVpYdkhiTHh3SlNFWjdJaE5LYVJBSmI5MWt2NFdMUnlEUnFVQ0lrLTBYZlFZMTU4UTJVWDItV2xuZHZwa01vdnlXRVN5dWhYTmxMczZSRF9SSmtzUQ?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEhpWkRwbkk2ZWYyM1h1WlV5OElXN2hFNjlYeTA4TGwwa0dqSmlpWHdfcUtJZ3Roblh0UWpPcHhsNndwcWJRZnFSSlktOEdFWGxNYkpXeS1NS0ZWTEYwa2ZMOVpYdkhiTHh3SlNFWjdJaE5LYVJBSmI5MWt2NFdMUnlEUnFVQ0lrLTBYZlFZMTU4UTJVWDItV2xuZHZwa01vdnlXRVN5dWhYTmxMczZSRF9SSmtzUdIBtgFBVV95cUxPNEhpWkRwbkk2ZWYyM1h1WlV5OElXN2hFNjlYeTA4TGwwa0dqSmlpWHdfcUtJZ3Roblh0UWpPcHhsNndwcWJRZnFSSlktOEdFWGxNYkpXeS1NS0ZWTEYwa2ZMOVpYdkhiTHh3SlNFWjdJaE5LYVJBSmI5MWt2NFdMUnlEUnFVQ0lrLTBYZlFZMTU4UTJVWDItV2xuZHZwa01vdnlXRVN5dWhYTmxMczZSRF9SSmtzUQ?oc=5"
           }
         ]
       }
@@ -315,6 +323,18 @@
         ]
       },
       {
+        "headline": "Myanmar Morning News (Apr 20) – NUG Security Members Surrender & Deadly Mine Attacks In...",
+        "score": 8.0,
+        "body": "Myanmar Morning News (Apr 20) – NUG Security Members Surrender & Deadly Mine Attacks In Magway Autoroute 73 (14ewSDFlha).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Mshale",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDS3BkUFFyOVNHaDBZaWdtNUxRazdPQzFCQU1CSUVJWWY2c1l6R2g0OXpHTGY4aHg5NTlFWXNrQ3RzS1pFREozc3U2empWUWduWkVFS0hLZEFBSVE?oc=5"
+          }
+        ]
+      },
+      {
         "headline": "Myanmar Junta Airstrikes Target Ngapali Beach Resort Area, Civilian Toll Mounts",
         "score": 8.0,
         "body": "Myanmar Junta Airstrikes Target Ngapali Beach Resort Area, Civilian Toll Mounts.",
@@ -323,18 +343,6 @@
           {
             "name": "Burma News International",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTZKSHF1SVlrWUdWUFluWlhnYkxOaTZUR3JVVVkwLVVxT25KbmF1Q3lnUUhkbkUxNDFjLUdyb1QxTU9fbTlqQXhvQk5XNUZlYVVpYm96V0luT1ZIOEhxRlFEOFdMQl9YZ3lYM2xiREkwNkl0cEtnS3FSUG1scThXT3hGeUE5d3lvb2dkY00zaEtBQlFINkhsN0R4cGNvT0VtQ3JnaExKbGtyUUhQc1VVOWxB?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "As Malnutrition Rises Across Afghanistan, Critical Action Is Needed to Prevent and Trea...",
-        "score": 8.0,
-        "body": "As Malnutrition Rises Across Afghanistan, Critical Action Is Needed to Prevent and Treat Hunger.",
-        "verified_figures": [],
-        "sources": [
-          {
-            "name": "Action contre la Faim",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeUM5dWp2RFZaUDM5amF1RDlhcF84WE45YVZ2SVAzU19jYnZodDBKRmJLd2ZzZy1GVjhEODZXWFNMVklSbWJBTEFNVHlxdnd3YlFOLUo4UThWSzVKVHMwdjUxQU0xSGEyMnBGYW9FdlkxWnVKdm1CNUNEYlVwNUVQbTNOX19LYkdOWXpHNmNNQ2JITElyaktWS3hsRE82N1BjWE1BanJsNXZ3czM1YzA3WGFFaDlta0FaVU5namZLSDNMQnlvdVRybGxGZzJfeEIwYlZMTlA2cXZtcjg5?oc=5"
           }
         ]
       }
@@ -353,44 +361,42 @@
         ]
       },
       {
-        "headline": "Keralam monsoon floods cause 25 deaths and major displacement",
-        "score": 10.0,
-        "body": "Keralam monsoon floods cause 25 deaths and major displacement.",
-        "verified_figures": [
-          "25 deaths"
-        ],
-        "sources": [
-          {
-            "name": "The News Mill",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGRnTUhCdlkxQ2hfa1o4cGswdVFCMnBRbEFiLVpkbHB2YTNvV0M5VlpTdkxQdS1vdHhRdDlPdmhwa2ZZOVhia1BPaEZsVWNhM0MwdkY1dVFudlBaOUpzZzV1OWFMbU1FeW5DbFZqT185UXI5TjhMN0dvUlJnZC1fMVlkVGE3cWdlRTlLTXY1N1JSeTYtalZndDFKU05wN0VTSG83ZjRjWU5hOF9JZ2ZkM293OEltUQ?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "WHO calls for Phase III Ervebo vaccine trial amid Bundibugyo Ebola outbreak",
+        "headline": "WHO: Ebola outbreak started months before it was declared",
         "score": 9.5,
-        "body": "WHO calls for Phase III Ervebo vaccine trial amid Bundibugyo Ebola outbreak.",
+        "body": "WHO: Ebola outbreak started months before it was declared.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "Clinical Trials Arena",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmkwM25BOWFYVmNZRjA5ZkNKR3Rkc0Z4U0htMDlLeWJyeUtIaUNUS3ZlN1R2SkZCN29fWkZHelo0QmRrUFlvYklLejFpR1pYUnZ2YzhNSDlsYVoxRUl1cHBKSWhpcnhReGVMMkI3dHZnVEVuYzRiekl0UVUtR0hVYnMyZGxfZmdFSDh2OEdvZHlTRE9wa3cxU1FtQkhoOWVHU3pjcmwxYm5WQWlqOC1JMFBvLXNoYURu?oc=5"
+            "name": "TelegraphHerald.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOengzSXRTWFlIY1UxUjRpYThLZ1dQMGVUZVQ1UENRcWNkNUN0ODJDd2paWGhxWm1TOU9ob3lGd3VlTEowQ2pQMktxY3d0RUsyWE9YdmdZSmgxY2FpZVNnYV9ZaEdhOE9ma2FZajF5cldhMXFIczVMMU5GbzQ0SjlobUxzekZOaG5MVW8wTDVaRXJELVlrNnJ0NHpjM1lld3c?oc=5"
           },
           {
-            "name": "Blueprint Newspapers",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMldJTmFYbjJJX0lUUU8xbjY5dzdKdGc3RVhBNTE1LXNVMklXRnZWOW1XQXdzV25wODV1cUpvZGZIWE9tcDNidk9GME1hSHdiNHNlOGpDTWcybzRfeU8tTmZITG5MYWlXRklzeGxPeFM0T3ROSVhoVlhxYTNoX1RONDhnLW1razh4M1VRc3VJd21NYmtYWFg3VA?oc=5"
+            "name": "Health and Me",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0s5WF9JVkNsU3liaGh3N3V6bk5SMmJyeGhLYjFNRUxqSFh2Ukxrc25oUTFWYTk5ZmlPcXRRNElkbGwyVERfajdwa1l4NHB5elRJMUVrMUpDLWdjVVZRWVlvVTFySFBLa0dkN3pzTEpnZ0RISnItaUR3ZDlyZXpXZ3dpUHVVYXZEODFGTEo3VXZoV0lWanJCbXhlMWhraUlYdjlaSlBqNXBXaC1sd1dQTmlBZGlyLUNkLVhQSXdPVVAyd3Jna19qZ0p6WHRzaGVyazlhR0RkaTJ0RTd2d09PM0ZULVNsQzdKTUlMVw?oc=5"
           }
         ]
       },
       {
-        "headline": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared",
+        "headline": "Ebola outbreak started three months earlier than official declaration, WHO says - Eye o...",
         "score": 9.5,
-        "body": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World Is Not Prepared.",
+        "body": "Ebola outbreak started three months earlier than official declaration, WHO says - Eye on Africa.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "Impakter",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kVDZiZDI0RU5FQlRmTTVkbmJLaUhiYlBPYUZzNlFaVzhmYlU5aF9jY2pHbm1VdDhrU0Q3MVZBV2dJNzJ6NVhycHN4TG5PSVd3MDFQUXpxSzd2NnJvaGlLcVNXT3hsb3N3SG9GWEltYlNjcnJHbFF2TmMwVDc?oc=5"
+            "name": "France 24",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb005cktSZnMwZ0JjaVZseVVZY0xBNFY2alpjZ212Sl9XeVhaWjhLQ2ZXc2dwX3VUdlhCSFRKazR3RnZYTFFqVlN5OVZ4dDBrZjBBQkdtWUJ3RU9jWVVNYTZhSUNLU1NpakNNbGtRTExRU3dXQkxpR3BIeFVYNUhpczNsbGw3Ulp3b2dIQg?oc=5"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak ‘outpacing our response’ – WHO chief",
+        "score": 9.5,
+        "body": "Ebola outbreak ‘outpacing our response’ – WHO chief.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Irish Medical Times",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM3F4aHNmVVdGdWk1TGpWSUltWUsyaUQwdThuYzBVTjRhU1BzMUZyN2xuYWdtUFB0VkdaTUp5VXBNc0Zwbzh1SXdVMGFTRU83bDdmX2JMcndaNlYzOE9FSGZFak9SLWt4ZGMzZnNLSHI5RGdRYWlzQkppdlFnTGtwRmFkN2hzMkk3QVBJ?oc=5"
           }
         ]
       }
@@ -398,82 +404,58 @@
   },
   "escalation_risks": [
     {
-      "location": "DRC’s Ebola outbreak began months before it was officially d",
+      "location": "Israel’s siege cripples transport system in Gaza, risking re",
       "score": 9.5,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
-      "confidence": "High",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmg1NElsQzVER2ZCY3lpcUlHSlRfT2RQV0g3cjJnUXVBLU15bDljdVc5WEhhek9MRUV5X0dDeTFCb0ZRTVBqa3RYbUJ5VTBlYm9UdFd4UHlyNFd1bTlqSExtVDVDMWFYMEdBTjhsRHd2bF9Bc1VCTEhWUVNrOUxpU2RyVDAtQTB6SnRmb3V6YmtKUEw5dnRvSW9ZNnBPQ2VzcXQyQnhDXzdTZmxTalHSAbMBQVVfeXFMUEdyemxGTVNXbGg5UFJNS3JmVEJ2TlZISEk4M3ctVVZiT0QtQ0JCSWRNbTBNOXR6bzdlcWd1SEg3ZGp5QzhRaFZzN0E0VnJFTHl5d1RySjNUYlNPQUNQQzBsUVVNeUNsejZhdmVTSzlNMlpnMU9GbGltRURPQ3N0TUxFNWU1NnM0WDJIaEVWWEg5UVNTaVRWLUJ2ZnBoOVFld1oyZWpMeDBfT0hJeUxQZVJNRkk?oc=5"
-        },
-        {
-          "name": "Sowetan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelJlVjNCcDVISE1zNTlCTWxDXzF1bUcwNElybUl5QUZQYUw4WkEtemhtRU5SMkJMbzdZYWhhNUJwbk9HbzYxOENWSUxUWFJyWGgycl92QzYxSlFIYzFaYW53cEVJNjVOdHhSMHJDdDNmYjJJU3N4Yy1LY29nSll1ZkQyeHVnYkZseWlndWpUdkFNYlFEaXRRaGYtdUU2Zm5Fa3NfVjJqdE5XcFY5aWc?oc=5"
-        },
-        {
-          "name": "Health and Me",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0s5WF9JVkNsU3liaGh3N3V6bk5SMmJyeGhLYjFNRUxqSFh2Ukxrc25oUTFWYTk5ZmlPcXRRNElkbGwyVERfajdwa1l4NHB5elRJMUVrMUpDLWdjVVZRWVlvVTFySFBLa0dkN3pzTEpnZ0RISnItaUR3ZDlyZXpXZ3dpUHVVYXZEODFGTEo3VXZoV0lWanJCbXhlMWhraUlYdjlaSlBqNXBXaC1sd1dQTmlBZGlyLUNkLVhQSXdPVVAyd3Jna19qZ0p6WHRzaGVyazlhR0RkaTJ0RTd2d09PM0ZULVNsQzdKTUlMVw?oc=5"
-        },
-        {
-          "name": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjZBSzdRV19oSE9vX1l4MnY4ZmdKSjYzWFpGUkpFX3RGeExPSS16YVF0QTFzQndZZ24xSVNpc3hNVDN6ODVZSzY5bEJaVGYtalF5bzU0UUJrbVRxQUxxdkJJZkxjTjBuYVJIT0dldEEycVpxRUdCZUU1RTVDNV9LR2gwemlnMEJYSktlRUhkb0VjQkRtNzhhYkRsUVp3bTJVMW9fVmVXbm5HSVp5cm5YMlVGZHFjUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "location": "Ebola’s New Warning: The Bundibugyo Outbreak Shows the World",
-      "score": 9.5,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "trigger": "Further restriction or closure of humanitarian access routes.",
+      "potential_impact": "Prolonged denial of access could worsen food, health and shelter outcomes for affected populations.",
       "confidence": "Low",
       "sources": [
         {
-          "name": "Impakter",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kVDZiZDI0RU5FQlRmTTVkbmJLaUhiYlBPYUZzNlFaVzhmYlU5aF9jY2pHbm1VdDhrU0Q3MVZBV2dJNzJ6NVhycHN4TG5PSVd3MDFQUXpxSzd2NnJvaGlLcVNXT3hsb3N3SG9GWEltYlNjcnJHbFF2TmMwVDc?oc=5"
+          "name": "aa.com.tr",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGFZTV9aUlFRTUdKLWQ5Q0dKaVYxUTBGUzJ2QTZSR3BaS1FIY0pmbXRqZGFKSFRtaG1lM01tREZPazNRckN4eHFLMmY2cHVwaU94MjJZanRyQks3bk4zQU1Od0ZyNHN2bEJCMm5hei1RaTBvQzBBUnVqLWVPQ2I2NTRpZWU1eVNRVGtURE8yYktUSTRMbzlSMzd3ZUJfMDllZDFoTGViYmQ3VXd0bWRGd1JyYTdOaVl6Zkp5d2k3TERnTTM4NC1hQlp1ZTdEZmtpWEl4V19JQWI?oc=5"
         }
       ]
     },
     {
-      "location": "WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak",
-      "score": 9.5,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
-      "confidence": "High",
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUI0MkFfVXZBU3gtczZtU3BDeEo4UFpUeFlYQVZZTG1abG1VWGtDeEVtdmZWYzd6LVloXzBjTWhlWFN0VXdYazdyWXlTdGxmd0Jzdi00WGQ4MmJDTWIwR3BGZWlmZ05qdE9UT3ZRRnVSZENYNC11YU9MWTZRNW5iWjhGMXl2Zmk4bU5LQ3JBQzU1SlgyT0VVeF8xNHBPQkdSZmc?oc=5"
-        },
-        {
-          "name": "اسلام تايمز",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVURRc1otQ1NOX2pubTI1QlgtejNEeWVCNE9Lb2RtVU1KZlRiWEVYaDF6WGQ4TVY4SFBJTWMzTnJqRjhRVmt2ZVE2Z2cyTGt3bHdtQUh4NG1xclNaLWZLZlphVzdMVlRWNnlCUEtObXREWW1ZN2JxZzhLeDhXWXhhUkdhUjFISjZ4QWRTbi0xZF9IdUw1dDdyV2JfTzRLRnhFa2Z6WmxB?oc=5"
-        },
-        {
-          "name": "Modern Ghana",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PenY0OHh2alpDWjlxQ3FnUHpiclZoMHVKVld2UTJZQ0doYU5VVzgzY3I2dXlaQWk4eFZTOUJyV3R5SjRIQ2wtQ0VabDlfNER2TXktbFY5dFc5UDlIYm1DeEdBLXJRZ9IBXEFVX3lxTE9TTEdVSUZhMVdLeXdJRG9sazN1WVllUEhkVUtBY2VsVzRka0ZfejI0WlVPd0dKNDB2NWpuTDZJOV9wZG1GUmptZk1BTVc2czlEbGVlU01DSjJzaFBl?oc=5"
-        },
-        {
-          "name": "Inbox.eu",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHBzZGxRZkMwZnlqR2NrVEw5c3JQcEJycWwwTnc0Sm1saHI3NE5NSHZ0V0RwbTFJQVdheno3bDExQU56UXU4S0xENGkyTkdFTzVUbUREU1FTMzlwYW5fUUtTNndoSjVqNGhQQlNISGo4T1RtdDRUdnZ0WUFraHFKT29YSEJCb0dPNVBkNzRFdzhxU1duWnFoNFljRGp2X1hD?oc=5"
-        }
-      ]
-    },
-    {
-      "location": "WHO calls for Phase III Ervebo vaccine trial amid Bundibugyo",
+      "location": "WHO: Ebola outbreak started months before it was declared",
       "score": 9.5,
       "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
       "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
       "confidence": "Medium",
       "sources": [
         {
-          "name": "Clinical Trials Arena",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmkwM25BOWFYVmNZRjA5ZkNKR3Rkc0Z4U0htMDlLeWJyeUtIaUNUS3ZlN1R2SkZCN29fWkZHelo0QmRrUFlvYklLejFpR1pYUnZ2YzhNSDlsYVoxRUl1cHBKSWhpcnhReGVMMkI3dHZnVEVuYzRiekl0UVUtR0hVYnMyZGxfZmdFSDh2OEdvZHlTRE9wa3cxU1FtQkhoOWVHU3pjcmwxYm5WQWlqOC1JMFBvLXNoYURu?oc=5"
+          "name": "TelegraphHerald.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOengzSXRTWFlIY1UxUjRpYThLZ1dQMGVUZVQ1UENRcWNkNUN0ODJDd2paWGhxWm1TOU9ob3lGd3VlTEowQ2pQMktxY3d0RUsyWE9YdmdZSmgxY2FpZVNnYV9ZaEdhOE9ma2FZajF5cldhMXFIczVMMU5GbzQ0SjlobUxzekZOaG5MVW8wTDVaRXJELVlrNnJ0NHpjM1lld3c?oc=5"
         },
         {
-          "name": "Blueprint Newspapers",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMldJTmFYbjJJX0lUUU8xbjY5dzdKdGc3RVhBNTE1LXNVMklXRnZWOW1XQXdzV25wODV1cUpvZGZIWE9tcDNidk9GME1hSHdiNHNlOGpDTWcybzRfeU8tTmZITG5MYWlXRklzeGxPeFM0T3ROSVhoVlhxYTNoX1RONDhnLW1razh4M1VRc3VJd21NYmtYWFg3VA?oc=5"
+          "name": "Health and Me",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0s5WF9JVkNsU3liaGh3N3V6bk5SMmJyeGhLYjFNRUxqSFh2Ukxrc25oUTFWYTk5ZmlPcXRRNElkbGwyVERfajdwa1l4NHB5elRJMUVrMUpDLWdjVVZRWVlvVTFySFBLa0dkN3pzTEpnZ0RISnItaUR3ZDlyZXpXZ3dpUHVVYXZEODFGTEo3VXZoV0lWanJCbXhlMWhraUlYdjlaSlBqNXBXaC1sd1dQTmlBZGlyLUNkLVhQSXdPVVAyd3Jna19qZ0p6WHRzaGVyazlhR0RkaTJ0RTd2d09PM0ZULVNsQzdKTUlMVw?oc=5"
+        }
+      ]
+    },
+    {
+      "location": "Ebola outbreak started three months earlier than official de",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb005cktSZnMwZ0JjaVZseVVZY0xBNFY2alpjZ212Sl9XeVhaWjhLQ2ZXc2dwX3VUdlhCSFRKazR3RnZYTFFqVlN5OVZ4dDBrZjBBQkdtWUJ3RU9jWVVNYTZhSUNLU1NpakNNbGtRTExRU3dXQkxpR3BIeFVYNUhpczNsbGw3Ulp3b2dIQg?oc=5"
+        }
+      ]
+    },
+    {
+      "location": "Ebola outbreak ‘outpacing our response’ – WHO chief",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Irish Medical Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM3F4aHNmVVdGdWk1TGpWSUltWUsyaUQwdThuYzBVTjRhU1BzMUZyN2xuYWdtUFB0VkdaTUp5VXBNc0Zwbzh1SXdVMGFTRU83bDdmX2JMcndaNlYzOE9FSGZFak9SLWt4ZGMzZnNLSHI5RGdRYWlzQkppdlFnTGtwRmFkN2hzMkk3QVBJ?oc=5"
         }
       ]
     }
@@ -481,30 +463,13 @@
   "source_notes": {
     "strongest_sources": [
       "BBC",
-      "Al Jazeera English",
       "France 24 English",
       "The Guardian",
       "Xinhua English World"
     ],
     "all_sources": [
       {
-        "name": "Impakter",
-        "count": 3
-      },
-      {
-        "name": "Al Jazeera",
-        "count": 2
-      },
-      {
-        "name": "Blueprint Newspapers",
-        "count": 2
-      },
-      {
         "name": "CIDRAP",
-        "count": 2
-      },
-      {
-        "name": "Clinical Trials Arena",
         "count": 2
       },
       {
@@ -516,19 +481,11 @@
         "count": 2
       },
       {
-        "name": "Inbox.eu",
+        "name": "Irish Medical Times",
         "count": 2
       },
       {
-        "name": "Modern Ghana",
-        "count": 2
-      },
-      {
-        "name": "PBS",
-        "count": 2
-      },
-      {
-        "name": "Sowetan",
+        "name": "TelegraphHerald.com",
         "count": 2
       },
       {
@@ -536,11 +493,15 @@
         "count": 2
       },
       {
-        "name": "اسلام تايمز",
+        "name": "aa.com.tr",
         "count": 2
       },
       {
-        "name": "Action contre la Faim",
+        "name": "ACLED",
+        "count": 1
+      },
+      {
+        "name": "ASHARQ AL-AWSAT English",
         "count": 1
       },
       {
@@ -548,15 +509,11 @@
         "count": 1
       },
       {
-        "name": "Anadolu Ajansı",
-        "count": 1
-      },
-      {
-        "name": "Arab News",
-        "count": 1
-      },
-      {
         "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
         "count": 1
       },
       {
@@ -564,15 +521,15 @@
         "count": 1
       },
       {
-        "name": "CNBC",
-        "count": 1
-      },
-      {
-        "name": "Daily Jefferson County Union",
-        "count": 1
-      },
-      {
         "name": "Euromaidan Press",
+        "count": 1
+      },
+      {
+        "name": "Euronews.com",
+        "count": 1
+      },
+      {
+        "name": "FOX 35 Orlando",
         "count": 1
       },
       {
@@ -584,11 +541,27 @@
         "count": 1
       },
       {
+        "name": "Khmer Times",
+        "count": 1
+      },
+      {
+        "name": "LiveNOW from FOX",
+        "count": 1
+      },
+      {
+        "name": "Modern Ghana",
+        "count": 1
+      },
+      {
+        "name": "Mshale",
+        "count": 1
+      },
+      {
         "name": "Narinjara News",
         "count": 1
       },
       {
-        "name": "Rudaw",
+        "name": "TRT World",
         "count": 1
       },
       {
@@ -600,7 +573,11 @@
         "count": 1
       },
       {
-        "name": "The News Mill",
+        "name": "The Seattle Times",
+        "count": 1
+      },
+      {
+        "name": "The Statesman",
         "count": 1
       },
       {
@@ -608,19 +585,7 @@
         "count": 1
       },
       {
-        "name": "Trinidad Guardian",
-        "count": 1
-      },
-      {
-        "name": "bbc.com",
-        "count": 1
-      },
-      {
-        "name": "beIN SPORTS",
-        "count": 1
-      },
-      {
-        "name": "english.aawsat.com",
+        "name": "dw.com",
         "count": 1
       },
       {
@@ -628,11 +593,31 @@
         "count": 1
       },
       {
+        "name": "newarab.com",
+        "count": 1
+      },
+      {
         "name": "saba.ye",
         "count": 1
       },
       {
+        "name": "streamlinefeed.co.ke",
+        "count": 1
+      },
+      {
         "name": "thenationalnews.com",
+        "count": 1
+      },
+      {
+        "name": "tovima.com",
+        "count": 1
+      },
+      {
+        "name": "whalesbook.com",
+        "count": 1
+      },
+      {
+        "name": "İlke Haber Ajansı",
         "count": 1
       },
       {
@@ -641,15 +626,15 @@
       }
     ],
     "limitations": [
-      "20 item(s) had no extractable figures in available reporting; figures shown are limited to what source text stated explicitly.",
-      "23 item(s) had little or no real summary text available from source feeds (common with Google News RSS, which often provides only a headline with no article excerpt) — body text for these items is limited to the headline itself rather than a fuller extractive summary.",
+      "22 item(s) had no extractable figures in available reporting; figures shown are limited to what source text stated explicitly.",
+      "24 item(s) had little or no real summary text available from source feeds (common with Google News RSS, which often provides only a headline with no article excerpt) — body text for these items is limited to the headline itself rather than a fuller extractive summary.",
       "This edition was generated by rule-based keyword scoring and extractive summarisation, not editorial judgement — treat scores and groupings as a first-pass triage, not a finished analytical assessment."
     ],
     "coverage_snapshot": {
       "outlets_reviewed": 18,
       "themes_searched": 43,
-      "items_considered": 869,
-      "sources_cited": 38
+      "items_considered": 911,
+      "sources_cited": 39
     },
     "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS and the public ReliefWeb API."
   }
