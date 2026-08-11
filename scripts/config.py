@@ -53,13 +53,8 @@ THEMES = [
     ("Strait of Hormuz shipping", "Global / Cross-Cutting"),
 ]
 
-# ReliefWeb is inherently humanitarian, so it gets a shorter, higher-signal
-# query list rather than all 30 themes (keeps API calls modest and free-tier
-# friendly).
-RELIEFWEB_QUERIES = [
-    "Gaza", "Sudan", "Yemen", "Syria", "Ukraine", "Haiti", "Myanmar",
-    "Afghanistan", "DRC", "Mali", "Burkina Faso", "Lebanon",
-]
+# ReliefWeb was dropped from this pipeline — its v1 API returns 410 Gone
+# on every query as of this writing (see fetch.py's module docstring).
 
 # ---------------------------------------------------------------------------
 # Country / place name -> region. Checked against title+description text;
@@ -174,7 +169,12 @@ SOURCE_HIERARCHY = [
     "Reuters", "AFP", "BBC", "Al Jazeera English", "Wall Street Journal",
     "France 24 English", "Financial Times", "The Guardian", "Washington Post",
     "The Economist", "The East African", "Xinhua English World", "Agencia EFE",
-    "ReliefWeb", "OCHA", "UNICEF", "WHO", "UNHCR",
+    # "ReliefWeb" removed — it was the now-dropped API integration's name,
+    # not a real outlet byline. OCHA/UNICEF/WHO/UNHCR kept: these can
+    # still legitimately appear as a Google News byline (e.g. a WHO press
+    # statement or OCHA briefing that Google News indexes), which is
+    # different from the ReliefWeb API integration itself.
+    "OCHA", "UNICEF", "WHO", "UNHCR",
 ]
 
 # ---------------------------------------------------------------------------

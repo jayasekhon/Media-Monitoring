@@ -1,5 +1,5 @@
 """
-llm_pipeline.py — the AI-backed judgment layer, built on GitHub Models.
+llm_pipeline.py — the AI-backed judgment layer, built on the Gemini API.
 
 This REPLACES the keyword-scoring and templated-writing parts of the
 rule-based pipeline with real model calls that can paraphrase, judge
@@ -9,15 +9,14 @@ and analyze.py's region-classification/coarse-dedup stay exactly as
 they were: cheap, deterministic, and genuinely don't need a model.
 
 Design principle: every LLM call has a rule-based fallback. If a call
-fails — rate limit, network error, malformed JSON, missing token — that
+fails — rate limit, network error, malformed JSON, missing key — that
 region (or the cross-region synthesis step) falls back to the existing
 rule-based generation instead of breaking the whole run. A thin,
 partially-rule-based edition beats a failed one.
 
 Call budget: one call per non-empty region (up to 6) plus one synthesis
-call — roughly 7 calls per run, comfortably inside GitHub Models' free
-daily limits even on the lower-volume "high-tier" models. See
-docs_GITHUB_MODELS_SETUP.md.
+call — roughly 7 calls per run, comfortably inside Gemini's free daily
+limits. See docs_GEMINI_SETUP.md.
 """
 import json
 
@@ -63,7 +62,7 @@ def _region_user_prompt(region: str, candidates: list[dict]) -> str:
     ]
     return f"""Region: {region}
 
-Source material gathered from public news/ReliefWeb feeds in the last 24 hours (JSON array, each item has title/text/source/url):
+Source material gathered from public news feeds in the last 24 hours (JSON array, each item has title/text/source/url):
 {json.dumps(material, ensure_ascii=False)}
 
 Select up to {MAX_ITEMS_PER_REGION} of the most significant, genuinely distinct developments for this region from the material above. Respond with ONLY a JSON object of exactly this shape, nothing else, no markdown fences:

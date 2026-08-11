@@ -4,20 +4,22 @@ build_edition.py — the full pipeline, end to end.
 
     python scripts/build_edition.py [--date YYYY-MM-DD] [--out data/editions] [--no-llm]
 
-Fetches free public sources (Google News RSS per theme, ReliefWeb API),
-filters to the last 24 hours, classifies by region, and deduplicates
-near-identical stories — all deterministic, no model involved.
+Fetches free public sources (Google News RSS per theme — see fetch.py's
+module docstring for why ReliefWeb was dropped), filters to the last 24
+hours, classifies by region, and deduplicates near-identical stories —
+all deterministic, no model involved.
 
-Scoring, writing, and escalation-risk reasoning are then done by GitHub
-Models (free, uses GITHUB_TOKEN — see docs_GITHUB_MODELS_SETUP.md) when a
-token is available, region by region, with a rule-based fallback (keyword
-scoring + extractive summarisation) used automatically if a call fails or
-no token is present. Pass --no-llm to force pure rule-based generation
-regardless of token availability.
+Scoring, writing, and escalation-risk reasoning are then done by the
+Gemini API (free tier, needs a GEMINI_API_KEY — see docs_GEMINI_SETUP.md)
+when a key is available, region by region, with a rule-based fallback
+(keyword scoring + extractive summarisation) used automatically if a
+call fails or no key is present. Pass --no-llm to force pure rule-based
+generation regardless of key availability.
 """
 import argparse
 import json
 import sys
+import time
 from collections import defaultdict, Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -26,7 +28,7 @@ from jsonschema import validate, ValidationError
 
 from config import (
     REGION_ORDER, MAX_ITEMS_PER_REGION, MAX_ESCALATION_RISKS,
-    LLM_CANDIDATE_POOL_SIZE, SOURCE_HIERARCHY, THEMES, RELIEFWEB_QUERIES,
+    LLM_CANDIDATE_POOL_SIZE, SOURCE_HIERARCHY, THEMES,
     MIN_KEYWORD_HITS_FOR_INCLUSION,
 )
 from fetch import fetch_all, enrich_items_with_article_text
@@ -43,6 +45,13 @@ from llm_pipeline import build_region_reports_via_llm, build_synthesis_via_llm
 
 ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = ROOT / "schema" / "edition.schema.json"
+
+# Gap between consecutive LLM calls in the same run. Gemini's free tier
+# can be as low as ~5-15 requests/minute depending on model, and our
+# ~7 calls (one per region + synthesis) happen in quick succession
+# otherwise — this spaces them out enough to stay under even a strict
+# per-minute cap without relying entirely on retry/backoff to absorb it.
+LLM_CALL_SPACING_SECONDS = 8
 
 
 def build_region_reports_rule_based(candidates: list[dict]) -> list[dict]:
@@ -124,7 +133,7 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
         try:
             _get_token()
             llm_available = True
-            print("GITHUB_TOKEN found — will attempt LLM-backed generation per region, with rule-based fallback.")
+            print("GEMINI_API_KEY found — will attempt LLM-backed generation per region, with rule-based fallback.")
         except LLMCallError as e:
             print(f"LLM generation unavailable ({e}); using pure rule-based generation.")
     else:
@@ -171,6 +180,7 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
     all_used_items = []
     thin_body_count = 0
     region_method = {}
+    first_llm_call = True
     for region in REGION_ORDER:
         candidates = candidate_pool_by_region.get(region, [])
         if not candidates:
@@ -179,6 +189,9 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
             continue
         reports = None
         if llm_available:
+            if not first_llm_call:
+                time.sleep(LLM_CALL_SPACING_SECONDS)
+            first_llm_call = False
             reports = build_region_reports_via_llm(region, candidates)
         if reports is not None:
             region_method[region] = "llm"
@@ -197,6 +210,8 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
     synthesis = None
     synthesis_method = "rule-based"
     if llm_available:
+        if not first_llm_call:
+            time.sleep(LLM_CALL_SPACING_SECONDS)
         sections_for_llm = {r: sections[r] for r in REGION_ORDER}
         synthesis = build_synthesis_via_llm(sections_for_llm)
     if synthesis is not None:
@@ -232,7 +247,7 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
     limitations = []
     if not raw_items:
         limitations.append(
-            "No items were retrieved from any source this run (Google News RSS and ReliefWeb both "
+            "No items were retrieved from any source this run (Google News RSS "
             "returned nothing or failed) — this edition reflects a source outage, not an absence of news."
         )
     empty_regions = [r for r in REGION_ORDER if not sections[r]]
@@ -255,7 +270,7 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
         attempted = len(REGION_ORDER) - len(no_candidate_regions)
         limitations.append(
             f"Regional analysis and writing: {len(llm_regions)}/{attempted} region(s) with candidate material "
-            f"generated via GitHub Models (LLM), {len(fallback_regions)} fell back to rule-based generation"
+            f"generated via Gemini (LLM), {len(fallback_regions)} fell back to rule-based generation"
             + (f", {len(no_candidate_regions)} had no qualifying candidates to send." if no_candidate_regions else ".")
             + f" Cross-region synthesis (top five / top story / escalation risks): {synthesis_method}."
         )
@@ -272,11 +287,11 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
         "limitations": limitations,
         "coverage_snapshot": {
             "outlets_reviewed": len(SOURCE_HIERARCHY),
-            "themes_searched": len(THEMES) + len(RELIEFWEB_QUERIES),
+            "themes_searched": len(THEMES),
             "items_considered": len(raw_items),
             "sources_cited": len(all_sources_used),
         },
-        "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS and the public ReliefWeb API.",
+        "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS.",
     }
 
     for region in REGION_ORDER:
@@ -310,7 +325,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=datetime.now(timezone.utc).strftime("%Y-%m-%d"))
     parser.add_argument("--out", default=str(ROOT / "data" / "editions"))
-    parser.add_argument("--no-llm", action="store_true", help="Force pure rule-based generation even if GITHUB_TOKEN is set.")
+    parser.add_argument("--no-llm", action="store_true", help="Force pure rule-based generation even if GEMINI_API_KEY is set.")
     args = parser.parse_args()
     run(args.date, Path(args.out), use_llm=not args.no_llm)
 

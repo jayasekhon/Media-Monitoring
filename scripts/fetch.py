@@ -1,15 +1,20 @@
 """
 fetch.py — pulls raw material from free, keyless public sources.
 
-Two sources, deliberately:
-  - Google News RSS, queried per theme (already scopes results to the
-    crisis topics we care about, and aggregates the outlet hierarchy from
-    the original prompt without needing 13 separate feed parsers).
-  - ReliefWeb's public API (api.reliefweb.int), which is purpose-built
-    humanitarian reporting and needs no key.
+News outlets only, via Google News RSS queried per theme (scopes results
+to the crisis topics we care about, and aggregates the outlet hierarchy
+from the original prompt without needing 13 separate feed parsers).
 
-Both are free and require no authentication. Network calls are wrapped so
-a single failing theme/query doesn't take down the whole run.
+ReliefWeb's public API was dropped from this pipeline — as of this
+writing, api.reliefweb.int/v1 returns 410 Gone on every query (the v1
+endpoint appears to have been retired). If ReliefWeb publishes a current
+working endpoint later, re-adding a fetch_reliefweb() function here and
+wiring it back into fetch_all() is straightforward — the rest of the
+pipeline (dedup, scoring, region classification) doesn't care which
+source an item came from.
+
+Network calls are wrapped so a single failing theme doesn't take down
+the whole run.
 
 IMPORTANT — Google News RSS quirk: its <description> field is NOT a real
 article summary. It's almost always just the headline again, wrapped in
@@ -33,7 +38,7 @@ from datetime import datetime, timezone
 import requests
 import feedparser
 
-from config import THEMES, RELIEFWEB_QUERIES, MONITORING_WINDOW_HOURS
+from config import THEMES, MONITORING_WINDOW_HOURS
 
 USER_AGENT = "DailyBelleBot/1.0 (+https://github.com/; free, self-hosted humanitarian briefing)"
 REQUEST_TIMEOUT = 15
@@ -114,51 +119,8 @@ def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
     return items
 
 
-def fetch_reliefweb(query: str, window_hours: int = MONITORING_WINDOW_HOURS):
-    """Fetch ReliefWeb reports mentioning `query`, last `window_hours`."""
-    url = "https://api.reliefweb.int/v1/reports"
-    params = {
-        "appname": "dailybelle-selfhosted",
-        "query[value]": query,
-        "query[operator]": "AND",
-        "sort[]": "date:desc",
-        "limit": 8,
-        "fields[include][]": ["title", "body-html", "date.created", "url", "source.name"],
-    }
-    items = []
-    try:
-        resp = requests.get(url, params=params, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
-        data = resp.json()
-        cutoff = datetime.now(timezone.utc).timestamp() - window_hours * 3600
-        for entry in data.get("data", []):
-            fields = entry.get("fields", {})
-            created = fields.get("date", {}).get("created")
-            created_ts = None
-            if created:
-                try:
-                    created_ts = datetime.fromisoformat(created.replace("Z", "+00:00")).timestamp()
-                except ValueError:
-                    created_ts = None
-            if created_ts is not None and created_ts < cutoff:
-                continue
-            source_names = [s.get("name", "ReliefWeb") for s in fields.get("source", [{}])] if fields.get("source") else ["ReliefWeb"]
-            items.append({
-                "title": fields.get("title", ""),
-                "description": _strip_html(fields.get("body-html", ""))[:800],
-                "link": fields.get("url", ""),
-                "source": source_names[0] if source_names else "ReliefWeb",
-                "published": created,
-                "matched_theme": query,
-                "origin": "reliefweb",
-            })
-    except (requests.RequestException, ValueError, Exception) as e:  # noqa: BLE001
-        print(f"::warning::ReliefWeb fetch failed for query '{query}': {e}")
-    return items
-
-
 def fetch_all():
-    """Fetch everything: Google News per theme + ReliefWeb per query.
+    """Fetch everything: Google News per theme.
 
     Returns (items, theme_region_map) where theme_region_map lets the
     caller look up each item's default region via its matched_theme.
@@ -168,12 +130,6 @@ def fetch_all():
 
     for theme, _region in THEMES:
         all_items.extend(fetch_google_news(theme))
-
-    for query in RELIEFWEB_QUERIES:
-        all_items.extend(fetch_reliefweb(query))
-        # ReliefWeb queries aren't in THEMES, so give them a sensible
-        # default region lookup too (falls back to country detection anyway).
-        theme_region_map.setdefault(query, "Global / Cross-Cutting")
 
     return all_items, theme_region_map
 
