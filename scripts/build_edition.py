@@ -86,13 +86,13 @@ def build_synthesis_rule_based(sections: dict, all_used_items: list[dict]) -> di
         while len(top_five_source) < 5:
             top_five_source.append(overall_sorted[len(top_five_source) % len(overall_sorted)])
         top_five = [
-            {"rank": i + 1, "text": build_top_five_line(it["title"], it["description"])}
+            {"rank": i + 1, "text": build_top_five_line(it["title"], it["description"]), "region": it["region"]}
             for i, it in enumerate(top_five_source[:5])
         ]
     else:
         top_five_source = []
         top_five = [
-            {"rank": i + 1, "text": "No developments met inclusion criteria in the monitoring window, or source data was unavailable for this run."}
+            {"rank": i + 1, "text": "No developments met inclusion criteria in the monitoring window, or source data was unavailable for this run.", "region": "Global / Cross-Cutting"}
             for i in range(5)
         ]
 

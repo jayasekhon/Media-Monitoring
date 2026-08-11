@@ -20,7 +20,7 @@ limits. See docs_GEMINI_SETUP.md.
 """
 import json
 
-from config import MAX_ITEMS_PER_REGION, MAX_ESCALATION_RISKS, SOURCE_HIERARCHY
+from config import MAX_ITEMS_PER_REGION, MAX_ESCALATION_RISKS, SOURCE_HIERARCHY, REGION_ORDER
 from llm_client import call_json, LLMCallError
 
 # Condensed from prompts/EDITORIAL_POLICY.md's verbatim original prompt —
@@ -102,7 +102,7 @@ def _synthesis_user_prompt(sections: dict) -> str:
 
 Produce a JSON object with exactly these three keys, and nothing else, no markdown fences:
 
-"top_five": array of exactly 5 objects {{"rank": 1-5, "text": "one sentence"}} — the five most significant developments across ALL regions above, ranked by humanitarian significance.
+"top_five": array of exactly 5 objects {{"rank": 1-5, "text": "one sentence", "region": "exact region name from the JSON keys above"}} — the five most significant developments across ALL regions above, ranked by humanitarian significance. "region" must be one of the exact region-key strings used in the JSON above (e.g. "Middle East", "Asia-Pacific") so the site can link this item down to that section.
 
 "top_story": {{"score": N, "quote": "one original sentence on the single most significant development, in your own words", "label": "REGION — short label"}}
 
@@ -118,6 +118,12 @@ def build_synthesis_via_llm(sections: dict):
         assert isinstance(result["top_five"], list) and len(result["top_five"]) == 5
         assert isinstance(result["top_story"], dict) and "quote" in result["top_story"]
         assert isinstance(result["escalation_risks"], list)
+        for item in result["top_five"]:
+            # Model-provided region is a courtesy for deep-linking, not
+            # something to trust blindly — fall back to the catch-all
+            # region rather than fail the whole synthesis over one bad field.
+            if item.get("region") not in REGION_ORDER:
+                item["region"] = "Global / Cross-Cutting"
         for risk in result["escalation_risks"]:
             risk["score"] = max(0.0, min(10.0, float(risk.get("score", 5.0))))
             risk.setdefault("sources", [])

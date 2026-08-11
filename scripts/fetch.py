@@ -79,6 +79,28 @@ def _clean_google_description(headline: str, source_name: str, raw_summary: str)
     return text
 
 
+# ---------------------------------------------------------------------------
+# Direct outlet RSS feeds — closes a real gap the Google-News-only version
+# of this pipeline had: the original prompt calls for reviewing specific
+# named outlets (Reuters, AFP, BBC, Al Jazeera...) directly, not just
+# hoping Google News' aggregation happens to surface them. Google News
+# search results can miss stories that a direct outlet feed catches
+# immediately — e.g. Typhoon Dolphin coverage was absent from a
+# Google-News-only run despite being a major, clearly-relevant story.
+#
+# Scoped to outlets with stable, reliable, genuinely public RSS feeds —
+# not every outlet in SOURCE_HIERARCHY has one (Reuters and AFP notably
+# don't run public RSS anymore). Add more here following the same
+# (name, feed_url) pattern if you find other reliable ones.
+# ---------------------------------------------------------------------------
+OUTLET_RSS_FEEDS = [
+    ("BBC", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("Al Jazeera English", "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("The Guardian", "https://www.theguardian.com/world/rss"),
+    ("France 24 English", "https://www.france24.com/en/rss"),
+]
+
+
 def _parse_google_news_source(title: str):
     """Google News RSS titles are usually 'Headline - Source Name'."""
     if " - " in title:
@@ -119,8 +141,53 @@ def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
     return items
 
 
+def fetch_outlet_rss(source_name: str, feed_url: str, window_hours: int = MONITORING_WINDOW_HOURS):
+    """Fetch a general outlet RSS feed directly (BBC, Al Jazeera, etc.) —
+    not theme-scoped like Google News, so this pulls in everything the
+    outlet published in the window, humanitarian-relevant or not. Real
+    outlet RSS descriptions are genuine article summaries, not the
+    headline+source noise Google News produces, so no cleanup step is
+    needed here beyond stripping HTML tags.
+
+    Because these feeds aren't pre-scoped to a theme, expect most items
+    to get dropped downstream by the relevance floor
+    (MIN_KEYWORD_HITS_FOR_INCLUSION) — that's expected and correct, not
+    a sign anything's wrong. `matched_theme` here is a synthetic label
+    used only to look up a sensible default region if no country name in
+    the text overrides it (see analyze.classify_region).
+    """
+    items = []
+    try:
+        resp = requests.get(feed_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        parsed = feedparser.parse(resp.content)
+        cutoff = time.time() - window_hours * 3600
+        for entry in parsed.entries:
+            published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
+            published_ts = time.mktime(published_struct) if published_struct else None
+            if published_ts is not None and published_ts < cutoff:
+                continue
+            title = entry.get("title", "").strip()
+            if not title:
+                continue
+            description = _strip_html(entry.get("summary", ""))
+            items.append({
+                "title": title,
+                "description": description,
+                "link": entry.get("link", ""),
+                "source": source_name,
+                "published": datetime.fromtimestamp(published_ts, tz=timezone.utc).isoformat()
+                             if published_ts else None,
+                "matched_theme": f"__outlet_rss__{source_name}",
+                "origin": "outlet_rss",
+            })
+    except (requests.RequestException, Exception) as e:  # noqa: BLE001
+        print(f"::warning::{source_name} RSS fetch failed: {e}")
+    return items
+
+
 def fetch_all():
-    """Fetch everything: Google News per theme.
+    """Fetch everything: Google News per theme + direct outlet RSS feeds.
 
     Returns (items, theme_region_map) where theme_region_map lets the
     caller look up each item's default region via its matched_theme.
@@ -130,6 +197,10 @@ def fetch_all():
 
     for theme, _region in THEMES:
         all_items.extend(fetch_google_news(theme))
+
+    for source_name, feed_url in OUTLET_RSS_FEEDS:
+        all_items.extend(fetch_outlet_rss(source_name, feed_url))
+        theme_region_map.setdefault(f"__outlet_rss__{source_name}", "Global / Cross-Cutting")
 
     return all_items, theme_region_map
 
