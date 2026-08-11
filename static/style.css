@@ -162,16 +162,27 @@ select.edition-select {
 }
 .top-five-list { list-style: none; margin: 0; padding: 0; }
 .top-five-list li {
+  border-bottom: 1px solid var(--rule);
+}
+.top-five-list li:last-child { border-bottom: none; }
+.top-five-list li a {
   display: flex;
   gap: 16px;
   padding: 16px 0;
-  border-bottom: 1px solid var(--rule);
   font-family: 'Playfair Display', serif;
   font-weight: 700;
   font-size: 19px;
   line-height: 1.35;
+  color: var(--ink);
+  text-decoration: none;
+  transition: color 0.15s ease;
 }
-.top-five-list li:last-child { border-bottom: none; }
+.top-five-list li a:hover {
+  color: var(--maroon);
+}
+.top-five-list li a:hover .num {
+  color: var(--maroon);
+}
 .top-five-list .num {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
@@ -179,6 +190,7 @@ select.edition-select {
   color: var(--maroon);
   padding-top: 4px;
   min-width: 22px;
+  transition: color 0.15s ease;
 }
 
 .top-story-box { border-left: 1px solid var(--rule); padding-left: 40px; }
@@ -194,9 +206,11 @@ select.edition-select {
   font-weight: 700;
   font-size: 15px;
   color: #fff;
-  padding: 5px 12px;
-  display: inline-block;
-  min-width: 20px;
+  padding: 5px 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 34px;
   text-align: center;
 }
 .top-story-quote {
@@ -414,7 +428,12 @@ select.edition-select {
   font-weight: 700;
   font-size: 14px;
   color: #fff;
-  padding: 4px 10px;
+  padding: 4px 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  text-align: center;
 }
 .risk-score .bar {
   width: 46px;
