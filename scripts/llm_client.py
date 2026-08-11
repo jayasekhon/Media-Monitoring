@@ -21,11 +21,16 @@ import time
 import requests
 
 GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
-# Free-tier-eligible as of this writing — Pro-series models moved to
-# paid-only in April 2026. Override via GEMINI_MODEL env var if this
-# drifts; check https://ai.google.dev/gemini-api/docs/pricing for what's
-# currently free before assuming this still is.
-DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+# Free-tier-eligible as of this writing, per Google's own OpenAI-
+# compatibility docs (ai.google.dev/gemini-api/docs/openai) — an earlier
+# version of this file used "gemini-2.5-flash" based on a third-party
+# source and got 404s from the real endpoint; this repo's own history is
+# proof that model IDs here are not stable. Override via GEMINI_MODEL env
+# var, and if you get a 404 (not 401/403/429) on this endpoint, that's
+# almost always a stale/wrong model ID, not an auth or quota problem —
+# check https://ai.google.dev/gemini-api/docs/openai and/or the model
+# list in your AI Studio project before assuming anything else is wrong.
+DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 REQUEST_TIMEOUT = 60
 MAX_RETRIES = 3
 
@@ -93,6 +98,18 @@ def call_json(system_prompt: str, user_prompt: str, model: str = None, temperatu
                 last_error = LLMCallError(f"Rate limited: {resp.text[:300]}")
                 time.sleep(wait)
                 continue
+            if resp.status_code == 404:
+                # Almost always a stale/wrong model ID, not a real "not
+                # found" in the usual sense — surface that directly rather
+                # than making someone rediscover it via trial and error.
+                last_error = LLMCallError(
+                    f"404 from Gemini API with model='{model}' — this almost always means the model ID "
+                    "is wrong or no longer exists, not an auth/quota problem. Check "
+                    "https://ai.google.dev/gemini-api/docs/openai for a current example model ID, or set "
+                    "GEMINI_MODEL to override. Response: " + resp.text[:200]
+                )
+                print(f"::warning::{last_error}")
+                break  # retrying with the same bad model ID won't help
             resp.raise_for_status()
             data = resp.json()
             content = data["choices"][0]["message"]["content"]
