@@ -44,7 +44,7 @@
       <h2>Five stories shaping the day</h2>
       <ol class="top-five-list">
         {% for item in edition.top_five %}
-        <li><span class="num">{{ '%02d' % item.rank }}</span><span>{{ item.text }}</span></li>
+        <li><a href="#{{ item.region|replace(' / ', '-')|replace(' ', '-')|lower }}"><span class="num">{{ '%02d' % item.rank }}</span><span>{{ item.text }}</span></a></li>
         {% endfor %}
       </ol>
     </div>
@@ -89,7 +89,7 @@
         <p class="body">{{ rep.body }}</p>
         {% if rep.verified_figures %}
         <div class="verified-box">
-          <div class="vf-title">VERIFIED FIGURES</div>
+          <div class="vf-title">FIGURES</div>
           <ul>{% for f in rep.verified_figures %}<li>{{ f }}</li>{% endfor %}</ul>
         </div>
         {% endif %}
