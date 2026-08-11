@@ -45,8 +45,10 @@ THEMES = [
     ("major earthquake", "Global / Cross-Cutting"),
     ("tropical cyclone", "Global / Cross-Cutting"),
     ("climate emergency displacement", "Global / Cross-Cutting"),
-    # "Also pay attention to" watch list
-    ("Iran Israel tensions", "Middle East"),
+    # "Also pay attention to" watch list — worded to match the original
+    # prompt's specific framing (US/Iran regional escalation), not a
+    # generic "Iran Israel tensions" which is a different, narrower thing.
+    ("US Iran regional escalation", "Middle East"),
     ("Venezuela crisis", "Americas"),
     ("Strait of Hormuz shipping", "Global / Cross-Cutting"),
 ]
@@ -94,11 +96,25 @@ COUNTRY_REGION = {
 # ---------------------------------------------------------------------------
 # Priority crises get a scoring bonus regardless of raw keyword hits, per
 # the prompt's "Always prioritise reporting related to" list.
+#
+# Caveat: because a priority-crisis match alone satisfies
+# MIN_KEYWORD_HITS_FOR_INCLUSION below, broad country names like "israel"
+# and "iran" here mean a story that merely mentions the country — with no
+# actual severity keyword — can still pass the relevance floor. This is
+# softened by the fact these terms are only ever checked against results
+# from an already crisis-scoped Google News query (e.g. "US Iran regional
+# escalation"), not a general feed, but it's a real tradeoff worth
+# knowing about, not a non-issue.
 # ---------------------------------------------------------------------------
 PRIORITY_CRISIS_TERMS = [
-    "gaza", "palestin", "sudan", "ukraine", "congo", "drc", "syria",
-    "yemen", "lebanon", "haiti", "myanmar", "afghanistan", "mali",
+    "gaza", "palestin", "israel", "iran", "sudan", "ukraine", "congo", "drc",
+    "syria", "yemen", "lebanon", "haiti", "myanmar", "afghanistan", "mali",
     "burkina faso", "sahel", "ebola", "cholera", "mpox",
+    # Major natural disasters get the same "always prioritise" bonus the
+    # original prompt gives them alongside the named crisis countries —
+    # they're already weighted individually in KEYWORD_WEIGHTS below, but
+    # without this they weren't getting the extra priority-crisis bonus.
+    "earthquake", "flood", "cyclone", "hurricane", "typhoon",
 ]
 
 # ---------------------------------------------------------------------------
@@ -164,14 +180,31 @@ SOURCE_HIERARCHY = [
 # ---------------------------------------------------------------------------
 # Blocklist — titles containing these terms are dropped even if they
 # matched a theme query (guards against Google News drifting off-topic).
+#
+# Honest limitation: this can never be as complete as the LLM path's
+# natural-language exclusion judgement ("exclude routine politics,
+# elections... unless direct humanitarian consequence"). A denylist can
+# only catch terms someone thought to add — it has no concept of
+# "routine" vs "consequential" the way real judgement does. Treat this
+# as a coarse guard against obvious noise, not equivalent exclusion logic.
 # ---------------------------------------------------------------------------
 BLOCKLIST_TERMS = [
     "box office", "grammy", "oscar", "world cup group", "transfer window",
     "premier league table", "celebrity", "royal wedding", "film review",
     "album review", "stock market close", "earnings call", "quarterly profit",
+    "election result", "election poll", "referendum result", "cabinet reshuffle",
+    "parliamentary vote", "party primary", "leadership contest",
 ]
 
 REGION_ORDER = ["Middle East", "Americas", "Africa", "Europe", "Asia-Pacific", "Global / Cross-Cutting"]
 MAX_ITEMS_PER_REGION = 4
 MAX_ESCALATION_RISKS = 4
 MONITORING_WINDOW_HOURS = 24
+
+# How many deduped candidates per region to hand the LLM to choose from —
+# deliberately larger than MAX_ITEMS_PER_REGION so it has real editorial
+# choice rather than just re-ranking whatever the keyword scorer already
+# narrowed down to. Also used to bound the rule-based fallback's input
+# pool and article-enrichment fetch volume, so this is the one knob that
+# controls both paths' workload.
+LLM_CANDIDATE_POOL_SIZE = 8
