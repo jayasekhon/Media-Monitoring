@@ -20,11 +20,16 @@
       "maxItems": 5,
       "items": {
         "type": "object",
-        "required": ["rank", "text"],
+        "required": ["rank", "text", "region"],
         "additionalProperties": false,
         "properties": {
           "rank": { "type": "integer", "minimum": 1, "maximum": 5 },
-          "text": { "type": "string" }
+          "text": { "type": "string" },
+          "region": {
+            "type": "string",
+            "enum": ["Middle East", "Americas", "Africa", "Europe", "Asia-Pacific", "Global / Cross-Cutting"],
+            "description": "Which region section this development belongs to, so the site can link this item down to that section."
+          }
         }
       }
     },
