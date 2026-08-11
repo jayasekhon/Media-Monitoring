@@ -1,13 +1,11 @@
 name: Daily Belle — build and publish
 
-# Fully self-contained: runs on GitHub's free Actions minutes, fetches
-# free public sources, builds the edition, commits it, renders the site,
-# and publishes to GitHub Pages. No external service, no paid API, no
-# secrets beyond the default GITHUB_TOKEN — including for the LLM-backed
-# scoring/writing step, which calls GitHub Models using this same token
-# (see docs_GITHUB_MODELS_SETUP.md). If GITHUB_TOKEN somehow isn't usable
-# for that, the pipeline falls back to pure rule-based generation
-# automatically rather than failing the run.
+# Fetches free public sources, builds the edition, commits it, renders the
+# site, and publishes to GitHub Pages. Needs one secret you provide:
+# GEMINI_API_KEY (free, from https://aistudio.google.com/apikey — see
+# docs_GEMINI_SETUP.md). If that key is missing or a Gemini call fails,
+# the pipeline falls back to pure rule-based generation automatically
+# rather than failing the run — this is not a hard dependency.
 
 on:
   schedule:
@@ -27,7 +25,6 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  models: read
 
 concurrency:
   group: pages
@@ -53,7 +50,7 @@ jobs:
       - name: Build today's edition (skipped on manual template/style pushes)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/build_edition.py
 
       - name: Commit new edition, if any
