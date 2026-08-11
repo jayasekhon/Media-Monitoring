@@ -1,7 +1,8 @@
 # Editorial policy — how the original prompt maps to code
 
 **Update:** scoring, writing, and escalation-risk reasoning are now done
-by an LLM (GitHub Models, free — see `docs_GITHUB_MODELS_SETUP.md`) when
+by an LLM (Gemini, via Google AI Studio's free tier — see
+`docs_GEMINI_SETUP.md`) when
 available, using the condensed policy in `scripts/llm_pipeline.py`
 (`SYSTEM_POLICY`). Region classification, coarse deduplication, and the
 relevance floor stay rule-based regardless — they're cheap, deterministic,
@@ -12,7 +13,7 @@ Every edition's `source_notes.limitations` records which path was
 actually used, region by region, for that specific run.
 
 The rest of this file describes the **rule-based fallback path** — still
-real, still what runs when GitHub Models is unavailable or a call fails,
+real, still what runs when Gemini is unavailable or a call fails,
 but no longer the only path.
 
 Your original media-monitoring prompt (reproduced in full at the bottom
@@ -38,7 +39,7 @@ change behaviour.
 | Escalation risks, next 72 hours | `scripts/build_edition.py`, items scoring ≥7 not already in the top five; trigger/impact text from `summarize.py` templates |
 | Confidence level | `scripts/summarize.py` → `confidence_from_source_count()` — Low/Medium/High based on how many distinct outlets corroborate the item, not genuine analytical confidence |
 | Source coverage notes / limitations | `scripts/build_edition.py`, assembled from what actually happened during the run (empty regions, missing figures, source outages) |
-| "Confirm no internal sources used" | Hard-coded fixed string — trivially true since the pipeline only ever calls Google News RSS and the public ReliefWeb API |
+| "Confirm no internal sources used" | Hard-coded fixed string — trivially true since the pipeline only ever calls Google News RSS |
 
 ## What the rule-based fallback genuinely cannot do
 
@@ -73,7 +74,7 @@ now runs when available:
   occasionally merge two genuinely distinct stories that share a lot of
   vocabulary, or miss a duplicate worded very differently.
 
-This gap is exactly what the GitHub Models path (see the update note at
+This gap is exactly what the Gemini path (see the update note at
 the top of this file) closes, when it's available for a given region —
 real paraphrased writing, genuine significance judgement, and actual
 forward-looking escalation reasoning instead of keyword-counting and
