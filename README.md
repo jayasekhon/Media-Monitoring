@@ -6,20 +6,28 @@ A daily humanitarian media-monitoring briefing, styled after
 
 - **GitHub Actions** triggers a build every day before 9am CET, using
   free Actions minutes.
-- A **Python script** fetches free, keyless public sources — Google News
-  RSS (queried per humanitarian theme) and the ReliefWeb public API —
-  then classifies by region and does a coarse deduplication pass, all
-  deterministic, no model involved.
-- **GitHub Models** (free, uses the same `GITHUB_TOKEN` your workflow
-  already has — no separate signup) then does the actual analytical
-  work: scoring significance, writing original 40-120 word summaries,
-  and reasoning about 72-hour escalation risk, region by region. If a
-  call fails or the token's unavailable, that region falls back
-  automatically to rule-based keyword scoring and extractive
-  summarisation instead — the run never breaks because one model call
-  did.
+- A **Python script** fetches free, keyless Google News RSS (queried per
+  humanitarian theme), then classifies by region and does a coarse
+  deduplication pass, all deterministic, no model involved. (ReliefWeb's
+  API was dropped — its v1 endpoint returns 410 Gone as of this writing;
+  see `scripts/fetch.py`'s module docstring.)
+- **Gemini** (Google AI Studio's free API tier — needs a free API key,
+  see `docs_GEMINI_SETUP.md`) then does the actual analytical work:
+  scoring significance, writing original 40-120 word summaries, and
+  reasoning about 72-hour escalation risk, region by region. If a call
+  fails or the key's unavailable, that region falls back automatically
+  to rule-based keyword scoring and extractive summarisation instead —
+  the run never breaks because one model call did.
 - **GitHub Pages** hosts the result, rebuilt automatically on every new
   edition.
+
+**Note on provider history:** this originally ran on GitHub Models,
+which was fully retired on July 30, 2026. If you have an older copy of
+this repo referencing `GITHUB_TOKEN`/`permissions: models: read` for the
+LLM layer, that no longer works — see `docs_GEMINI_SETUP.md` for the
+current setup. This kind of provider churn is apparently just a fact of
+life in this space; the pipeline's design (rule-based fallback on any
+LLM failure) exists partly because of it.
 
 See [`prompts/EDITORIAL_POLICY.md`](prompts/EDITORIAL_POLICY.md) for
 exactly how the original analyst prompt maps onto both the LLM path and
@@ -34,9 +42,9 @@ before trusting the output for anything consequential.
 GitHub Actions (daily cron, 06:00 UTC)
    │
    ├─ scripts/build_edition.py
-   │     ├─ fetch.py         → Google News RSS (per theme) + ReliefWeb API
+   │     ├─ fetch.py         → Google News RSS (per theme)
    │     ├─ analyze.py       → region classification, coarse similarity dedup
-   │     ├─ llm_pipeline.py  → GitHub Models: scoring, writing, risk reasoning
+   │     ├─ llm_pipeline.py  → Gemini: scoring, writing, risk reasoning
    │     │                      (per region + one cross-region synthesis call)
    │     └─ [fallback] summarize.py → rule-based scoring/writing if the
    │                                    LLM call for a region/synthesis fails
@@ -53,9 +61,9 @@ GitHub Actions (daily cron, 06:00 UTC)
 
 ```
 scripts/config.py              Themes, regions, scoring keywords, source hierarchy — the rule-based "policy"
-scripts/fetch.py                Pulls Google News RSS + ReliefWeb + article-excerpt enrichment, no key required
+scripts/fetch.py                Pulls Google News RSS + article-excerpt enrichment, no key required
 scripts/analyze.py              Region classification, coarse dedup, figure extraction (rule-based, always runs)
-scripts/llm_client.py           Thin GitHub Models API client — auth, retries, JSON extraction
+scripts/llm_client.py           Thin Gemini API client — auth, retries, JSON extraction
 scripts/llm_pipeline.py         Per-region + synthesis prompts and calls; the LLM judgment layer
 scripts/summarize.py            Extractive body text + templated risk phrasing — the rule-based fallback
 scripts/build_edition.py        Orchestrates all of the above into data/editions/YYYY-MM-DD.json
@@ -66,7 +74,7 @@ templates/edition.html.jinja    Page layout
 static/style.css                Visual design (masthead, colors, significance scale)
 .github/workflows/daily.yml     Fetch → build (LLM + fallback) → commit → render → deploy, all in one workflow
 prompts/EDITORIAL_POLICY.md     Maps the original analyst prompt onto both paths, and lists fallback limitations
-docs_GITHUB_MODELS_SETUP.md     How the LLM layer is wired in, model selection, local testing, what to watch for
+docs_GEMINI_SETUP.md            How the LLM layer is wired in, getting a free API key, what to watch for
 build_config.json               Your live site URL (used for RSS + canonical links)
 data/editions/                  One JSON file per day
 ```
@@ -82,23 +90,22 @@ data/editions/                  One JSON file per day
    (`https://YOUR-USERNAME.github.io/YOUR-REPO/`).
 5. Push. The two sample editions in `data/editions/` will build and
    deploy immediately, so you can confirm the site looks right.
-6. Trigger the workflow manually once (Actions tab → "Daily Belle — build
+6. Get a free Gemini API key and add it as a `GEMINI_API_KEY` repo
+   secret — full steps in `docs_GEMINI_SETUP.md`. Without this, the
+   pipeline still runs fine, just rule-based only.
+7. Trigger the workflow manually once (Actions tab → "Daily Belle — build
    and publish" → Run workflow) to test the real fetch-and-build pipeline
    end to end before waiting for the schedule.
-7. Once confirmed, delete the two sample files
+8. Once confirmed, delete the two sample files
    (`data/editions/2026-08-09.json` and `2026-08-10.json`) — they're
    hand-authored examples for testing the layout, not real briefings.
-8. Read `docs_GITHUB_MODELS_SETUP.md` for the LLM layer specifically —
-   it's wired in via the workflow's `permissions: models: read`, nothing
-   further to configure, but worth understanding what to watch for on
-   the first few live runs.
 
 ## Local development
 
 ```bash
 pip install -r requirements.txt
 
-# Build today's edition (LLM path if GITHUB_TOKEN is set locally, else rule-based)
+# Build today's edition (LLM path if GEMINI_API_KEY is set locally, else rule-based)
 python scripts/build_edition.py
 
 # Force pure rule-based generation, e.g. to compare output quality
@@ -122,7 +129,8 @@ open docs/index.html
   fallback: themes, regions, keyword weights, priority-crisis list,
   outlet hierarchy, blocklist).
 - **Model choice / call behaviour:** `scripts/llm_client.py`
-  (`DEFAULT_MODEL`, retry/timeout settings).
+  (`DEFAULT_MODEL`, retry/timeout settings, call spacing in
+  `build_edition.py`'s `LLM_CALL_SPACING_SECONDS`).
 - **Candidate volume sent to the LLM per region:**
   `config.LLM_CANDIDATE_POOL_SIZE`.
 
@@ -132,17 +140,19 @@ the orchestration itself.
 
 ## Known limitations (read this before trusting the output)
 
-- **The rule-based fallback path** (used when GitHub Models is
-  unavailable or a call fails) has no real analytical judgement —
-  severity is keyword-counting, not understanding. Full list in
+- **The rule-based fallback path** (used when Gemini is unavailable or a
+  call fails) has no real analytical judgement — severity is
+  keyword-counting, not understanding. Full list in
   `prompts/EDITORIAL_POLICY.md`.
-- **GitHub Models' free tier has daily/per-minute rate limits** that do
-  change over time — see `docs_GITHUB_MODELS_SETUP.md` for current
-  guidance and where to check GitHub's own docs.
+- **Gemini's free tier has daily/per-minute rate limits** that do change
+  over time — see `docs_GEMINI_SETUP.md` for current guidance and where
+  to check Google's own docs. This whole space moves fast: GitHub Models
+  existed and seemed stable, then was fully retired within about a year.
+  Don't assume today's numbers (or even today's provider) will still be
+  accurate indefinitely.
 - **Google News RSS has no official uptime guarantee** and occasionally
   blocks automated traffic; the pipeline degrades gracefully (skips the
   failed theme, logs a warning) rather than crashing.
-- **ReliefWeb's API** is stable and purpose-built for this use case.
 - Always check `source_notes.limitations` on a given edition — it's an
   honest, per-run report of exactly what happened, not a static
   disclaimer.
