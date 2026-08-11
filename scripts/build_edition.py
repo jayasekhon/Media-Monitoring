@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 """
-build_edition.py — the whole no-AI pipeline, end to end.
+build_edition.py — the full pipeline, end to end.
 
-    python scripts/build_edition.py [--date YYYY-MM-DD] [--out data/editions]
+    python scripts/build_edition.py [--date YYYY-MM-DD] [--out data/editions] [--no-llm]
 
 Fetches free public sources (Google News RSS per theme, ReliefWeb API),
-filters to the last 24 hours, classifies by region, scores severity by
-keyword, deduplicates near-identical stories, and writes a schema-valid
-data/editions/YYYY-MM-DD.json. No AI/LLM calls anywhere in this script.
+filters to the last 24 hours, classifies by region, and deduplicates
+near-identical stories — all deterministic, no model involved.
+
+Scoring, writing, and escalation-risk reasoning are then done by GitHub
+Models (free, uses GITHUB_TOKEN — see docs_GITHUB_MODELS_SETUP.md) when a
+token is available, region by region, with a rule-based fallback (keyword
+scoring + extractive summarisation) used automatically if a call fails or
+no token is present. Pass --no-llm to force pure rule-based generation
+regardless of token availability.
 """
 import argparse
 import json
@@ -20,7 +26,7 @@ from jsonschema import validate, ValidationError
 
 from config import (
     REGION_ORDER, MAX_ITEMS_PER_REGION, MAX_ESCALATION_RISKS,
-    SOURCE_HIERARCHY, THEMES, RELIEFWEB_QUERIES,
+    LLM_CANDIDATE_POOL_SIZE, SOURCE_HIERARCHY, THEMES, RELIEFWEB_QUERIES,
     MIN_KEYWORD_HITS_FOR_INCLUSION,
 )
 from fetch import fetch_all, enrich_items_with_article_text
@@ -32,116 +38,55 @@ from summarize import (
     build_body, build_top_five_line, build_top_story_quote,
     build_risk_trigger_impact, confidence_from_source_count,
 )
+from llm_client import _get_token, LLMCallError
+from llm_pipeline import build_region_reports_via_llm, build_synthesis_via_llm
 
 ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = ROOT / "schema" / "edition.schema.json"
 
 
-def run(date_str: str, out_dir: Path):
-    print(f"Building edition for {date_str}...")
-    raw_items, theme_region_map = fetch_all()
-    print(f"Fetched {len(raw_items)} raw items before filtering.")
+def build_region_reports_rule_based(candidates: list[dict]) -> list[dict]:
+    """The original keyword-scoring + extractive-summary path, used as
+    the automatic fallback when the LLM call for a region fails or is
+    disabled. `candidates` should already be sorted best-first.
+    """
+    reports = []
+    for it in candidates[:MAX_ITEMS_PER_REGION]:
+        it["figures"] = extract_verified_figures(it["title"], it["description"])
+        body, is_thin = build_body(it["title"], it["description"])
+        headline = it["title"] if len(it["title"]) < 90 else it["title"][:87] + "..."
+        reports.append({
+            "headline": headline,
+            "score": it["score"],
+            "body": body,
+            "verified_figures": it["figures"],
+            "sources": it.get("sources") or [{"name": it["source"], "url": it.get("link", "")}],
+            "_is_thin": is_thin,  # internal flag, stripped before writing
+        })
+    return reports
 
-    # Filter blocklisted / empty-title items
-    filtered = [it for it in raw_items if it.get("title") and not is_blocklisted(it["title"])]
 
-    # Classify region + score + extract figures
-    enriched = []
-    dropped_irrelevant = 0
-    for it in filtered:
-        default_region = theme_region_map.get(it["matched_theme"], "Global / Cross-Cutting")
-        region = classify_region(it["title"], it["description"], default_region)
-        score, matched_keywords = score_item(it["title"], it["description"])
-        # Relevance floor: matched_keywords includes "[priority crisis]" when
-        # that bonus applied, so len() here counts both real keyword hits
-        # and the priority-crisis signal.
-        if len(matched_keywords) < MIN_KEYWORD_HITS_FOR_INCLUSION:
-            dropped_irrelevant += 1
-            continue
-        figures = extract_verified_figures(it["title"], it["description"])
-        it2 = dict(it)
-        it2["region"] = region
-        it2["score"] = score
-        it2["matched_keywords"] = matched_keywords
-        it2["figures"] = figures
-        enriched.append(it2)
-    if dropped_irrelevant:
-        print(f"Dropped {dropped_irrelevant} item(s) with no matched severity keywords (likely false-positive search hits).")
-
-    # Dedup within each region (cross-region dedup would risk merging
-    # genuinely distinct stories that happen to share vocabulary)
-    by_region = defaultdict(list)
-    for it in enriched:
-        by_region[it["region"]].append(it)
-
-    deduped_by_region = {}
-    for region, items in by_region.items():
-        deduped = dedup_items(items)
-        deduped.sort(key=lambda x: x["score"], reverse=True)
-        deduped_by_region[region] = deduped
-
-    # Select the top N per region *before* doing any expensive per-item work
-    # (article-excerpt fetching happens once, in one batched/concurrent pass,
-    # only for the items that actually survive to publication — not for
-    # every raw candidate that got filtered out earlier).
-    selected_by_region = {
-        region: deduped_by_region.get(region, [])[:MAX_ITEMS_PER_REGION]
-        for region in REGION_ORDER
-    }
-    selected_items = [it for region in REGION_ORDER for it in selected_by_region[region]]
-
-    enriched_count, enrichment_attempted = enrich_items_with_article_text(selected_items)
-    if enrichment_attempted:
-        print(f"Article-excerpt enrichment: {enriched_count}/{enrichment_attempted} succeeded.")
-
-    # Build sections (formatted per schema)
-    sections = {r: [] for r in REGION_ORDER}
-    all_used_items = []
-    thin_body_count = 0
-    for region in REGION_ORDER:
-        for it in selected_by_region[region]:
-            # Re-extract figures now, after enrichment — the original
-            # extraction ran on the pre-enrichment (often empty) Google
-            # News description, so it would miss any casualty/displacement/
-            # outbreak figures that only became available once the real
-            # article text was fetched.
-            it["figures"] = extract_verified_figures(it["title"], it["description"])
-            body, is_thin = build_body(it["title"], it["description"])
-            if is_thin:
-                thin_body_count += 1
-            headline = it["title"] if len(it["title"]) < 90 else it["title"][:87] + "..."
-            sections[region].append({
-                "headline": headline,
-                "score": it["score"],
-                "body": body,
-                "verified_figures": it["figures"],
-                "sources": it.get("sources") or [{"name": it["source"], "url": it.get("link", "")}],
-            })
-            all_used_items.append(it)
-
-    # Top five: highest-scored items overall, one per cluster, across regions
+def build_synthesis_rule_based(sections: dict, all_used_items: list[dict]) -> dict:
+    """The original cross-region top-five/top-story/escalation-risk
+    logic, used as the fallback when the LLM synthesis call fails.
+    """
     overall_sorted = sorted(all_used_items, key=lambda x: x["score"], reverse=True)
 
     if overall_sorted:
         top_five_source = overall_sorted[:5]
         while len(top_five_source) < 5:
-            # pad by re-using lower-ranked items if fewer than 5 stories total
             top_five_source.append(overall_sorted[len(top_five_source) % len(overall_sorted)])
         top_five = [
             {"rank": i + 1, "text": build_top_five_line(it["title"], it["description"])}
             for i, it in enumerate(top_five_source[:5])
         ]
     else:
-        # No items survived fetching/filtering (source outage, empty window,
-        # or genuinely no qualifying developments). Don't fabricate content —
-        # say so plainly in all five slots.
         top_five_source = []
         top_five = [
             {"rank": i + 1, "text": "No developments met inclusion criteria in the monitoring window, or source data was unavailable for this run."}
             for i in range(5)
         ]
 
-    # Top story = #1 overall
     if overall_sorted:
         top_item = overall_sorted[0]
         top_body, _ = build_body(top_item["title"], top_item["description"])
@@ -153,7 +98,6 @@ def run(date_str: str, out_dir: Path):
     else:
         top_story = {"score": 1.0, "quote": "No developments met inclusion criteria in the monitoring window.", "label": "NO SIGNIFICANT DEVELOPMENTS"}
 
-    # Escalation risks: high-scoring items not already in top five, score >= 7
     top_five_titles = {it["title"] for it in top_five_source[:5]}
     risk_candidates = [it for it in overall_sorted if it["score"] >= 7.0 and it["title"] not in top_five_titles]
     escalation_risks = []
@@ -169,16 +113,110 @@ def run(date_str: str, out_dir: Path):
             "sources": risk_sources,
         })
 
-    # Source notes
+    return {"top_five": top_five, "top_story": top_story, "escalation_risks": escalation_risks}
+
+
+def run(date_str: str, out_dir: Path, use_llm: bool = True):
+    print(f"Building edition for {date_str}...")
+
+    llm_available = False
+    if use_llm:
+        try:
+            _get_token()
+            llm_available = True
+            print("GITHUB_TOKEN found — will attempt LLM-backed generation per region, with rule-based fallback.")
+        except LLMCallError as e:
+            print(f"LLM generation unavailable ({e}); using pure rule-based generation.")
+    else:
+        print("--no-llm passed; using pure rule-based generation.")
+
+    raw_items, theme_region_map = fetch_all()
+    print(f"Fetched {len(raw_items)} raw items before filtering.")
+
+    filtered = [it for it in raw_items if it.get("title") and not is_blocklisted(it["title"])]
+
+    enriched = []
+    dropped_irrelevant = 0
+    for it in filtered:
+        default_region = theme_region_map.get(it["matched_theme"], "Global / Cross-Cutting")
+        region = classify_region(it["title"], it["description"], default_region)
+        score, matched_keywords = score_item(it["title"], it["description"])
+        if len(matched_keywords) < MIN_KEYWORD_HITS_FOR_INCLUSION:
+            dropped_irrelevant += 1
+            continue
+        it2 = dict(it)
+        it2["region"] = region
+        it2["score"] = score
+        it2["matched_keywords"] = matched_keywords
+        enriched.append(it2)
+    if dropped_irrelevant:
+        print(f"Dropped {dropped_irrelevant} item(s) with no matched severity keywords (likely false-positive search hits).")
+
+    by_region = defaultdict(list)
+    for it in enriched:
+        by_region[it["region"]].append(it)
+
+    candidate_pool_by_region = {}
+    for region, items in by_region.items():
+        deduped = dedup_items(items)
+        deduped.sort(key=lambda x: x["score"], reverse=True)
+        candidate_pool_by_region[region] = deduped[:LLM_CANDIDATE_POOL_SIZE]
+
+    pool_items = [it for region in REGION_ORDER for it in candidate_pool_by_region.get(region, [])]
+    enriched_count, enrichment_attempted = enrich_items_with_article_text(pool_items)
+    if enrichment_attempted:
+        print(f"Article-excerpt enrichment: {enriched_count}/{enrichment_attempted} succeeded.")
+
+    sections = {r: [] for r in REGION_ORDER}
+    all_used_items = []
+    thin_body_count = 0
+    region_method = {}
+    for region in REGION_ORDER:
+        candidates = candidate_pool_by_region.get(region, [])
+        if not candidates:
+            region_method[region] = "no candidates"
+            sections[region] = []
+            continue
+        reports = None
+        if llm_available:
+            reports = build_region_reports_via_llm(region, candidates)
+        if reports is not None:
+            region_method[region] = "llm"
+            for r in reports:
+                r.setdefault("verified_figures", [])
+            all_used_items.extend(candidates[:MAX_ITEMS_PER_REGION])
+        else:
+            region_method[region] = "rule-based" + (" (fallback)" if llm_available else "")
+            reports = build_region_reports_rule_based(candidates)
+            for r in reports:
+                if r.pop("_is_thin", False):
+                    thin_body_count += 1
+            all_used_items.extend(candidates[:len(reports)])
+        sections[region] = reports
+
+    synthesis = None
+    synthesis_method = "rule-based"
+    if llm_available:
+        sections_for_llm = {r: sections[r] for r in REGION_ORDER}
+        synthesis = build_synthesis_via_llm(sections_for_llm)
+    if synthesis is not None:
+        synthesis_method = "llm"
+    else:
+        synthesis = build_synthesis_rule_based(sections, all_used_items)
+
+    top_five = synthesis["top_five"]
+    top_story = synthesis["top_story"]
+    escalation_risks = synthesis["escalation_risks"]
+
     all_sources_used = set()
     source_counter = Counter()
     for region in REGION_ORDER:
         for rep in sections[region]:
-            for s in rep["sources"]:
+            for s in rep.get("sources", []):
                 all_sources_used.add(s["name"])
                 source_counter[s["name"]] += 1
     for risk in escalation_risks:
-        for s in risk["sources"]:
+        for s in risk.get("sources", []):
             all_sources_used.add(s["name"])
             source_counter[s["name"]] += 1
 
@@ -202,21 +240,31 @@ def run(date_str: str, out_dir: Path):
         limitations.append(
             f"No developments met inclusion thresholds in the monitoring window for: {', '.join(empty_regions)}."
         )
-    no_figure_count = sum(1 for r in REGION_ORDER for rep in sections[r] if not rep["verified_figures"])
+    no_figure_count = sum(1 for r in REGION_ORDER for rep in sections[r] if not rep.get("verified_figures"))
     if no_figure_count:
-        limitations.append(
-            f"{no_figure_count} item(s) had no extractable figures in available reporting; figures shown are limited to what source text stated explicitly."
-        )
+        limitations.append(f"{no_figure_count} item(s) had no extractable figures in available reporting.")
     if thin_body_count:
         limitations.append(
-            f"{thin_body_count} item(s) had little or no real summary text available from source feeds "
-            "(common with Google News RSS, which often provides only a headline with no article excerpt) "
-            "— body text for these items is limited to the headline itself rather than a fuller extractive summary."
+            f"{thin_body_count} item(s) fell back to rule-based generation with little real summary text "
+            "available from source feeds — body text for these is limited to the headline."
         )
-    limitations.append(
-        "This edition was generated by rule-based keyword scoring and extractive summarisation, not editorial judgement — "
-        "treat scores and groupings as a first-pass triage, not a finished analytical assessment."
-    )
+    if llm_available:
+        llm_regions = [r for r, m in region_method.items() if m == "llm"]
+        fallback_regions = [r for r, m in region_method.items() if "fallback" in m]
+        no_candidate_regions = [r for r, m in region_method.items() if m == "no candidates"]
+        attempted = len(REGION_ORDER) - len(no_candidate_regions)
+        limitations.append(
+            f"Regional analysis and writing: {len(llm_regions)}/{attempted} region(s) with candidate material "
+            f"generated via GitHub Models (LLM), {len(fallback_regions)} fell back to rule-based generation"
+            + (f", {len(no_candidate_regions)} had no qualifying candidates to send." if no_candidate_regions else ".")
+            + f" Cross-region synthesis (top five / top story / escalation risks): {synthesis_method}."
+        )
+    else:
+        limitations.append(
+            "This edition was generated entirely by rule-based keyword scoring and extractive "
+            "summarisation (no LLM available this run) — treat scores and groupings as a first-pass "
+            "triage, not finished analytical judgement."
+        )
 
     source_notes = {
         "strongest_sources": strongest or ["No hierarchy-listed outlets surfaced in this window"],
@@ -231,6 +279,10 @@ def run(date_str: str, out_dir: Path):
         "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS and the public ReliefWeb API.",
     }
 
+    for region in REGION_ORDER:
+        for rep in sections[region]:
+            rep.pop("_is_thin", None)
+
     edition = {
         "date": date_str,
         "printed_time": datetime.now(timezone.utc).strftime("%-I:%M %p UTC"),
@@ -241,7 +293,6 @@ def run(date_str: str, out_dir: Path):
         "source_notes": source_notes,
     }
 
-    # Validate before writing
     schema = json.loads(SCHEMA_PATH.read_text())
     try:
         validate(instance=edition, schema=schema)
@@ -259,8 +310,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=datetime.now(timezone.utc).strftime("%Y-%m-%d"))
     parser.add_argument("--out", default=str(ROOT / "data" / "editions"))
+    parser.add_argument("--no-llm", action="store_true", help="Force pure rule-based generation even if GITHUB_TOKEN is set.")
     args = parser.parse_args()
-    run(args.date, Path(args.out))
+    run(args.date, Path(args.out), use_llm=not args.no_llm)
 
 
 if __name__ == "__main__":
