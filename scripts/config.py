@@ -102,7 +102,7 @@ COUNTRY_REGION = {
 # knowing about, not a non-issue.
 # ---------------------------------------------------------------------------
 PRIORITY_CRISIS_TERMS = [
-    "gaza", "palestin", "israel", "iran", "sudan", "ukraine", "congo", "drc",
+    "gaza", "palestine", "israel", "iran", "sudan", "ukraine", "congo", "drc",
     "syria", "yemen", "lebanon", "haiti", "myanmar", "afghanistan", "mali",
     "burkina faso", "sahel", "ebola", "cholera", "mpox",
     # Major natural disasters get the same "always prioritise" bonus the
