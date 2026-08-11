@@ -1,14 +1,14 @@
 {
   "date": "2026-08-11",
-  "printed_time": "11:55 AM UTC",
+  "printed_time": "1:34 PM UTC",
   "top_five": [
     {
       "rank": 1,
-      "text": "Scores dead in Colombia after powerful earthquake strikes west of country."
+      "text": "At least 111 dead as 7.4-magnitude earthquake strikes Colombia."
     },
     {
       "rank": 2,
-      "text": "Colombia stocks fall after deadly earthquake strikes."
+      "text": "Scores dead in Colombia after powerful earthquake strikes west of country."
     },
     {
       "rank": 3,
@@ -16,29 +16,29 @@
     },
     {
       "rank": 4,
-      "text": "DRC Ebola Outbreak Surpasses 2,000 Deaths in Record Spread."
+      "text": "WHO: Ebola outbreak began in February, deaths near 2,000."
     },
     {
       "rank": 5,
-      "text": "Over 2,000 dead in DRC's Ebola outbreak, now fastest-growing on record."
+      "text": "Ebola deaths surpass 2,000 in Congo: World’s fastest-spreading outbreak in history shows no signs of slowing."
     }
   ],
   "top_story": {
     "score": 10.0,
-    "quote": "Scores dead in Colombia after powerful earthquake strikes west of country.",
-    "label": "AMERICAS — Scores dead in Colombia after powerful earthquake strikes west of country"
+    "quote": "At least 111 dead as 7.4-magnitude earthquake strikes Colombia.",
+    "label": "AMERICAS — At least 111 dead as 7.4-magnitude earthquake strikes Colombia"
   },
   "sections": {
     "Middle East": [
       {
-        "headline": "Israel’s siege cripples transport system in Gaza, risking return to famine in Gaza: Rig...",
-        "score": 9.5,
-        "body": "Israel’s siege cripples transport system in Gaza, risking return to famine in Gaza: Rights monitor.",
+        "headline": "West Asia Conflict Enters Eighth Day as United States, Israel and Iran Launch Fresh Air...",
+        "score": 8.0,
+        "body": "West Asia Conflict Enters Eighth Day as United States, Israel and Iran Launch Fresh Airstrikes | Akashvani News.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "Anadolu Ajansı",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGFZTV9aUlFRTUdKLWQ5Q0dKaVYxUTBGUzJ2QTZSR3BaS1FIY0pmbXRqZGFKSFRtaG1lM01tREZPazNRckN4eHFLMmY2cHVwaU94MjJZanRyQks3bk4zQU1Od0ZyNHN2bEJCMm5hei1RaTBvQzBBUnVqLWVPQ2I2NTRpZWU1eVNRVGtURE8yYktUSTRMbzlSMzd3ZUJfMDllZDFoTGViYmQ3VXd0bWRGd1JyYTdOaVl6Zkp5d2k3TERnTTM4NC1hQlp1ZTdEZmtpWEl4V19JQWI?oc=5"
+            "name": "News On AIR",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2Q5TWp0Z01oTDBrMk96dW5xdTFNY3dBVVJBVF8tTWpKSU5zbnBlZ0hGSXFfZUZNVi1sdHo0VGZ2SkNBMklFcjNTV0RMX3paUW1vLW55NjFGbEswcFVJbGZubjFHYkttTWdVaWNTbXBLbWZtQlNjUFZ6aUZxNTR2aWx3dU05S0JPelB3cktOVmQ4d0NMeGFCV093b0g0UzFxcGNsdE1SZ0NjT1dnOEZidmhhQnRGY3NoLUJJ?oc=5"
           }
         ]
       },
@@ -69,12 +69,12 @@
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT20wQUVZQVA4TWlscXpEcVdyX3AzbkFYcjhGdmtfYUhyQnlYbFNzSjVlZmV5MzBNbmpPWXA3MjJyVmpoWXdwLTRvelcyeEN6S3RETFpORnZQVVlwalAzLW5RU3MzYlJwbWhWNVJ2a0c4UHlaNlZVRXpYZFBkclh3LTByRDhjckNaXzh4Z0h4bEI0SF95YzMwQkVtNWFWb1dHVnJUa0FrX2ZXN1RjTk1jR1F6T2JvdXB6Q2ExSm5RQlFBT05yVEZmVWE1SlktR24wWUt6eXRpTQ?oc=5"
           },
           {
-            "name": "باسنیوز",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XLS1CckdGdnhUV0VMdzB1T01fUXhXUnBXNTRvamlHMGFZc3M4VHd1UUJXLWFhZTQ2UGZIb2QtWTVyX3llRHlrb2wxWlFVQVhw?oc=5"
-          },
-          {
             "name": "Dawn",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VN2k5VVEwMHY2eUFxdUNkVE1udndIeUIyNVl2Mnc4dUR2TXNDUFhLUjZ0bjdJU01QMTJIZlZfVlZlUHpxX2hLNdIBTkFVX3lxTE1zcTlCWkRfWEFQQWF5ZUh5VlBDcGNwS2FCU1JhVHNaVW5saEJkZEhKQVlQY2owQU5iUmhDcGNWeWNmRlBudVBIaGdNaWdLdw?oc=5"
+          },
+          {
+            "name": "باسنیوز",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XLS1CckdGdnhUV0VMdzB1T01fUXhXUnBXNTRvamlHMGFZc3M4VHd1UUJXLWFhZTQ2UGZIb2QtWTVyX3llRHlrb2wxWlFVQVhw?oc=5"
           }
         ]
       },
@@ -93,6 +93,32 @@
     ],
     "Americas": [
       {
+        "headline": "At least 111 dead as 7.4-magnitude earthquake strikes Colombia",
+        "score": 10.0,
+        "body": "At least 111 dead as 7.4-magnitude earthquake strikes Colombia.",
+        "verified_figures": [
+          "111 dead"
+        ],
+        "sources": [
+          {
+            "name": "The Washington Post",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmdBTHJ4NzhUMWV5WXlHYWNmaGFRaDBoeTFDVDlWRXFiX2RrckpEaWVQUG1HaDJFZnM3WXhLUzVUSTRpb0o3ZUpJbUZkT2M2WVE0NGxPVEwtVTVScHp1V21YWm90cFlxX2hlYk9pYU9jTjdXSnZqS0tvWFRQLWZ2S1dhRjNuNkk3djMtNW1kaG5xcm51NFBKbndLeXk?oc=5"
+          },
+          {
+            "name": "FOX 35 Orlando",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IWm8yeEJjdmhIZDlxMGp5eHZuY3hYNFA2YlRlbjM1NU1qNWdHMmtROXN2ZXNaX2U0RjRyTm9adFFQSDN4OFpzZEh4UW9QOXpkZzFQM3R3eEUzcnNaR1BrelJYZ3BvQdIBa0FVX3lxTFA3c09Fc0tKRnk5Mm92dUhTeTBFeUZFeE42N1JSQlJ1emdubGx2YjBlUFRkRVdqWmxpSzFYRDhXLWRzNlJsaUFmZGtsVGJXamstaGNYZHVqbVNQMktZOUIxQU1HRzY1VU11cVpN?oc=5"
+          },
+          {
+            "name": "Fox News",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aMk5WenBrTDlMZS1ZUk9rSnVrOWFEeHlhUS1rcm9XMWZpX3Z4cWNhSzgzbXVvcDZRY1lKc1JBZHo2YzJaZHVLN2JBNVpnOUtCTlN0aTF3?oc=5"
+          },
+          {
+            "name": "PBS",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZS1ibFNaUlIzZjhiZUtPYkdsZG5PQTk4S0pxVEs4QkpZQ0NWdGZjeElTUlg3N1pMZkwxcndBT280U1Q5cEttMEowRlpKQVRNWC1jQ3ZLbnlFN3JXRnZaUlFwOVJoY0Y1OWlLOXpySFIzU3J6dlY0ZVZIaXdub2ZreWd4X3VYS1J5MEkyX1FlSXowTUFSc0RTZ0NhZXozbjdqUHYzVFhMZFozb1ZLOE01VkFCVlJiQ1pQYUw2UWxMMGg1RVlsaWfSAcsBQVVfeXFMTzJzYWE3Zm5yQTYzQUdrUW5ITFNJVFFyR3BmN05WRzk1VmllRUh6N3RXbWlLdnB3QndrdnNsNEdXMmtqVzB5Yy1KMGlRc09mS1IwaDNZdjV0X00xTUlxVUJwbVFZUHhUTmV1MjdoQXU2UllpUVVOQ0c3Y09tVzhGWW9iNzZaOTM1REFUUDZkSGhvSDczemVnVFhqdGNLNldHZDJoR3ZPMXBHVnppeTNFZ1ZWeXdKZnRpRU5jeWlpRWIxa3R2cENKUHZUMWc?oc=5"
+          }
+        ]
+      },
+      {
         "headline": "Scores dead in Colombia after powerful earthquake strikes west of country",
         "score": 10.0,
         "body": "Scores dead in Colombia after powerful earthquake strikes west of country.",
@@ -102,26 +128,6 @@
             "name": "The Guardian",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlU3Yjk5TElmcWIyQU53OHI0cW02eHBKdnRfZlpuMlJSYm9QODhCRnE3MTk1Vi1ERjJVM2g2UkpReURyWVphMGRrd0NBbTZ6c0hSa2dvYkxGd0ViOFl3aDJ4eGwycnZ0ODhIc1RSc1lSX2tSVnRuWVZiSURsTGxKdElEYXdBaVdIX0JqcQ?oc=5"
           },
-          {
-            "name": "DW",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNTRuR2FkLWZiWElxYkt1UTZyTm1VbDJTaEUyQTVxVE1mSzg4eUQ1N2EtcGUySmpjcHgzQkliRDVxQzM0bTNBX09XeGxJLU9rZllyOEhSS3hQRmxUZm1wWF93dkx2LXc1RG1HRmx6TV91Q05OZGJjNTNSYVhSLWJBVGpaTnVMMnFRamRPcXZnOHl2ZF9l?oc=5"
-          },
-          {
-            "name": "WFAA",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUm5ZaHpMTVhlMlNjTjBrNi1KVkYwVFhITTFhQzktbnZtM3dJa3hsZ2M3VDJ6Qy1jbHJPQkl0RmtwSk9YQVdoTGpLVFpNdFUtcWZnTm1SdFpTZU1ZeVlvWTM3Y1pQSkVUQ1I4WXpnSGwxTWY3WkUtd0dsa1Y1SEVBVUFRcjNsWXVwYXk0OGZIYzl0all2dzJVY1p2Um5qemNlOHpWQm5Yem9ueGlKZVNwa0I1c3k5dTZxbVdUbDlxdVNxc1Y3aFJhNjkwZWdNcGhhbEd6U2o2Z0NENDBad0JYdDg3dGM?oc=5"
-          },
-          {
-            "name": "WOGX",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tUGlpZy1NRC1Zcmp2WHNYTDhrWXpuUzU2RGxEVmtydUYxNjI2Rm5zRFRGY0RyMHJpUlNLRlFkdmVDVUxvd3ozSm5Fd3RVWVA0Y3I2UzN6TUZDNGPSAWBBVV95cUxQSnRHMTVMNlIweWFYZGo5c3lXWnl0VnMwZUloNDItRU13LUVLVENJWUJ2dW0zNDB5LUEybzdaMkV6MHk4ZnkwejVnb05vZ0d0YW93Y0U3UkM3YVVmay10cUs?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "Colombia stocks fall after deadly earthquake strikes",
-        "score": 10.0,
-        "body": "Colombia stocks fall after deadly earthquake strikes.",
-        "verified_figures": [],
-        "sources": [
           {
             "name": "Investing.com",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHNnZk12UmR5YUZ1YnplWVJIcEtxXzVoWWFOWW1RcGl0Nm1odEJGR3dmbERpb2hpelhtMkxUMWQ3RjdFU1RWYjlWOGh3UF9SN3lGLTQ3eUtHR0dONXd2c2s2ZHFmYmdnS3FpYndyQXJEZTRQWnpLS2pLNllZeGxGSHQtNjRodUd4Z1RzZnlGSUZ1MUhEWmJNVWx4RmNvcndSZ2hDbm02a2IwNGE0MGQxU2kza1cxeGtiNy00NWQ4RQ?oc=5"
@@ -145,7 +151,7 @@
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TY0tNN3cxU3hTV3FaVzRPNDhXQkdpNXhEMnJYS09iOXY3TUIzalV5UmRQTlJCYmluZDdkS185NmwxbHREZ0loYlNiRzlkcDRQYVZtbzFvc2k2enkwZjFScUs5SGdFcmNrUlU4Vms5MDU3em1WUE54cWUwWEM?oc=5"
           },
           {
-            "name": "Euronews.com",
+            "name": "Euronews",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOElHaWp1bzZmWi1BZ2t3NnpkVGU3RXRHVDFZa2ZWUzRaUzJXVldoeFZIa1c4TkVqQ2tGS2FkV3pLZU9HcXRackNqV2QydkwtMzI1bUJzRUI2aE02NzFEMU5GZEtyYkJuc25oMEJSMzRSTXpwakpuSy1KdEhwX3lsYjhXSmRNZWpTUjlLOUpsLUpwbWVfWlFSbVFXdHlRQmRwTHB3U21pOWF3X1pKSThDREdKbFUzQ2t5Yk5reGE1Wjc?oc=5"
           },
           {
@@ -155,14 +161,26 @@
         ]
       },
       {
-        "headline": "Colombia earthquake has killed at least 132. My research helps explain why it was so de...",
+        "headline": "Colombia earthquake: Death toll rises to over 100",
         "score": 9.0,
-        "body": "Colombia earthquake has killed at least 132. My research helps explain why it was so destructive.",
+        "body": "Colombia earthquake: Death toll rises to over 100.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "The Conversation",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkhrbXdXSWRDalVpd1NETHJwZ0ZrNXVISktFTjg3REtKczBYZzFwU21HRTg0cVVWckp0R0o1cXVsMEpLdDZMN195Vnp1TmdOLVRteDhnRUdtRFlIN2d1YlpDYURHQ2Zfd2FFV3VwSGcyMHUwVXVldkFsTHFYd193eGlweldpVVVWbUtKNXhDbVN5VmlRbFRTenRrT1dQc2NFd3lmQ3ZxMTZOZmF0MkRUcnVRc0RfNHdIX05STW9iQjl0S0NnbGNRWXhR?oc=5"
+            "name": "DW",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ydTJGTWVidTRYRC1EZ0FKMUhhNUFzdUN2QWZ4VnhzT3Y2aUpyanFvbjBSQVY0cWJYOTA4SmFxRU5JQXU0MzhvSThucnJxQ3dPQ0pmVnBfRjd5ZzJHVzNpMUhRM0ZMbk5mZko00gFrQVVfeXFMTzBaR2xpMUp4RHRxNW4tUkxkOHpHb3J4eWY5c2lvQXJKNlhzQW5JUXR2Q1d2OEtQWHN4bkRGdmFsWkozQVFBU3ExYkc2R3Z5ODY4NXN5TzI2U21vWHZucW5JWGFIN0pFSm9SQzQ?oc=5"
+          },
+          {
+            "name": "The Hindu",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXpmSm9qOVNpUkxpc0hIUUNpN055bGZlYmdVa29Xa2h4QW9UUEJUekNEdVRsVE1nMm5iV2NhWjdDQ2VjYkRxSjNBOFNrN19zQkRFdDdGcm1oWmcyNERfalhzRm9BY1E1Wk55SFRRRG51eTR2SVNiSGhmQWpwSWJGOGFSVmtyQko1Zm5zTkFCU3YzUm5scmkyQzF4UWx3RENsZE5xX1hWZVM2dnRYSm9icklfU0kxSDVIdVFIRnFBQmVxc3oybk9jLWFKRzF4b3djZ1dZWFR4UXg3TVJMQ05reWdOMDfSAesBQVVfeXFMTXIyMWpmcl82WnVkM09pZTJaRU5VUm5leF9uM3Z6QnRPbHQ0bUdabUduYjh2eVRoSldnUWFnUVJpenZtc3g5Nm1pZjBVZjdwREVtOU5tcmREdnA0bjhWLUJIcnRHaUs1RDF6OUtlUVE5Si1aeXdoeEpZYkdfRkpBeF9ibVhyYlppVS1lY3p6WjhUbU5GWVVzWVJOYlozNTZyaF9ENE4yOWpoUTU2ZGZFZTlNOXdpaVhicUVlNlYxRFFXVXd5azVPb0hxbjVfUE5hMkN1TTRySTdqcmNYd0ZsazlDZURmWVhLemNvOA?oc=5"
+          },
+          {
+            "name": "The News International",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWE5bnRvSU9zMU1LSTdEbFExYUZwUHV1cDN6YmtUVktMV3RMeWhaSHFFRFRBVnhCdm82SWZBTDFSb3I4NHU1S3BmTjRlN0FpNjhua3lKNjBZSUdWLUwzS29GZVZFOGRSTnltTGVmMklGbEZfcmszVmZVZ3paRUt5NVRFbGpQZERENnBWX2dhZ3l6Yjh1bW1ZNUc5MlgxS0kwcW5Da2M0MFdWQi1fcHQzQndnVWZyaFNuNWtwMnI1Zw?oc=5"
+          },
+          {
+            "name": "The Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0VwRlFCYXhFMTJNZnh4OThYYUR6Wk1GQzZZMGJGd2JmUG80eWREV0hFRFNDYmJ0X1dBMXdBQWM3OXZlZmpST0V3WVpVajVyUTl3STE5RkJGd2RocWVTMFYtNmxCYWo0VWhDZ2t0NzF2UVRmMTg5SEZweGJ4djhfeEEwbWo0di1CS3BSVktYNE00QXJGeGxZ0gGcAUFVX3lxTE1vNk4tQVk0Qmd2ei1Lby1TU0ExUGFDUU5fMnpxcHpmTEJHcC1OdGs5YlZPWUdJLU1haG1LWXpQeThiaHdpY3g3cjdkYkN5a3R2czJta1pqZGJnX21zd1hadGxlODdaMmJDNjhpdk03OE5FZWJSbTFfeWJxcDRZaHdDdzA2UUJaTUpFN2tNTjNVOG15TWNPNGsxdG1uUw?oc=5"
           }
         ]
       }
@@ -183,64 +201,28 @@
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeVdFNU9ReGoyUUNVY3Y5amJocjc2RkI0WU9qeVpYdFNxc29kb1VRanM4NUMwbUY5Yk1wczUyNFJIV2k1dHhPTDYycHNoU2FFcldEWU5sQkt0cmk1b1FGTzdBaXB0S2hhOEtrRy0wLWx4YWFlMzBuWHptQ1hRQWhPdU14S1JKVmM3NEZ6MG0tMUhBandDVnhhMU1lY0F2ZUlOZXdJUjExbFNEOFEzMUJtbU5rMHNqaXlwRGM4Wk9XVXlMaUp2bmRnN1VvZ3FKVmV3WEloN3ZNcw?oc=5"
           },
           {
-            "name": "tovima.com",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5BRnhTV2VFMFdPdmFRam9yNmhfMGJTUktlazYxTm5VQnZMM2h2eDFTdDg4alVkNmV5VzBTRms1MFc1RzNkQXRxazBqUUVtNnZJV0dJYVRzT201eldBNWlQbXUyR05hdE94Sjc5ZGZiZzRSVEQ0YTYxR3RWXzdsUjdoV3FOV1ZabEViTnlsUnpjaUJRRnfSAZYBQVVfeXFMT1RuQUZ4U1dlRTBXT3ZhUWpvcjZoXzBiU1JLZWs2MU5uVUJ2TDNodngxU3Q4OGpVZDZleVcwU0ZrNTBXNUczZEF0cWswalFFbTZ2SVdHSWFUc09tNXpXQTVpUG11MkdOYXRPeEo3OWRmYmc0UlRENGE2MUd0Vl83bFI3aFdxTldWWmxFYk55bFJ6Y2lCUUZ3?oc=5"
+            "name": "Yahoo News UK",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iY3FlT251UlBUb3ViQnZUUmt6Tk1SVUdkSWJDSzAweld0Ny1OdnBVS3BDTUJib055aTV4d2dJMWRFbGdfNmN6Y3FiUWhPM1pMWWJiTWJrZTg2d3JDcWR4d2hBOGpnSjJKUHpTdDloaW5RZEdE?oc=5"
           },
           {
-            "name": "İlke Haber Ajansı",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVNIV1R2Z2NFRmJvekt5bDdodElkUnA4bjlWS2RCZzNSdVB3TXVvYXJYMlpFLTlXc0lhNUlTVWpuNWFCREd1cHFnaldFOWdjbjdUbmpPWFZKbzZkSExNTlRhSXFXbXVPMnhpVncwbnVwNE8zNTFSZ0sxZWNoajlVa2ZEcmdyNm9FVEMzWQ?oc=5"
+            "name": "RTL Today",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONW5xSmE4bk4wM2pUUzNQM29QUVhlZzFrMGEwREVvajhXSndRX1FDYXpPODdSenltVndIM3NnLTVxWUdsSHBLRFhVUTRCR3BLN2IteHFVN09MZV84RHJsOXJQbzZrZFRtanFUUXJYQjdoRHVoMXRtbGx1a1J1R1ozc3o4djI5ZU1zc0FiN2otNWtaMDIy?oc=5"
           }
         ]
       },
       {
-        "headline": "DRC Ebola Outbreak Surpasses 2,000 Deaths in Record Spread",
+        "headline": "WHO: Ebola outbreak began in February, deaths near 2,000",
         "score": 10.0,
-        "body": "DRC Ebola Outbreak Surpasses 2,000 Deaths in Record Spread.",
-        "verified_figures": [
-          "2,000 Deaths"
-        ],
+        "body": "WHO: Ebola outbreak began in February, deaths near 2,000.",
+        "verified_figures": [],
         "sources": [
           {
-            "name": "streamlinefeed.co.ke",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnFya3U0bFVlSlhXQlJURGlJb0xxMjJHR2VHM0o2bXUzaHlPNUxkQ2dVNFplLWVhS3NKdFFnaHRETWNXLUhvTEFwX2IxekxRSC0yZERGMHRUNFgtR004MnM3QzQ2RjBQLUh6WlgyRHNjZlpDZ0J2ZkZWbnhjVVQxbmVGMjE0SFFhbjVUU0N6NGZIem5hTTQ0?oc=5"
-          },
-          {
-            "name": "cidrap.umn.edu",
+            "name": "CIDRAP",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1I1T1pvWnRJSlc0OXJXd3FLSFkzNkY1aDh0STNmZ2RuQ2l5M0dUWC1QeDZwWk54ZTRmQ0M4empybm1nSGhZWVpGU2lFTmtzRmR1Mkg0c3VtT1lYUVc5alRXYU9qS1hhOUg2azlwVl9nbzRBbHpSMndaNThsUXNMS2hVM0ZzY0JvRzIw?oc=5"
           },
           {
-            "name": "standardmedia.co.ke",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2ZRbWJQcXZ3dnpBSjZLUTFacXJ5NkNxeVhVNkljOVh0OTVRMXhNaDAtM2x5b181QmdvM0NjY2FXUG5UM2dqQ05oMDV3bVJLbzRpWnBIRzFiV3lQS1JvZGtkS1MydUplSzY4dmpsT0RuT1BkRnM2SkVNSjhwZm82QktGUU9RZnEzLUlZblZ5aFJXY3AyQmNyWThocWlSQ2RuMmIwNmxHX0tQRWVXcWxOLTAxeWxSZGVxd1FySVVyTTNCTUxBdHRONg?oc=5"
-          },
-          {
-            "name": "Whalesbook",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUk2dXEwbTlIZk91amhMTnZtd2M3dXRDY0R2YVhyRDE2RFRlc29jRVJoNk5ZMDFjTGFZczJKQ3ZqcWpqMGZRV094SEJUVkxWMzBTNTRwck9ZNnVWWmZXYUNSQ0NNWWJLejNOUmRRQWlqNThQRGN0eEI5SnctOEVEank4SFRQb01VcENkenYzRDVNQlpXU2QzVFd0cl9PbURzSUQ4VXVHNEFvOFZERXBmbGs3blBOYXFVYjMyN1VocWNOdjdnZmlUVy1TX1lybmcyS2NMLWN0aWluY2M?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "Over 2,000 dead in DRC's Ebola outbreak, now fastest-growing on record",
-        "score": 10.0,
-        "body": "Over 2,000 dead in DRC's Ebola outbreak, now fastest-growing on record.",
-        "verified_figures": [
-          "2,000 dead"
-        ],
-        "sources": [
-          {
-            "name": "trtworld.com",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxVjF2Z2N3R2N6Zm1MYmgyeVJRamk4b2x6SExtMFFMNmk5dnUyX2xkUi1yZTlkVV9hM1FwaVZnbnZINldJWXNzVmxOamgtUTNMcWZnRlFPV1A?oc=5"
-          },
-          {
-            "name": "AP News",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF9yUjNXX2h4OXJYMjN4LUdDRS03dGd6MmwzWXM4azBtY2FPMW0zcGsyRXNoRHBoZEhERXNUOTFfd3RYOEhvVEF0WEZuLVp1X0JtdUFFZWlVNlVyeXgtR05sUkc5c19CWW85WmZYRWRCNG9YSHVJVU4xUDZCWjEydDNpSHY1WGs?oc=5"
-          },
-          {
-            "name": "Breaking News, Latest News and Videos",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGlzbWF3ajQtaEJ1YTlfLTh2RXlVbFRsWXZmU0JVdDlzbEFwWlBYei0xQWgyVGZacUpTb1lLcHpDLUt5c2FZb0ZOWWxHcXYyNnVjTjloM2pLUWFPaVZYNVVNQWdMZWpTR3hsWmlzQjlQWmtpbnA2SnhLdVZrRTQyanlHVEQ4WE11VGtYRDJtdE1aOFd2MHBXMGFUNGFBNEJ30gGmAUFVX3lxTE5KRTlmVElwZUxtY1hrMmd2NE9MX0ZLTkJDTVNjek9IRzZkelp0bXAxamp0RlJrbTRaNnVkV1FOaXRZVEcyaFRGY0dWRUE1YlhJaUNsOU56TWFPOXJsckdoVHZIVVJTaFRQUmN1dk9BZHJubUR1aW1QdjV5ckt0RUJYX1RETmJGTkluWkZuZy1CSllTS3hBMWRuSmNaeWdaaVljU1hpWXc?oc=5"
-          },
-          {
-            "name": "KTVB",
-            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeEE2eWxPVENYODNjMlNZTEVUZS0wM1FUeTZ3Yk5CaU5OQnlCTjBIVVotYXlfb0JYc0daZVk3LUplbS1KUjBKaWVDZUxqSFdkRUt0NTM4ZldJalZaMlVMQ1VsaDFNa0trdExyLUYxTXVZazktLU1vaHg2Wm1UWFpXMkVZRUVqMzZBTU5TdlFQcVhwUWxpNVdVYl9MSlBrZ2V1Qy1vblFiaDFkQ3pOREpud1MwVFhURkNheWRtcVdlb2dPOW5HVGZTQUZiRlI2a3QyY2xVV0RIUFhDeTJ1Tm9zaHhldi1ibGlYdmhWVjIwakUxQU5zUHpXakkzOUtGZnkzdE1ESg?oc=5"
+            "name": "Daily Sabah",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFlyaXZqdW9nSmxsdGZNMzFRYWdPLU1WN2d6azBkTkZfZlNyazJyZ1ZxTHc4Q0Q3TjZFTlB2VzVnbHlGbFhkamVOR0F4NDBFT2VNcWo0c3BkLU9FSHg4dzA4V1U4cTlXM1RLMG5KSGZTUlgxSWIyeDJEQ0dpTmRnTWJid1JtTlQ5Nm1xZmJyWkdMdmdnSzRxdldNV0MyQ1E?oc=5"
           }
         ]
       },
@@ -255,6 +237,20 @@
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGFNSi1GdENQZWJxQ1pROG42SF9YSEVOVTBma3pjbC1IUG4wdldsTUJzOU16U1ptT0Myem9nT01ZRVhuYjlOLXJDc09kTl80V1pFdjZuMGZhZjRKMlN5ZFZYZkR0aFg4TVJ4Y1VwbnZ1MV8tMlpvZjJSZEU2VXNjLUxCSGdUMzdQVTVjTXN5T3lzcDB6RFpNUXQ1bHBoTnlldWRHd9IBqgFBVV95cUxQclJ0emliR3RFdkM1aGlmZk5CVHlBOG1jZHV3UHhDRkdySTY1aVduVzhZek5Tc09EbDYwSFN3MHZza29mMm9iVUpFVjlsVFRCZ3ktUXFPbEdUaTMyS3k1ZTE2SjdVcVluZnNMeGgwQUl3YkdfN0RfNW1sLTgyYjJiSFVOTHBZQW83ZkZ6Y1Z0ZjB4bHE1cDVMQmxDSWE4aFEzWEN6d3gya1ZhUQ?oc=5"
           }
         ]
+      },
+      {
+        "headline": "Ebola closes in on 2,000 deaths as DRC outbreak tests limits of response",
+        "score": 10.0,
+        "body": "Ebola closes in on 2,000 deaths as DRC outbreak tests limits of response.",
+        "verified_figures": [
+          "2,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "standardmedia.co.ke",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2ZRbWJQcXZ3dnpBSjZLUTFacXJ5NkNxeVhVNkljOVh0OTVRMXhNaDAtM2x5b181QmdvM0NjY2FXUG5UM2dqQ05oMDV3bVJLbzRpWnBIRzFiV3lQS1JvZGtkS1MydUplSzY4dmpsT0RuT1BkRnM2SkVNSjhwZm82QktGUU9RZnEzLUlZblZ5aFJXY3AyQmNyWThocWlSQ2RuMmIwNmxHX0tQRWVXcWxOLTAxeWxSZGVxd1FySVVyTTNCTUxBdHRONg?oc=5"
+          }
+        ]
       }
     ],
     "Europe": [
@@ -265,7 +261,7 @@
         "verified_figures": [],
         "sources": [
           {
-            "name": "euneighbourseast.eu",
+            "name": "EU NEIGHBOURS east",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOUF2YWVCM3g5VmtkU0NYaHFBUHNBV0RBOGlLYzJLUVlfQm5TMlFrN1RvbXFEVWtMT0NwbVY5SjYxRVpISTZBNHFCdUh3WGRsUkF3U3pGQ09CSEVTeHVvejZhQWRKVnUyZkoyZURzOXJvVlR6ZE04LUV6em50TnJNVm9QNUdVeC1DQVZoemwtdXVSX0VTaHdpQWw4RlRxM2gwaC1nZ3kzQk01QlZUTFNfb1N3dHVRMHhvd1d6ekY0YThQNGNXVkhvai03UUVaOVVhQ1pGSTBXUUpiUHE2THNoNWhaVWpCNkhmWXNGLTZGT242dw?oc=5"
           }
         ]
@@ -283,6 +279,18 @@
         ]
       },
       {
+        "headline": "Not Why. How? The Evacuation of Kramatorsk",
+        "score": 5.0,
+        "body": "Not Why. How? The Evacuation of Kramatorsk.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "www.lvivherald.com",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55SjhnZTV6VGRIYXlQU3lCN0xEMzEzMmR0T19qdkZXY1pnUkhWMG9WYk5FMUZvZGJWQVlsNG9vaHo4NHJiR1FfNm9ManlFdWtHTGZWRmN0WjBDZEVubzFtSmFkLTNNSGwyMnYyOHBLb0J6QWJjR1Q4VzFyT1U?oc=5"
+          }
+        ]
+      },
+      {
         "headline": "CMAC: Beyond casualties, temples, homes, schools, hospitals and tens of thousands of bu...",
         "score": 5.0,
         "body": "CMAC: Beyond casualties, temples, homes, schools, hospitals and tens of thousands of buildings damaged by Thai military.",
@@ -291,18 +299,6 @@
           {
             "name": "Khmer Times",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVNVblN3RVZDR2pLNUxwY0RFaTkxRG94UGlOWDlGeDNGelZ6NVd2Q1R3NXZIekxnY2JxcUc1VlFibnBPbUhKTGRXUERrZWRLSFJDVV9kTU9UWXdiU1lUQWs2ZjY1dVJkM0xKcngwUmFhS0c5Q2M2RUg4OGF2RG9aeS1BRnVIamh3eVJPTG45ZExpN19ZM0h6YkloRGJXc01NSzZ1SDJ3azFsYTlOY29ZZEZtZzBwN1dPR3dibWRhU0lSdUZUMHhBLUp4X0QzeUxMdVZWRUxUWENjWG5lLXA3bWp5dUJZdUowOEE?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia | Associated Press",
-        "score": 4.5,
-        "body": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia | Associated Press.",
-        "verified_figures": [],
-        "sources": [
-          {
-            "name": "ACLED",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWZidGRSOVdic3NDOWoxTkFXRHprZUdxQU1fMkgxeklOOGx4cnZ2ckYtci1Oa3hHMW5aRjRNVU53RlRCZGg3V2tkaFJsSHNFektrMHhBYVpkSzNpVDBQU0N5TUxQWmZsNFFIZU1IZzhKeFlOUW1iMjJqSG1TX1pXRkkyZlNGMG51Q290Q0JsYV91aE9EY1ZpVXJIQTlCbm9zUk5HWkRRdEszR2JrT3Fsbk04Zk4?oc=5"
           }
         ]
       }
@@ -321,38 +317,38 @@
         ]
       },
       {
+        "headline": "Myanmar Junta Airstrike Kills Two Displaced Brothers in Flood-Hit Ayeyarwady Region",
+        "score": 10.0,
+        "body": "Myanmar Junta Airstrike Kills Two Displaced Brothers in Flood-Hit Ayeyarwady Region.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1dXRHk5cDRoTzRTMVdVNFN0ajY1NVlMcTk3S215cWNMTWh0aUV6TFUwLUVHT1BGLWM3ZWxzY1Y5NEphSTdOaGtBdDlXMVNVNGxjZ0ZrNWNhWW0ybV9TVEVnMjhXeGRITW1TdmpNSHROcXFQQ0E3VE5fM19VTGJ5V01wOG5RdFBGZ2RIVlh1MmhhUUlxZWNaWVZzRE5TTk9MbDdwZ1hNakp1U0xWb0ljSTk0UXc?oc=5"
+          }
+        ]
+      },
+      {
         "headline": "Typhoon Dolphin batters China: Hundreds of flights cancelled, lakhs evacuated as floods...",
         "score": 10.0,
         "body": "Typhoon Dolphin batters China: Hundreds of flights cancelled, lakhs evacuated as floods hit east.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "The Times of India",
+            "name": "timesofindia.indiatimes.com",
             "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNHp1blBTRWZaOHVoM2xDb3NiaXgzLWhIclRUSkJyOEhsSTNjUTY4Qk1Hc2x5akQwN2NhMFVLc1N0ZHVYZnVlTUJEdFUzSEhYU2szeUpFMEdGYlVnM1V5blM0T2Q3U3NsYjg5SjI0cWJYMHRBMk1kQlFrdXQ4UGVtWnZVQlNyNjlRR0QzZFdDclhlbFlNN2t0WDl5OGZvSy1mZEsyRFl1SGZxT0psQ3ZyZmdHN1NYa3RSQXlaQTl1TW1icVhENndPNVZiUC1XTkY5VVdleWw4NXBjMlFpQ21QYnZjaGllSjRSVl9IeXFFU3lSUFYyTU9wMFFkanbSAYICQVVfeXFMUHFRcmE4WXJvQXF0SENzcHBWdHp2LU5JU0RwdVpJX0wyYmVvUDBTLVJnc0trMFZQMG83NEZoWU1rRGtzZXctVGpucF81RDY0Y3hsQzM4aWU0MnFFaXBidTJvOEpNRmllRjRFSVZ1N3hrRUNUQVVlZWpkS2JxWWQydC1oNGhJLXY1ZEJtdjhiWmxwOHRnS3FQck9hMk94U0tOWkg1bnI3SGxwcWRvVEM0NzRqMHBZelRzdTJ1NG9YOWN5aDU1X1RtOWNmd0ZBV05nb3N4ZWxRQXd3ZnR2bS1HQ0k1LTN6UDROdVdaLXBfMU1INml5Q3lqOUNqa1lWeXhtNXB3?oc=5"
           }
         ]
       },
       {
-        "headline": "Typhoon Dolphin Landfall in China: Trajectory, Evacuations, and Inland Flood Warnings",
+        "headline": "Typhoon Dolphin Triggers Floods and Evacuations Across Hubei China",
         "score": 10.0,
-        "body": "Typhoon Dolphin Landfall in China: Trajectory, Evacuations, and Inland Flood Warnings.",
+        "body": "Typhoon Dolphin Triggers Floods and Evacuations Across Hubei China.",
         "verified_figures": [],
         "sources": [
           {
-            "name": "Jagran Josh",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZHdQd2szMjJtNTd1TDVva0hkM3Z5TEJPZDdfWnBqc2lXSTBjV01qTkRoQjBJcUlmQjE4dDhqdHNUdHltMVl5V1BqU0hyMmdUSDZRWlpPUWtUWkNHNUVRSF9xTG5qMUlZWFZHS2swVkNmd1F0bno5a0p0elY3dDhwWFhJVFZteVNHLTFyRUIwaVkwU3NaQjc2Nmt2ZjNodw?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "India News | Assam Flood Death Toll Reaches 101 as Several Districts Remain Inundated",
-        "score": 9.0,
-        "body": "India News | Assam Flood Death Toll Reaches 101 as Several Districts Remain Inundated.",
-        "verified_figures": [],
-        "sources": [
-          {
-            "name": "LatestLY",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlhfWFk5RFU5aWZlelk5eERwa3B0ZHlEYVFUWDY1aEg1Rzg3RDBrVkJPN0tOT0hvOXRNazZNcWpFNlRzNHVFalVRTE02ckZhME4zTHdBaE1CeW9NaXctY2NJVHVscG1SOGJvLUQ0VlVhZTUtV1VIRGtoSEVSbmNndTBmbWJXMjFJMUJwd0l3eWptUVRnMkR6Vk1pQmxlUXZMNm9DQmJYVnRycU53UF9RMzFjN195LVg3Ymh2SjFHay13bmdjaktfU1NZdjctUdIB0wFBVV95cUxNRzVQV1BjbF9fLVZhbjVqbFhOd2Vza1BYN1V3U0ZuOGROOHd2cHN0ZERZeEJhNmV1MFp1UEx4TXczblZRTmhYa09LMjhNZ3czX3ZaeEM0LVpYYmpVN29xeXBIQlhBWFo0QTBUT1hoMHZtdTZBVG5qeUpvYmQ3ZGI5LWJpTl9SUzl5QUcyTXU2Tng2ZVFGYkZFZW1SYXFYRTgzdkY3S0RRd01xNnNqQjVydVlEdlU2a2JJazNNenpId1Uxd29Db29EMElSN2dnVGNBRDhF?oc=5"
+            "name": "sekbernews.id",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRTG5kU0d2UnY5em1CSUx3NG5RZUJpQ296czBsa1FwNDBuNUhyTUJjWXFWUjY4T3dkQlR3TE9YdnprZ2xvWFJZNmFqclVVYml6X3B0YmJKX3RmQmkyRGRCMF9PNkJYOThjMzEzOUN0MHAya05Da0dpNVY4bGI?oc=5"
           }
         ]
       }
@@ -365,22 +361,8 @@
         "verified_figures": [],
         "sources": [
           {
-            "name": "cidrap.umn.edu",
+            "name": "CIDRAP",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1I1T1pvWnRJSlc0OXJXd3FLSFkzNkY1aDh0STNmZ2RuQ2l5M0dUWC1QeDZwWk54ZTRmQ0M4empybm1nSGhZWVpGU2lFTmtzRmR1Mkg0c3VtT1lYUVc5alRXYU9qS1hhOUg2azlwVl9nbzRBbHpSMndaNThsUXNMS2hVM0ZzY0JvRzIw?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "Keralam monsoon floods cause 25 deaths and major displacement",
-        "score": 10.0,
-        "body": "Keralam monsoon floods cause 25 deaths and major displacement.",
-        "verified_figures": [
-          "25 deaths"
-        ],
-        "sources": [
-          {
-            "name": "The News Mill",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGRnTUhCdlkxQ2hfa1o4cGswdVFCMnBRbEFiLVpkbHB2YTNvV0M5VlpTdkxQdS1vdHhRdDlPdmhwa2ZZOVhia1BPaEZsVWNhM0MwdkY1dVFudlBaOUpzZzV1OWFMbU1FeW5DbFZqT185UXI5TjhMN0dvUlJnZC1fMVlkVGE3cWdlRTlLTXY1N1JSeTYtalZndDFKU05wN0VTSG83ZjRjWU5hOF9JZ2ZkM293OEltUQ?oc=5"
           }
         ]
       },
@@ -415,20 +397,32 @@
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb005cktSZnMwZ0JjaVZseVVZY0xBNFY2alpjZ212Sl9XeVhaWjhLQ2ZXc2dwX3VUdlhCSFRKazR3RnZYTFFqVlN5OVZ4dDBrZjBBQkdtWUJ3RU9jWVVNYTZhSUNLU1NpakNNbGtRTExRU3dXQkxpR3BIeFVYNUhpczNsbGw3Ulp3b2dIQg?oc=5"
           }
         ]
+      },
+      {
+        "headline": "Ebola outbreak ‘outpacing our response’ – WHO chief",
+        "score": 9.5,
+        "body": "Ebola outbreak ‘outpacing our response’ – WHO chief.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Irish Medical Times",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM3F4aHNmVVdGdWk1TGpWSUltWUsyaUQwdThuYzBVTjRhU1BzMUZyN2xuYWdtUFB0VkdaTUp5VXBNc0Zwbzh1SXdVMGFTRU83bDdmX2JMcndaNlYzOE9FSGZFak9SLWt4ZGMzZnNLSHI5RGdRYWlzQkppdlFnTGtwRmFkN2hzMkk3QVBJ?oc=5"
+          }
+        ]
       }
     ]
   },
   "escalation_risks": [
     {
-      "location": "Ebola deaths surpass 2,000 in Congo: World’s fastest-spreadi",
+      "location": "Ebola closes in on 2,000 deaths as DRC outbreak tests limits",
       "score": 10.0,
       "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
       "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
       "confidence": "Low",
       "sources": [
         {
-          "name": "The Statesman",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGFNSi1GdENQZWJxQ1pROG42SF9YSEVOVTBma3pjbC1IUG4wdldsTUJzOU16U1ptT0Myem9nT01ZRVhuYjlOLXJDc09kTl80V1pFdjZuMGZhZjRKMlN5ZFZYZkR0aFg4TVJ4Y1VwbnZ1MV8tMlpvZjJSZEU2VXNjLUxCSGdUMzdQVTVjTXN5T3lzcDB6RFpNUXQ1bHBoTnlldWRHd9IBqgFBVV95cUxQclJ0emliR3RFdkM1aGlmZk5CVHlBOG1jZHV3UHhDRkdySTY1aVduVzhZek5Tc09EbDYwSFN3MHZza29mMm9iVUpFVjlsVFRCZ3ktUXFPbEdUaTMyS3k1ZTE2SjdVcVluZnNMeGgwQUl3YkdfN0RfNW1sLTgyYjJiSFVOTHBZQW83ZkZ6Y1Z0ZjB4bHE1cDVMQmxDSWE4aFEzWEN6d3gya1ZhUQ?oc=5"
+          "name": "standardmedia.co.ke",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2ZRbWJQcXZ3dnpBSjZLUTFacXJ5NkNxeVhVNkljOVh0OTVRMXhNaDAtM2x5b181QmdvM0NjY2FXUG5UM2dqQ05oMDV3bVJLbzRpWnBIRzFiV3lQS1JvZGtkS1MydUplSzY4dmpsT0RuT1BkRnM2SkVNSjhwZm82QktGUU9RZnEzLUlZblZ5aFJXY3AyQmNyWThocWlSQ2RuMmIwNmxHX0tQRWVXcWxOLTAxeWxSZGVxd1FySVVyTTNCTUxBdHRONg?oc=5"
         }
       ]
     },
@@ -446,6 +440,19 @@
       ]
     },
     {
+      "location": "Myanmar Junta Airstrike Kills Two Displaced Brothers in Floo",
+      "score": 10.0,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Burma News International",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1dXRHk5cDRoTzRTMVdVNFN0ajY1NVlMcTk3S215cWNMTWh0aUV6TFUwLUVHT1BGLWM3ZWxzY1Y5NEphSTdOaGtBdDlXMVNVNGxjZ0ZrNWNhWW0ybV9TVEVnMjhXeGRITW1TdmpNSHROcXFQQ0E3VE5fM19VTGJ5V01wOG5RdFBGZ2RIVlh1MmhhUUlxZWNaWVZzRE5TTk9MbDdwZ1hNakp1U0xWb0ljSTk0UXc?oc=5"
+        }
+      ]
+    },
+    {
       "location": "Typhoon Dolphin batters China: Hundreds of flights cancelled",
       "score": 10.0,
       "trigger": "Renewed fighting or access denial forcing further population movement.",
@@ -453,21 +460,8 @@
       "confidence": "Low",
       "sources": [
         {
-          "name": "The Times of India",
+          "name": "timesofindia.indiatimes.com",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNHp1blBTRWZaOHVoM2xDb3NiaXgzLWhIclRUSkJyOEhsSTNjUTY4Qk1Hc2x5akQwN2NhMFVLc1N0ZHVYZnVlTUJEdFUzSEhYU2szeUpFMEdGYlVnM1V5blM0T2Q3U3NsYjg5SjI0cWJYMHRBMk1kQlFrdXQ4UGVtWnZVQlNyNjlRR0QzZFdDclhlbFlNN2t0WDl5OGZvSy1mZEsyRFl1SGZxT0psQ3ZyZmdHN1NYa3RSQXlaQTl1TW1icVhENndPNVZiUC1XTkY5VVdleWw4NXBjMlFpQ21QYnZjaGllSjRSVl9IeXFFU3lSUFYyTU9wMFFkanbSAYICQVVfeXFMUHFRcmE4WXJvQXF0SENzcHBWdHp2LU5JU0RwdVpJX0wyYmVvUDBTLVJnc0trMFZQMG83NEZoWU1rRGtzZXctVGpucF81RDY0Y3hsQzM4aWU0MnFFaXBidTJvOEpNRmllRjRFSVZ1N3hrRUNUQVVlZWpkS2JxWWQydC1oNGhJLXY1ZEJtdjhiWmxwOHRnS3FQck9hMk94U0tOWkg1bnI3SGxwcWRvVEM0NzRqMHBZelRzdTJ1NG9YOWN5aDU1X1RtOWNmd0ZBV05nb3N4ZWxRQXd3ZnR2bS1HQ0k1LTN6UDROdVdaLXBfMU1INml5Q3lqOUNqa1lWeXhtNXB3?oc=5"
-        }
-      ]
-    },
-    {
-      "location": "Typhoon Dolphin Landfall in China: Trajectory, Evacuations, ",
-      "score": 10.0,
-      "trigger": "Renewed fighting or access denial forcing further population movement.",
-      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
-      "confidence": "Low",
-      "sources": [
-        {
-          "name": "Jagran Josh",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZHdQd2szMjJtNTd1TDVva0hkM3Z5TEJPZDdfWnBqc2lXSTBjV01qTkRoQjBJcUlmQjE4dDhqdHNUdHltMVl5V1BqU0hyMmdUSDZRWlpPUWtUWkNHNUVRSF9xTG5qMUlZWFZHS2swVkNmd1F0bno5a0p0elY3dDhwWFhJVFZteVNHLTFyRUIwaVkwU3NaQjc2Nmt2ZjNodw?oc=5"
         }
       ]
     }
@@ -478,11 +472,16 @@
       "Al Jazeera English",
       "France 24 English",
       "The Guardian",
+      "Washington Post",
       "Xinhua English World"
     ],
     "all_sources": [
       {
-        "name": "Jagran Josh",
+        "name": "Burma News International",
+        "count": 2
+      },
+      {
+        "name": "CIDRAP",
         "count": 2
       },
       {
@@ -490,28 +489,16 @@
         "count": 2
       },
       {
-        "name": "The Statesman",
-        "count": 2
-      },
-      {
-        "name": "The Times of India",
-        "count": 2
-      },
-      {
         "name": "Xinhua",
         "count": 2
       },
       {
-        "name": "cidrap.umn.edu",
+        "name": "standardmedia.co.ke",
         "count": 2
       },
       {
-        "name": "ACLED",
-        "count": 1
-      },
-      {
-        "name": "AP News",
-        "count": 1
+        "name": "timesofindia.indiatimes.com",
+        "count": 2
       },
       {
         "name": "Al Jazeera",
@@ -522,15 +509,7 @@
         "count": 1
       },
       {
-        "name": "Anadolu Ajansı",
-        "count": 1
-      },
-      {
         "name": "BBC",
-        "count": 1
-      },
-      {
-        "name": "Breaking News, Latest News and Videos",
         "count": 1
       },
       {
@@ -538,7 +517,15 @@
         "count": 1
       },
       {
+        "name": "Daily Sabah",
+        "count": 1
+      },
+      {
         "name": "Dawn",
+        "count": 1
+      },
+      {
+        "name": "EU NEIGHBOURS east",
         "count": 1
       },
       {
@@ -546,7 +533,15 @@
         "count": 1
       },
       {
-        "name": "Euronews.com",
+        "name": "Euronews",
+        "count": 1
+      },
+      {
+        "name": "FOX 35 Orlando",
+        "count": 1
+      },
+      {
+        "name": "Fox News",
         "count": 1
       },
       {
@@ -562,7 +557,7 @@
         "count": 1
       },
       {
-        "name": "KTVB",
+        "name": "Irish Medical Times",
         "count": 1
       },
       {
@@ -570,15 +565,23 @@
         "count": 1
       },
       {
-        "name": "LatestLY",
-        "count": 1
-      },
-      {
         "name": "Le Monde.fr",
         "count": 1
       },
       {
+        "name": "News On AIR",
+        "count": 1
+      },
+      {
+        "name": "PBS",
+        "count": 1
+      },
+      {
         "name": "PressReader",
+        "count": 1
+      },
+      {
+        "name": "RTL Today",
         "count": 1
       },
       {
@@ -590,7 +593,7 @@
         "count": 1
       },
       {
-        "name": "The Conversation",
+        "name": "The Business Standard",
         "count": 1
       },
       {
@@ -598,23 +601,23 @@
         "count": 1
       },
       {
-        "name": "The News Mill",
+        "name": "The Hindu",
         "count": 1
       },
       {
-        "name": "WFAA",
+        "name": "The News International",
         "count": 1
       },
       {
-        "name": "WOGX",
+        "name": "The Statesman",
         "count": 1
       },
       {
-        "name": "Whalesbook",
+        "name": "The Washington Post",
         "count": 1
       },
       {
-        "name": "euneighbourseast.eu",
+        "name": "Yahoo News UK",
         "count": 1
       },
       {
@@ -622,11 +625,7 @@
         "count": 1
       },
       {
-        "name": "standardmedia.co.ke",
-        "count": 1
-      },
-      {
-        "name": "streamlinefeed.co.ke",
+        "name": "sekbernews.id",
         "count": 1
       },
       {
@@ -634,15 +633,7 @@
         "count": 1
       },
       {
-        "name": "tovima.com",
-        "count": 1
-      },
-      {
-        "name": "trtworld.com",
-        "count": 1
-      },
-      {
-        "name": "İlke Haber Ajansı",
+        "name": "www.lvivherald.com",
         "count": 1
       },
       {
@@ -651,16 +642,16 @@
       }
     ],
     "limitations": [
-      "20 item(s) had no extractable figures in available reporting.",
+      "21 item(s) had no extractable figures in available reporting.",
       "24 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
-      "Regional analysis and writing: 0/6 region(s) with candidate material generated via GitHub Models (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
     ],
     "coverage_snapshot": {
-      "outlets_reviewed": 18,
-      "themes_searched": 43,
-      "items_considered": 944,
-      "sources_cited": 42
+      "outlets_reviewed": 17,
+      "themes_searched": 31,
+      "items_considered": 982,
+      "sources_cited": 41
     },
-    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS and the public ReliefWeb API."
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
   }
 }
