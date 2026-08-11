@@ -27,6 +27,7 @@ change behaviour.
 | Original instruction | Where it lives now |
 |---|---|
 | Outlet hierarchy (Reuters, AFP, BBC...) | `scripts/config.py` → `SOURCE_HIERARCHY`, used to pick the lead source in a dedup cluster and to populate "strongest sources" |
+| Required outlet review (search each named outlet directly) | `scripts/config.py` → `OUTLET_RSS_FEEDS` and `scripts/fetch.py` → `fetch_outlet_rss()`. Only outlets with a reliable public RSS feed are covered this way (BBC, Al Jazeera English, The Guardian, France 24 English) — Reuters and AFP don't run public RSS feeds and are only reached indirectly via Google News aggregation, same as before. This was added after a real gap surfaced in practice: a Google-News-only run missed a major typhoon story that BBC's own feed caught immediately. |
 | Required themes to search | `scripts/config.py` → `THEMES`, queried against Google News RSS in `scripts/fetch.py` |
 | Priority crises (Gaza, Sudan, Ukraine...) | `scripts/config.py` → `PRIORITY_CRISIS_TERMS`, adds a scoring bonus in `scripts/analyze.py` |
 | Region grouping (Middle East, Africa...) | `scripts/config.py` → `COUNTRY_REGION`, applied in `analyze.classify_region()` |
