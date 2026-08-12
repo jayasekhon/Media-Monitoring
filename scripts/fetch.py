@@ -249,19 +249,32 @@ def fetch_all():
 
     Returns (items, theme_region_map) where theme_region_map lets the
     caller look up each item's default region via its matched_theme.
+
+    Prints a per-source breakdown as it goes — deliberately, so "did
+    outlet X even get fetched, and how much" is answerable directly from
+    the Actions log rather than requiring a manual investigation each
+    time it comes up (as it repeatedly has).
     """
     all_items = []
     theme_region_map = {theme: region for theme, region in THEMES}
 
+    theme_total = 0
     for theme, _region in THEMES:
-        all_items.extend(fetch_google_news(theme))
+        items = fetch_google_news(theme)
+        theme_total += len(items)
+        all_items.extend(items)
+    print(f"Google News theme searches: {theme_total} item(s) across {len(THEMES)} themes.")
 
     for source_name, feed_url in OUTLET_RSS_FEEDS:
-        all_items.extend(fetch_outlet_rss(source_name, feed_url))
+        items = fetch_outlet_rss(source_name, feed_url)
+        print(f"Outlet RSS — {source_name}: {len(items)} item(s).")
+        all_items.extend(items)
         theme_region_map.setdefault(f"__outlet_rss__{source_name}", "Global / Cross-Cutting")
 
     for source_name, domain in GOOGLE_NEWS_DOMAIN_SOURCES:
-        all_items.extend(fetch_google_news_domain(source_name, domain))
+        items = fetch_google_news_domain(source_name, domain)
+        print(f"Google News domain search — {source_name} ({domain}): {len(items)} item(s).")
+        all_items.extend(items)
         theme_region_map.setdefault(f"__domain_via_google_news__{source_name}", "Global / Cross-Cutting")
 
     return all_items, theme_region_map

@@ -179,10 +179,19 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
     raw_items, theme_region_map = fetch_all()
     print(f"Fetched {len(raw_items)} raw items before filtering.")
 
+    # Track SOURCE_HIERARCHY outlets specifically through filtering — this
+    # is what actually answers "why isn't Reuters/AP/Washington Post
+    # showing up": were they fetched at all, and did they survive the
+    # relevance floor? A domain-trick or outlet-RSS fetch returning zero
+    # results is a different problem (see fetch_all()'s per-source log
+    # lines) than a fetch that found plenty but lost all of it here.
+    hierarchy_fetched = Counter(it["source"] for it in raw_items if is_hierarchy_source(it.get("source", "")))
+
     filtered = [it for it in raw_items if it.get("title") and not is_blocklisted(it["title"])]
 
     enriched = []
     dropped_irrelevant = 0
+    hierarchy_survived = Counter()
     for it in filtered:
         default_region = theme_region_map.get(it["matched_theme"], "Global / Cross-Cutting")
         region = classify_region(it["title"], it["description"], default_region)
@@ -190,6 +199,8 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
         if len(matched_keywords) < MIN_KEYWORD_HITS_FOR_INCLUSION:
             dropped_irrelevant += 1
             continue
+        if is_hierarchy_source(it.get("source", "")):
+            hierarchy_survived[it["source"]] += 1
         it2 = dict(it)
         it2["region"] = region
         it2["score"] = score
@@ -197,6 +208,10 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
         enriched.append(it2)
     if dropped_irrelevant:
         print(f"Dropped {dropped_irrelevant} item(s) with no matched severity keywords (likely false-positive search hits).")
+    if hierarchy_fetched:
+        print("Priority-source fetch/survival (fetched → survived relevance floor):")
+        for name in sorted(hierarchy_fetched, key=lambda n: -hierarchy_fetched[n]):
+            print(f"  {name}: {hierarchy_fetched[name]} → {hierarchy_survived.get(name, 0)}")
 
     by_region = defaultdict(list)
     for it in enriched:
@@ -280,6 +295,21 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
     resolved_link_count, resolved_link_attempted = resolve_published_source_links(sections, escalation_risks)
     if resolved_link_attempted:
         print(f"Published-link resolution: {resolved_link_count}/{resolved_link_attempted} succeeded.")
+
+    if hierarchy_fetched:
+        hierarchy_published = Counter()
+        for reports in sections.values():
+            for rep in reports:
+                for s in rep.get("sources", []):
+                    if is_hierarchy_source(s.get("name", "")):
+                        hierarchy_published[s["name"]] += 1
+        for risk in escalation_risks:
+            for s in risk.get("sources", []):
+                if is_hierarchy_source(s.get("name", "")):
+                    hierarchy_published[s["name"]] += 1
+        print("Priority-source fetch → survived floor → actually published:")
+        for name in sorted(hierarchy_fetched, key=lambda n: -hierarchy_fetched[n]):
+            print(f"  {name}: {hierarchy_fetched[name]} → {hierarchy_survived.get(name, 0)} → {hierarchy_published.get(name, 0)}")
 
     all_sources_used = set()
     source_counter = Counter()
