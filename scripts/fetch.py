@@ -107,6 +107,15 @@ OUTLET_RSS_FEEDS = [
     ("Al Jazeera English", "https://www.aljazeera.com/xml/rss/all.xml"),
     ("The Guardian", "https://www.theguardian.com/world/rss"),
     ("France 24 English", "https://www.france24.com/en/rss"),
+    # Washington Post was previously only listed in SOURCE_HIERARCHY (for
+    # ranking/citation display) with NO fetch path at all — it could only
+    # ever appear by accident via a generic theme search happening to
+    # surface a wapo.com byline, which in practice wasn't happening (it
+    # appeared zero times across the first two real, live editions this
+    # pipeline generated). Unlike Reuters/AFP, Washington Post's own site
+    # has a genuine, currently-live public World RSS feed — same
+    # direct-outlet pattern as the four above, so add it the same way.
+    ("Washington Post", "https://feeds.washingtonpost.com/rss/world"),
 ]
 
 
@@ -119,12 +128,22 @@ OUTLET_RSS_FEEDS = [
 # fetch_google_news(), so it shares that parsing/cleanup logic; only the
 # query construction differs.
 #
-# Yield varies by outlet and hasn't been verified live for all three:
-# AP's public-facing apnews.com is a strong, mostly-open news portal, so
-# this worked well there. AFP's afp.com is more corporate-facing with a
-# lot of content only partially available without a subscription, so
-# afp.com may yield noticeably fewer usable results than the other two —
-# worth checking real output rather than assuming parity.
+# Yield varies by outlet, now checked against real output: across the
+# first two live editions this pipeline generated (2026-08-11, 08-12),
+# AP contributed real items via this path; Reuters and AFP contributed
+# ZERO between them, not just "fewer" as originally guessed.
+#
+# The query itself isn't the problem — `when:24h allinurl:{domain}` is
+# byte-for-byte the same construction as the original reference technique
+# this mechanism is based on (a 2020 writeup on generating a Reuters feed
+# via Google News RSS). The likely real cause: Reuters put up a metered
+# paywall on reuters.com in October 2024, well after that technique was
+# built for what was then a fully open site — Google News' index of a
+# now-gated domain plausibly explains the drop to near-zero. AFP's
+# afp.com has reportedly been similarly corporate/gated for longer. This
+# is a plausible explanation, not a confirmed one — worth checking a real
+# Actions log's "Google News domain search — Reuters/AFP" line over a few
+# more days before deciding whether to keep, replace, or drop these two.
 # ---------------------------------------------------------------------------
 GOOGLE_NEWS_DOMAIN_SOURCES = [
     ("Associated Press", "apnews.com"),
