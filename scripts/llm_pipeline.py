@@ -20,8 +20,12 @@ limits. See docs_GEMINI_SETUP.md.
 """
 import json
 
-from config import MAX_ITEMS_PER_REGION, MAX_ESCALATION_RISKS, SOURCE_HIERARCHY, REGION_ORDER
+from config import (
+    MAX_ITEMS_PER_REGION, MAX_ESCALATION_RISKS, SOURCE_HIERARCHY, REGION_ORDER,
+    MAX_SOURCES_PER_ITEM,
+)
 from llm_client import call_json, LLMCallError
+from analyze import is_hierarchy_source
 
 # Condensed from prompts/EDITORIAL_POLICY.md's verbatim original prompt —
 # keep the two in sync if you edit the analytical rules. Kept short
@@ -72,6 +76,41 @@ Select up to {MAX_ITEMS_PER_REGION} of the most significant, genuinely distinct 
 Use the exact "url" values from the material above in "sources" — don't invent or alter them. If nothing in the material meets inclusion criteria, respond with {{"reports": []}}."""
 
 
+def _restrict_additional_sources_to_hierarchy(sources: list[dict]) -> list[dict]:
+    """Mirrors the rule-based path's source-hierarchy restriction
+    (analyze.dedup_items and build_edition.corroborate_report_sources):
+    the PRIMARY source for a development can be any outlet — it may be
+    the only one that covered the story at all — but any ADDITIONAL
+    sources beyond the first are only kept if they're hierarchy-listed.
+
+    The rule-based path enforces this in code. The LLM path previously
+    didn't: SYSTEM_POLICY only tells the model to *prefer* higher-ranked
+    outlets when facts conflict, never to omit weaker ones from the
+    sources list entirely, so a region built via Gemini could (and in
+    real editions, did) list minor outlets like a random regional site
+    as a secondary source purely because they happened to be in that
+    region's candidate pool — silently undermining the "strongest
+    sources" guarantee for the majority of the site's daily output
+    (the LLM path handles most regions most days). Enforcing this here,
+    deterministically, doesn't depend on prompt compliance.
+    """
+    if not sources:
+        return sources
+    kept = [sources[0]]
+    seen_names = {sources[0].get("name", "")}
+    for s in sources[1:]:
+        name = s.get("name", "")
+        if name in seen_names:
+            continue
+        if not is_hierarchy_source(name):
+            continue
+        seen_names.add(name)
+        kept.append(s)
+        if len(kept) >= MAX_SOURCES_PER_ITEM:
+            break
+    return kept
+
+
 def build_region_reports_via_llm(region: str, candidates: list[dict]):
     """Returns a list of report dicts matching the schema's reportList
     shape, or None if the call failed (caller falls back to rule-based).
@@ -90,6 +129,7 @@ def build_region_reports_via_llm(region: str, candidates: list[dict]):
             r["score"] = max(0.0, min(10.0, float(r["score"])))
             for s in r["sources"]:
                 s.setdefault("url", "")
+            r["sources"] = _restrict_additional_sources_to_hierarchy(r["sources"])
         return reports[:MAX_ITEMS_PER_REGION]
     except (LLMCallError, KeyError, AssertionError, TypeError, ValueError) as e:
         print(f"::warning::LLM region call failed for '{region}', falling back to rule-based generation: {e}")
@@ -127,6 +167,12 @@ def build_synthesis_via_llm(sections: dict):
         for risk in result["escalation_risks"]:
             risk["score"] = max(0.0, min(10.0, float(risk.get("score", 5.0))))
             risk.setdefault("sources", [])
+            # Same reasoning as the region-report fix above: the prompt
+            # asks the model to draw sources only from the reports already
+            # built (which are hierarchy-clean by this point), but that's
+            # a prompt-level ask, not a code-level guarantee — enforce it
+            # here too rather than trusting compliance.
+            risk["sources"] = _restrict_additional_sources_to_hierarchy(risk["sources"])
             if risk["confidence"] not in ("Low", "Medium", "High"):
                 risk["confidence"] = "Medium"
         result["top_story"]["score"] = max(0.0, min(10.0, float(result["top_story"].get("score", 5.0))))
