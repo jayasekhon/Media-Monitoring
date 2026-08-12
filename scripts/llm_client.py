@@ -34,6 +34,14 @@ DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 REQUEST_TIMEOUT = 60
 MAX_RETRIES = 3
 
+# Once a call exhausts all its retries on 429s, quota is almost certainly
+# gone for the rest of this run (a daily/quota-window limit doesn't clear
+# in the few seconds retry backoff covers) — retrying every subsequent
+# region call the same way just burns ~14s of wasted backoff per region
+# proving the same thing again. This flag is set the first time that
+# happens, and checked before any later call even attempts a request.
+_quota_exhausted = False
+
 
 class LLMCallError(Exception):
     """Raised for any failure calling the Gemini API — missing key, rate
@@ -41,6 +49,16 @@ class LLMCallError(Exception):
     Callers should catch this specifically and fall back to rule-based
     generation rather than let one bad call break the whole edition.
     """
+
+
+def reset_quota_state():
+    """Resets the _quota_exhausted latch. Not needed for normal daily
+    runs (each is a fresh process, so the flag starts False naturally) —
+    provided for tests or any other case that calls call_json() more
+    than once within the same Python process.
+    """
+    global _quota_exhausted
+    _quota_exhausted = False
 
 
 def _get_token() -> str:
@@ -75,7 +93,20 @@ def call_json(system_prompt: str, user_prompt: str, model: str = None, temperatu
     rate limiting (HTTP 429) with backoff. Raises LLMCallError on any
     failure after retries are exhausted — never returns a partial or
     guessed result.
+
+    If a previous call this run already exhausted its retries on 429s
+    (see _quota_exhausted above), this raises immediately without
+    attempting a request at all — the quota isn't coming back in the
+    next few seconds, so there's nothing to gain from trying again, only
+    ~14s of wasted retry backoff per remaining call.
     """
+    global _quota_exhausted
+    if _quota_exhausted:
+        raise LLMCallError(
+            "Skipped — a previous call this run exhausted its retries on HTTP 429 (quota exceeded), "
+            "so further Gemini calls this run are being skipped rather than each wasting a full retry cycle."
+        )
+
     key = _get_token()
     model = model or DEFAULT_MODEL
     headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json"}
@@ -118,5 +149,9 @@ def call_json(system_prompt: str, user_prompt: str, model: str = None, temperatu
             last_error = LLMCallError(f"Gemini API call failed (attempt {attempt}/{MAX_RETRIES}): {e}")
             print(f"::warning::{last_error}")
             time.sleep(min(10, 2 * attempt))
+
+    if isinstance(last_error, LLMCallError) and "Rate limited" in str(last_error):
+        _quota_exhausted = True
+        print("::warning::Gemini quota appears exhausted for this run — skipping remaining LLM calls, falling back to rule-based for the rest of this run.")
 
     raise last_error or LLMCallError("Unknown failure calling the Gemini API")
