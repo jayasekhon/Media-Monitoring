@@ -74,12 +74,39 @@ STOPWORDS = {
 }
 
 
-def _title_similarity(a: str, b: str) -> float:
+def hierarchy_match_index(name: str):
+    """Returns the SOURCE_HIERARCHY index `name` matches, or None if it
+    doesn't match any hierarchy-listed outlet. Bidirectional substring
+    check: outlets are often reported under a shortened byline (Google
+    News gives "Al Jazeera", "France 24" rather than the fuller
+    "Al Jazeera English", "France 24 English" used in the hierarchy
+    list), so a one-directional check misses real matches and silently
+    demotes major outlets to "unranked".
+    """
+    name_low = name.lower()
+    for i, s in enumerate(SOURCE_HIERARCHY):
+        s_low = s.lower()
+        if s_low in name_low or name_low in s_low:
+            return i
+    return None
+
+
+def is_hierarchy_source(name: str) -> bool:
+    """Whether `name` matches any outlet in SOURCE_HIERARCHY — used by
+    the corroboration check to restrict "additional sources" to
+    priority-listed outlets rather than any outlet that happened to be
+    fetched.
+    """
+    return hierarchy_match_index(name) is not None
+
+
+def title_similarity(a: str, b: str) -> float:
     """Hybrid similarity: character-level ratio (catches near-identical
     wording) blended with word-overlap Jaccard on non-stopword tokens
     (catches same story worded differently, e.g. 'Gaza hunger crisis
     deepens as 67 percent face food insecurity' vs 'UN: 67 percent of
-    Gazans face food insecurity amid ongoing crisis').
+    Gazans face food insecurity amid ongoing crisis'). Used both for
+    dedup (below) and for the corroboration check in build_edition.py.
     """
     seq_ratio = SequenceMatcher(None, a.lower(), b.lower()).ratio()
     tokens_a = {w for w in a.lower().split() if w not in STOPWORDS and len(w) > 2}
@@ -97,22 +124,13 @@ def dedup_items(items: list[dict], threshold: float = 0.42) -> list[dict]:
     clusters: list[dict] = []
 
     def source_rank(name: str) -> int:
-        name_low = name.lower()
-        for i, s in enumerate(SOURCE_HIERARCHY):
-            s_low = s.lower()
-            # Bidirectional substring check: outlets are often reported under
-            # a shortened byline (Google News gives "Al Jazeera", "France 24"
-            # rather than the fuller "Al Jazeera English", "France 24 English"
-            # used in the hierarchy list), so a one-directional check misses
-            # real matches and silently demotes major outlets to "unranked".
-            if s_low in name_low or name_low in s_low:
-                return i
-        return len(SOURCE_HIERARCHY) + 1
+        idx = hierarchy_match_index(name)
+        return idx if idx is not None else len(SOURCE_HIERARCHY) + 1
 
     for item in items:
         placed = False
         for cluster in clusters:
-            if _title_similarity(item["title"], cluster["title"]) >= threshold:
+            if title_similarity(item["title"], cluster["title"]) >= threshold:
                 cluster["members"].append(item)
                 placed = True
                 break

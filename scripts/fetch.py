@@ -101,6 +101,23 @@ OUTLET_RSS_FEEDS = [
 ]
 
 
+# ---------------------------------------------------------------------------
+# Google-News-as-pseudo-RSS for outlets with no public RSS feed of their
+# own (Reuters, AFP, AP all fall in this bucket) — uses Google's
+# `allinurl:` search operator to scope results to one outlet's domain,
+# giving an outlet-specific feed via Google News' search rather than a
+# real RSS endpoint. Same Google News RSS response shape as
+# fetch_google_news(), so it shares that parsing/cleanup logic; only the
+# query construction differs. Add more (name, domain) pairs here if you
+# find other outlets this works well for — Reuters (reuters.com) is the
+# obvious next candidate given it's top of the source hierarchy and also
+# has no public RSS.
+# ---------------------------------------------------------------------------
+GOOGLE_NEWS_DOMAIN_SOURCES = [
+    ("Associated Press", "apnews.com"),
+]
+
+
 def _parse_google_news_source(title: str):
     """Google News RSS titles are usually 'Headline - Source Name'."""
     if " - " in title:
@@ -109,10 +126,17 @@ def _parse_google_news_source(title: str):
     return title.strip(), "Google News"
 
 
-def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
-    """Fetch Google News RSS results for one theme, last `window_hours`."""
-    query = urllib.parse.quote(f"{theme} when:1d")
-    url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+def _fetch_google_news_query(query: str, matched_theme: str, origin: str,
+                              window_hours: int = MONITORING_WINDOW_HOURS,
+                              force_source_name: str = None):
+    """Shared fetch+parse logic for any Google News RSS search query —
+    used by both fetch_google_news() (theme search) and
+    fetch_google_news_domain() (domain-scoped search). `force_source_name`
+    overrides whatever Google's title-suffix parsing produces, for
+    domain-scoped queries where we already know the outlet and want a
+    consistent name rather than however Google happens to label it.
+    """
+    url = f"https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=en-US&gl=US&ceid=US:en"
     items = []
     try:
         resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
@@ -125,6 +149,8 @@ def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
             if published_ts is not None and published_ts < cutoff:
                 continue
             headline, source_name = _parse_google_news_source(entry.get("title", ""))
+            if force_source_name:
+                source_name = force_source_name
             description = _clean_google_description(headline, source_name, entry.get("summary", ""))
             items.append({
                 "title": headline,
@@ -133,12 +159,28 @@ def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
                 "source": source_name,
                 "published": datetime.fromtimestamp(published_ts, tz=timezone.utc).isoformat()
                              if published_ts else None,
-                "matched_theme": theme,
-                "origin": "google_news",
+                "matched_theme": matched_theme,
+                "origin": origin,
             })
     except (requests.RequestException, Exception) as e:  # noqa: BLE001
-        print(f"::warning::Google News fetch failed for theme '{theme}': {e}")
+        print(f"::warning::Google News fetch failed for query '{query}': {e}")
     return items
+
+
+def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
+    """Fetch Google News RSS results for one theme, last `window_hours`."""
+    return _fetch_google_news_query(f"{theme} when:1d", theme, "google_news", window_hours)
+
+
+def fetch_google_news_domain(source_name: str, domain: str, window_hours: int = MONITORING_WINDOW_HOURS):
+    """Fetch Google News RSS results scoped to one outlet's domain via
+    the `allinurl:` operator — see GOOGLE_NEWS_DOMAIN_SOURCES above.
+    """
+    matched_theme = f"__domain_via_google_news__{source_name}"
+    return _fetch_google_news_query(
+        f"when:24h allinurl:{domain}", matched_theme, "google_news_domain",
+        window_hours, force_source_name=source_name,
+    )
 
 
 def fetch_outlet_rss(source_name: str, feed_url: str, window_hours: int = MONITORING_WINDOW_HOURS):
@@ -187,7 +229,8 @@ def fetch_outlet_rss(source_name: str, feed_url: str, window_hours: int = MONITO
 
 
 def fetch_all():
-    """Fetch everything: Google News per theme + direct outlet RSS feeds.
+    """Fetch everything: Google News per theme + direct outlet RSS feeds
+    + Google-News-domain-scoped feeds for outlets with no real RSS.
 
     Returns (items, theme_region_map) where theme_region_map lets the
     caller look up each item's default region via its matched_theme.
@@ -201,6 +244,10 @@ def fetch_all():
     for source_name, feed_url in OUTLET_RSS_FEEDS:
         all_items.extend(fetch_outlet_rss(source_name, feed_url))
         theme_region_map.setdefault(f"__outlet_rss__{source_name}", "Global / Cross-Cutting")
+
+    for source_name, domain in GOOGLE_NEWS_DOMAIN_SOURCES:
+        all_items.extend(fetch_google_news_domain(source_name, domain))
+        theme_region_map.setdefault(f"__domain_via_google_news__{source_name}", "Global / Cross-Cutting")
 
     return all_items, theme_region_map
 

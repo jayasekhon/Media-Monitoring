@@ -29,12 +29,13 @@ from jsonschema import validate, ValidationError
 from config import (
     REGION_ORDER, MAX_ITEMS_PER_REGION, MAX_ESCALATION_RISKS,
     LLM_CANDIDATE_POOL_SIZE, SOURCE_HIERARCHY, THEMES,
-    MIN_KEYWORD_HITS_FOR_INCLUSION,
+    MIN_KEYWORD_HITS_FOR_INCLUSION, CORROBORATION_SIMILARITY_THRESHOLD,
+    MAX_SOURCES_PER_ITEM,
 )
 from fetch import fetch_all, enrich_items_with_article_text
 from analyze import (
     is_blocklisted, classify_region, score_item, extract_verified_figures,
-    dedup_items,
+    dedup_items, is_hierarchy_source, title_similarity,
 )
 from summarize import (
     build_body, build_top_five_line, build_top_story_quote,
@@ -125,6 +126,42 @@ def build_synthesis_rule_based(sections: dict, all_used_items: list[dict]) -> di
     return {"top_five": top_five, "top_story": top_story, "escalation_risks": escalation_risks}
 
 
+def corroborate_report_sources(report: dict, full_pool: list[dict]) -> int:
+    """Scan `full_pool` — the region's FULL already-fetched-and-deduped
+    candidate list, not just the smaller subset actually offered to the
+    LLM (LLM_CANDIDATE_POOL_SIZE) — for additional priority-source
+    coverage of the same story `report` covers, and append any found to
+    report['sources']. No new network calls: this only re-examines data
+    already fetched this run.
+
+    Restricted to outlets in SOURCE_HIERARCHY (is_hierarchy_source) —
+    the point is corroboration from outlets worth trusting, not padding
+    the sources list with whatever else happened to be fetched.
+
+    Returns how many additional sources were added.
+    """
+    existing_urls = {s.get("url", "") for s in report["sources"] if s.get("url")}
+    existing_names = {s["name"] for s in report["sources"]}
+    added = 0
+    for candidate in full_pool:
+        if len(report["sources"]) >= MAX_SOURCES_PER_ITEM:
+            break
+        link = candidate.get("link", "")
+        if link and link in existing_urls:
+            continue  # already counted as a source for this report
+        if candidate["source"] in existing_names:
+            continue
+        if not is_hierarchy_source(candidate["source"]):
+            continue
+        if title_similarity(report["headline"], candidate["title"]) >= CORROBORATION_SIMILARITY_THRESHOLD:
+            report["sources"].append({"name": candidate["source"], "url": link})
+            existing_names.add(candidate["source"])
+            if link:
+                existing_urls.add(link)
+            added += 1
+    return added
+
+
 def run(date_str: str, out_dir: Path, use_llm: bool = True):
     print(f"Building edition for {date_str}...")
 
@@ -166,9 +203,11 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
         by_region[it["region"]].append(it)
 
     candidate_pool_by_region = {}
+    full_deduped_by_region = {}
     for region, items in by_region.items():
         deduped = dedup_items(items)
         deduped.sort(key=lambda x: x["score"], reverse=True)
+        full_deduped_by_region[region] = deduped  # kept in full for the corroboration check later
         candidate_pool_by_region[region] = deduped[:LLM_CANDIDATE_POOL_SIZE]
 
     pool_items = [it for region in REGION_ORDER for it in candidate_pool_by_region.get(region, [])]
@@ -206,6 +245,15 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
                     thin_body_count += 1
             all_used_items.extend(candidates[:len(reports)])
         sections[region] = reports
+
+    # Corroboration check — re-scan each region's full candidate pool
+    # (not just what was offered to the LLM) for additional priority-
+    # source coverage of each published item. No new network calls.
+    corroborated_count = 0
+    for region in REGION_ORDER:
+        pool = full_deduped_by_region.get(region, [])
+        for rep in sections[region]:
+            corroborated_count += corroborate_report_sources(rep, pool)
 
     synthesis = None
     synthesis_method = "rule-based"
@@ -262,6 +310,12 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
         limitations.append(
             f"{thin_body_count} item(s) fell back to rule-based generation with little real summary text "
             "available from source feeds — body text for these is limited to the headline."
+        )
+    if corroborated_count:
+        limitations.append(
+            f"Corroboration check added {corroborated_count} additional priority-source citation(s) to "
+            "already-selected items, found by re-scanning material already fetched this run (no new "
+            "network calls) — restricted to outlets in the source hierarchy."
         )
     if llm_available:
         llm_regions = [r for r, m in region_method.items() if m == "llm"]

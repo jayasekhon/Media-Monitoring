@@ -102,7 +102,7 @@ COUNTRY_REGION = {
 # knowing about, not a non-issue.
 # ---------------------------------------------------------------------------
 PRIORITY_CRISIS_TERMS = [
-    "gaza", "palestine", "israel", "iran", "sudan", "ukraine", "congo", "drc",
+    "gaza", "palestin", "israel", "iran", "sudan", "ukraine", "congo", "drc",
     "syria", "yemen", "lebanon", "haiti", "myanmar", "afghanistan", "mali",
     "burkina faso", "sahel", "ebola", "cholera", "mpox",
     # Major natural disasters get the same "always prioritise" bonus the
@@ -166,7 +166,14 @@ MIN_KEYWORD_HITS_FOR_INCLUSION = 1
 # sources" in the footer.
 # ---------------------------------------------------------------------------
 SOURCE_HIERARCHY = [
-    "Reuters", "AFP", "BBC", "Al Jazeera English", "Wall Street Journal",
+    # "Associated Press" (not the short form "AP") — the short form would
+    # false-match via the bidirectional substring check used elsewhere
+    # against any source name containing those two letters together, e.g.
+    # "Japan Times" or "NHK Japan". "AP News" is also listed separately —
+    # that's how Google News' own title-suffix parsing typically labels
+    # AP wire content via regular theme searches, and it doesn't
+    # substring-match "Associated Press" any more than "AP" alone does.
+    "Reuters", "AFP", "Associated Press", "AP News", "BBC", "Al Jazeera English", "Wall Street Journal",
     "France 24 English", "Financial Times", "The Guardian", "Washington Post",
     "The Economist", "The East African", "Xinhua English World", "Agencia EFE",
     # "ReliefWeb" removed — it was the now-dropped API integration's name,
@@ -199,6 +206,18 @@ BLOCKLIST_TERMS = [
 REGION_ORDER = ["Middle East", "Americas", "Africa", "Europe", "Asia-Pacific", "Global / Cross-Cutting"]
 MAX_ITEMS_PER_REGION = 4
 MAX_ESCALATION_RISKS = 4
+
+# Corroboration check: after a report is finalized (by either the LLM or
+# rule-based path), re-scan the region's full already-fetched candidate
+# pool (not just the smaller LLM_CANDIDATE_POOL_SIZE subset that was
+# actually offered to the LLM) for additional priority-source coverage
+# of the same story, and append any found to that report's sources — no
+# new network calls, since this only looks at material already fetched
+# this run. Same similarity threshold as dedup by default (already tuned
+# for "is this the same story"), exposed separately here in case it
+# needs different tuning later.
+CORROBORATION_SIMILARITY_THRESHOLD = 0.42
+MAX_SOURCES_PER_ITEM = 4
 MONITORING_WINDOW_HOURS = 24
 
 # How many deduped candidates per region to hand the LLM to choose from —
