@@ -1,0 +1,290 @@
+{
+  "date": "2026-08-12",
+  "printed_time": "7:25 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A powerful 7.4-magnitude earthquake in western Colombia killed at least 224 people and left thousands missing amidst widespread destruction in Chocó, Cali, and Pereira.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "A rapidly expanding Ebola outbreak in East Africa and the Democratic Republic of the Congo has killed over 2,000 people in the fastest-growing epidemic of the disease on record.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "Intensified overnight missile and drone exchanges between Russian and Ukrainian forces killed at least nine civilians and wounded dozens across target areas in both countries.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "Remnants of Typhoon Dolphin brought extreme rainfall to northern and central China, forcing thousands of emergency evacuations in Beijing due to elevated flood and landslide threats.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Myanmar's military escalated airstrikes targeting civilian populations, causing casualties among internally displaced persons already affected by flooding in the Ayeyarwady Region.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A 7.4-magnitude earthquake in western Colombia has killed at least 224 people, left thousands missing, and severely damaged urban infrastructure as search and rescue operations continue.",
+    "label": "AMERICAS — Colombia Earthquake"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Six killed in suspected Houthi attack on Red Sea cargo vessel",
+        "score": 5.5,
+        "body": "At least six people were killed following a suspected Houthi attack on an Egyptian-owned cargo ship in the Bab el-Mandeb strait, according to Yemen's coastguard. The fatalities include four crew members aboard the targeted vessel and two members of rescue forces deployed during a mission to evacuate the ship. The incident highlights ongoing conflict dynamics and severe security hazards affecting maritime transport in key corridors surrounding Yemen.",
+        "verified_figures": [
+          "6 killed",
+          "4 crew members killed",
+          "2 rescue personnel killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — Powerful 7.4-magnitude earthquake causes mass casualties in west",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake struck western Colombia with its epicenter in the department of Chocó. The tremor collapsed and severely damaged numerous buildings across major cities, including Cali and Pereira, and was felt in neighboring Venezuela. Search and rescue operations are ongoing as emergency crews dig through rubble. Local authorities report at least 224 people killed and thousands missing, with officials warning the casualty toll is expected to rise as search efforts continue.",
+        "verified_figures": [
+          "At least 224 people killed",
+          "Thousands missing",
+          "7.4 magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOUZIazBTTXJFTDZ3QjVQYWRITkJQVUFMWjQ5LVQxUHJYSjRxYk1ySkg3OGpJOHpuVTJVWUZoNXUzdVg3cGFUdU9KMDRWcWxjaUpreHpmRWN3UQ?oc=5"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260811-colombia-thousands-missing-after-deadly-earthquake"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Ebola outbreak death toll surpasses 2,000",
+        "score": 8.5,
+        "body": "Health authorities in the Democratic Republic of the Congo report that the death toll from an ongoing Ebola outbreak has surpassed 2,000 people. Officials are working to contain the epidemic, which has been characterized as the fastest-spreading Ebola outbreak on record. Cases continue to surge, presenting significant public health and containment challenges across affected areas in the country.",
+        "verified_figures": [
+          "more than 2,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWE5wQ1U1TUdVM2h0MnhnSnNBeEkwYTA4ZzRuOFgzeF93UFVVNzFSYmN6dnBmXy1sblFTeHI4WHN0U2p4ZFNURUhzMG1KWVNwTkhJOEFYM09xUldQNW82NE5QcXhMRnY5VmZDdTBUNFFiQ2NtNW5Ba040MjV4V0w5eHBmczJfZGpNS19ZbkVvVnNnZjdiNTZKWFBPMjNvMTBsZGk5M0RoZzY4Mmw0NUozX1hPb9IBuAFBVV95cUxOOHdMRjVMamllSVhCU0VPTWw4MmdYOUMwQS1KM3liSGEzT3NjNmUxVVdzQkhjWHVVOFkwNDFVOFpidV9weTN2c09aZndpNUxZcXl0NFJMU1QyNVV2ZzRVa0Y2M1VTbXRfSWNRZkZ1QW5yQkUzWVBpZkhCNjBnZjBNQlpadV9Sd1M4ZWVOSGVSb1RhXzhwTXQ0bEdtTlNfLWxkc0d2LWRNZlYwNWtqM1JvMkVwVHB5cVpZ?oc=5"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Overnight missile and drone exchanges cause civilian casualties",
+        "score": 7.0,
+        "body": "Reciprocal air strikes between Russian and Ukrainian forces overnight resulted in civilian casualties and damage to infrastructure. Ukrainian authorities reported that Russian attacks targeted Kyiv, Zaporizhzhia, and Dnipropetrovsk, killing at least nine people and wounding dozens. Ukrainian officials also alleged that Russian forces deployed North Korean missiles during the bombardment. In response, Ukraine launched drone strikes against Russia's Voronezh region, setting fire to a warehouse, and targeted an oil refinery in Orsk. Aerial exchanges between both nations have intensified, leading to mounting civilian casualties on both sides of the border.",
+        "verified_figures": [
+          "at least 9 people killed",
+          "dozens wounded"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "China — Typhoon Dolphin Causes Widespread Floods and Mass Evacuations",
+        "score": 7.0,
+        "body": "Remnants of Typhoon Dolphin have brought severe torrential rainfall to northern and central China, including Hubei province and Beijing. Forecasters warned that Beijing could receive over 150 mm of rain within 24 hours, with certain districts expected to surpass 200 mm—representing more than one-third of the capital's average annual precipitation of 528 mm. Thousands of residents in Beijing have been evacuated from high-risk zones due to elevated threats of flooding and landslides.",
+        "verified_figures": [
+          "Thousands of people evacuated in Beijing",
+          "More than 150mm of rain forecast in Beijing over 24 hours",
+          "Some districts forecast to exceed 200mm of rain"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military Escalates Airstrikes Targeting Civilians",
+        "score": 6.5,
+        "body": "Investigators report that Myanmar's military has intensified airstrikes targeting civilian populations across the country. In one incident in the flood-affected Ayeyarwady Region, a junta airstrike reportedly killed two displaced brothers. The attack highlights severe ongoing protection risks and humanitarian concerns for internally displaced persons who are simultaneously coping with severe weather and armed violence.",
+        "verified_figures": [
+          "2 displaced brothers killed in Ayeyarwady Region"
+        ],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1dXRHk5cDRoTzRTMVdVNFN0ajY1NVlMcTk3S215cWNMTWh0aUV6TFUwLUVHT1BGLWM3ZWxzY1Y5NEphSTdOaGtBdDlXMVNVNGxjZ0ZrNWNhWW0ybV9TVEVnMjhXeGRITW1TdmpNSHROcXFQQ0E3VE5fM19VTGJ5V01wOG5RdFBGZ2RIVlh1MmhhUUlxZWNaWVZzRE5TTk9MbDdwZ1hNakp1U0xWb0ljSTk0UXc?oc=5"
+          },
+          {
+            "name": "WRAL",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVlIUzhrYms4RWNZYTFDRzM5MFpNV3FlaXhSc0FZWjZqNGt2bkdxblp1LU00cXg4Vk9wdXdOZWhSeTNGZjdjSG1hUXZzM24zdC1wb3NvYmsyN25EZ3NvV21OZG11S2xZRmpxNE5xdS1wbU1UQ2VNR1AzVmlXWnp3N1F2M2dFbndia0otM0VJOWliLUdoYlA5VWRjYjNqaExiQ0pwX2g3VWVQclJyUHR2eTVvRDI?oc=5"
+          }
+        ]
+      },
+      {
+        "headline": "India — Flooding Expands to Previously Safe Areas in Assam",
+        "score": 5.0,
+        "body": "Deadly flooding in Assam, India, has reached areas previously considered safe from seasonal inundation. The expanding disaster has disrupted communities and trapped vulnerable individuals, forcing residents to utilize makeshift banana log rafts to escape rising waters as floodwaters spread deeper into populated regions.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WS1hBdHFRQkkxNFI0b2llcFRXVzlMRDFsY2cwalpQNGdwME9HY1dIV3F1TlVwZjhBdlhLbGhyc29yeGxCYWwzTjgtdlZhU2Qxa0QzTDNVUjdKUlBC?oc=5"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "East Africa — Rapidly expanding Ebola outbreak surpasses 2,000 deaths",
+        "score": 9.0,
+        "body": "A rapidly spreading Ebola outbreak in East Africa has killed over 2,000 people, making it the fastest-growing outbreak of the disease on record. According to the World Health Organization, the virus circulated for months before being officially declared, severely hindering containment efforts. Scientists are working to accelerate vaccine development to curb transmission, while the United States has pledged an additional Ksh31 billion to support emergency containment operations across East Africa.",
+        "verified_figures": [
+          "Over 2,000 deaths",
+          "Ksh31 billion pledged by US"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdU9nLU1GYWZlUnJTbW9xbElqSVdQSjVBX1dYempUY045a2FDaUhGNHZtQ09pNE1iNG1CUDlJd3A3bkpFNmN2T2xEVlFGU1VsTXJuTC1GYw?oc=5"
+          },
+          {
+            "name": "PBS",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOW9ucjB0ZEJzVHpjVHFWMUktZmFEcm9fMkN5NHRDN196VW5tYjlIdTRTbFdwRnp1Z0Zvd0k1amt5UllLRTcwcXlPbThVMEd2Q1A5c3Zid3M1bWJmZ2JQRnh4TWZVNHRYc2RSUDRqbXVmb2F4ajVHZHU2WnY1Rlp6MkdXWV9fMC16MWptYWtETDI1TFhsQVNOTTZqVW1XMXBmY2dHS29Hdk9LWEJvSUdTOHJYYlN4OTBsQkJkakpieFE5c2htd1hGaTk0YXc?oc=5"
+          },
+          {
+            "name": "The Independent",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0l6ZTRSdTFvRVB2eUstZWJvSEpMNXpYbU96R01xOVhIZk5hQXpSUlhiU1hWWHFLSDNFZlBTT1JxVXhJWkZDUnR5UFd0RDAtOF9UUllnT1BfN0RiSW45MDZJaXRhNTllT3ZiR29NOGppMC03Q2YxQ25Tdl9qSFdJbHN6UXFZVUF5YzdqUE5YMXltemZfd29j?oc=5"
+          },
+          {
+            "name": "KDRTV",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHZWZWE2N0xlb1BKbGl6QlRIanB3dEVScEVaYmp0VU1xbFN6SDF1ZHRfVGxudll2Y2tib3dzbnktMnY1Z3dvZlBJLTBUclV4ZlpFY0V3d0JQeUd3QnRZNTd5MG1JclQ0b3pTY2MwM3pJQzhybGVKanNaVFlzeklQaDFfLVBNeC1qOWFxRGF0Ykl2MHZRWXFfZGhBOEpNcVB4dVZsMkFTREbSAagBQVVfeXFMT0h2VmVhNjdMZW9QSmxpekJUSGpwd3RFUnBFWmJqdFVNcWxTekgxdWR0X1RsbnZZdmNrYm93c255LTJ2NWd3b2ZQSS0wVHJVeGZaRWNFd3dCUHlHd0J0WTU3eTBtSXJUNG96U2NjMDN6SUM4cmxlSmpzWlRZc3pJUGgxXy1QTXgtajlhcURhdGJJdjB2UVlxX2RoQThKTXFQeHVWbDJBU0RG?oc=5"
+          }
+        ]
+      },
+      {
+        "headline": "Thailand — Firearms licences suspended following fatal school shooting",
+        "score": 3.0,
+        "body": "Thai authorities have suspended firearm licensing following a school shooting in Nonthaburi that resulted in nine deaths, including the teenage shooter and his grandparents. Prime Minister Anutin Charnvirakul instructed police and the interior ministry to halt issuing licences to possess, purchase, or carry firearms. The temporary ban and tighter controls will remain in effect until new gun control legislation is enacted.",
+        "verified_figures": [
+          "9 dead"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Bab el-Mandeb Strait / Yemen",
+      "score": 6.0,
+      "trigger": "Further maritime missile or drone attacks on commercial cargo ships in key shipping corridors could trigger additional military responses.",
+      "potential_impact": "Continued attacks risk further endangering civilian crew members and severely disrupting maritime supply routes around Yemen.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Burma News International",
+        "count": 1
+      },
+      {
+        "name": "KDRTV",
+        "count": 1
+      },
+      {
+        "name": "PBS",
+        "count": 1
+      },
+      {
+        "name": "The Independent",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "WRAL",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 17,
+      "themes_searched": 31,
+      "items_considered": 1050,
+      "sources_cited": 11
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
