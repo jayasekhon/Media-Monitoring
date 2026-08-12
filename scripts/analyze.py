@@ -28,10 +28,29 @@ def is_blocklisted(title: str) -> bool:
 
 
 def classify_region(title: str, description: str, default_region: str) -> str:
+    """Classify by country mention. Checks the TITLE alone first, and
+    only falls back to the full title+description text if nothing
+    matches there.
+
+    This matters because COUNTRY_REGION is checked in a fixed order
+    (first match wins), with Middle East entries defined first — a
+    Colombia earthquake story that mentions "international rescue teams,
+    including from Israel" in its body would otherwise match "israel"
+    long before ever reaching "colombia", misclassifying a story that
+    isn't about the Middle East at all. The title is far more likely to
+    reflect the story's actual subject than a full body that may
+    mention several countries in passing.
+    """
+    title_low = title.lower()
+    for place, region in COUNTRY_REGION.items():
+        if place in title_low:
+            return region
+
     text = f"{title} {description}".lower()
     for place, region in COUNTRY_REGION.items():
         if place in text:
             return region
+
     return default_region
 
 
