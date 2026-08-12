@@ -32,15 +32,24 @@ import time
 import urllib.parse
 import re
 import html
+import json
 from difflib import SequenceMatcher
 from datetime import datetime, timezone
 
 import requests
 import feedparser
+from bs4 import BeautifulSoup
 
 from config import THEMES, MONITORING_WINDOW_HOURS
 
 USER_AGENT = "DailyBelleBot/1.0 (+https://github.com/; free, self-hosted humanitarian briefing)"
+# The Google News redirect-decode step specifically (_decode_google_news_url
+# below) uses a real browser User-Agent rather than our own bot UA — this
+# mirrors what an actual RSS reader or a person clicking the link does,
+# and is the same header the documented technique this is based on uses.
+# Every other fetch in this file (our own RSS pulls) honestly identifies
+# as DailyBelleBot above; only this one specific step impersonates a browser.
+BROWSER_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
 REQUEST_TIMEOUT = 15
 
 
@@ -268,26 +277,69 @@ ARTICLE_FETCH_TIMEOUT = 10
 ARTICLE_EXCERPT_MAX_CHARS = 700
 
 
+def _decode_google_news_url(url: str) -> str:
+    """Decodes a Google News /rss/articles/CBMi... redirect link to the
+    real publisher URL, replicating the mechanism Google's own web UI
+    uses internally (a `c-wiz[data-p]` payload on the page, POSTed to
+    Google's internal batchexecute endpoint) rather than relying on a
+    plain HTTP redirect — Google News' redirect is JS-mediated, not a
+    server-side 3xx, so `requests` can never follow it directly.
+
+    This is a reverse-engineered, undocumented mechanism, not a public
+    API — it can break if Google changes the page structure or the
+    endpoint. Returns "" on any failure (never raises); the caller falls
+    back to treating the link as unresolved, same as before this existed.
+    """
+    try:
+        resp = requests.get(url, headers={"User-Agent": BROWSER_USER_AGENT}, timeout=ARTICLE_FETCH_TIMEOUT)
+        if resp.status_code != 200:
+            return ""
+        element = BeautifulSoup(resp.text, "html.parser").select_one("c-wiz[data-p]")
+        if element is None:
+            return ""
+        data = element.get("data-p")
+        if not data:
+            return ""
+        obj = json.loads(data.replace("%.@.", '["garturlreq",'))
+
+        payload = {
+            "f.req": json.dumps([[["Fbv4je", json.dumps(obj[:-6] + obj[-2:]), "null", "generic"]]])
+        }
+        post_headers = {
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+            "user-agent": BROWSER_USER_AGENT,
+        }
+        batch_url = "https://news.google.com/_/DotsSplashUi/data/batchexecute"
+        response = requests.post(batch_url, headers=post_headers, data=payload, timeout=ARTICLE_FETCH_TIMEOUT)
+        if response.status_code != 200:
+            return ""
+        array_string = json.loads(response.text.replace(")]}'", ""))[0][2]
+        article_url = json.loads(array_string)[1]
+        return article_url or ""
+    except Exception:  # noqa: BLE001 — best-effort, must never break the run
+        return ""
+
+
 def fetch_article_excerpt(url: str) -> tuple[str, str]:
     """Best-effort fetch of the actual article page and extraction of its
     opening text, for items whose RSS description had no real content
     (the common case for Google News — see module docstring).
 
-    Returns (excerpt_text, resolved_url). `resolved_url` is the URL we
-    actually landed on after following redirects — notably, this
-    resolves Google News' fragile, expiring redirect-token links
-    (news.google.com/rss/articles/CBMi...) to the real, stable publisher
-    URL, which is worth capturing even when excerpt extraction itself
-    comes up empty. Direct outlet-RSS links (BBC, Al Jazeera, etc.) are
-    already stable and typically won't change.
+    Returns (excerpt_text, resolved_url). For Google News links, this
+    first tries _decode_google_news_url() to get the real publisher URL,
+    then fetches THAT page directly for both the excerpt and the final
+    resolved URL (which may differ once more, e.g. an AMP redirect on
+    the publisher's own site) — a real publisher page is both a better
+    source for extraction and a stable link, versus fetching the Google
+    redirect page directly, which is neither. If decoding fails, falls
+    back to trying the original URL directly (in case it turns out to be
+    a plain HTTP redirect after all). Non-Google URLs (direct outlet-RSS
+    links) skip decoding entirely and are fetched as-is — already stable.
 
     This follows the item's own link, the same as any RSS reader or the
     person clicking through themselves would — it does not bypass
     paywalls or authentication. Returns ("", original_url) on any
-    failure (never raises): link doesn't resolve, publisher blocks
-    automated requests, it's a Google redirect using a JS-based
-    mechanism a plain HTTP fetch can't follow, or trafilatura can't find
-    a clean article body on the page.
+    failure (never raises).
     """
     if not url:
         return "", url
@@ -295,16 +347,23 @@ def fetch_article_excerpt(url: str) -> tuple[str, str]:
         import trafilatura
     except ImportError:
         return "", url
+
+    target_url = url
+    if "news.google.com" in url:
+        decoded = _decode_google_news_url(url)
+        if decoded:
+            target_url = decoded
+
     try:
-        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=ARTICLE_FETCH_TIMEOUT, allow_redirects=True)
-        resolved_url = resp.url or url
+        resp = requests.get(target_url, headers={"User-Agent": USER_AGENT}, timeout=ARTICLE_FETCH_TIMEOUT, allow_redirects=True)
+        resolved_url = resp.url or target_url
         if resp.status_code != 200 or not resp.text:
             return "", resolved_url
         text = trafilatura.extract(resp.text, favor_precision=True) or ""
         text = re.sub(r"\s+", " ", text).strip()
         return text[:ARTICLE_EXCERPT_MAX_CHARS], resolved_url
     except Exception:  # noqa: BLE001 — best-effort, must never break the run
-        return "", url
+        return "", target_url
 
 
 def enrich_items_with_article_text(items: list[dict], max_workers: int = 6) -> tuple[int, int]:
