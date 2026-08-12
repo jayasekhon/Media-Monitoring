@@ -1,4 +1,4 @@
-name: Daily Belle — build and publish
+name: Media Monitoring — build and publish
 
 # Fetches free public sources, builds the edition, commits it, renders the
 # site, and publishes to GitHub Pages. Needs one secret you provide:
