@@ -32,7 +32,7 @@ from config import (
     MIN_KEYWORD_HITS_FOR_INCLUSION, CORROBORATION_SIMILARITY_THRESHOLD,
     MAX_SOURCES_PER_ITEM,
 )
-from fetch import fetch_all, enrich_items_with_article_text
+from fetch import fetch_all, enrich_items_with_article_text, resolve_published_source_links
 from analyze import (
     is_blocklisted, classify_region, score_item, extract_verified_figures,
     dedup_items, is_hierarchy_source, title_similarity,
@@ -271,6 +271,16 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
     top_story = synthesis["top_story"]
     escalation_risks = synthesis["escalation_risks"]
 
+    # Final link-resolution pass — every source URL actually being
+    # published gets a resolution attempt here, including ones the
+    # corroboration check just added a moment ago and never had a
+    # chance to resolve. See resolve_published_source_links()'s
+    # docstring for why this is separate from the earlier
+    # enrich_items_with_article_text() pass rather than relying on it.
+    resolved_link_count, resolved_link_attempted = resolve_published_source_links(sections, escalation_risks)
+    if resolved_link_attempted:
+        print(f"Published-link resolution: {resolved_link_count}/{resolved_link_attempted} succeeded.")
+
     all_sources_used = set()
     source_counter = Counter()
     for region in REGION_ORDER:
@@ -316,6 +326,15 @@ def run(date_str: str, out_dir: Path, use_llm: bool = True):
             f"Corroboration check added {corroborated_count} additional priority-source citation(s) to "
             "already-selected items, found by re-scanning material already fetched this run (no new "
             "network calls) — restricted to outlets in the source hierarchy."
+        )
+    if resolved_link_attempted:
+        unresolved = resolved_link_attempted - resolved_link_count
+        limitations.append(
+            f"Published-source links: {resolved_link_count}/{resolved_link_attempted} Google News-derived "
+            "link(s) resolved to a stable publisher URL."
+            + (f" {unresolved} could not be resolved (the publisher blocked the request, or the underlying "
+               "Google redirect itself was invalid) and still point at the original Google News link, which "
+               "may not resolve reliably when clicked." if unresolved else "")
         )
     if llm_available:
         llm_regions = [r for r, m in region_method.items() if m == "llm"]

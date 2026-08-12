@@ -341,3 +341,71 @@ def enrich_items_with_article_text(items: list[dict], max_workers: int = 6) -> t
                 it["link"] = resolved_url
 
     return enriched_count, len(to_enrich)
+
+
+def resolve_published_source_links(sections: dict, escalation_risks: list, max_workers: int = 6) -> tuple[int, int]:
+    """Final link-resolution pass over every source URL that will
+    actually appear in the published edition — report sources AND
+    escalation-risk sources, including ones added by the corroboration
+    check (which runs after enrich_items_with_article_text and so never
+    got a resolution attempt before).
+
+    This is deliberately decoupled from enrich_items_with_article_text():
+    that function only resolves links for items whose description looked
+    "thin" — a proxy for "needs a content summary", not "needs a stable
+    URL". Those aren't the same thing. A Google News "full coverage"
+    description (several headlines concatenated) can total 15+ words
+    while still being pure noise, dodging the thin-description trigger
+    entirely and leaving that item's link unresolved even though it was
+    never a good link to begin with. Every source actually shown on the
+    site needs a working link — so this pass targets that directly:
+    every unique news.google.com URL among published sources, once,
+    regardless of whether an earlier pass already tried it.
+
+    Only news.google.com URLs are touched — direct outlet-RSS links
+    (BBC, Al Jazeera, Guardian, France24) are already stable and this
+    would just be wasted requests.
+
+    Mutates the `url` field of every matching source dict in place
+    (multiple sources can share the same underlying URL — e.g. a
+    corroborated source pointing at the same article a differently-
+    hyphenated duplicate already cited — all get updated together).
+
+    Returns (resolved_count, attempted_count) for limitations reporting.
+    """
+    # Map each unique URL needing resolution to every source dict that
+    # references it, so one fetch can update every occurrence.
+    url_to_source_dicts: dict[str, list[dict]] = {}
+    for reports in sections.values():
+        for rep in reports:
+            for s in rep.get("sources", []):
+                url = s.get("url", "")
+                if url and "news.google.com" in url:
+                    url_to_source_dicts.setdefault(url, []).append(s)
+    for risk in escalation_risks:
+        for s in risk.get("sources", []):
+            url = s.get("url", "")
+            if url and "news.google.com" in url:
+                url_to_source_dicts.setdefault(url, []).append(s)
+
+    if not url_to_source_dicts:
+        return 0, 0
+
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    resolved_count = 0
+    urls = list(url_to_source_dicts.keys())
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        future_to_url = {pool.submit(fetch_article_excerpt, url): url for url in urls}
+        for future in as_completed(future_to_url):
+            original_url = future_to_url[future]
+            try:
+                _excerpt, resolved_url = future.result()
+            except Exception:  # noqa: BLE001
+                resolved_url = original_url
+            if resolved_url and resolved_url != original_url:
+                for s in url_to_source_dicts[original_url]:
+                    s["url"] = resolved_url
+                resolved_count += 1
+
+    return resolved_count, len(urls)
