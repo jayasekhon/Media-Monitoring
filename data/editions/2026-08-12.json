@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "printed_time": "1:55 PM UTC",
+  "printed_time": "3:49 PM UTC",
   "top_five": [
     {
       "rank": 1,
@@ -14,17 +14,17 @@
     },
     {
       "rank": 3,
-      "text": "Moment Huge Earthquake Strikes Venezuela With Thousands Feared Dead Franco Gabrielli (F0tZP2zrlL).",
-      "region": "Americas"
+      "text": "NEWS Today in Africa — August 11, 2026: DR Congo Ebola Outbreak Points to Animal-to-Human Transmission, Sudan's War Leaves 8 Million Children Out of School OkayAfrica has scoured the Internet for today’s major news stories, so you don't have to.",
+      "region": "Africa"
     },
     {
       "rank": 4,
-      "text": "The death toll is rising in Colombia following the country’s worst earthquake in decades.",
-      "region": "Americas"
+      "text": "An Ebola outbreak in the Democratic Republic of Congo (DRC) has resulted in the deaths of 2,011 people out of 4,381 confirmed cases, according to Congolese officials on Tuesday.",
+      "region": "Africa"
     },
     {
       "rank": 5,
-      "text": "DRC’s deadly Ebola outbreak began months before it was officially declared - More than 2,000 people have now died in the Democratic Republic of Congo from the fastest-growing Ebola outbreak in history.",
+      "text": "The ongoing Ebola outbreak in the Democratic Republic of the Congo is on track to eclipse the deadliest one in history that killed more than 11,000 people out of more than 28,000 cases, the head of the World Health Organisation said.",
       "region": "Africa"
     }
   ],
@@ -36,30 +36,41 @@
   "sections": {
     "Middle East": [
       {
-        "headline": "Red Sea/Yemen — Houthi missile attack on cargo ship kills six",
-        "score": 6.5,
-        "body": "An attack attributed to Iran-backed Houthi rebels targeted the food-carrying cargo ship Tihamah in the Bab al-Mandeb Strait, according to Yemen's Ministry of Transport. An initial missile strike sparked a fire, followed by a second strike during search and rescue operations. At least six people were killed, including four crew members—three Pakistani nationals and one Indonesian—and two Yemeni rescue workers, with five others injured. Separately, the U.S. military disabled a vessel near the Gulf of Oman, while Iranian officials warned of potential closures at the Strait of Hormuz unless political and economic conditions are met.",
+        "headline": "Yemen / Red Sea — Fatal Houthi missile attack on cargo ship in Bab al-Mandeb Strait",
+        "score": 7.0,
+        "body": "Yemeni officials reported that Iran-backed Houthi rebels launched a double-tap ballistic missile attack on the Tihamah, a commercial cargo ship carrying food through the Bab al-Mandeb Strait. The initial strike ignited a fire that killed four crew members—three Pakistani nationals and one Indonesian—and injured four others. A secondary strike hit the vessel during search and rescue operations, killing two Yemeni rescue workers, bringing the total death toll to six. The Houthis claimed the attack targeted a military vessel enforcing a siege. Separately, the United States military disabled a vessel near the Gulf of Oman using helicopter-fired Hellfire missiles.",
         "verified_figures": [
           "6 people killed",
           "4 crew members killed (3 Pakistanis, 1 Indonesian)",
           "2 Yemeni rescue workers killed",
-          "5 people injured"
+          "4 crew members injured"
         ],
         "sources": [
           {
             "name": "India Shipping News",
             "url": "https://indiashippingnews.com/uncategorized/yemen-claims-6-killed-in-houthi-double-tap-strike-on-ship-in-red-seas-bab-al-mandeb-strait/"
-          },
-          {
-            "name": "businesstimes-bd.com",
-            "url": "https://www.businesstimes-bd.com/international/middle-east/10180"
           }
         ]
       },
       {
-        "headline": "Gaza — Israeli drone strike targets vehicle near Abu Asi shelter camp",
+        "headline": "Iraq — Unclaimed airstrikes kill security personnel in Kirkuk and Mosul",
+        "score": 6.0,
+        "body": "Airstrikes near Kirkuk killed three members of Iraq's Popular Mobilisation Forces (PMF) and two Iraqi police officers. In a separate strike targeting PMF positions near Mosul, approximately 105 miles northwest of Kirkuk, two additional Iraqi police officers were killed. The PMF attributed the strikes to the United States and Israel, though neither country has confirmed involvement. The attacks occur alongside heightened regional tensions linked to confrontation involving Iran, prompting the United States Embassy in Baghdad to issue security warnings.",
+        "verified_figures": [
+          "3 Popular Mobilisation Forces fighters killed",
+          "4 Iraqi police officers killed"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/airstrikes-in-iraq-kill-pmf-fighters-as-us-orders-evacuations/"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza / OPT — Israeli drone strike hits vehicle near Al Bureij shelter camp",
         "score": 5.5,
-        "body": "An Israeli drone strike destroyed a vehicle immediately adjacent to the Abu Asi Orphan Camp shelter in Al Bureij, central Gaza. The attack targeted a vehicle belonging to an individual supporting displaced children and families in the camp. Despite sustaining injuries in the strike, local personnel continued providing care and assistance to displaced civilians residing at the shelter site.",
+        "body": "An Israeli drone strike targeted and destroyed a vehicle just after it departed a shelter at the Abu Asi Orphan Camp in Al Bureij, central Gaza. The vehicle belonged to a worker involved in supporting displaced children and families at the facility. Local humanitarian workers continued providing assistance to displaced populations despite the attack. Israel has not provided immediate details regarding the operational justification for the strike.",
         "verified_figures": [],
         "sources": [
           {
@@ -69,12 +80,12 @@
         ]
       },
       {
-        "headline": "Syria — Attack on military position in Qamishli leaves two dead",
-        "score": 4.0,
-        "body": "An attack by an unidentified group targeted a position of the Syrian army's Qamishli Brigade in Tawil Harb village, rural Qamishli, northeast Syria. According to a military spokesperson, two fighters were killed and two others were wounded in the assault. The brigade comprises integrated members of the Syrian Democratic Forces. Operations remain ongoing to locate those involved.",
+        "headline": "Syria — Armed attack on military position near Qamishli kills two soldiers",
+        "score": 4.5,
+        "body": "An attack by an unidentified group on a Syrian army position in Tawil Harb village, located in the Qamishli countryside of northeast Syria, killed two soldiers and wounded two others. The targeted unit belonged to the Qamishli Brigade, which comprises integrated members of the Syrian Democratic Forces. Military officials reported that local forces repelled the assault and launched security operations to locate and apprehend those responsible.",
         "verified_figures": [
-          "2 fighters killed",
-          "2 fighters wounded"
+          "2 soldiers killed",
+          "2 soldiers wounded"
         ],
         "sources": [
           {
@@ -82,165 +93,195 @@
             "url": "https://www.rudaw.net/english/categories/syria/1078786"
           }
         ]
-      },
-      {
-        "headline": "Yemen — U.S. Defense Department reports 153 civilian deaths from strikes",
-        "score": 5.5,
-        "body": "A Defense Department report submitted to the U.S. Congress disclosed that American military strikes in Yemen resulted in 153 civilian deaths over the past year. The report specified that 15 separate military strikes are currently undergoing internal investigation regarding civilian casualties.",
-        "verified_figures": [
-          "153 civilians killed",
-          "15 strikes under investigation"
-        ],
-        "sources": [
-          {
-            "name": "Firstpost",
-            "url": "https://www.firstpost.com/world/us-strikes-in-yemen-killed-153-civilians-last-year-15-strikes-under-probe-defense-department-tells-congress-14037559.html"
-          }
-        ]
       }
     ],
     "Americas": [
       {
-        "headline": "Colombia — 7.4-magnitude earthquake kills hundreds and causes widespread destruction",
+        "headline": "Venezuela's Earthquake Death Toll Climbs to 6,301",
         "score": 9.0,
-        "body": "A 7.4-magnitude earthquake struck western Colombia near San Jose del Palmar in Chocó department, causing extensive damage across major urban centers including Cali, Pereira, Quibdó, Manizales, and Armenia. Authorities placed affected cities under red alert as collapsed buildings trapped residents and disrupted critical infrastructure. Seven airports suspended operations alongside disruptions to energy, telecommunications, aqueducts, and transportation networks. Search and rescue operations remain underway as rescuers search through rubble for survivors. At least 240 fatalities have been confirmed, with widespread destruction leaving many residents homeless.",
+        "body": "The official death toll from the twin earthquakes that struck Venezuela on June 24 continues to rise weekly. On Tuesday, an additional 176 fatalities were confirmed, bringing the total to 6,301, according to figures released by Jorge RodrÃguez, the president of Venezuela's Parliament and brother of interim president Delcy RodrÃguez. The two consecutive tremors, measuring 7.2 and 7.5 in magnitude, hit hardest in La Guaira state and the metropolitan area of Caracas, marking the most devastating seismic event in the country's recent history. Impact and Response Jorge RodrÃguez also reported that 73,356 individuals have received medical care since the disaster, and authorities have assessed 53,3",
         "verified_figures": [
-          "7.4-magnitude earthquake",
-          "At least 240 people killed",
-          "7 airports suspended operations"
+          "176 fatalities"
         ],
         "sources": [
           {
-            "name": "France 24 English",
-            "url": "https://www.france24.com/en/colombia-quake-death-toll-surpasses-240"
-          },
-          {
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com/world/latin-america/strong-earthquake-colombia-ecuador-people-evacuating-homes-buildings-rcna591709"
+            "name": "cubaheadlines.com",
+            "url": "https://www.cubaheadlines.com/articles/337573"
           }
         ]
       },
       {
-        "headline": "Venezuela — Official death toll from twin earthquakes reaches 6,301",
-        "score": 9.5,
-        "body": "The official death toll from two major earthquakes that struck Venezuela on June 24 has reached 6,301 following the confirmation of 176 additional fatalities. The twin tremors, measuring 7.2 and 7.5 in magnitude, hit La Guaira state and the Caracas metropolitan area hardest, representing the country's most devastating seismic event in recent history. Parliamentary officials reported that 73,356 individuals have received medical treatment since the disaster, while authorities continue damage assessments on tens of thousands of affected structures.",
+        "headline": "Deadly 7.4 magnitude earthquake hits Colombia, leaving widespread destruction, in photos",
+        "score": 8.5,
+        "body": "The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day. A powerful earthquake caused deadly destruction across western Colombia, damaging and collapsing buildings in Cali and other cities. The strong shaking was felt as far away as Bogota, where residents evacuated buildings. Residents and rescue workers search through the rubble after an earthquake struck Cali, Colombia, Monday, Aug. 10, 2026. (A",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/photo-gallery/deadly-7-4-magnitude-earthquake-hits-colombia-leaving-widespread-destruction-photos-60906d99c8554120adc6c56842da97ae"
+          }
+        ]
+      },
+      {
+        "headline": "The number of fatalities from the earthquake in Colombia has risen to 250 people",
+        "score": 8.5,
+        "body": "At least 250 people have died as a result of a powerful earthquake that struck Colombia on Monday. Rescue services continue to work to extract people from the rubble in search of survivors. According to the latest data, by Tuesday morning the death toll had reached 254, with 101 fatalities in Pereira and 95 in Cali, the third-largest city in the country. Due to communication damage in some of the hardest-hit areas, the full number of casualties and the extent of the destruction may only be determined in a few days. Many indigenous peoples living in the forested area of Chocó, near the earthquake's epicenter, remain without electricity and essential utilities. As of Tuesday, three airports re",
         "verified_figures": [
-          "6,301 confirmed fatalities",
-          "7.2 and 7.5 magnitude earthquakes",
-          "73,356 individuals received medical care"
+          "250 people",
+          "101 fatalities"
         ],
         "sources": [
           {
-            "name": "CubaHeadlines",
-            "url": "https://www.cubaheadlines.com/articles/337573"
+            "name": "open.kg",
+            "url": "https://open.kg/en/news/in-the-world/115261-chislo-pogibshih-vo-vremja-zemletrjasenija-v-kolumbii-vyroslo-do-250-chelovek.html"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia Earthquake: Latest on the Deadly 7.4 Quake",
+        "score": 8.5,
+        "body": "AsiaNews Iran’s Social Desk — A magnitude 7.4 earthquake has torn through western Colombia, killing at least 169 people in the latest consolidated city-level count and sending rescue crews into damaged neighborhoods from Cali and Pereira to remote communities in Chocó. The figure remains provisional: Colombia’s national government and major international news agencies had earlier reported lower totals, while local authorities were still reconciling reports as teams reached places cut off by damaged roads and communications. The earthquake struck near San José del Palmar in Chocó at about 7:34 a.m. local time on Monday, August 10, according to the Colombian Geological Service. It was felt acr",
+        "verified_figures": [
+          "169 people"
+        ],
+        "sources": [
+          {
+            "name": "آسیانیوز ایران",
+            "url": "https://www.asianewsiran.com/en/newsagency/40476/colombia-earthquake-2026"
           }
         ]
       }
     ],
     "Africa": [
       {
-        "headline": "DR Congo — Rapidly accelerating Ebola outbreak surpasses 2,000 deaths",
-        "score": 9.0,
-        "body": "An unprecedented Ebola virus outbreak in the eastern Democratic Republic of the Congo has killed more than 2,000 people, making it the fastest-spreading outbreak on record. Health officials report at least 4,381 confirmed cases across five provinces, driven by the rare Bundibugyo strain for which no approved vaccines or treatments exist. World Health Organization officials revealed the outbreak began in February, months before its official declaration in May. Containment operations are severely hindered by ongoing local conflict, health worker strikes over unpaid wages, widespread misinformation, and cuts to international aid. Cases continue to double in some hotspots, prompting calls for an immediate global response scale-up.",
+        "headline": "Today in Africa: DR Congo Ebola outbreak, Sudan school crisis, Somalia malnutrition fun...",
+        "score": 10.0,
+        "body": "NEWS Today in Africa — August 11, 2026: DR Congo Ebola Outbreak Points to Animal-to-Human Transmission, Sudan's War Leaves 8 Million Children Out of School OkayAfrica has scoured the Internet for today’s major news stories, so you don't have to. On Aug. 11, coverage includes: DR Congo's Ebola death toll surpassing 2,000 as the fastest-spreading outbreak on record; the UN warning that Sudan risks losing a generation to lost schooling amid a battered economy; and more. The Ebola outbreak tearing through DR Congo, which has killed over 2,000 people, is likely to have been transmitted from an animal to a human, a recent study states. by Benediction Murhabazi/AFP via Getty Images Every day, OkayA",
         "verified_figures": [
-          "2,011 to 2,061 confirmed deaths",
-          "4,381 to 4,449 confirmed cases across five provinces"
+          "8 Million Children Out of",
+          "2,000 people"
         ],
         "sources": [
           {
-            "name": "The Independent",
-            "url": "https://www.independent.co.uk/bulletin/news/ebola-outbreak-drc-congo-who-b3031202.html"
-          },
+            "name": "OkayAfrica",
+            "url": "https://www.okayafrica.com/today-in-africa-august-11-2026-dr-congo-ebola-outbreak-points-to-animal-to-human-transmission-sudans-war-leaves-8-million-children-out-of-school/1437431"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo: 2,011 killed as Ebola outbreak cases hit 4,381",
+        "score": 10.0,
+        "body": "An Ebola outbreak in the Democratic Republic of Congo (DRC) has resulted in the deaths of 2,011 people out of 4,381 confirmed cases, according to Congolese officials on Tuesday. This toll brings it close to the DRC’s deadliest Ebola outbreak, which occurred between 2018 and 2020, resulting in nearly 2,300 deaths out of 3,500 recorded cases. The current outbreak, which has primarily affected the DRC’s conflict-ridden eastern and northeastern regions, was declared on May 15 but is believed to have been spreading for several weeks prior. This marks the DRC’s 17th surge of the highly contagious virus and is already considered the largest outbreak in the country’s history. Sania Nishtar, chief ex",
+        "verified_figures": [
+          "2,011 killed",
+          "2,011 people",
+          "2,300 deaths"
+        ],
+        "sources": [
           {
-            "name": "International Business Times UK",
-            "url": "https://www.ibtimes.co.uk/ebola-outbreak-congo-death-toll-surpasses-2000-1813798"
-          },
+            "name": "Tribune Online",
+            "url": "https://tribuneonlineng.com/dr-congo-2011-killed-as-ebola-outbreak-cases-hit-4381/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo Ebola outbreak on track to eclipse deadliest in history, says WHO",
+        "score": 10.0,
+        "body": "The ongoing Ebola outbreak in the Democratic Republic of the Congo is on track to eclipse the deadliest one in history that killed more than 11,000 people out of more than 28,000 cases, the head of the World Health Organisation said. “At its current pace, it’s on track to eclipse the West African Ebola outbreak of 2014 to 2016,” Tedros Adhanom Ghebreyesus told reporters. The outbreak in eastern Congo, considered the fastest-growing in history, has killed more than 2,000 people out of more than 4,300 cases. The current outbreak was declared on May 15, but health authorities now say sequencing showed it began months earlier, in February. It is unlike most previous Ebola outbreaks because the r",
+        "verified_figures": [
+          "11,000 people",
+          "28,000 cases",
+          "2,000 people"
+        ],
+        "sources": [
           {
-            "name": "AOL.com",
-            "url": "https://www.aol.com/articles/dr-congo-ebola-outbreak-outpaces-084352000.html"
+            "name": "The Irish News",
+            "url": "https://www.irishnews.com/news/world/dr-congo-ebola-outbreak-on-track-to-eclipse-deadliest-in-history-says-who-HBRZVG2CQNNTFFHT5DRN4NQONA/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Death Toll Tops 2,000 In DRC: New Study Reveals Likely Source Of Bundibugyo Virus...",
+        "score": 10.0,
+        "body": "SummaryEbola can jump to humans from infected animals such as bats, monkeys and apes. Transmission can occur through contact with blood, body fluids, excrement or raw meat during hunting and butchering. Once the virus enters the human population, it can spread from person to person through contact with infected bodily fluids.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Health and Me",
+            "url": "https://www.healthandme.com/health-news/ebola-death-toll-tops-2000-in-drc-new-study-reveals-likely-source-of-bundibugyo-virus-outbreak-article-155594772"
           }
         ]
       }
     ],
     "Europe": [
       {
-        "headline": "Russia/Ukraine — Cross-border attacks kill four and damage infrastructure",
-        "score": 6.0,
-        "body": "Overnight cross-border strikes across southern Russia and Ukraine resulted in at least four fatalities. In the Russian port city of Novorossiysk, local officials reported that a child was among those killed, while dozens of buildings sustained physical damage during the overnight attacks. The strikes reflect ongoing military action directly impacting civilian populations and residential infrastructure on both sides of the border.",
-        "verified_figures": [
-          "4 people killed",
-          "Dozens of buildings damaged"
-        ],
-        "sources": [
-          {
-            "name": "Al Jazeera English",
-            "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss"
-          }
-        ]
-      },
-      {
-        "headline": "Ukraine — Human Rights Watch warns against retransfer of outdated cluster munitions",
-        "score": 5.0,
-        "body": "Human Rights Watch has urged the United States to reject a request from Türkiye to retransfer tens of thousands of stockpiled cluster munitions to Ukraine. The rights group warned that transferring obsolete munitions manufactured over 30 years ago creates severe, foreseeable humanitarian risks for civilians due to their inaccuracy and unreliability. More than 110 nations have banned cluster munitions under international treaties due to the long-term threat posed to civilian populations.",
-        "verified_figures": [
-          "Tens of thousands of cluster munitions requested for retransfer"
-        ],
-        "sources": [
-          {
-            "name": "Interfax-Ukraine",
-            "url": "https://en.interfax.com.ua/news/general/1192553.html"
-          }
-        ]
-      },
-      {
-        "headline": "Ukraine — Alleged North Korean missile strike hits Zaporizhzhia",
-        "score": 5.0,
-        "body": "Ukrainian President Volodymyr Zelenskyy accused North Korea of increasing military support to Russia following a deadly attack on Zaporizhzhia reportedly conducted using Pyongyang-supplied ballistic missiles. The strike on Zaporizhzhia highlights ongoing threats to civilian centers from long-range weapon systems. Following the development, Ukrainian officials are actively seeking closer cooperation with South Korea.",
-        "verified_figures": [
-          "Deadly missile attack reported in Zaporizhzhia"
-        ],
+        "headline": "Ukraine seeks closer cooperation with South Korea",
+        "score": 8.0,
+        "body": "Earlier this week, Zelenskyy accused North Korea of stepping up its support for Russia, with ballistic missiles from Pyongyang reportedly used in another deadly attack on Zaporizhzhia. Let’s get more on this from France 24’s correspondent in South Korea, Chloe Borgnon.",
+        "verified_figures": [],
         "sources": [
           {
             "name": "France 24 English",
             "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea"
           }
         ]
-      }
-    ],
-    "Asia-Pacific": [
+      },
       {
-        "headline": "Myanmar — Military escalates aerial attacks on civilians using low-cost aircraft",
-        "score": 7.5,
-        "body": "A United Nations investigation reported that Myanmar's military has escalated aerial attacks against civilians by increasingly using low-cost aircraft, including motorized paragliders and gyrocopters, in its conflict with anti-government armed groups. Separately, the Arakan Army ethnic armed group reported that military strikes in Rakhine state have killed 20 civilians so far this month. The military government did not immediately respond to the report or allegations, though it has previously stated it only targets legitimate military objectives.",
+        "headline": "Over 16,000 civilians detained by Russia during the war in Ukraine are still held, UN e...",
+        "score": 6.0,
+        "body": "Over 16,000 civilians detained by Russia during the war in Ukraine are still held, UN estimates UNITED NATIONS (AP) — The United Nations estimates that more than 16,000 civilians detained by Russia during its war in Ukraine are still being “deprived of their liberty,” many held incommunicado and on grounds that don’t comply with international law. “Widespread and systematic torture and ill-treatment” of both Ukrainian civilian detainees and prisoners of war by Russia are continuing, including sexual violence, said Claudia Fuentes Julio, the U.N. assistant secretary-general for human rights. She spoke at an informal meeting of the U.N. Security Council called by Latvia and the United Kingdom",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/ukraine-russia-war-united-nations-detainees-prisoners-6687451c1d1170e57ac2db32695e3d61"
+          }
+        ]
+      },
+      {
+        "headline": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korea...",
+        "score": 6.0,
+        "body": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles KYIV, Ukraine (AP) — Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said, as President Volodymyr Zelenskyy said Moscow is getting new military help from North Korea for its more than 4-year-old invasion. Zelenskyy said Russian forces used ballistic missiles supplied by North Korea in an overnight attack on the southeastern city of Zaporizhzhia, where a company said seven workers at its steel plant were killed and 21 injured. T",
         "verified_figures": [
-          "20 civilians killed in Rakhine state"
+          "21 injured"
         ],
         "sources": [
           {
             "name": "Associated Press",
-            "url": "https://www.wral.com/news/ap/cf48f-investigators-say-myanmars-military-has-escalated-airstrikes-against-civilians/"
+            "url": "https://apnews.com/article/russia-ukraine-war-north-korea-troops-missiles-7aff38d17dd195e63b7c55fc5a008c22"
           }
         ]
       },
       {
-        "headline": "China — Typhoon Dolphin remnants cause mass evacuations in Beijing",
-        "score": 6.5,
-        "body": "Remnants of Typhoon Dolphin brought torrential rain across northern and central China, triggering mass evacuations in Beijing due to severe flood and landslide risks. Forecasters warned that parts of the capital could receive between 150mm and 200mm of rain over 24 hours, equal to more than one-third of the city's average annual precipitation. Heavy rainfall has disrupted roads, construction sites, and regional infrastructure across affected areas.",
-        "verified_figures": [
-          "Thousands evacuated",
-          "150mm to 200mm of rainfall forecast over 24 hours"
-        ],
+        "headline": "Ukraine halts strikes on tankers using Russian port at US request, FT says",
+        "score": 6.0,
+        "body": "Ukraine halts strikes on tankers using Russian port at US request, FT says.",
+        "verified_figures": [],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall"
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/ukraine-halts-strikes-tankers-using-russian-port-us-request-ft-says-2026-08-12/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Typhoon Dolphin wreaks havoc in China as Beijing faces torrential rain, floods",
+        "score": 8.5,
+        "body": "Typhoon Dolphin wreaks havoc in China as Beijing faces torrential rain, floods.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com/world/typhoon-dolphin-wreaks-havoc-in-china-as-beijing-faces-torrential-rain-floods-14037689.html"
           }
         ]
       },
       {
-        "headline": "India — Severe monsoon flooding inundates villages in Assam state",
-        "score": 5.0,
-        "body": "Severe monsoon flooding inundated communities in the Sivasagar district of India's northeastern Assam state, submerging homes and damaging local infrastructure. In affected locations like Charing village, residents were forced to construct makeshift banana log rafts to evacuate elderly and immobile family members due to an absence of official rescue teams and boats. Displaced residents have sought safety in makeshift shelter camps established along national highways.",
+        "headline": "Assam: How a 97-year-old escaped deadly Indian floods on a banana log raft",
+        "score": 8.5,
+        "body": "- Published Well past midnight on 19 July, as floodwaters surged through a village in India's northeastern state of Assam, Bornali Baruah and her husband were trying to save his 97-year-old mother. Almost bedridden, Lokada Duarah could not walk. There was no boat, no rescue team and no neighbour available to help. So they lifted her onto a makeshift raft made of banana trunks, and carried her through the rushing water towards safety. \"Everyone was trying to save themselves,\" Baruah says. An hour later, she says, the three of them reached a shelter camp on a national highway some distance away from their house in Charing village in Sivasagar district, one of the worst flood-affected districts",
         "verified_figures": [],
         "sources": [
           {
@@ -248,9 +289,51 @@
             "url": "https://www.bbc.co.uk/news/articles/clye8332d63o"
           }
         ]
+      },
+      {
+        "headline": "Typhoon Dolphin floods China: Roads, construction and tourism hit by extreme rain",
+        "score": 8.5,
+        "body": "Typhoon Dolphin floods China: Roads, construction and tourism hit by extreme rain.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "financialexpress.com",
+            "url": "https://www.financialexpress.com/world-news/typhoon-dolphin-floods-china-roads-construction-and-tourism-hit-by-extreme-rain/4315653/"
+          }
+        ]
+      },
+      {
+        "headline": "Remnants of Typhoon Dolphin Flood China as Ontario Braces for Storms",
+        "score": 8.5,
+        "body": "Remnants of Typhoon Dolphin Flood China as Ontario Braces for Storms.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "sekbernews.id",
+            "url": "https://www.sekbernews.id/en/typhoon-dolphin-floods-china-ontario-storms"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/gallery/2026/aug/12/typhoon-dolphin-china-floods-storms-landslides-gallery-in-pictures"
+          }
+        ]
       }
     ],
     "Global / Cross-Cutting": [
+      {
+        "headline": "More than 2,000 dead in historic Ebola outbreak",
+        "score": 10.0,
+        "body": "More than 2,000 dead in historic Ebola outbreak.",
+        "verified_figures": [
+          "2,000 dead"
+        ],
+        "sources": [
+          {
+            "name": "PressReader",
+            "url": "https://www.pressreader.com/jamaica/the-star-jamaica/20260812/281552297682922"
+          }
+        ]
+      },
       {
         "headline": "Ebola outbreak spreading at record speed as deaths pass 2,000",
         "score": 10.0,
@@ -290,37 +373,10 @@
             "url": "https://www.pbs.org/newshour/health/fastest-growing-ebola-outbreak-in-history-has-claimed-2000-lives-heres-why-it-is-hard-to-contain"
           }
         ]
-      },
-      {
-        "headline": "Ebola deaths top 2,000 as scientists race to develop vaccine",
-        "score": 9.5,
-        "body": "Ebola deaths top 2,000 as scientists race to develop vaccine The current Ebola outbreak caused by the Bundibugyo species, was declared by DRC health officials on 15 May and declared a public health emergency of international concern by the World Health Organization (WHO) two days later. With more than 4,000 confirmed cases, it is both the second-largest and the fastest-growing on record. Only West Africa’s 2014 to 2016 outbreak, which saw more than 11,000 deaths, was larger. Just three months into this Ebola emergency, the death toll is already close to the total number of people killed in the 2018 to 2020 epidemic, which saw fewer overall cases. Mutation fears arise Alarmed by the virus’s r",
-        "verified_figures": [
-          "11,000 deaths"
-        ],
-        "sources": [
-          {
-            "name": "UN News",
-            "url": "https://news.un.org/en/story/2026/08/1168117"
-          }
-        ]
       }
     ]
   },
   "escalation_risks": [
-    {
-      "location": "DR Congo: 2,011 killed as Ebola outbreak cases hit 4,381",
-      "score": 10.0,
-      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
-      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
-      "confidence": "Low",
-      "sources": [
-        {
-          "name": "tribuneonlineng.com",
-          "url": "https://tribuneonlineng.com/dr-congo-2011-killed-as-ebola-outbreak-cases-hit-4381/amp/"
-        }
-      ]
-    },
     {
       "location": "Ebola Death Toll Tops 2,000 In DRC: New Study Reveals Likely",
       "score": 10.0,
@@ -335,47 +391,68 @@
       ]
     },
     {
-      "location": "DRC Ebola Outbreak Crosses 2,000 Fatalities as Bundibugyo St",
+      "location": "More than 2,000 dead in historic Ebola outbreak",
       "score": 10.0,
       "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
       "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
       "confidence": "Low",
       "sources": [
         {
-          "name": "streamlinefeed.co.ke",
-          "url": "https://streamlinefeed.co.ke/news/drc-ebola-outbreak-crosses-2000-fatalities-bundibugyo-strain"
+          "name": "PressReader",
+          "url": "https://www.pressreader.com/jamaica/the-star-jamaica/20260812/281552297682922"
         }
       ]
     },
     {
-      "location": "Mass evacuations in Beijing as Typhoon Dolphin brings more t",
+      "location": "Ebola outbreak spreading at record speed as deaths pass 2,00",
       "score": 10.0,
-      "trigger": "Renewed fighting or access denial forcing further population movement.",
-      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
       "confidence": "Low",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall"
+          "name": "The Australian",
+          "url": "https://www.theaustralian.com.au/news/ebola-outbreak-spreading-at-record-speed-as-deaths-pass-2000/video/6ab6daafb651e47928364b03697be2d6"
+        }
+      ]
+    },
+    {
+      "location": "Ebola deaths surge past 2,000 – as outbreak spread for month",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/africa/ebola-deaths-congo-virus-cases-b3031052.html"
         }
       ]
     }
   ],
   "source_notes": {
     "strongest_sources": [
+      "Reuters",
       "Associated Press",
       "BBC",
-      "Al Jazeera English",
       "France 24 English",
       "The Guardian"
     ],
     "all_sources": [
       {
-        "name": "France 24 English",
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "Health and Me",
         "count": 2
       },
       {
-        "name": "The Guardian",
+        "name": "PressReader",
+        "count": 2
+      },
+      {
+        "name": "The Australian",
         "count": 2
       },
       {
@@ -383,23 +460,7 @@
         "count": 2
       },
       {
-        "name": "AOL.com",
-        "count": 1
-      },
-      {
-        "name": "Al Jazeera English",
-        "count": 1
-      },
-      {
-        "name": "Associated Press",
-        "count": 1
-      },
-      {
         "name": "BBC",
-        "count": 1
-      },
-      {
-        "name": "CubaHeadlines",
         "count": 1
       },
       {
@@ -407,7 +468,7 @@
         "count": 1
       },
       {
-        "name": "Health and Me",
+        "name": "France 24 English",
         "count": 1
       },
       {
@@ -415,15 +476,11 @@
         "count": 1
       },
       {
-        "name": "Interfax-Ukraine",
+        "name": "News On AIR",
         "count": 1
       },
       {
-        "name": "International Business Times UK",
-        "count": 1
-      },
-      {
-        "name": "NBC News",
+        "name": "OkayAfrica",
         "count": 1
       },
       {
@@ -431,19 +488,27 @@
         "count": 1
       },
       {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
         "name": "Rudaw",
         "count": 1
       },
       {
-        "name": "The Australian",
+        "name": "The Guardian",
         "count": 1
       },
       {
-        "name": "UN News",
+        "name": "The Irish News",
         "count": 1
       },
       {
-        "name": "businesstimes-bd.com",
+        "name": "Tribune Online",
+        "count": 1
+      },
+      {
+        "name": "cubaheadlines.com",
         "count": 1
       },
       {
@@ -451,25 +516,34 @@
         "count": 1
       },
       {
-        "name": "streamlinefeed.co.ke",
+        "name": "financialexpress.com",
         "count": 1
       },
       {
-        "name": "tribuneonlineng.com",
+        "name": "open.kg",
+        "count": 1
+      },
+      {
+        "name": "sekbernews.id",
+        "count": 1
+      },
+      {
+        "name": "آسیانیوز ایران",
         "count": 1
       }
     ],
     "limitations": [
-      "4 item(s) had no extractable figures in available reporting.",
-      "2 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
-      "Published-source links: 7/7 Google News-derived link(s) resolved to a stable publisher URL.",
-      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+      "12 item(s) had no extractable figures in available reporting.",
+      "7 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 19/19 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 1/6 region(s) with candidate material generated via Gemini (LLM), 5 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
     ],
     "coverage_snapshot": {
       "outlets_reviewed": 19,
-      "themes_searched": 33,
-      "items_considered": 1084,
-      "sources_cited": 22
+      "themes_searched": 36,
+      "items_considered": 1377,
+      "sources_cited": 23
     },
     "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
   }
