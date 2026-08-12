@@ -1,113 +1,109 @@
 {
   "date": "2026-08-12",
-  "printed_time": "11:40 AM UTC",
+  "printed_time": "12:09 PM UTC",
   "top_five": [
     {
       "rank": 1,
-      "text": "A major 7.4-magnitude earthquake in western Colombia has killed over 240 people, injured hundreds, and caused widespread collapse of residential structures.",
-      "region": "Americas"
+      "text": "An unprecedented Ebola outbreak in the Democratic Republic of the Congo has killed over 2,000 people across 4,381 cases as containment efforts struggle to keep pace.",
+      "region": "Africa"
     },
     {
       "rank": 2,
-      "text": "A rapidly expanding Ebola epidemic in East Africa and the Democratic Republic of the Congo has claimed over 2,000 lives amidst severe healthcare disruptions.",
-      "region": "Global / Cross-Cutting"
+      "text": "A major 7.4-magnitude earthquake in western Colombia has killed up to 240 people and injured hundreds, leaving many trapped beneath collapsed structures.",
+      "region": "Americas"
     },
     {
       "rank": 3,
-      "text": "An Israeli strike targeted the Abu Asi orphan camp in Gaza, threatening vulnerable displaced populations and civilian care facilities.",
+      "text": "Israeli forces reportedly struck the Abu Asi Orphan Camp in Gaza, where wounded staff continued assisting displaced residents seeking shelter.",
       "region": "Middle East"
     },
     {
       "rank": 4,
-      "text": "Accelerating mpox transmission in Madagascar has forced health officials to ration and divide scarce vaccine supplies across the country.",
-      "region": "Global / Cross-Cutting"
+      "text": "Thousands of residents were evacuated from Beijing as torrential rainfall from Typhoon Dolphin heightened risks of severe flooding and landslides.",
+      "region": "Asia-Pacific"
     },
     {
       "rank": 5,
-      "text": "Remnants of Typhoon Dolphin triggered severe flooding and mass evacuations of thousands of residents across central and northern China.",
-      "region": "Asia-Pacific"
+      "text": "Overnight cross-border attacks between Russia and Ukraine killed four civilians, including a child in the port city of Novorossiysk.",
+      "region": "Europe"
     }
   ],
   "top_story": {
     "score": 9.0,
-    "quote": "A powerful 7.4-magnitude earthquake struck western Colombia, leaving over 240 people dead, hundreds injured, and emergency teams searching for survivors beneath collapsed infrastructure.",
-    "label": "AMERICAS — Colombia Earthquake"
+    "quote": "An unprecedentedly fast-spreading Ebola outbreak in the Democratic Republic of the Congo has killed over 2,000 people as response operations face critical disruptions from health worker strikes and delayed initial detection.",
+    "label": "AFRICA — Ebola Outbreak Surpasses 2,000 Fatalities"
   },
   "sections": {
     "Middle East": [
       {
-        "headline": "Occupied Palestinian Territory — Israeli attack reported at Gaza displaced camp",
+        "headline": "Colombia — 7.4-Magnitude Earthquake Kills Over 240 People",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake in western Colombia has killed at least 240 people, with search and rescue operations ongoing to locate survivors trapped beneath collapsed buildings. Rescuers successfully pulled a 32-year-old woman alive from the rubble in Cali two days after the disaster. Severe structural damage has been reported across affected cities, where many victims were buried under their homes. Numerous residents remain missing as search efforts continue.",
+        "verified_figures": [
+          "at least 240 killed",
+          "7.4-magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/death-toll-rises-after-colombia-earthquake"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/colombia-quake-death-toll-surpasses-240"
+          }
+        ]
+      },
+      {
+        "headline": "Palestine — Strike Reported on Gaza Orphan Camp",
         "score": 7.5,
-        "body": "An Israeli strike reportedly targeted the Abu Asi orphan camp in Gaza, affecting facilities housing displaced people and orphans. Reports indicate that wounded individuals continued providing care for displaced residents following the attack. The strike highlights sustained protection risks to civilians and displaced populations residing in temporary shelters across the Gaza Strip amidst ongoing military hostilities.",
+        "body": "Israeli forces reportedly struck the Abu Asi Orphan Camp in Gaza. Following the attack, wounded personnel inside the camp continued assisting and caring for displaced residents seeking shelter at the site. Official casualty numbers and the full scale of damage to the facility remain unconfirmed due to limited details in available reporting.",
         "verified_figures": [],
         "sources": [
           {
             "name": "dawnmena.org",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW9SZlZ4TDlTbm0tWWVDdzA5ekZ0OEUyS2UtNTlYWDFiMjI1eW5PLTI1U2xsdWo3Y20tanViWkVxNUVqQkYwM3dWancxRUJCUk1TTGtGTmk1c0FZcDc4UlJCYjh0RVlSd25IMEhuV1N0V1ZVUlByUXlzMUlLd2E1ZUJadlkxZ3ZQZU5NRTBvLU5hbDRrdDd0LXFaRF_Eb2Q3bkpiWFFOV1c?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW9SZlZ4TDlTbm0tWWVDdzA5ekZ0OEUyS2UtNTlYWDFiMjI1eW5PLTI1U2xsdWo3Y20tanViWkVxNUVqQkYwM3dWancxRUJCUk1TTGtGTmk1c0FZcDc4UlJCYjh0RVlSd25IMEhuV1N0V1ZVUlByUXlzMUlLd2E1ZUJadlkxZ3ZQZU5NRTBvLU5hbDRrdDd0LXFaRF9Fb2Q3bkpiWFFOV1c?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ]
       },
       {
-        "headline": "Yemen — Defense Department probes US military strikes over civilian casualties",
-        "score": 6.0,
-        "body": "The United States Department of Defense reported that military strikes in Yemen killed 153 civilians last year. According to official statements, 15 individual strikes remain under active investigation. The disclosures highlight severe ongoing protection concerns and civilian harm caused by external military operations within Yemen, where civilian populations continue to face risks from aerial bombardments and armed conflict.",
+        "headline": "Yemen — Defense Department Reports 153 Civilian Deaths from US Strikes",
+        "score": 5.5,
+        "body": "The United States Department of Defense reported that US airstrikes in Yemen resulted in the deaths of 153 civilians last year. According to military statements, 15 individual strikes remain under official investigation to examine potential civilian harm and operational conduct.",
         "verified_figures": [
           "153 civilians killed last year",
-          "15 strikes under investigation"
+          "15 strikes under probe"
         ],
         "sources": [
           {
             "name": "Firstpost",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVlPdngtdmxZZzVLbWVobjFSSkpzLVdpRlN5THJfNW9qRk1helNSRS1BeENwSzdLZ05kTGMwLWQxRnJmSzJJVVY4UlZJZGlIbWpXcnQzSWZBUy10dUdSN1I5QlVMMDV4Z1FiYVY2czVqVDg1NF_aMjdocl8xcjBTVnJTQjVkeHFqNWx6cmlpTDJWeHcyQnhwUy1NV013aHZJVDEzN0ZNVzRPRTdhNlFyR0ZRV3VQRlp4X3VLTzNXQlk5OXpzV29wZlpkejBHOE51XzRBSzBhNHRoRXpLNzdZYndUV2d2TEZI0gHuAUFVX3lxTE96ak9ON3JKbmRqTGotOFc3QVpXZEdVa1RGdHVrQWgxc2dIRjBfTXcyS1NFb0pJRnpEeGdVbnpqQ2doOUtkRVdKOHI0ekNtSy1rM0NBOXgzMzFVempuZEFuMGNSdEhBQzF1RUd2elQ0RG03MWZidXV2SV_rdkw3eGRSUUpMT2ZDa0lIa29jRVA1TUxvS3RqcmZpSmFFMjNSTlFkdU5KT09RNXlSTElYQ25HYVc0NlpFYjRhY0xDTjhHaVh4V29mNmRkOHZmTVVmTV_PdmlGNnIyMTVPVkk2amVGaElnSFpQRzlWYTc2Mnc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVlPdngtdmxZZzVLbWVobjFSSkpzLVdpRlN5THJfNW9qRk1helNSRS1BeENwSzdLZ05kTGMwLWQxRnJmSzJJVVY4UlZJZGlIbWpXcnQzSWZBUy10dUdSN1I5QlVMMDV4Z1FiYVY2czVqVDg1NF9aMjdocl8xcjBTVnJTQjVkeHFqNWx6cmlpTDJWeHcyQnhwUy1NV013aHZJVDEzN0ZNVzRPRTdhNlFyR0ZRV3VQRlp4X3VLTzNXQlk5OXpzV29wZlpkejBHOE51XzRBSzBhNHRoRXpLNzdZYndUV2d2TEZI0gHuAUFVX3lxTE96ak9ON3JKbmRqTGotOFc3QVpXZEdVa1RGdHVrQWgxc2dIRjBfTXcyS1NFb0pJRnpEeGdVbnpqQ2doOUtkRVdKOHI0ekNtSy1rM0NBOXgzMzFVempuZEFuMGNSdEhBQzF1RUd2elQ0RG03MWZidXV2SV9rdkw3eGRSUUpMT2ZDa0lIa29jRVA1TUxvS3RqcmZpSmFFMjNSTlFkdU5KT09RNXlSTElYQ25HYVc0NlpFYjRhY0xDTjhHaVh4V29mNmRkOHZmTVVmTV9PdmlGNnIyMTVPVkk2amVGaElnSFpQRzlWYTc2Mnc?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ]
       },
       {
-        "headline": "Red Sea / Yemen — Maritime attacks cause casualties near Bab al-Mandeb",
+        "headline": "Yemen/Red Sea — Fatal Strike Reported on Ship in Bab al-Mandeb Strait",
         "score": 5.5,
-        "body": "Reports indicate an escalation in maritime attacks in the Bab al-Mandeb Strait and surrounding regional waters. According to news reports, a Houthi strike targeted a ship in the Bab al-Mandeb Strait, with claims of crew casualties ranging from three to six people killed in the incident. Separate reports note additional strikes involving a cargo vessel near the Gulf of Oman resulting in four deaths, amid broader regional conflict escalation and maritime security threats.",
+        "body": "Yemeni officials reported six people were killed during a Houthi strike on a vessel in the Bab al-Mandeb Strait. The incident highlights continued military escalation and safety risks affecting commercial shipping and maritime traffic in the Red Sea region.",
         "verified_figures": [
-          "3 to 6 crew killed in Bab al-Mandeb strike",
-          "4 killed near Gulf of Oman"
+          "6 killed"
         ],
         "sources": [
           {
-            "name": "The Sunday Guardian",
-            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUHFCSzdUM0RtcGtpQzF5SWJzSmxTMmJ2Vkc2Y05ta3lRVm95STZsVlBQamprdUxPUDZHbUkyUmMzdkI0M1VONEVET3loMnUzRzNlMF_Rc1RGaVBHeTNhcHAwV2VUSndUOGlKS0gzSTRxQXF2ZTNvQjJJelMwZU90VDZtUUpSbnlvdDVJR2tfUXlEd0lfVW8xZFI3UF_6eUVDLVRZankyd1h6X0xiSEo5dnEzVGtrbXpYUmRPSTJtYUtiVDJsbEJWV0RFZjFmNVpWWVVjcnMwcHA3Y0tXeU83dlV4UE5wQlNkRDMwekFNeENPaXdxUldoZE1kZTd5NGM5VDdXelpn0gGLAkFVX3lxTE9VT0VSemRoWmNiR3lDQWxXV241bDZyWU5PS09GUi1GLS1oM3EyMWtiVEhYOVl1dGc5YnRPNHhhaVNIdUdVQWN1NURnNlljakFRSi1ITUF6Z0xadk9Gb2RlZWNueXhIWHdtNWlLaC1PaEpaT2FDUkN5c1lIb2xDN0lsY0dHTEhtczgxalVjMklHanJYV3RVZzhJUldibUxtYzNuRjNPcldGRHRmaHNqMk5pQ1_MNU1YMExiWXBvRm1PbG5LelhXT1_0cEtqY3N1R1dFRDlCWjNlRVZmRFdkSFRRcUNic21aemVwaWFmWkk3NE84eEhRSkFqUUEzbExmTUJ6eDhqTTBPOTlJTQ?oc=5"
-          },
-          {
-            "name": "India Shipping News",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSFZsNzk4dC1nNGRicVhrLWZwZUZ1STNRdkhKTHUtRnRTdjFxVzJDYlduV240ZnBobDIxc1_UZzdkdHFVa2oyYURSU1lnZ0UxZ1l6UFhBcElZSnZOTmdJNUlPUDZnSXdzMnVwTm5wOFN4UXk1d1JyR3hQNzl0TEtaU3dlRW1jd0dEQk0xQjZLclFRTWxPWnhLMk92MXVYTDN5Rm50U1_wWjZjRFVRSTVBZWxDb3RzcjVXN0M4TWJzR2l2YmJzSlQ0UmswdWQ2bHQw?oc=5"
-          },
-          {
-            "name": "ABP Live English",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc21BZFRtV2t2dGFTU0g4eHF0TzNXVW1nYmV5NE9LdGJ6amU3blJPU2JrOVZpZUlIejRsdWlxYktVQWN6QVFPblZkeVNxeDA2UDN2dlBEblJzUU0zbEVtankyWEVBdGlLd3NiYXdvRkpaRUdsWHM3ajIySEtOSnFBam9iN3FFNE5qOTUtaXRjQUMzNVllSGxXVVNWVy1GOVRIS29iWGYxU0oycmtYN2VMT1JhYlJYUm1NcE04bWgxejRjRlpZ0gHKAUFVX3lxTE5zdnpGTFc5MUpyR05XTDV3d3hkVV_sT01VZUpWOUtuYVY2VTlDRTZzT1FVR3FuTmw2OVgzWVpVeGFvcUNVR0hWLXA2WVN1M1F0S3VJcXZ1VHJtRVJqbnlNNjk2ZHZxVzc2TnJRYVFFUEJFa0JCNUZhSVljRVQ2Q3RRelV3UllnRC13Q0NhVllFaTB4ZlczcllsNkhwTGM2d3BTeHE5M2UtaEtXRDFDSDVRS0l0ckxzNEY0SEs1RHZzNmZaVWlFSGJ4UGc?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "Syria — Soldiers killed in attack near Qamishli",
-        "score": 4.0,
-        "body": "An attack in Qamishli, northeastern Syria, resulted in the deaths of two Syrian army soldiers, according to military statements. Security conditions in northeastern Syria remain fragile as armed groups continue localized attacks, posing potential risks to humanitarian access and civilian safety across Hasakah province.",
-        "verified_figures": [
-          "2 soldiers killed"
-        ],
-        "sources": [
-          {
-            "name": "rudaw.net",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aOVJ2eU9KcThha3dhbTV4V0pPcVZlY0xrU2VvMDJoX3g4cDVkdk5IOFBVM0lyTDczMmlrRmJKcTBxZmVUT2hfVTFldXdXbG04d1RpeWQ4aWMzY2J5OGtGaGhaNmc?oc=5"
+            "name": "indiashippingnews.com",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSFZsNzk4dC1nNGRicVhrLWZwZUZ1STNRdkhKTHUtRnRTdjFxVzJDYlduV240ZnBobDIxc1_UZzdkdHFVa2oyYURSU1lnZ0UxZ1l6UFhBcElZSnZOTmdJNUlPUDZnSXdzMnVwTm5wOFN4UXk1d1JyR3hQNzl0TEtaU3dlRW1jd0dEQk0xQjZLclFRTWxPWnhLMk92MXVYTDN5Rm50U193WjZjRFVRSTVBZWxDb3RzcjVXN0M4TWJzR2l2YmJzSlQ0UmswdWQ2bHQw?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ]
       }
     ],
     "Americas": [
       {
-        "headline": "Colombia — Major 7.4-magnitude earthquake kills over 240 in western regions",
+        "headline": "Colombia — 7.4-magnitude earthquake causes severe damage and mass casualties",
         "score": 9.0,
-        "body": "Search and rescue operations are underway in western Colombia following a major 7.4-magnitude earthquake that struck on Monday, triggering multiple aftershocks. The disaster caused widespread destruction of homes and apartment buildings across western Colombia, including in Cali. Reporting indicates at least 180 to over 240 people have been killed, with hundreds more injured or missing under collapsed structures. Emergency teams continue searching for survivors trapped beneath rubble, successfully pulling a 32-year-old woman alive from a collapsed building on Tuesday. The event represents one of Colombia's worst earthquakes in decades.",
+        "body": "A powerful 7.4-magnitude earthquake struck western Colombia on Monday morning, causing widespread destruction and triggering multiple aftershocks through Tuesday. At least 180 people have been killed, according to the BBC, while rescue teams continue working to free survivors trapped under collapsed buildings and rubble. Local authorities reported hundreds of injuries and warned that the death toll is expected to rise further as emergency search and rescue operations proceed across affected areas.",
         "verified_figures": [
           "7.4-magnitude earthquake",
-          "At least 180 to 240 people killed",
+          "At least 180 dead",
           "Hundreds injured"
         ],
         "sources": [
@@ -116,41 +112,37 @@
             "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "name": "France 24 English",
-            "url": "https://www.france24.com/en/death-toll-rises-after-colombia-earthquake"
-          },
-          {
-            "name": "France 24 English",
-            "url": "https://www.france24.com/en/colombia-quake-death-toll-surpasses-240"
+            "name": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOUZIazBTTXJFTDZ3QjVQYWRITkJQVUFMWjQ5LVQxUHJYSjRxYk1ySkg3OGpJOHpuVTJVWUZoNXUzdVg3cGFUdU9KMDRWcWxjaUpreHpmRWN3UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "name": "The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjM4czI4SnI3NXlpRlJqZ1d3SV9MczkwSTRTYkZOblVfUXhod184T2VLRUV5d25RVm1kU3hCa3pqZ2NKcnIyWDVQOWJURmhmWlhENndiaUtxRTRHUERfY3dwSjhJR29nOFlyYklMdHBCd0NxNUc5SzZIdmpWekJMWFZnYWI3Zw?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2NwOTYwVzFBRktiZXBKdGlLanlCRlVHT1A0djhGVW92YTNlTnJZQkF6YkhIMDZTYTRIbWt6b20ydmstSmMwNkRIdnVaeHM1SzZuSFpJdjRvT3dMUV9WdnV6U3M2Qnh3cUtCei1kUlZRak1YcFFpQVQtZFQtNnQ2VnIwbWpodzdVcGc1b2dOU2tMSnVGaHppZzRn?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ]
       }
     ],
     "Africa": [
       {
-        "headline": "DR Congo — Escalating Ebola outbreak kills over 2,000 people",
-        "score": 8.5,
-        "body": "Health authorities in the Democratic Republic of the Congo report that a rapidly expanding Ebola outbreak has killed at least 2,011 people and infected 4,381. Officials indicate the outbreak is the fastest-spreading on record and began months before it was officially declared. Response efforts are currently being outpaced by the virus as health workers strike over pay, complicating containment efforts amid high infection rates.",
+        "headline": "DR Congo — Ebola Outbreak Surpasses 2,000 Fatalities",
+        "score": 9.0,
+        "body": "Health authorities in the Democratic Republic of the Congo report that an Ebola outbreak has killed over 2,000 people, with total cases reaching 4,381. Described as the fastest-spreading on record, the outbreak reportedly began months prior to its official declaration. Containment efforts are failing to keep pace with transmission, compounded by health workers striking over pay, while researchers race to advance vaccine development and identify the origin of the outbreak.",
         "verified_figures": [
           "2,011 killed",
           "4,381 cases"
         ],
         "sources": [
           {
-            "name": "The Independent",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWt3N2l0czN0eUNLTHQ5c21HekNFaE02a2dCVE1rdjQzYzBERTNWeXJmNWJEMldzcmhFbUN3eEY3S190M2RsejU5OS1QTVlUZVVhZEQ2eFYwekZyUk9CY050NjBYMDUtOFNhRkl1dFpOUW5wSWJkcGJjSzhicE02eHV5U0FnelFISFNIS0ZqNA?oc=5"
+            "name": "news.un.org",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdU9nLU1GYWZlUnJTbW9xbElqSVdQSjVBX1dYempUY045a2FDaUhGNHZtQ09pNE1iNG1CUDlJd3A3bkpFNmN2T2xEVlFGU1VsTXJuTC1GYw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
-            "name": "Tribune Online",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTdEeWpIMHFWNS1kRTlpQzVIdHg1YmNpVFNPbWlrOExlQlAyVmc5bFF5WDYtTVowMHdqam1wbFdETVNQcEdWWWpIZ3pRZjc0bHRwTEJvTlZQMkkwanpIc3pjWktTZURnRTlGenQ5bkxyZk5uYXZXMWFvMWt4dnk3NDZRcXJMSXdxUDFtLWxoc9IBjwFBVV95cUxQMTdEeWpIMHFWNS1kRTlpQzVIdHg1YmNpVFNPbWlrOExlQlAyVmc5bFF5WDYtTVowMHdqam1wbFdETVNQcEdWWWpIZ3pRZjc0bHRwTEJvTlZQMkkwanpIc3pjWktTZURnRTlGenQ5bkxyZk5uYXZXMWFvMWt4dnk3NDZRcXJMSXdxUDFtLWxocw?oc=5"
+            "name": "The Independent",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWt3N2l0czN0eUNLTHQ5c21HekNFaE02a2dCVE1rdjQzYzBERTNWeXJmNWJEMldzcmhFbUN3eEY3S190M2RsejU5OS1QTVlUZVVhZEQ2eFYwekZyUk9CY050NjBYMDUtOFNhRkl1dFpOUW5wSWJkcGJjSzhicE02eHV5U0FnelFISFNIS0ZqNA?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "name": "AOL.com",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdVRuUTVOaTRvRUVmWGdfS3BQLVBwaU42OE1QckUtVDB1RTVoMU82dmtIMHFsR2oxSjc4NFlPaU02Sy1GV2puMWxITTB3TU1DMDExbmhWb1VoNVVtYVdOSEhTREM5cWNLUjRPd1BVU0k5RmVieUpFSVNvMkJvQ1BDcUp3?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdVRuUTVOaTRvRUVmWGdfS3BQLVBwaU42OE1QckUtVDB1RTVoMU82dmtIMHFsR2oxSjc4NFlPaU02Sy1GV2puMWxITTB3TU1DMDExbmhWb1VoNVVtYVdOSEhTREM5cWNLUjRPd1BVU0k5RmVieUpFSVNvMkJvQ1BDcUp3?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "name": "Al Jazeera",
@@ -161,9 +153,9 @@
     ],
     "Europe": [
       {
-        "headline": "Russia/Ukraine — Four killed in cross-border overnight attacks",
-        "score": 6.0,
-        "body": "Overnight attacks across southern Russia and Ukraine killed at least four people, according to local officials. In the Russian port city of Novorossiysk, municipal authorities reported that strikes killed a child and damaged dozens of buildings. The casualties and damage follow sustained cross-border bombardments hitting infrastructure and populated areas in both nations.",
+        "headline": "Russia/Ukraine — Cross-border overnight attacks leave four dead",
+        "score": 5.5,
+        "body": "Overnight attacks targeting locations in southern Russia and Ukraine resulted in at least four deaths. In the Russian port city of Novorossiysk, the local mayor reported that a child was killed and dozens of buildings were damaged during a night of heavy bombardment. The strikes highlight continuing civilian casualties and damage to infrastructure resulting from ongoing cross-border hostilities.",
         "verified_figures": [
           "4 killed",
           "dozens of buildings damaged"
@@ -176,9 +168,9 @@
         ]
       },
       {
-        "headline": "Ukraine — North Korean ballistic missiles reported in Zaporizhzhia attack",
-        "score": 5.0,
-        "body": "Ukrainian President Volodymyr Zelenskyy stated that Russian forces used North Korean ballistic missiles in a recent deadly attack on Zaporizhzhia. Zelenskyy accused Pyongyang of escalating its military support for Moscow. Kyiv is seeking closer cooperation with international partners, including South Korea, to counter ongoing missile attacks targeting Ukrainian territory.",
+        "headline": "Ukraine/Russia — Pyongyang-supplied missiles reported in Zaporizhzhia attack",
+        "score": 4.5,
+        "body": "Ukrainian President Volodymyr Zelenskyy accused North Korea of stepping up its military support for Moscow, stating that ballistic missiles supplied by Pyongyang were used in a recent deadly attack on Zaporizhzhia. Following the reported deployment of North Korean weaponry in Ukraine, Kyiv is pursuing closer diplomatic and security cooperation with South Korea.",
         "verified_figures": [],
         "sources": [
           {
@@ -186,17 +178,28 @@
             "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea"
           }
         ]
+      },
+      {
+        "headline": "Ukraine/Russia — Kyiv submits peace proposals to US, warns of Russian mobilization",
+        "score": 3.5,
+        "body": "Ukrainian President Volodymyr Zelenskyy announced that Ukraine has submitted formal proposals to the United States regarding measures to end the war with Russia. Zelenskyy also warned that Moscow intends to use its upcoming elections next month as a pretext to declare a new military mobilization effort.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss"
+          }
+        ]
       }
     ],
     "Asia-Pacific": [
       {
-        "headline": "China — Typhoon Dolphin triggers mass evacuations and torrential rainfall",
-        "score": 6.0,
-        "body": "Remnants of Typhoon Dolphin brought severe flooding, torrential rainfall, and landslide risks across central and northern China, forcing the evacuation of thousands of residents from high-risk areas in Beijing. Weather authorities warned the capital could receive over 150 mm of rainfall within 24 hours, with localized areas facing more than 200 mm, exceeding one-third of Beijing's total annual average precipitation. The extreme weather has disrupted transport networks, construction, and regional infrastructure across multiple provinces.",
+        "headline": "China — Typhoon Dolphin Floods",
+        "score": 6.5,
+        "body": "Thousands of people have been evacuated from Beijing as the remnants of Typhoon Dolphin bring torrential rain across northern and central China. Forecasters warned that the Chinese capital could receive over 150 millimeters of rain within 24 hours, with localized districts expected to exceed 200 millimeters—representing more than one-third of Beijing's average annual rainfall of 528 millimeters. The heavy precipitation has heightened risks of widespread flooding and landslides, threatening communities, infrastructure, and local services in vulnerable areas.",
         "verified_figures": [
-          "Thousands of people evacuated",
-          "150mm to 200mm forecast 24-hour rainfall in Beijing",
-          "528mm average annual rainfall in Beijing"
+          "Thousands evacuated in Beijing",
+          "Over 150mm of rain forecast within 24 hours (exceeding 200mm in some districts)"
         ],
         "sources": [
           {
@@ -206,73 +209,43 @@
         ]
       },
       {
-        "headline": "Myanmar — Military escalates airstrikes affecting civilians in flood zones",
+        "headline": "India — Assam Floods",
         "score": 5.0,
-        "body": "Investigators report that Myanmar's military has escalated airstrikes against civilian targets across the country. In Ayeyarwady Region, an air attack killed two displaced brothers in an area already suffering from major flooding. The escalation poses severe protection risks to displaced communities seeking shelter in disaster-affected zones.",
-        "verified_figures": [
-          "2 displaced brothers killed"
-        ],
-        "sources": [
-          {
-            "name": "Burma News International",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV_5cUxPS1dXRHk5cDRoTzRTMVdVNFN0ajY1NVlMcTk3S215cWNMTWh0aUV6TFUwLUVHT1BGLWM3ZWxzY1Y5NEphSTdOaGtBdDlXMVNVNGxjZ0ZrNWNhWW0ybV9TVEVnMjhXeGRITW1TdmpNSHROcXFQQ0E3VE5fM19VTGJ5V01wOG5RdFBGZ2RIVlh1MmhhUUlxZWNaWVZzRE5TTk9MbDdwZ1hNakp1U0xWb0ljSTk0UXc?oc=5"
-          },
-          {
-            "name": "WRAL",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV_5cUxOdVlIUzhrYms4RWNZYTFDRzM5MFpNV3FlaXhSc0FZWjZqNGt2bkdxblp1LU00cXg4Vk9wdXdOZWhSeTNGZjdjSG1hUXZzM24zdC1wb3NvYmsyN25EZ3NvV21OZG11S2xZRmpxNE5xdS1wbU1UQ2VNR1AzVmlXWnp3N1F2M2dFbndia0otM0VJOWliLUdoYlA5VWRjYjNqaExiQ0pwX2g3VWVQclJyUHR2eTVvRDI?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "India — Severe flooding expands to previously safe areas in Assam",
-        "score": 4.0,
-        "body": "Severe seasonal flooding in Assam State, India, has inundated areas previously considered safe from major rising waters. The expanding flood zones have created severe protection concerns and rescue challenges for elderly and vulnerable residents stranded by fast-moving waters.",
+        "body": "Flooding in the northeastern state of Assam, India, is escalating and inundating areas previously considered safe from severe waterlogging. The expanding scope of the floodwaters has disrupted local communities and forced residents to utilize improvised rafts for survival and emergency evacuation, illustrating the widening geographical impact and protection challenges for vulnerable populations across affected rural areas.",
         "verified_figures": [],
         "sources": [
           {
             "name": "BBC",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WS1hBdHFRQkkxNFI0b2llcFRXVzlMRDFsY2cwalpQNGdwME9HY1dIV3F1TlVwZjhBdlhLbGhyc29yeGxCYWwzTjgtdlZhU2Qxa0QzTDNVUjdKUlBC?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WS1hBdHFRQkkxNFI0b2llcFRXVzlMRDFsY2cwalpQNGdwME9HY1dIV3F1TlVwZjhBdlhLbGhyc29yeGxCYWwzTjgtdlZhU2Qxa0QzTDNVUjdKUlBC?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ]
       }
     ],
     "Global / Cross-Cutting": [
       {
-        "headline": "East Africa — Ebola outbreak deaths pass 2,000 in fastest-spreading epidemic on record",
-        "score": 9.0,
-        "body": "An Ebola outbreak in East Africa has caused more than 2,000 deaths, making it the fastest-growing epidemic of the virus on record. The disease reportedly spread undetected for several months prior to recognition, severely hampering containment efforts as scientists race to develop a vaccine. To assist with containment and response operations across East Africa, the United States has pledged an additional 31 billion Kenyan shillings in funding.",
+        "headline": "East Africa — Ebola outbreak deaths surpass 2,000 amid record spread",
+        "score": 8.5,
+        "body": "An accelerating Ebola outbreak in East Africa has claimed over 2,000 lives, making it the fastest-growing outbreak of the virus on record. The epidemic reportedly spread undetected for months before being identified, severely complicating containment efforts across affected communities. In response, scientists are working to rapidly develop and deploy effective vaccines, while international partners mobilize aid. To support response operations in the region, the United States has pledged an additional 31 billion Kenyan shillings.",
         "verified_figures": [
-          "more than 2,000 deaths",
-          "Ksh31 billion pledged by US"
+          "Over 2,000 deaths",
+          "Ksh31 billion in extra US aid pledged"
         ],
         "sources": [
           {
             "name": "UN News",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdU9nLU1GYWZlUnJTbW9xbElqSVdQSjVBX1dYempUY045a2FDaUhGNHZtQ09pNE1iNG1CUDlJd3A3bkpFNmN2T2xEVlFGU1VsTXJuTC1GYw?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdU9nLU1GYWZlUnJTbW9xbElqSVdQSjVBX1dYempUY045a2FDaUhGNHZtQ09pNE1iNG1CUDlJd3A3bkpFNmN2T2xEVlFGU1VsTXJuTC1GYw?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "name": "PBS",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOW9ucjB0ZEJzVHpjVHFWMUktZmFEcm9fMkN5NHRDN1_zVW5tYjlIdTRTbFdwRnp1Z0Zvd0k1amt5UllLRTcwcXlPbThVMEd2Q1A5c3Zid3M1bWJmZ2JQRnh4TWZVNHRYc2RSUDRqbXVmb2F4ajVHZHU2WnY1Rlp6MkdXWV9fMC16MWptYWtETDI1TFhsQVNOTTZqVW1XMXBmY2dHS29Hdk9LWEJvSUdTOHJYYlN4OTBsQkJkakpieFE5c2htd1hGaTk0YXc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOW9ucjB0ZEJzVHpjVHFWMUktZmFEcm9fMkN5NHRDN196VW5tYjlIdTRTbFdwRnp1Z0Zvd0k1amt5UllLRTcwcXlPbThVMEd2Q1A5c3Zid3M1bWJmZ2JQRnh4TWZVNHRYc2RSUDRqbXVmb2F4ajVHZHU2WnY1Rlp6MkdXWV9fMC16MWptYWtETDI1TFhsQVNOTTZqVW1XMXBmY2dHS29Hdk9LWEJvSUdTOHJYYlN4OTBsQkJkakpieFE5c2htd1hGaTk0YXc?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "name": "The Independent",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0l6ZTRSdTFvRVB2eUstZWJvSEpMNXpYbU96R01xOVhIZk5hQXpSUlhiU1hWWHFLSDNFZlBTT1JxVXhJWkZDUnR5UFd0RDAtOF9UUllnT1BfN0RiSW45MDZJaXRhNTllT3ZiR29NOGppMC03Q2YxQ25Tdl9qSFdJbHN6UXFZVUF5YzdqUE5YMXltemZfd29j?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0l6ZTRSdTFvRVB2eUstZWJvSEpMNXpYbU96R01xOVhIZk5hQXpSUlhiU1hWWHFLSDNFZlBTT1JxVXhJWkZDUnR5UFd0RDAtOF9UUllnT1BfN0RiSW45MDZJaXRhNTllT3ZiR29NOGppMC03Q2YxQ25Tdl9qSFdJbHN6UXFZVUF5YzdqUE5YMXltemZfd29j?oc=5&hl=en-US&gl=US&ceid=US:en"
           },
           {
             "name": "KDRTV",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHZWZWE2N0xlb1BKbGl6QlRIanB3dEVScEVaYmp0VU1xbFN6SDF1ZHRfVGxudll2Y2tib3dzbnktMnY1Z3dvZlBJLTBUclV4ZlpFY0V3d0JQeUd3QnRZNTd5MG1JclQ0b3pTY2MwM3pJQzhybGVKanNaVFlzeklQaDFfLVBNeC1qOWFxRGF0Ykl2MHZRWXFfZGhBOEpNcVB4dVZsMkFTREbSAagBQVVfeXFMT0h2VmVhNjdMZW9QSmxpekJUSGpwd3RFUnBFWmJqdFVNcWxTekgxdWR0X1RsbnZZdmNrYm93c255LTJ2NWd3b2ZQSS0wVHJVeGZaRWNFd3dCUHlHd0J0WTU3eTBtSXJUNG96U2NjMDN6SUM4cmxlSmpzWlRZc3pJUGgxXy1QTXgtajlhcURhdGJJdjB2UVlxX2RoQThKTXFQeHVWbDJBU0RG?oc=5"
-          }
-        ]
-      },
-      {
-        "headline": "Madagascar — Authorities divide mpox vaccine supplies amid accelerating epidemic",
-        "score": 6.5,
-        "body": "Madagascar has been forced to divide and share its limited mpox vaccine supplies as an epidemic accelerates across the country. The measure comes as health workers attempt to manage the expanding outbreak amid constraints on vaccine availability and distribution. Further details on case numbers and coverage remain limited as response efforts continue.",
-        "verified_figures": [],
-        "sources": [
-          {
-            "name": "The Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQanA3OEo1X0RIT2psZmxJc3FpY05MaU9hMFRGS1NPb0U1ZERiQ3pmV2YyakQ2Y2twajZIN1daUFN5cXJPcDBBejdUeGItUUM1M21iTWJuNDV3VkptcTlmc1pyMXhrUW9NelVoQTBsU2xpNmJVR0tLN0R3Y1JYVlUxd1_aUFNLMXVnQmotM25TRmdsXzBJSEw3aFp1V0I3Mk1meDZSUzdqMXVNTGk5M1FPbWV3V2I?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHZWZWE2N0xlb1BKbGl6QlRIanB3dEVScEVaYmp0VU1xbFN6SDF1ZHRfVGxudll2Y2tib3dzbnktMnY1Z3dvZlBJLTBUclV4ZlpFY0V3d0JQeUd3QnRZNTd5MG1JclQ0b3pTY2MwM3pJQzhybGVKanNaVFlzeklQaDFfLVBNeC1qOWFxRGF0Ykl2MHZRWXFfZGhBOEpNcVB4dVZsMkFTREbSAagBQVVfeXFMT0h2VmVhNjdMZW9QSmxpekJUSGpwd3RFUnBFWmJqdFVNcWxTekgxdWR0X1RsbnZZdmNrYm93c255LTJ2NWd3b2ZQSS0wVHJVeGZaRWNFd3dCUHlHd0J0WTU3eTBtSXJUNG96U2NjMDN6SUM4cmxlSmpzWlRZc3pJUGgxXy1QTXgtajlhcURhdGJJdjB2UVlxX2RoQThKTXFQeHVWbDJBU0RG?oc=5&hl=en-US&gl=US&ceid=US:en"
           }
         ]
       }
@@ -280,45 +253,28 @@
   },
   "escalation_risks": [
     {
-      "location": "Red Sea / Bab al-Mandeb Strait",
-      "score": 6.0,
-      "trigger": "Continued maritime missile attacks on commercial vessels operating near the Bab al-Mandeb Strait and Gulf of Oman.",
-      "potential_impact": "Escalating civilian crew fatalities, higher shipping insurance rates, and severe disruptions to regional maritime logistics.",
+      "location": "Bab al-Mandeb Strait, Yemen",
+      "score": 5.5,
+      "trigger": "Further Houthi strikes targeting commercial shipping vessels navigating the Bab al-Mandeb Strait over the next 72 hours.",
+      "potential_impact": "Continued attacks could cause additional fatalities, disrupt vital international maritime traffic, and trigger broader regional military responses.",
       "confidence": "Medium",
       "sources": [
         {
-          "name": "India Shipping News",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV_5cUxNSFZsNzk4dC1nNGRicVhrLWZwZUZ1STNRdkhKTHUtRnRTdjFxVzJDYlduV240ZnBobDIxc1_UZzdkdHFVa2oyYURSU1lnZ0UxZ1l6UFhBcElZSnZOTmdJNUlPUDZnSXdzMnVwTm5wOFN4UXk1d1JyR3hQNzl0TEtaU3dlRW1jd0dEQk0xQjZLclFRTWxPWnhLMk92MXVYTDN5Rm50U1_wWjZjRFVRSTVBZWxDb3RzcjVXN0M4TWJzR2l2YmJzSlQ0UmswdWQ2bHQw?oc=5"
-        },
-        {
-          "name": "ABP Live English",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV_5cUxPc21BZFRtV2t2dGFTU0g4eHF0TzNXVW1nYmV5NE9LdGJ6amU3blJPU2JrOVZpZUlIejRsdWlxYktVQWN6QVFPblZkeVNxeDA2UDN2dlBEblJzUU0zbEVtankyWEVBdGlLd3NiYXdvRkpaRUdsWHM3ajIySEtOSnFBam9iN3FFNE5qOTUtaXRjQUMzNVllSGxXVVNWVy1GOVRIS29iWGYxU0oycmtYN2VMT1JhYlJYUm1NcE04bWgxejRjRlpZ0gHKAUFVX3lxTE5zdnpGTFc5MUpyR05XTDV3d3hkVV_sT01VZUpWOUtuYVY2VTlDRTZzT1FVR3FuTmw2OVgzWVpVeGFvcUNVR0hWLXA2WVN1M1F0S3VJcXZ1VHJtRVJqbnlNNjk2ZHZxVzc2TnJRYVFFUEJFa0JCNUZhSVljRVQ2Q3RRelV3UllnRC13Q0NhVllFaTB4ZlczcllsNkhwTGM2d3BTeHE5M2UtaEtXRDFDSDVRS0l0ckxzNEY0SEs1RHZzNmZaVWlFSGJ4UGc?oc=5"
+          "name": "indiashippingnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV_5cqLMSFZsNzk4dC1nNGRicVhrLWZwZUZ1STNRdkhKTHUtRnRTdjFxVzJDYlduV240ZnBobDIxc1_UZzdkdHFVa2oyYURSU1lnZ0UxZ1l6UFhBcElZSnZOTmdJNUlPUDZnSXdzMnVwTm5wOFN4UXk1d1JyR3hQNzl0TEtaU3dlRW1jd0dEQk0xQjZLclFRTWxPWnhLMk92MXVYTDN5Rm50U193WjZjRFVRSTVBZWxDb3RzcjVXN0M4TWJzR2l2YmJzSlQ0UmswdWQ2bHQw?oc=5&hl=en-US&gl=US&ceid=US:en"
         }
       ]
     },
     {
-      "location": "Northeastern Syria",
+      "location": "Zaporizhzhia, Ukraine",
       "score": 5.0,
-      "trigger": "Renewed localized armed clashes following the death of two Syrian soldiers near Qamishli.",
-      "potential_impact": "Deterioration of security conditions threatening humanitarian access and civilian safety across Hasakah province.",
-      "confidence": "Medium",
+      "trigger": "Expanded deployment of North Korean-supplied ballistic missiles in Russian strikes against Ukrainian targets.",
+      "potential_impact": "The use of advanced foreign ballistic weaponry threatens increased civilian casualties and infrastructure destruction across major urban populations.",
+      "confidence": "Low",
       "sources": [
         {
-          "name": "rudaw.net",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aOVJ2eU9KcThha3dhbTV4V0pPcVZlY0xrU2VvMDJoX3g4cDVkdk5IOFBVM0lyTDczMmlrRmJKcTBxZmVUT2hfVTFldXdXbG04d1RpeWQ4aWMzY2J5OGtGaGhaNmc?oc=5"
-        }
-      ]
-    },
-    {
-      "location": "Myanmar (Ayeyarwady Region)",
-      "score": 5.0,
-      "trigger": "Further military airstrikes targeting flood-affected areas where displaced populations are sheltering.",
-      "potential_impact": "Increased civilian casualties and extreme protection risks for vulnerable displaced groups during an active natural disaster.",
-      "confidence": "Medium",
-      "sources": [
-        {
-          "name": "Burma News International",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV_5cUxPS1dXRHk5cDRoTzRTMVdVNFN0ajY1NVlMcTk3S215cWNMTWh0aUV6TFUwLUVHT1BGLWM3ZWxzY1Y5NEphSTdOaGtBdDlXMVNVNGxjZ0ZrNWNhWW0ybV_SVEVnMjhXeGRITW1TdmpNSHROcXFQQ0E3VE5fM19VTGJ5V01wOG5RdFBGZ2RIVlh1MmhhUUlxZWNaWVZzRE5TTk9MbDdwZ1hNakp1U0xWb0ljSTk0UXc?oc=5"
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea"
         }
       ]
     }
@@ -333,22 +289,14 @@
     "all_sources": [
       {
         "name": "France 24 English",
-        "count": 3
-      },
-      {
-        "name": "ABP Live English",
-        "count": 2
+        "count": 4
       },
       {
         "name": "BBC",
-        "count": 2
+        "count": 3
       },
       {
-        "name": "Burma News International",
-        "count": 2
-      },
-      {
-        "name": "India Shipping News",
+        "name": "Al Jazeera English",
         "count": 2
       },
       {
@@ -360,7 +308,7 @@
         "count": 2
       },
       {
-        "name": "rudaw.net",
+        "name": "indiashippingnews.com",
         "count": 2
       },
       {
@@ -369,10 +317,6 @@
       },
       {
         "name": "Al Jazeera",
-        "count": 1
-      },
-      {
-        "name": "Al Jazeera English",
         "count": 1
       },
       {
@@ -388,40 +332,28 @@
         "count": 1
       },
       {
-        "name": "The Sunday Guardian",
-        "count": 1
-      },
-      {
-        "name": "The Telegraph",
-        "count": 1
-      },
-      {
-        "name": "Tribune Online",
-        "count": 1
-      },
-      {
         "name": "UN News",
-        "count": 1
-      },
-      {
-        "name": "WRAL",
         "count": 1
       },
       {
         "name": "dawnmena.org",
         "count": 1
+      },
+      {
+        "name": "news.un.org",
+        "count": 1
       }
     ],
     "limitations": [
       "4 item(s) had no extractable figures in available reporting.",
-      "Corroboration check added 2 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
       "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
     ],
     "coverage_snapshot": {
       "outlets_reviewed": 19,
-      "themes_searched": 31,
-      "items_considered": 1020,
-      "sources_cited": 20
+      "themes_searched": 33,
+      "items_considered": 1057,
+      "sources_cited": 14
     },
     "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
   }
