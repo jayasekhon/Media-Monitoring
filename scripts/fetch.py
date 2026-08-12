@@ -121,29 +121,26 @@ OUTLET_RSS_FEEDS = [
 
 # ---------------------------------------------------------------------------
 # Google-News-as-pseudo-RSS for outlets with no public RSS feed of their
-# own (Reuters, AFP, AP all fall in this bucket) — uses Google's
-# `allinurl:` search operator to scope results to one outlet's domain,
-# giving an outlet-specific feed via Google News' search rather than a
-# real RSS endpoint. Same Google News RSS response shape as
-# fetch_google_news(), so it shares that parsing/cleanup logic; only the
-# query construction differs.
+# own (Reuters, AFP, AP all fall in this bucket) — uses Google's `site:`
+# search operator to scope results to one outlet's domain, giving an
+# outlet-specific feed via Google News' search rather than a real RSS
+# endpoint. Same Google News RSS response shape as fetch_google_news(),
+# so it shares that parsing/cleanup logic; only the query construction
+# differs.
 #
-# Yield varies by outlet, now checked against real output: across the
-# first two live editions this pipeline generated (2026-08-11, 08-12),
-# AP contributed real items via this path; Reuters and AFP contributed
-# ZERO between them, not just "fewer" as originally guessed.
-#
-# The query itself isn't the problem — `when:24h allinurl:{domain}` is
-# byte-for-byte the same construction as the original reference technique
-# this mechanism is based on (a 2020 writeup on generating a Reuters feed
-# via Google News RSS). The likely real cause: Reuters put up a metered
-# paywall on reuters.com in October 2024, well after that technique was
-# built for what was then a fully open site — Google News' index of a
-# now-gated domain plausibly explains the drop to near-zero. AFP's
-# afp.com has reportedly been similarly corporate/gated for longer. This
-# is a plausible explanation, not a confirmed one — worth checking a real
-# Actions log's "Google News domain search — Reuters/AFP" line over a few
-# more days before deciding whether to keep, replace, or drop these two.
+# UPDATE (2026-08-12): this originally used `allinurl:{domain}`, copied
+# from a 2020 reference technique for building a Reuters feed this way.
+# Real output across the first two live editions (08-11, 08-12) showed
+# Reuters and AFP contributing ZERO items between them via that operator
+# — initially guessed to be Reuters' October 2024 paywall causing Google
+# to de-index reuters.com. That guess turned out to be wrong: manually
+# querying `site:reuters.com when:1h` returned a full, current feed of
+# real Reuters articles (several directly humanitarian-relevant — Hormuz,
+# Red Sea shipping, Ukraine). The paywall doesn't block Google's index;
+# `allinurl:` was just the wrong operator — `site:` is the standard,
+# well-documented one. Switched to `site:` for all three outlets below
+# (see fetch_google_news_domain's docstring). Confirm AP/AFP's yield on
+# the next real run too, not just Reuters.
 # ---------------------------------------------------------------------------
 GOOGLE_NEWS_DOMAIN_SOURCES = [
     ("Associated Press", "apnews.com"),
@@ -208,11 +205,25 @@ def fetch_google_news(theme: str, window_hours: int = MONITORING_WINDOW_HOURS):
 
 def fetch_google_news_domain(source_name: str, domain: str, window_hours: int = MONITORING_WINDOW_HOURS):
     """Fetch Google News RSS results scoped to one outlet's domain via
-    the `allinurl:` operator — see GOOGLE_NEWS_DOMAIN_SOURCES above.
+    the `site:` operator — see GOOGLE_NEWS_DOMAIN_SOURCES above.
+
+    Was originally `allinurl:{domain}`, following an old (2020) reference
+    technique for generating a Reuters feed this way. Verified live
+    (2026-08-12) that `allinurl:reuters.com` was returning zero items
+    while `site:reuters.com when:1h` returned a full, current, relevant
+    feed — `site:` is the standard, well-documented Google search
+    operator; `allinurl:` is comparatively obscure and apparently
+    stopped working reliably for this at some point since 2020. Applied
+    to all three GOOGLE_NEWS_DOMAIN_SOURCES outlets, not just Reuters,
+    since there's no reason `allinurl:` would behave differently across
+    AP/Reuters/AFP — it just happened to be Reuters that got tested live
+    first. Worth confirming AP and AFP's yield also holds up or improves
+    on the next real run rather than assuming parity from the one
+    Reuters data point.
     """
     matched_theme = f"__domain_via_google_news__{source_name}"
     return _fetch_google_news_query(
-        f"when:24h allinurl:{domain}", matched_theme, "google_news_domain",
+        f"site:{domain} when:24h", matched_theme, "google_news_domain",
         window_hours, force_source_name=source_name,
     )
 
