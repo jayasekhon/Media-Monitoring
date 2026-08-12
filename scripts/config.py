@@ -61,6 +61,18 @@ THEMES = [
     # search coverage, not elevated to "always prioritise" status.
     ("Libya conflict", "Africa"),
     ("Somalia humanitarian crisis", "Africa"),
+    # Added after reviewing 5 days of the manual reference digest —
+    # Ethiopia (Aug 4 landslide, Aug 11 Tigray drone strikes) and Iraq/
+    # Egypt (Aug 12 items) each appeared with no search path into this
+    # pipeline at all. Ethiopia/Iraq were already in COUNTRY_REGION (so
+    # they'd classify correctly once surfaced) but had nothing searching
+    # for them; Egypt had neither. Same treatment as Libya/Somalia above:
+    # NOT added to PRIORITY_CRISIS_TERMS below — additional search
+    # coverage, not elevated to "always prioritise" status, since none of
+    # the three were in the original prompt's priority list either.
+    ("Ethiopia humanitarian crisis", "Africa"),
+    ("Iraq security incident", "Middle East"),
+    ("Egypt security incident", "Middle East"),
 ]
 
 # ReliefWeb was dropped from this pipeline — its v1 API returns 410 Gone
@@ -85,6 +97,13 @@ COUNTRY_REGION = {
     # casualty/displacement angle), so search coverage wasn't added, just
     # correct region mapping if something does surface.
     "oman": "Middle East",
+    # Egypt added alongside Oman for the same reason — it surfaced in the
+    # manual reference digest (Damietta port drone/fire incident) with no
+    # region mapping at all. Grouped as Middle East rather than Africa
+    # (unlike Libya) since its humanitarian-relevant coverage in practice
+    # tends to be Gaza/Red Sea/Suez-adjacent, not sub-Saharan-crisis-adjacent
+    # — a judgment call, revisit if that assumption stops holding.
+    "egypt": "Middle East",
     # Africa
     "sudan": "Africa", "darfur": "Africa", "el-obeid": "Africa",
     "congo": "Africa", "drc": "Africa", "kinshasa": "Africa", "libya": "Africa",
