@@ -51,6 +51,16 @@ THEMES = [
     ("US Iran regional escalation", "Middle East"),
     ("Venezuela crisis", "Americas"),
     ("Strait of Hormuz shipping", "Global / Cross-Cutting"),
+    # Added beyond the original prompt's own list, after real coverage
+    # gaps surfaced against a live reference benchmark — Libya and
+    # Somalia had genuine humanitarian-relevant stories (drone strikes on
+    # oil infrastructure; a sharp rise in malnutrition admissions) with no
+    # search path into this pipeline at all. Deliberately NOT added to
+    # PRIORITY_CRISIS_TERMS below — that list stays faithful to the
+    # original prompt's specific priority countries; these are additional
+    # search coverage, not elevated to "always prioritise" status.
+    ("Libya conflict", "Africa"),
+    ("Somalia humanitarian crisis", "Africa"),
 ]
 
 # ReliefWeb was dropped from this pipeline — its v1 API returns 410 Gone
@@ -67,9 +77,17 @@ COUNTRY_REGION = {
     "west bank": "Middle East", "yemen": "Middle East", "syria": "Middle East",
     "lebanon": "Middle East", "iraq": "Middle East", "iran": "Middle East",
     "jordan": "Middle East", "houthi": "Middle East",
+    # "Oman" added for correct classification if it surfaces via an
+    # adjacent search (Hormuz shipping, Yemen) — no dedicated theme added
+    # for it; the reference story that prompted this (an oil-tanker spill
+    # reaching Oman's coast) is a genuinely borderline case against the
+    # inclusion criteria (environmental/shipping incident, no clear direct
+    # casualty/displacement angle), so search coverage wasn't added, just
+    # correct region mapping if something does surface.
+    "oman": "Middle East",
     # Africa
     "sudan": "Africa", "darfur": "Africa", "el-obeid": "Africa",
-    "congo": "Africa", "drc": "Africa", "kinshasa": "Africa",
+    "congo": "Africa", "drc": "Africa", "kinshasa": "Africa", "libya": "Africa",
     "mali": "Africa", "burkina faso": "Africa", "somalia": "Africa",
     "ethiopia": "Africa", "tigray": "Africa", "nigeria": "Africa",
     "chad": "Africa", "niger": "Africa", "south sudan": "Africa",
@@ -146,6 +164,18 @@ KEYWORD_WEIGHTS = {
     "typhoon": 2.0, "drought": 1.5, "wildfire": 1.5,
     # economic knock-ons with humanitarian relevance
     "fuel shortage": 1.0, "food prices": 1.0, "sanctions": 0.5,
+    # protection concerns — previously entirely missing from this list
+    # despite being an explicit inclusion category in the original
+    # prompt. Without these, a story like "2.4 million girls barred from
+    # school" scored nothing beyond the base + priority-crisis bonus,
+    # losing out to any competing story that happened to use violence/
+    # casualty language instead.
+    "arrested": 1.5, "detained": 1.5, "detention": 1.5, "abducted": 2.0,
+    "kidnapped": 2.0, "disappeared": 2.0, "torture": 2.5,
+    "extrajudicial": 2.5, "human rights violation": 2.0,
+    "denied education": 2.0, "barred from school": 2.0,
+    "gender-based violence": 2.5, "forced conscription": 2.0,
+    "arbitrary detention": 2.0,
 }
 
 MAX_SCORE = 10.0

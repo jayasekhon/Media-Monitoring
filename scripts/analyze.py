@@ -12,7 +12,7 @@ from difflib import SequenceMatcher
 from config import (
     COUNTRY_REGION, PRIORITY_CRISIS_TERMS, KEYWORD_WEIGHTS, BASE_SCORE,
     PRIORITY_CRISIS_BONUS, MAX_SCORE, MIN_SCORE, BLOCKLIST_TERMS,
-    SOURCE_HIERARCHY,
+    SOURCE_HIERARCHY, MAX_SOURCES_PER_ITEM,
 )
 
 FIGURE_PATTERNS = [
@@ -142,17 +142,30 @@ def dedup_items(items: list[dict], threshold: float = 0.42) -> list[dict]:
         members = cluster["members"]
         members_sorted = sorted(members, key=lambda m: source_rank(m["source"]))
         best = members_sorted[0]
-        sources = []
-        seen_names = set()
-        for m in members_sorted:
-            if m["source"] not in seen_names:
-                seen_names.add(m["source"])
-                sources.append({"name": m["source"], "url": m.get("link", "")})
+        # The primary/representative source is always kept, regardless of
+        # hierarchy status — it might be the only source for a story only
+        # a minor/regional outlet caught (the exact coverage the outlet
+        # RSS feeds were added to preserve, e.g. Typhoon Dolphin). But any
+        # ADDITIONAL cluster members beyond the primary are only added if
+        # they're hierarchy-listed — corroboration should come from
+        # prioritised sources, not just whatever else happened to be
+        # fetched. Mirrors corroborate_report_sources() in
+        # build_edition.py, which applies the same restriction for
+        # sources added after publication rather than at dedup time.
+        sources = [{"name": best["source"], "url": best.get("link", "")}]
+        seen_names = {best["source"]}
+        for m in members_sorted[1:]:
+            if m["source"] in seen_names:
+                continue
+            if not is_hierarchy_source(m["source"]):
+                continue
+            seen_names.add(m["source"])
+            sources.append({"name": m["source"], "url": m.get("link", "")})
         # Prefer the longest description among cluster members (more context)
         longest_desc = max((m["description"] for m in members), key=len, default="")
         merged = dict(best)
         merged["description"] = longest_desc or best["description"]
-        merged["sources"] = sources[:4]
+        merged["sources"] = sources[:MAX_SOURCES_PER_ITEM]
         deduped.append(merged)
 
     return deduped

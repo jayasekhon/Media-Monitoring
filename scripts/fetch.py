@@ -108,13 +108,19 @@ OUTLET_RSS_FEEDS = [
 # giving an outlet-specific feed via Google News' search rather than a
 # real RSS endpoint. Same Google News RSS response shape as
 # fetch_google_news(), so it shares that parsing/cleanup logic; only the
-# query construction differs. Add more (name, domain) pairs here if you
-# find other outlets this works well for — Reuters (reuters.com) is the
-# obvious next candidate given it's top of the source hierarchy and also
-# has no public RSS.
+# query construction differs.
+#
+# Yield varies by outlet and hasn't been verified live for all three:
+# AP's public-facing apnews.com is a strong, mostly-open news portal, so
+# this worked well there. AFP's afp.com is more corporate-facing with a
+# lot of content only partially available without a subscription, so
+# afp.com may yield noticeably fewer usable results than the other two —
+# worth checking real output rather than assuming parity.
 # ---------------------------------------------------------------------------
 GOOGLE_NEWS_DOMAIN_SOURCES = [
     ("Associated Press", "apnews.com"),
+    ("Reuters", "reuters.com"),
+    ("AFP", "afp.com"),
 ]
 
 
@@ -262,44 +268,54 @@ ARTICLE_FETCH_TIMEOUT = 10
 ARTICLE_EXCERPT_MAX_CHARS = 700
 
 
-def fetch_article_excerpt(url: str) -> str:
+def fetch_article_excerpt(url: str) -> tuple[str, str]:
     """Best-effort fetch of the actual article page and extraction of its
     opening text, for items whose RSS description had no real content
     (the common case for Google News — see module docstring).
 
+    Returns (excerpt_text, resolved_url). `resolved_url` is the URL we
+    actually landed on after following redirects — notably, this
+    resolves Google News' fragile, expiring redirect-token links
+    (news.google.com/rss/articles/CBMi...) to the real, stable publisher
+    URL, which is worth capturing even when excerpt extraction itself
+    comes up empty. Direct outlet-RSS links (BBC, Al Jazeera, etc.) are
+    already stable and typically won't change.
+
     This follows the item's own link, the same as any RSS reader or the
     person clicking through themselves would — it does not bypass
-    paywalls or authentication, and returns "" (never raises) if:
-      - the link doesn't resolve
-      - the publisher blocks automated requests
-      - it's a Google News redirect link using a JS-based redirect a
-        plain HTTP fetch can't follow (a real limitation — some
-        Google-sourced items will not enrich successfully, and fall
-        back to headline-only, same as before this feature existed)
-      - trafilatura can't find a clean article body on the page
+    paywalls or authentication. Returns ("", original_url) on any
+    failure (never raises): link doesn't resolve, publisher blocks
+    automated requests, it's a Google redirect using a JS-based
+    mechanism a plain HTTP fetch can't follow, or trafilatura can't find
+    a clean article body on the page.
     """
     if not url:
-        return ""
+        return "", url
     try:
         import trafilatura
     except ImportError:
-        return ""
+        return "", url
     try:
-        downloaded = trafilatura.fetch_url(url)
-        if not downloaded:
-            return ""
-        text = trafilatura.extract(downloaded, favor_precision=True) or ""
+        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=ARTICLE_FETCH_TIMEOUT, allow_redirects=True)
+        resolved_url = resp.url or url
+        if resp.status_code != 200 or not resp.text:
+            return "", resolved_url
+        text = trafilatura.extract(resp.text, favor_precision=True) or ""
         text = re.sub(r"\s+", " ", text).strip()
-        return text[:ARTICLE_EXCERPT_MAX_CHARS]
+        return text[:ARTICLE_EXCERPT_MAX_CHARS], resolved_url
     except Exception:  # noqa: BLE001 — best-effort, must never break the run
-        return ""
+        return "", url
 
 
 def enrich_items_with_article_text(items: list[dict], max_workers: int = 6) -> tuple[int, int]:
     """Mutates `items` in place: for any item whose description is empty
     or very short, tries to replace it with a real excerpt fetched from
-    the article itself. Runs fetches concurrently since this is I/O-bound
-    and each request can take several seconds.
+    the article itself, AND updates `link` to the resolved URL whenever
+    the fetch actually reached the page (even if excerpt extraction
+    found nothing usable — a stable direct link is valuable on its own,
+    independent of whether we got clean body text from it). Runs
+    fetches concurrently since this is I/O-bound and each request can
+    take several seconds.
 
     Returns (enriched_count, attempted_count) for limitations reporting.
     """
@@ -315,11 +331,13 @@ def enrich_items_with_article_text(items: list[dict], max_workers: int = 6) -> t
         for future in as_completed(future_to_item):
             it = future_to_item[future]
             try:
-                excerpt = future.result()
+                excerpt, resolved_url = future.result()
             except Exception:  # noqa: BLE001
-                excerpt = ""
+                excerpt, resolved_url = "", it["link"]
             if excerpt:
                 it["description"] = excerpt
                 enriched_count += 1
+            if resolved_url and resolved_url != it["link"]:
+                it["link"] = resolved_url
 
     return enriched_count, len(to_enrich)
