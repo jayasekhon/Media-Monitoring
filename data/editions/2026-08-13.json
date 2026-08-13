@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-13",
+  "printed_time": "7:29 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A magnitude 7.4 earthquake in western Colombia has killed at least 265 people, injured nearly 3,500, and left close to 500 missing amid widespread infrastructure failure.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "An escalating Ebola epidemic in the Democratic Republic of the Congo has killed more than 2,000 people and infected over 4,000, spreading into neighboring Uganda.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "International funding cuts in Afghanistan have forced the closure of nearly 600 health facilities, leaving 3.7 million children under five suffering from acute malnutrition.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "More than 21,800 sick and injured Palestinians in Gaza urgently require medical evacuation abroad as local health facilities and border crossings remain severely constrained.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "An official United States Department of Defense review acknowledged that 153 civilians were killed during American military strikes in Yemen over the past year.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "A magnitude 7.4 earthquake in western Colombia has killed at least 265 people, injured nearly 3,500, and left close to 500 missing, prompting a state of emergency and urgent requests for international assistance.",
+    "label": "AMERICAS — Devastating Earthquake Strikes Colombia"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Pentagon Review Acknowledges 153 Civilian Deaths",
+        "score": 7.5,
+        "body": "An unclassified United States Department of Defense review has acknowledged that American military strikes targeting Houthi forces in Yemen caused 153 civilian fatalities over the past year. The findings offer official confirmation of non-combatant harm resulting from the military campaign. Among those killed were Ethiopian migrants who were trapped inside a facility during an initial bombardment. The findings highlight significant ongoing human costs and protection concerns associated with foreign military interventions in the country.",
+        "verified_figures": [
+          "153 civilian deaths acknowledged"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/yemen-civilians-killed-pentagon-houthis-c5e2190729a93aa54f6a4d5d1232fce3"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza / OPT — Over 21,800 Patients Require Urgent Overseas Medical Evacuation",
+        "score": 8.0,
+        "body": "Health officials in the Gaza Strip report a severe deterioration in local medical capacity, warning that over 21,800 sick and injured Palestinians urgently require medical evacuation abroad for specialized care and surgeries. According to Gaza's Medical Relief directorate, operational capacity at the Rafah border crossing remains severely constrained and incapable of meeting basic medical transfer needs, leaving thousands of critically ill and wounded individuals without access to life-saving treatment.",
+        "verified_figures": [
+          "Over 21,800 patients and wounded individuals requiring medical evacuation"
+        ],
+        "sources": [
+          {
+            "name": "Saba News Agency",
+            "url": "https://www.saba.ye/en/news3763025.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen / Red Sea — Ballistic Missile Attack on Cargo Vessel Kills Six",
+        "score": 6.5,
+        "body": "A ballistic missile attack on a commercial cargo ship carrying food supplies through the Bab al-Mandeb Strait killed six people and wounded ten others. The Yemeni-flagged vessel Tihamah was hit by three missiles, causing severe damage and fires. The casualties include three Pakistani crew members, one Indonesian crew member, and two Yemeni naval officers, while rescue teams safely extracted 11 additional sailors despite reports of subsequent targeting during rescue efforts.",
+        "verified_figures": [
+          "6 people killed",
+          "10 people wounded",
+          "11 sailors rescued"
+        ],
+        "sources": [
+          {
+            "name": "Freight News",
+            "url": "https://www.freightnews.co.za/article/six-killed-in-red-sea-cargo-ship-attack"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Displaced Residents Face Obstacles Returning Home Amid Ceasefire Volatility",
+        "score": 6.0,
+        "body": "Displaced residents in southern Lebanon face ongoing displacement and restricted mobility despite an internationally brokered ceasefire agreement. Returning families encounter widespread destruction and severe local security restrictions. The fragile security environment remains precarious, illustrated by recent airstrikes across southern Lebanon that killed one person and injured 12 others following mutual accusations of truce violations.",
+        "verified_figures": [
+          "1 person killed in 5 August airstrikes",
+          "12 people injured in 5 August airstrikes"
+        ],
+        "sources": [
+          {
+            "name": "Streamline News",
+            "url": "https://streamlinefeed.co.ke/news/lebanon-ceasefire-feels-like-a-prison-to-displaced-residents"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — Devastating magnitude 7.4 earthquake causes mass casualties",
+        "score": 9.5,
+        "body": "A magnitude 7.4 earthquake struck western Colombia, causing widespread structural collapse and infrastructure damage across several departments. Statements from President Abelardo de la Espriella confirm at least 265 people have died, nearly 3,500 are injured, and close to 500 remain missing as search operations continue. A state of emergency has been declared, with affected communities suffering severe power outages, drinking water shortages, and major highway closures. Colombian authorities have formally requested international search-and-rescue assistance from the United States, Israel, Ecuador, and El Salvador to bolster efforts to locate survivors trapped under rubble.",
+        "verified_figures": [
+          "265 dead",
+          "3,494 injured",
+          "496 missing"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www-pp.afp.com/en/pope-expresses-solidarity-colombians-after-deadly-earthquake"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises"
+          },
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/08/12/colombia-earthquake-deaths-climb-239-hundreds-remain-missing/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Accelerating Ebola Outbreak Surpasses 2,000 Deaths",
+        "score": 9.0,
+        "body": "The World Health Organization warned that the ongoing Ebola epidemic in the Democratic Republic of the Congo is spreading faster than any previous outbreak and is on track to eclipse the 2014–2016 West Africa epidemic. The WHO reported 4,449 confirmed cases and 2,061 deaths across five provinces and 53 health zones, making it the second-largest Ebola outbreak on record. Rapid transmission in eastern regions is compounded by armed conflict and challenging terrain that impede medical teams. DRC government data indicates 704 patients are currently hospitalized or in isolation, with the case fatality rate standing at approximately 46 percent.",
+        "verified_figures": [
+          "4,449 confirmed cases",
+          "2,061 reported deaths",
+          "5 provinces affected",
+          "53 health zones affected",
+          "704 patients in isolation or hospital treatment"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-outbreak-africa-who-d9bb9bfa9816e278ba36a2382334d65f"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Strikes Set Izmail Port Ablaze Amid Grain Infrastructure Attacks",
+        "score": 7.0,
+        "body": "Russian strikes targeted Ukraine’s largest Danube port at Izmail, causing fires and damaging maritime infrastructure. The attacks follow ongoing strikes by both nations against shipping facilities and ports, resulting in declining grain exports from Ukraine and Russia. Ukrainian officials warned of an acute shortage of Patriot air defense interceptors. Meanwhile, Russian authorities claimed to have intercepted 362 Ukrainian drones overnight, which sparked a fire at an oil refinery in Russia's Salavat region.",
+        "verified_figures": [
+          "362 Ukrainian drones reported downed by Russia overnight"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Rights Group Urges US to Block Turkish Cluster Munition Shipments",
+        "score": 6.0,
+        "body": "Human Rights Watch has called on the United States government to block a planned shipment of cluster munitions from Türkiye to Ukraine. The proposed transfer includes tens of thousands of cluster missiles, rocket munitions, and artillery shells currently stored in Turkish warehouses. Rights advocates warned that these weapons contain more than 10 million explosive submunitions, posing severe long-term contamination risks and lethal threats to civilians from unexploded ordnance.",
+        "verified_figures": [
+          "over 10 million explosive submunitions in proposed transfer"
+        ],
+        "sources": [
+          {
+            "name": "RBC-Ukraine",
+            "url": "https://newsukraine.rbc.ua/news/human-rights-watch-urges-us-to-block-new-1786539271.html"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Ongoing Combat Drives Military Attrition and High Civilian Toll",
+        "score": 5.5,
+        "body": "The General Staff of the Armed Forces of Ukraine reported that Russian military forces suffered 1,310 casualties within a single 24-hour period amid intense frontline engagement. Continuous heavy bombardment across the country has severely impacted civilian safety, with monitoring reports indicating that July 2026 was the deadliest month for Ukrainian civilians since 2022 as strikes target air defenses and infrastructure.",
+        "verified_figures": [
+          "1,310 Russian military casualties reported in 24 hours"
+        ],
+        "sources": [
+          {
+            "name": "Euromaidan Press",
+            "url": "https://euromaidanpress.com/2026/08/12/russo-ukrainian-war-day-1631-ukraine-destroyed-or-disabled-nearly-14000-russian-vehicles-in-july-alone/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Worsening Child Malnutrition and Health Service Closures",
+        "score": 8.0,
+        "body": "A severe reduction in international humanitarian funding has forced the closure or suspension of nearly 600 health facilities in Afghanistan, drastically reducing access to essential medical care. According to Save the Children and UN data, nearly one in ten children under five—approximately 3.7 million children—is suffering from acute malnutrition or wasting. This represents a 14 percent surge in acute malnutrition cases over the past four years, with conditions deteriorating in two-thirds of provinces during mid-2026. The acute nutrition crisis is intensified by declining international aid, infectious disease outbreaks, persistent drought, and compounding population pressures from internal displacement and mass refugee returns.",
+        "verified_figures": [
+          "3.7 million children under five facing acute malnutrition",
+          "nearly 600 health facilities closed or suspended",
+          "14% increase in acute malnutrition over four years"
+        ],
+        "sources": [
+          {
+            "name": "Khaama Press",
+            "url": "https://www.khaama.com/malnutrition-crisis-deepens-as-funding-cuts-close-nearly-600-health-facilities-in-afghanistan-save-the-children-says/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Deepening Poverty Driven by Mass Returns and Drought",
+        "score": 7.5,
+        "body": "An estimated 28 million people in Afghanistan were living in poverty in 2025 as prolonged drought, reduced international aid, and large-scale population movements strain fragile local support systems, according to a report by the United Nations Development Programme. The economic and humanitarian crisis was aggravated by the return of approximately 2.9 million Afghans within a single year, which directly pushed an additional 1.4 million people into severe hardship. Despite recorded growth in real GDP over two consecutive years, shrinking foreign assistance and rapid population influxes continue to outpace economic recovery, leaving millions without basic livelihoods or social protection.",
+        "verified_figures": [
+          "28 million people living in poverty in 2025",
+          "2.9 million Afghan returnees in one year",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "China — Heavy Flooding and River Surges Following Typhoon",
+        "score": 5.5,
+        "body": "China's strongest typhoon of the year brought torrential rain and severe flooding across large parts of the country, prompting Beijing to issue its second-highest rainstorm warning. Tropical moisture stranded vehicles and submerged critical roadways in the capital before spreading inland. Downpours triggered the year's first numbered floods on major river systems, including the Chuhe River, a lower Yangtze tributary in Jiangsu province, where water levels at the Xiaoqiao station rose to 9.5 meters to breach warning thresholds. Authorities are monitoring rising water levels across multiple river basins as rain clouds carry moisture deep into the country.",
+        "verified_figures": [
+          "9.5-meter water level on Chuhe River"
+        ],
+        "sources": [
+          {
+            "name": "China Daily",
+            "url": "https://www.chinadaily.com.cn/a/202608/12/WS6a7c341ca310986e2b46a659.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Rapidly Spreading Ebola Outbreak Kills Over 2,000",
+        "score": 9.0,
+        "body": "A fast-growing Ebola outbreak centered in the northeastern Democratic Republic of the Congo has killed more than 2,000 people and infected over 4,000, becoming the second-largest on record. According to health authorities, the epidemic, caused by the Bundibugyo strain, is doubling in size every 20 days and has spread into neighboring Uganda. The United Nations and World Health Organization warned the outbreak is outpacing containment efforts and is on track to become the deadliest ever recorded. Response efforts face severe challenges, though two candidate vaccines targeting the Bundibugyo virus have entered Phase 1 clinical trials, and 886 recoveries have been recorded.",
+        "verified_figures": [
+          "More than 2,000 deaths",
+          "Over 4,000 reported cases",
+          "886 patients recovered",
+          "Case load doubling every 20 days",
+          "Surpassed 1,000 confirmed cases within 40 days"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o"
+          }
+        ]
+      },
+      {
+        "headline": "India — 5.5-Magnitude Earthquake Strikes Leh-Ladakh Region",
+        "score": 1.5,
+        "body": "A 5.5-magnitude earthquake struck the Leh region of Ladakh in northern India at a depth of 10 kilometers, according to the National Center for Seismology. No casualties were reported following the tremors. The seismic event caused no reported humanitarian displacement or major operational disruptions, with regional authorities monitoring the situation.",
+        "verified_figures": [
+          "5.5-magnitude earthquake",
+          "Depth of 10 Km",
+          "No casualties reported"
+        ],
+        "sources": [
+          {
+            "name": "curlytales.com",
+            "url": "https://curlytales.com/india/trending/magnitude-earthquake-strikes-leh-ladakh-no-casualties-major-damage-reported/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Izmail, Ukraine",
+      "score": 7.0,
+      "trigger": "Continued targeting of Danube port infrastructure by Russian strikes combined with Ukrainian air defense shortages could cause severe operational collapse.",
+      "potential_impact": "Further strikes risk shutting down vital agricultural export channels and causing severe destruction to critical riverine civilian infrastructure.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "Southern Lebanon",
+      "score": 6.0,
+      "trigger": "Mutual accusations of truce violations and repeated airstrikes could break the fragile ceasefire.",
+      "potential_impact": "Renewed conflict would prevent thousands of displaced residents from returning home and trigger secondary civilian displacement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Streamline News",
+          "url": "https://streamlinefeed.co.ke/news/lebanon-ceasefire-feels-like-a-prison-to-displaced-residents"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Streamline News",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "China Daily",
+        "count": 1
+      },
+      {
+        "name": "Euromaidan Press",
+        "count": 1
+      },
+      {
+        "name": "Freight News",
+        "count": 1
+      },
+      {
+        "name": "Khaama Press",
+        "count": 1
+      },
+      {
+        "name": "RBC-Ukraine",
+        "count": 1
+      },
+      {
+        "name": "Saba News Agency",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "curlytales.com",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1232,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
