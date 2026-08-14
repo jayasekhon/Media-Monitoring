@@ -1,0 +1,442 @@
+{
+  "date": "2026-08-14",
+  "printed_time": "7:26 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo faces a rapidly expanding Ebola epidemic caused by the Bundibugyo strain, with over 2,100 deaths recorded across six provinces amid a lack of approved vaccines or treatments.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A magnitude 7.4 earthquake in western Colombia killed between 164 and 265 people, causing extensive infrastructure destruction and isolating vulnerable Indigenous and Afro-Colombian communities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Monsoon flooding and active conflict in Myanmar have impacted millions, while military junta forces actively block civil society aid teams from delivering life-saving assistance in Sagaing Region.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Severe food insecurity in Sudan's West and North Kordofan states has forced displaced families to consume animal seed residue, as grain prices surge and hosting facilities collapse.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Monsoon flooding in Assam, India, killed more than 100 people and rendered thousands homeless as overflowing rivers inundated towns and destroyed infrastructure.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A rapidly expanding Ebola outbreak caused by the unapproved Bundibugyo strain has killed over 2,100 people across six provinces in the Democratic Republic of the Congo, outpacing containment efforts.",
+    "label": "AFRICA — Escalating Ebola Outbreak in DR Congo"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Deadly Houthi Missile Attack Hits Commercial Ship in Bab el-Mandeb",
+        "score": 7.0,
+        "body": "Three Houthi ballistic missiles struck a Yemeni commercial vessel near the Bab el-Mandeb Strait as it approached port off the coast of Yemen. Surviving crew members reported that a second missile hit while rescue operations were underway for the initial strike. According to Yemeni authorities, the attack killed six people and injured at least nine others. The incident marks a serious escalation in maritime attacks impacting merchant shipping and crew safety in key Red Sea shipping lanes.",
+        "verified_figures": [
+          "6 people killed",
+          "at least 9 injured",
+          "3 ballistic missiles fired"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/yemen-red-sea-houthi-shipping-attacks-29115cc1fbc209ed4be2d2f80eabc1bf"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Fierce Fighting Escalates in Taiz as US Pentagon Discloses Civilian Casualties",
+        "score": 6.5,
+        "body": "Intense clashes in Yemen's Taiz province between Houthi fighters and government forces have left dozens of government soldiers dead in recent weeks, prompting Saudi Arabia to consider supporting a counteroffensive along the Red Sea coast. Separately, a declassified Pentagon assessment disclosed that U.S. military operations in Yemen killed 153 civilians and wounded 243 others last year, highlighting ongoing civilian protection concerns stemming from military actions in the country.",
+        "verified_figures": [
+          "dozens of government troops killed",
+          "153 civilians killed by US forces last year",
+          "243 civilians wounded by US forces last year"
+        ],
+        "sources": [
+          {
+            "name": "Democracy Now!",
+            "url": "https://www.democracynow.org/2026/8/13/headlines/declassified_pentagon_report_found_us_killed_153_civilians_in_yemen_last_year"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza/OPT — Israeli Strikes Kill Gaza City Police Chief and Civilian in Khan Younis",
+        "score": 6.0,
+        "body": "Ongoing Israeli strikes across the Gaza Strip resulted in further casualties, including the death of Gaza City police chief Jamal Abu Kamil. A separate attack in Khan Younis killed another person. Continued bombardment across populated urban sectors poses persistent threats to civilian populations and civil administration structures in the enclave.",
+        "verified_figures": [
+          "2 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Iran/USA — US Prepares Indefinite Maritime Blockade Near Strait of Hormuz",
+        "score": 5.0,
+        "body": "The naval standoff between the United States and Iran is hardening around the Strait of Hormuz. Washington plans to deploy the aircraft carrier USS George Washington to sustain a long-term maritime blockade in the area. In response, Tehran indicated readiness for an extended confrontation and additional offensive operations, elevating risks to regional maritime movement and overall stability.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Iran International",
+            "url": "https://www.iranintl.com/en/202608133717"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — Magnitude 7.4 earthquake causes mass casualties and infrastructure destruction",
+        "score": 9.0,
+        "body": "A magnitude 7.4 earthquake struck western Colombia, causing widespread destruction and leaving between 164 and 265 people dead. The epicenter was located east of San José del Palmar in Chocó department, with tremors felt across neighboring countries. The quake severely disrupted transport networks, closing roads and airports while severing power and communications. Emergency response efforts are heavily constrained in hardest-hit areas including Chocó and Valle del Cauca, where isolated Indigenous and Afro-Colombian communities rely on water transport and face heightened vulnerability due to pre-existing chronic poverty and armed conflict.",
+        "verified_figures": [
+          "7.4-magnitude earthquake",
+          "164 to 265 people killed"
+        ],
+        "sources": [
+          {
+            "name": "care.org",
+            "url": "https://www.care.org/news-and-stories/colombia-earthquake-2026/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Severe power and water shortages threaten recovery following deadly earthquakes",
+        "score": 7.0,
+        "body": "Venezuela faces an escalating energy and water crisis following twin earthquakes that killed over 6,000 people less than two months ago. Government authorities have urged strict conservation of electricity and water as a looming drought compounds chronic underinvestment in national utility infrastructure. Widespread power outages have triggered public protests and caused severe service disruptions across the country. The worsening utility shortages threaten to derail post-disaster recovery efforts and intensify economic hardship for vulnerable populations.",
+        "verified_figures": [
+          "Over 6,000 people killed in twin earthquakes"
+        ],
+        "sources": [
+          {
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/science-environment/3963366-crisis-in-venezuela-power-cuts-and-drought-loom-after-earthquakes"
+          }
+        ]
+      },
+      {
+        "headline": "United States — CDC expands screening and extends entry restrictions over Ebola outbreak",
+        "score": 2.5,
+        "body": "The United States Centers for Disease Control and Prevention has extended entry bans and expanded screening requirements for incoming travelers in response to an ongoing Ebola outbreak. The updated border health measures aim to prevent domestic transmission as public health authorities monitor international disease developments.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BAL Immigration Law",
+            "url": "https://www.bal.com/immigration-news/united-states-ebola-outbreak-update-cdc-extends-entry-ban-expands-screening-requirements/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Rapidly spreading Ebola outbreak expands to sixth province",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has expanded to a sixth province following a confirmed death in Bas-Uele. The World Health Organization warned that the epidemic is spreading faster than containment efforts and is on track to become the deadliest on record. Government figures report over 2,100 deaths out of more than 4,500 cases recorded since the outbreak was declared in May. International health authorities are accelerating efforts to test vaccines as transmission rates outpace previous major outbreaks.",
+        "verified_figures": [
+          "Over 2,100 deaths",
+          "More than 4,500 cases",
+          "6 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-ba8daf530f48c495fb54dbf36c542d81"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Hunger forces displaced in Kordofan to eat animal feed",
+        "score": 8.0,
+        "body": "Displaced communities in Sudan's West and North Kordofan states face catastrophic food insecurity and a collapse of essential services amid extreme price hikes and restricted aid access. In West Kordofan's Ed Daein locality, severe hunger has forced families to eat ambaz, a seed residue typically used as animal feed. Local grain prices have spiked, with millet reaching 20,000 Sudanese pounds per malwa. In El Obeid, North Kordofan, hosting centers face severe water shortages and collapsing healthcare under a heavy influx of displaced people.",
+        "verified_figures": [
+          "20,000 Sudanese pounds per malwa of millet"
+        ],
+        "sources": [
+          {
+            "name": "Dabanga Radio TV Online",
+            "url": "https://www.dabangasudan.org/en/all-news/article/unbearable-hardship-in-sudan-displaced-people-in-kordofan-eat-animal-feed-to-avert-starvation"
+          }
+        ]
+      },
+      {
+        "headline": "West and Central Africa — Surging cholera outbreaks threaten millions amid Ebola focus",
+        "score": 6.5,
+        "body": "Active cholera outbreaks are spreading along river systems across six West and Central African nations, threatening millions of children, according to UNICEF. The surge comes as the Democratic Republic of the Congo battles both cholera and a record Ebola epidemic. Médecins Sans Frontières warned that the heavy mobilization of resources for Ebola risks neglecting other critical health emergencies in eastern DRC, including cholera, measles, malaria, and conflict-related health needs in North and South Kivu.",
+        "verified_figures": [
+          "6 countries affected by active cholera outbreaks"
+        ],
+        "sources": [
+          {
+            "name": "IntelliNews",
+            "url": "https://www.intellinews.com/cholera-outbreaks-hit-six-african-countries-as-drc-battles-record-ebola-460895/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian drone strike hits passenger train",
+        "score": 5.5,
+        "body": "A Russian drone attack targeted a train carrying hundreds of passengers in southern Ukraine, killing two people. The strike represents a direct impact on civilian passenger transport infrastructure during ongoing hostilities in the region. Further details regarding additional casualties or physical damage to rail network assets were not specified in initial reports.",
+        "verified_figures": [
+          "2 people killed"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260813-russian-strike-on-ukraine-passenger-train-kills-2"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Reciprocal strikes on grain hubs raise global food security concerns",
+        "score": 6.5,
+        "body": "Reciprocal military strikes on grain storage and shipping infrastructure in Ukraine and Russia have sparked renewed concerns over potential global food price increases. Russian forces launched an overnight attack on Ukraine's largest grain export port on the Danube River, resulting in structural damage and a fire. This followed a Ukrainian strike against Novorossiysk, a primary Black Sea grain hub in Russia. Amid these developments, Ukraine has reportedly offered Russia a truce covering Black Sea maritime routes to mitigate mounting risks to international food supplies.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/ukraine-offers-russia-truce-black-sea-food-supply-fears-mount-source-says-2026-08-13/"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260813-russia-ukraine-war-grain-hub-attacks-raise-fears-over-global-food-prices"
+          }
+        ]
+      },
+      {
+        "headline": "Russia/Ukraine — Ukrainian drone strikes target Russian oil refineries and port facilities",
+        "score": 4.5,
+        "body": "Ukrainian military forces conducted a drone strike against a major oil refinery deep inside Russian territory, marking the fourth attack on Russia's oil sector in three days. The strikes have reduced domestic refining capacity, leading to localized fuel shortages at gas stations. In a separate incident, Russian regional authorities reported clearing the site of a fire caused by a drone attack at the energy export port of Ust-Luga.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/drone-attacks-spark-fire-russian-energy-export-port-ust-luga-governor-says-2026-08-14/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-8050b4afb5bfd6f4d93c76b4d9795dfa"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "India — Severe flooding in Assam causes over 100 deaths and widespread displacement",
+        "score": 8.0,
+        "body": "Severe monsoon flooding in India's Assam state has killed over 100 people and left thousands homeless. Heavy rainfall caused the Mitong River and other waterways to overflow, rapidly inundating towns such as Gaurisagar with waist-deep water. The floodwaters overwhelmed local infrastructure, swept through residential areas, and destroyed homes, causing major displacement and localized damage across the region.",
+        "verified_figures": [
+          "more than 100 killed",
+          "thousands left homeless"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/aug/14/india-assam-climate-disaster-floods-brahmaputra-homeless-deaths"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Child malnutrition worsens amid surge in returning refugees",
+        "score": 7.5,
+        "body": "Child malnutrition in Afghanistan is worsening, with nearly one in ten children under five years old suffering from acute malnutrition. According to Save the Children and UN assessments, wasting levels among children deteriorated across two-thirds of provinces during the second quarter of 2026 compared to the same period last year. The decline is driven by rising rates of infectious diseases alongside a major influx of Afghan refugees returning from Pakistan and Iran.",
+        "verified_figures": [
+          "nearly 1 in 10 children under five suffering from acute malnutrition",
+          "wasting worsened in two thirds of provinces"
+        ],
+        "sources": [
+          {
+            "name": "Daijiworld",
+            "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1322674"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Compound conflict and flooding impact millions as aid access is blocked",
+        "score": 8.5,
+        "body": "The European Commission reported that over 100,000 people have been killed in Myanmar since the February 2021 military coup, announcing €10.5 million in additional emergency aid. Monsoon flooding in Ayeyarwady Region affected over 32,000 people across 98 villages, prompting the World Food Programme to deliver 20 metric tons of fortified biscuits. Concurrently, military junta forces are actively blocking and threatening civil society aid teams attempting to deliver flood relief in Sagaing Region. Floods in upper Myanmar killed 25 people amid ongoing military airstrikes, and a military drone attack killed two civilians at a Karenni displacement camp.",
+        "verified_figures": [
+          "more than 100,000 killed since February 2021 coup",
+          "€10.5 million in additional humanitarian funding",
+          "over 32,000 people affected in Laymyethna Township",
+          "20 metric tons of fortified biscuits dispatched",
+          "25 killed in Upper Myanmar floods",
+          "2 civilians killed at Karenni displacement camp"
+        ],
+        "sources": [
+          {
+            "name": "The Brussels Times",
+            "url": "https://www.brusselstimes.com/eu-affairs/2270036/myanmar-conflict-deaths-surpass-100000-as-eu-pledges-e10-5m-more-in-aid"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Ebola outbreak expands amid lack of approved treatments",
+        "score": 9.0,
+        "body": "An Ebola outbreak in the Democratic Republic of the Congo has killed more than 2,000 people among 4,449 recorded cases, making it the fastest-moving on record. A study in Nature Medicine revealed the outbreak originated from a new animal-to-human spillover rather than previous strains. The World Health Organization confirmed the virus is the Bundibugyo ebolavirus strain, for which no approved vaccines or specific treatments exist. The outbreak has spread to a sixth province, Bas-Uele, after a death was confirmed in Buta. The WHO warned the epidemic is on track to become the deadliest ever, while aid organizations warned that response efforts are severely constrained by international funding cuts.",
+        "verified_figures": [
+          "more than 2,000 deaths",
+          "4,449 recorded cases",
+          "6 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c3r02y5q51ro"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Red Sea / Bab el-Mandeb",
+      "score": 7.0,
+      "trigger": "Continued missile strikes by Houthi forces on merchant shipping could trigger Saudi-backed counteroffensives along Yemen's Red Sea coast.",
+      "potential_impact": "Intensified coastal hostilities would increase civilian casualties, interrupt vital commercial shipping lanes, and restrict regional humanitarian supply routes.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/yemen-red-sea-houthi-shipping-attacks-29115cc1fbc209ed4be2d2f80eabc1bf"
+        }
+      ]
+    },
+    {
+      "location": "Black Sea / Danube Grain Hubs",
+      "score": 6.5,
+      "trigger": "Continued reciprocal drone and missile strikes on grain export infrastructure in Ukraine and Russia could disrupt tentative maritime truce discussions.",
+      "potential_impact": "Damage to major agricultural ports risks triggering global food price inflation and worsening food insecurity in import-dependent countries.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-offers-russia-truce-black-sea-food-supply-fears-mount-source-says-2026-08-13/"
+        }
+      ]
+    },
+    {
+      "location": "Strait of Hormuz",
+      "score": 5.0,
+      "trigger": "The planned long-term U.S. naval blockade around the Strait of Hormuz could prompt retaliatory military actions by Iranian armed forces.",
+      "potential_impact": "Direct maritime clashes in the strait would disrupt global shipping choke points and heighten regional military conflict risks.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Iran International",
+          "url": "https://www.iranintl.com/en/202608133717"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Iran International",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "BAL Immigration Law",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Dabanga Radio TV Online",
+        "count": 1
+      },
+      {
+        "name": "Daijiworld",
+        "count": 1
+      },
+      {
+        "name": "Democracy Now!",
+        "count": 1
+      },
+      {
+        "name": "Devdiscourse",
+        "count": 1
+      },
+      {
+        "name": "IntelliNews",
+        "count": 1
+      },
+      {
+        "name": "The Brussels Times",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "care.org",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1270,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
