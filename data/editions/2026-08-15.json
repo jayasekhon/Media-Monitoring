@@ -1,0 +1,458 @@
+{
+  "date": "2026-08-15",
+  "printed_time": "6:38 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An expanding outbreak of the rare Bundibugyo Ebola virus in the Democratic Republic of the Congo has killed over 2,100 people across six provinces with no available vaccine or standard treatment.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "A 7.4-magnitude earthquake in western Colombia has left at least 285 people dead, 4,000 injured, 400 missing, and more than 12,000 homes destroyed.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "A powerful 7.7-magnitude earthquake off Indonesia's Flores Island killed at least 20 people and exposed 500,000 residents to severe shaking, triggering widespread destruction and landslides.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Displaced communities in Sudan's West Kordofan region have been forced to consume animal feed residue to survive amid severe food shortages and collapsing basic services.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "United Nations monitoring confirmed 437 civilian deaths and 2,610 injuries in Ukraine during July 2026, marking the highest monthly civilian casualty count since the start of the full-scale invasion.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "A rapidly expanding epidemic of the untreatable Bundibugyo Ebola strain in the Democratic Republic of the Congo has claimed over 2,100 lives across six provinces, outpacing containment and isolation capacity.",
+    "label": "GLOBAL / CROSS-CUTTING — DRC Ebola Epidemic"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Lebanon — Six Killed in Israeli Airstrike on Residential Building in Nabatieh",
+        "score": 5.0,
+        "body": "Israeli warplanes launched three separate airstrikes at dawn in southern Lebanon, directly targeting a residential building in the Wadi Khalil area of Ansar, as well as the outskirts of Nabatieh al-Fawqa. The attacks killed six people and injured two others in Ansar, located within the Nabatieh district. Local reporting indicates civilian displacement following the strikes, while UNIFIL warned of a deteriorating security situation across the region. The bombardment marks a further breakdown of the June 26 framework agreement between Lebanon and Israel.",
+        "verified_figures": [
+          "6 killed",
+          "2 injured"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-six-killed-and-two-injured-in-israeli-air-attacks-on-town-of-ansar-in-southern-lebanon-targeting-residential-building-261651/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Six Killed in Houthi Missile Attack on Commercial Ship in Bab el-Mandeb",
+        "score": 5.0,
+        "body": "Three ballistic missiles fired by Houthi forces struck a Yemeni commercial vessel in the Bab el-Mandeb Strait as it approached port off Yemen’s coast. According to crew survivors and Yemeni authorities, a second missile hit the ship while rescue operations were underway following the initial strike, intensifying casualties and destruction. The attack killed six people and injured at least nine others on board. The incident highlights sustained risks to maritime crews and commercial shipping routes near the southern entrance of the Red Sea.",
+        "verified_figures": [
+          "6 killed",
+          "at least 9 injured"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/yemen-red-sea-houthi-shipping-attacks-29115cc1fbc209ed4be2d2f80eabc1bf"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Over 27 Houthis Killed in Southwestern Taiz Clashes",
+        "score": 4.0,
+        "body": "Forces aligned with Yemen’s internationally recognized government reported repelling a Houthi offensive on the Al-Barh front in southwestern Taiz province. According to government-aligned National Resistance forces, military strikes over three days killed at least 27 Houthi fighters and injured 19 others while destroying several military vehicles and equipment. The fighting follows renewed missile and drone attacks on the west coast. Government media separately claimed that Houthi forces buried 57 fighters over a ten-day period amid ongoing ground combat.",
+        "verified_figures": [
+          "at least 27 Houthi fighters killed",
+          "19 injured"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/over-27-houthis-killed-19-injured-in-taiz-strikes-over-3-days-yemen-s-gov-t-aligned-forces/4027279"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East — CENTCOM Redirects 62 Vessels Amid Regional Naval Blockade",
+        "score": 3.5,
+        "body": "Escalating regional conflict between the United States, Israel, and Iran continues to disrupt regional maritime transport. The US Central Command announced that American forces have redirected 62 commercial vessels in the Arabian Sea since reinstating a naval blockade on Iranian ports on July 14. Meanwhile, Yemen’s Iran-aligned Houthis claimed a drone strike against a Saudi Aramco facility in Najran, Saudi Arabia. Neither Saudi officials nor Aramco have confirmed the attack.",
+        "verified_figures": [
+          "62 commercial vessels redirected"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-centcom-says-62-commercial-ships-redirected-as-regional-tensions-rise-houthis-claim-aramco-drone-attack-us-consumer-sentiment-falls-261411/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — Major 7.4 Earthquake Kills Hundreds and Causes Mass Displacement",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake struck western Colombia, impacting urban areas including Cali and Pereira, as well as the department of Chocó. Rescuers continue search operations amid widespread destruction. At least 285 people have been killed, 4,000 injured, and around 400 remain missing. More than 12,000 homes were destroyed, and tens of thousands were damaged, forcing many residents into emergency shelters or outside. While emergency crews have rescued around 350 survivors, ongoing response efforts face significant challenges across affected regions.",
+        "verified_figures": [
+          "at least 285 people killed",
+          "4,000 injured",
+          "some 400 people missing",
+          "more than 12,000 homes destroyed",
+          "around 350 people rescued"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/photo-gallery/deadly-7-4-magnitude-earthquake-hits-colombia-leaving-widespread-destruction-photos-60906d99c8554120adc6c56842da97ae"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/americas/20260814-race-to-free-trapped-survivor-offers-hope-in-colombia-earthquake-zone"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Insecurity and Gang Violence Paralyze Earthquake Recovery Efforts",
+        "score": 6.5,
+        "body": "Reconstruction efforts across southern Haiti's Tiburon Peninsula remain severely stalled five years after a 7.2-magnitude earthquake struck the region. Persistent gang violence, political instability, and logistical blockades continue to prevent international humanitarian assistance from reaching affected communities. The 2021 disaster killed 2,248 people, injured over 12,700, and destroyed approximately 137,000 structures across Sud, Nippes, and Grand'Anse departments. Ongoing insecurity and severe humanitarian conditions continue to prevent the recovery of hundreds of thousands of residents.",
+        "verified_figures": [
+          "2,248 lives lost in 2021 earthquake",
+          "over 12,700 people injured",
+          "approximately 137,000 structures destroyed"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/five-years-later-insecurity-paralyses-haiti-2021-earthquake-reconstruction"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Government Delivers Housing to Families Displaced by June Earthquakes",
+        "score": 4.0,
+        "body": "Venezuelan authorities delivered 102 rehabilitated homes to families displaced by twin earthquakes that struck Caracas and coastal regions on June 24. The magnitude 7.2 and 7.5 seismic events caused structural failures and tragic loss of life. The housing delivery in Caracas's San Bernardino parish marks a step in emergency recovery operations following widespread structural damage to apartment buildings, amid ongoing public scrutiny of the state's disaster response capacity.",
+        "verified_figures": [
+          "102 newly rehabilitated homes delivered"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/venezuela-delivers-renovated-homes-caracas-earthquakes"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Ebola outbreak spreads to sixth province as deaths exceed 2,100",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has expanded to a sixth province, Bas-Uélé, following the death of an infected individual in Buta. Caused by the rare Bundibugyo virus strain, for which no approved vaccine or standard therapeutic treatment exists, the epidemic has recorded 4,449 confirmed cases and over 2,100 deaths. World Health Organization officials warn transmission is outpacing detection and isolation capabilities, compounded by international aid funding cuts, regional insecurity, and treatment center saturation in eastern provinces such as Ituri, North Kivu, and Haut-Uélé.",
+        "verified_figures": [
+          "4,449 confirmed Ebola cases",
+          "over 2,100 deaths",
+          "6 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260814-dr-congo-ebola-outbreak-spreads-to-sixth-province"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-says-ebola-outbreak-spreads-northeastern-bas-uele-province-2026-08-14/"
+          }
+        ]
+      },
+      {
+        "headline": "DRC — MSF warns measles and cholera epidemics overshadowed by Ebola response",
+        "score": 7.5,
+        "body": "Médecins Sans Frontières warned that the focus on eastern Democratic Republic of the Congo's Ebola epidemic risks neglecting major concurrent health emergencies. Between January and July 19, the country recorded 108,643 suspected measles cases and 1,394 deaths, alongside 35,464 suspected cholera cases resulting in 1,051 deaths. More than half of the measles cases and over 14,000 cholera cases occurred in North and South Kivu provinces, where ongoing conflict and displacement severely weaken public health infrastructure and capacity.",
+        "verified_figures": [
+          "108,643 suspected measles cases",
+          "1,394 measles deaths",
+          "35,464 suspected cholera cases",
+          "1,051 cholera deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/regional/389942/msf-warns-ebola-response-could-overshadow-measles-cholera-outbreaks-in-drc?amp=1"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Displaced communities resort to eating animal feed amid severe shortages in Kordofan",
+        "score": 8.0,
+        "body": "Displaced communities in Ed Daein, West Kordofan, are resorting to eating animal feed residue from groundnut and sesame seeds to avoid starvation amid soaring food prices and a lack of humanitarian aid. Millet prices have surged to 20,000 Sudanese pounds per malwa, while local livelihoods have collapsed. Concurrently, El Obeid, the capital of North Kordofan, is facing a severe breakdown of health and basic services, acute water shortages, and a heavy influx of displaced families fleeing ongoing conflict into crowded shelter centers.",
+        "verified_figures": [
+          "20,000 Sudanese pounds per malwa of millet"
+        ],
+        "sources": [
+          {
+            "name": "allAfrica.com",
+            "url": "https://allafrica.com/stories/202608140059.html"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — UN Reports Record Civilian Casualties in July",
+        "score": 7.5,
+        "body": "The United Nations monitoring mission reported that July 2026 was the deadliest month for Ukrainian civilians since the initial weeks of the invasion, recording 437 civilian deaths and 2,610 injuries. The sharp increase in casualties coincided with intensified military operations into mid-August, including drone strikes hitting energy terminals and logistics warehouses. The continuing attacks further threaten regional stability and civilian infrastructure.",
+        "verified_figures": [
+          "437 civilians killed in July 2026",
+          "2,610 civilians wounded in July 2026"
+        ],
+        "sources": [
+          {
+            "name": "Whalesbook",
+            "url": "https://www.whalesbook.com/news/English/international-news/Ukraine-Conflict-July-Civilian-Deaths-Hit-Record-Energy-Terminals-Targeted/6a7ee3236ffbe1e6461b8251"
+          }
+        ]
+      },
+      {
+        "headline": "Global/Ukraine — Healthcare Attacks in Conflict Zones Exceed Four Per Day, WHO Data Shows",
+        "score": 7.5,
+        "body": "Attacks on healthcare facilities, workers, and patients in active conflict zones, including Ukraine and Gaza, averaged more than four per day in 2026, according to World Health Organization data. Between January and August, the agency documented over 900 attacks. These incidents resulted in at least 900 deaths and more than 1,400 injuries, severely damaging medical infrastructure and hindering humanitarian assistance.",
+        "verified_figures": [
+          "over 900 attacks on healthcare facilities",
+          "at least 900 deaths",
+          "more than 1,400 injuries"
+        ],
+        "sources": [
+          {
+            "name": "globalbankingandfinance.com",
+            "url": "https://www.globalbankingandfinance.com/attacks-healthcare-conflict-zones-averaging-four-day-2026/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian Shelling Kills Two Civilians in Dnipropetrovsk Region",
+        "score": 5.0,
+        "body": "Russian troops launched over 50 attacks across three districts in Ukraine's Dnipropetrovsk region, killing two civilians and injuring two others. The attacks primarily impacted Nikopol, Pokrovsk, Marganets, and Chervonohryhorivka. The shelling damaged private homes, multi-apartment residential buildings, a commercial bank building, and an agricultural enterprise, according to regional authorities.",
+        "verified_figures": [
+          "two dead",
+          "two injured",
+          "over 50 attacks"
+        ],
+        "sources": [
+          {
+            "name": "112.ua",
+            "url": "https://112.ua/en/amp/rosijski-vijska-atakuvali-tri-rajoni-dnipropetrovsini-dvoe-zagiblih-dvoe-poranenih-179624"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Powerful 7.7-magnitude earthquake hits Flores Island",
+        "score": 9.0,
+        "body": "A magnitude 7.7 earthquake struck off Flores Island in eastern Indonesia's East Nusa Tenggara province, with its epicentre approximately 68 kilometres northwest of Ende. The quake triggered an initial tsunami warning that was later lifted, while causing widespread structural damage, landslides that blocked roads, and mass evacuations to higher ground. Authorities report at least 20 people were killed, six injured, and others trapped beneath collapsed buildings. Data cited from the US Geological Survey indicates that approximately 500,000 people were exposed to strong shaking across the region.",
+        "verified_figures": [
+          "at least 20 dead",
+          "6 injured",
+          "500,000 people exposed to strong shaking"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Aid reductions linked to health facility closures and preventable deaths",
+        "score": 7.5,
+        "body": "A report by Refugees International warns that Afghanistan's health crisis has intensified following significant reductions in United States humanitarian assistance in 2025. Based on 555 surveys, healthcare worker interviews, and facility data collected across the country, the report documents widespread health facility closures, the loss of thousands of healthcare workers, and severe disruptions to medical services. These cutbacks have directly contributed to an increase in preventable deaths, as well as rising maternal and newborn mortality rates across affected communities.",
+        "verified_figures": [
+          "555 surveys and interviews conducted"
+        ],
+        "sources": [
+          {
+            "name": "Ariana News",
+            "url": "https://www.ariananews.af/us-aid-cuts-in-afghanistan-linked-to-preventable-deaths-report-says/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Acute diarrhoea outbreak recorded in Yangon amid flooding and conflict",
+        "score": 6.5,
+        "body": "Health officials in Yangon recorded a sharp increase in acute diarrhoea cases, adding further pressure to a healthcare system already strained by seasonal flooding and ongoing civil war. State media reported 182 patients were admitted to Yangon General Hospital over four days, with 93 testing positive for pathogens causing acute diarrhoea. Local officials indicated that infected patients tested positive for cholera. The surge in waterborne illness comes as monsoon flooding affects large parts of the country.",
+        "verified_figures": [
+          "182 patients admitted to hospital",
+          "93 tested positive for pathogens"
+        ],
+        "sources": [
+          {
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk/asia/southeast-asia/myanmar-diarrhoea-monsoon-flooding-civil-war-b3033142.html"
+          }
+        ]
+      },
+      {
+        "headline": "India — Health surveillance heightened following global Ebola alert",
+        "score": 2.0,
+        "body": "Health authorities in India have increased passenger screening at ports of entry following a World Health Organization declaration regarding a Bundibugyo Ebola virus outbreak as a Public Health Emergency of International Concern. Gujarat state reported the highest level of surveillance, screening 2,905 international travellers. The Union Ministry of Health and Family Welfare confirmed that no Ebola cases have been detected anywhere in India to date.",
+        "verified_figures": [
+          "2,905 travellers screened",
+          "0 Ebola cases confirmed in India"
+        ],
+        "sources": [
+          {
+            "name": "GujaratSamachar English",
+            "url": "https://english.gujaratsamachar.com/news/ahmedabad/gujarat-leads-india-in-ebola-screening-with-2905-passengers-checked-amid-outbreak-alert-95347765362"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo & Region — Bundibugyo Ebola outbreak",
+        "score": 9.5,
+        "body": "The World Health Organization and United Nations warned that a record-breaking Ebola epidemic in the Democratic Republic of the Congo is outrunning response efforts, with transmission occurring faster than case detection. The outbreak, caused by the rare Bundibugyo strain for which no vaccine or medical treatment exists, has killed over 2,000 people and is currently killing one person every 30 minutes. A genomic study confirmed the epidemic originated from a new animal-to-human spillover. Approximately 90 percent of cases are concentrated in Ituri province. UN Emergency Relief Coordinator Tom Fletcher announced an additional $30.5 million allocation from the Central Emergency Response Fund.",
+        "verified_figures": [
+          "More than 2,000 deaths",
+          "1 death every 30 minutes",
+          "90% of cases and 80% of deaths concentrated in Ituri province",
+          "$30.5 million allocated from CERF"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/08/1168148"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Southern Lebanon",
+      "score": 5.5,
+      "trigger": "Further Israeli airstrikes in southern Lebanese residential areas could cause the complete breakdown of the June 26 framework agreement.",
+      "potential_impact": "An open military escalation would sharply increase civilian fatalities and lead to mass displacement across southern districts.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-six-killed-and-two-injured-in-israeli-air-attacks-on-town-of-ansar-in-southern-lebanon-targeting-residential-building-261651/"
+        }
+      ]
+    },
+    {
+      "location": "Bab el-Mandeb Strait, Yemen",
+      "score": 5.5,
+      "trigger": "Continued Houthi missile attacks targeting commercial vessels during active maritime rescue operations could provoke escalated international military interventions.",
+      "potential_impact": "Heightened maritime engagement threatens commercial crew lives and risks shutting down vital shipping lanes near the Red Sea.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/yemen-red-sea-houthi-shipping-attacks-29115cc1fbc209ed4be2d2f80eabc1bf"
+        }
+      ]
+    },
+    {
+      "location": "Yangon, Myanmar",
+      "score": 6.5,
+      "trigger": "Persistent monsoon flooding combined with active civil war disruptions could further severely contaminate local water sources.",
+      "potential_impact": "A major expansion of acute diarrhoea and cholera outbreaks would quickly overwhelm Yangon's weakened healthcare infrastructure.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk/asia/southeast-asia/myanmar-diarrhoea-monsoon-flooding-civil-war-b3033142.html"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "The Sunday Guardian",
+        "count": 3
+      },
+      {
+        "name": "The Independent",
+        "count": 2
+      },
+      {
+        "name": "streamlinefeed.co.ke",
+        "count": 2
+      },
+      {
+        "name": "112.ua",
+        "count": 1
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 1
+      },
+      {
+        "name": "Ariana News",
+        "count": 1
+      },
+      {
+        "name": "GujaratSamachar English",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "Whalesbook",
+        "count": 1
+      },
+      {
+        "name": "allAfrica.com",
+        "count": 1
+      },
+      {
+        "name": "globalbankingandfinance.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1237,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
