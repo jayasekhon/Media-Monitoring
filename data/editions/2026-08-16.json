@@ -1,0 +1,423 @@
+{
+  "date": "2026-08-16",
+  "printed_time": "6:40 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola epidemic in the Democratic Republic of the Congo has spread to a sixth province, with over 2,200 deaths recorded as transmission outpaces international containment efforts.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Two major earthquakes in coastal Venezuela have killed over 6,000 people, with emergency response efforts severely impaired by critical equipment shortages.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "A 7.4-magnitude earthquake struck western Colombia, killing at least 300 people as landslides and heavy rainfall impede rescue access to affected mountain communities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A shallow 7.7-magnitude earthquake off Flores Island in eastern Indonesia killed at least 48 people, displaced 5,000 residents, and damaged hundreds of buildings.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Intensified reciprocal missile and drone strikes between Ukraine and Russia caused civilian casualties and infrastructure damage across Kyiv and the Moscow region.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo is facing its largest Ebola outbreak on record as the virus spreads across six provinces, with over 2,200 deaths recorded while response operations remain severely impeded by active armed conflict and operational challenges.",
+    "label": "AFRICA — DRC Ebola Epidemic Escalation"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Lebanon — Israeli airstrikes kill 11 in southern escalation",
+        "score": 7.0,
+        "body": "Israeli airstrikes targeted southern Lebanon, including the villages of Ansar and Deir al-Zahrani in Nabatieh, killing at least 11 people and injuring 19 others. According to Lebanese officials and media reports, the dead included three children, while 11 women were among the injured. The attacks represent the highest single-day casualty toll since agreements in June temporarily reduced hostilities. The Israeli military stated the bombardment retaliated for a Hezbollah attack on its troops in southern Lebanon. In response, Hezbollah threatened counter-attacks, while fresh strikes in Nabatieh prompted families to flee northward.",
+        "verified_figures": [
+          "11 killed",
+          "19 injured",
+          "3 children killed",
+          "11 women injured",
+          "around 1.5 million displaced since March 2"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-nine-south-lebanon-state-news-reports-2026-08-15/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Mokha port suspends operations following Houthi missile strikes",
+        "score": 6.0,
+        "body": "Commercial and maritime operations at Yemen's Mokha port were suspended following a series of Houthi missile attacks, according to port authorities and government sources. More than 25 missiles reportedly hit the port area, resulting in seven deaths and an estimated $16 million in structural and operational damage. The Yemeni government reported that six ballistic missiles were launched in the latest wave. The closure of the Red Sea port threatens commercial logistics and maritime safety in the region amid ongoing tensions.",
+        "verified_figures": [
+          "7 killed",
+          "over 25 missile strikes",
+          "$16 million in damage"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-yemens-mokha-port-suspends-operations-after-25-houthi-missile-strikes-7-killed-as-red-sea-crisis-deepens-amid-regional-tensions-escalates-262093/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Fatalities and injuries reported in Gaza Strip",
+        "score": 4.0,
+        "body": "At least one Palestinian was killed and seven others were injured during separate incidents across the Gaza Strip on Saturday night, according to local medical sources. Identified casualties included Mohammed Bashir Abu Armana, who was killed in the incidents. The violence reflects ongoing protection risks for civilians across the Palestinian enclave amid broader regional escalation.",
+        "verified_figures": [
+          "at least 1 killed",
+          "7 injured"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-israel-strikes-lebanons-tyre-as-yemen-drone-attacks-kill-3-houthi-fighters-amid-middle-east-conflict-intensifies-262273/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Military drone strikes kill three Houthi fighters in Taiz",
+        "score": 3.0,
+        "body": "Drone strikes by the Yemeni army targeted Houthi positions on the Maqbanah front in western Taiz province, killing three Houthi fighters and injuring several others, including field commanders. Military sources stated that the strikes hit Houthi troop gatherings and vehicles. No official comment was immediately provided by Houthi authorities. Sporadic clashes continue along frontline areas in Taiz despite a relative lull across much of Yemen since April 2022.",
+        "verified_figures": [
+          "3 Houthi fighters killed",
+          "several wounded"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/3-houthis-killed-in-yemeni-army-drone-strikes-in-taiz-military/4028484"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — Earthquake strikes western region, killing at least 300 people",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake has struck western Colombia, causing extensive destruction across the cities of Cali and Pereira. At least 300 people have been confirmed dead, with earlier unconfirmed figures placing casualties near 281. Rescue operations in remote mountain communities remain severely hindered by landslides, heavy rainfall, and infrastructure damage. Colombian President Abelardo de la Espriella requested international search-and-rescue support, leading to the deployment of an 80-person Israeli humanitarian delegation alongside teams from the United States, Ecuador, and El Salvador. President de la Espriella has also requested that the United States temporarily suspend trade tariffs to alleviate economic pressure during emergency recovery operations.",
+        "verified_figures": [
+          "at least 300 people killed",
+          "80-person delegation"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Dual earthquakes kill over 6,000 as resource shortages impede response",
+        "score": 8.5,
+        "body": "Two major earthquakes measuring 7.2 and 7.5 on the Richter scale severely impacted coastal Venezuela, particularly La Guaira, resulting in over 6,000 deaths. Emergency response efforts have been crippled by severe equipment shortages and delayed official action, forcing civilian volunteers to conduct primary search-and-rescue operations in collapsed structures. Observers attribute the faltering crisis management to systemic underinvestment and infrastructure vulnerabilities, leaving affected populations with minimal formal humanitarian support during ongoing recovery attempts.",
+        "verified_figures": [
+          "Over 6,000 people died"
+        ],
+        "sources": [
+          {
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/law-order/3964240-contrasting-earthquake-responses-a-tale-of-two-nations?amp"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak expands to sixth province as deaths pass 2,200",
+        "score": 9.5,
+        "body": "An ongoing Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, Bas-Uele, becoming the country's largest Ebola epidemic on record and the second-largest globally. According to health authorities, the virus has reached 55 health zones across six provinces, with Ituri remaining the epicenter. The World Health Organization warned that transmission is outpacing containment efforts and is on track to eclipse the 2014–2016 West Africa outbreak. Response operations are severely hampered by active armed conflict, food insecurity, community resistance, unpaid staff strikes, and rebel threats. Meanwhile, Phase I safety trials have commenced for two candidate vaccines targeting the Ebola Bundibugyo strain.",
+        "verified_figures": [
+          "2,214 deaths",
+          "4,727 confirmed cases",
+          "6 affected provinces",
+          "55 affected health zones"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Reciprocal aerial strikes hit Kyiv and Moscow region",
+        "score": 6.5,
+        "body": "Russian forces launched missile strikes against Kyiv, triggering fires in at least two districts and injuring at least one person, according to Ukrainian officials and news reports. Concurrently, Ukrainian forces launched an overnight drone assault targeting the Moscow region. Moscow's mayor claimed that 600 drones targeted the area, resulting in explosions and wounding three people. Additional Russian strikes reportedly killed one person in Ukraine. The intensified long-range aerial attacks by both nations continue to cause civilian casualties and increase risks to urban populations and civil infrastructure.",
+        "verified_figures": [
+          "600 drones targeted Moscow region (claimed by Moscow Mayor)",
+          "3 people injured in Moscow region",
+          "At least 1 person injured in Kyiv missile attack",
+          "1 person killed in Ukraine"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-missile-attack-kyiv-sparks-fires-injures-one-ukraine-officials-say-2026-08-16/"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv"
+          }
+        ]
+      },
+      {
+        "headline": "Russia/Ukraine — Ukrainian long-range strikes hit Samara industrial and military sites",
+        "score": 5.0,
+        "body": "Ukrainian forces conducted long-range missile and aerial attacks on industrial and military facilities in Russia’s southwestern Samara region. Ukrainian President Volodymyr Zelensky confirmed strikes on an air base and a rocket plant, which Ukrainian sources linked to a satellite network. Russian regional authorities acknowledged localized damage to industrial infrastructure and confirmed medical treatment was provided to injured individuals. The strikes reflect Ukraine's ongoing efforts to disrupt military production facilities and energy infrastructure supporting Russian forces.",
+        "verified_figures": [
+          "Injuries reported in Samara region (exact number undisclosed)"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-strike-4e0ec548753451b1611e3123202850ea"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-it-hit-russian-rocket-centre-linked-starlink-style-network-2026-08-15/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Powerful 7.7-Magnitude Earthquake Hits Flores Island",
+        "score": 8.5,
+        "body": "A shallow 7.7-magnitude earthquake struck off the coast of Flores Island in eastern Indonesia early Saturday, killing at least 48 people and injuring dozens. The tremor collapsed hundreds of homes and buildings, cutting power and telecommunications in several areas and displacing around 5,000 people. Landslides and communication disruptions initially blocked rescue teams from reaching Nagekeo, near the epicenter. A brief tsunami warning prompted coastal evacuations before being lifted when recorded sea-level changes remained minimal. Aid distribution and emergency rescue operations are currently underway.",
+        "verified_figures": [
+          "at least 48 dead",
+          "dozens injured",
+          "5,000 displaced",
+          "hundreds of houses and buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake"
+          },
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Kills Over 2,000 as Virus Spreads to Sixth Province",
+        "score": 9.0,
+        "body": "An ongoing Ebola outbreak in northeastern Democratic Republic of the Congo has killed over 2,000 people and infected at least 4,665, according to the World Health Organization. Declared on May 15, 2026, the outbreak of Bundibugyo virus disease has spread to six provinces, including Bas-Uele, and carries a crude case fatality rate of 46.8 percent. The WHO Director-General warned that the virus is spreading faster than containment measures, placing the outbreak on track to become the deadliest on record if uncontained.",
+        "verified_figures": [
+          "Over 2,000 deaths",
+          "At least 4,665 confirmed cases",
+          "46.8 percent crude case fatality rate",
+          "6 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening"
+          }
+        ]
+      },
+      {
+        "headline": "Europe — Severe Wildfires and Severe Weather Cause Casualties and Evacuations",
+        "score": 6.0,
+        "body": "A continent-wide heatwave and widespread wildfires across Europe have prompted emergency responses and evacuations. In Croatia, fires killed one person, injured 40 others, and forced the evacuation of 1,200 people. Wildfires are also burning in France, Germany, Greece, and Spain, with French authorities arresting nearly 500 people on arson suspicions. Additionally, heavy rain following heatwaves triggered flooding and a landslide in northwestern Spain, killing two people and injuring two infants.",
+        "verified_figures": [
+          "1 person killed in Croatia",
+          "40 people injured in Croatia",
+          "1,200 people evacuated in Croatia",
+          "Nearly 500 people arrested in France",
+          "2 people killed in Spain",
+          "2 babies injured in Spain"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260816-spain-flood-and-landslide-kills-two-injures-two-babies"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Cholera Outbreak Escalates in Plateau State",
+        "score": 4.5,
+        "body": "Health authorities in Plateau State, Nigeria, are intensifying measures to control a cholera outbreak as suspected cases reach 537 and the death toll rises to 17. According to state health officials, 517 patients have been successfully treated and discharged, while three individuals remain hospitalized. Response efforts are ongoing to prevent further transmission across affected communities.",
+        "verified_figures": [
+          "537 suspected cases",
+          "17 deaths",
+          "517 patients discharged",
+          "3 patients currently receiving treatment"
+        ],
+        "sources": [
+          {
+            "name": "Channels Television",
+            "url": "https://www.channelstv.com/2026/08/15/plateau-intensifies-efforts-to-contain-cholera-outbreak-as-cases-rise-to-537-deaths-hit-17/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Cholera Outbreak Kills 11 in Sittwe Villages",
+        "score": 4.0,
+        "body": "A cholera outbreak hitting Muslim villages in Sittwe, Myanmar, has resulted in at least 11 deaths, according to local news reports. The deaths highlight critical health and sanitation risks facing local communities as health authorities attempt to respond to rising waterborne disease cases.",
+        "verified_figures": [
+          "11 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Narinjara News",
+            "url": "https://www.narinjara.com/news/detail/6a7ffdd7a41afa325cd07c97"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Southern Lebanon",
+      "score": 7.0,
+      "trigger": "Threatened retaliatory strikes by Hezbollah following Israeli bombardment in Nabatieh that killed 11 people could trigger a broader cross-border escalation in the next 72 hours.",
+      "potential_impact": "An expanded military confrontation would increase civilian casualties and cause widespread population displacement across southern border districts.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
+        }
+      ]
+    },
+    {
+      "location": "Mokha, Yemen",
+      "score": 6.0,
+      "trigger": "Subsequent Houthi missile targeted attacks on Red Sea maritime assets following the bombardment of Mokha port could prompt renewed international military responses.",
+      "potential_impact": "Continued closure of port facilities threatens maritime safety and risks severing commercial logistics and supply channels into Yemen.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-yemens-mokha-port-suspends-operations-after-25-houthi-missile-strikes-7-killed-as-red-sea-crisis-deepens-amid-regional-tensions-escalates-262093/amp/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 6
+      },
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "The Sunday Guardian",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Channels Television",
+        "count": 1
+      },
+      {
+        "name": "Devdiscourse",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "Narinjara News",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1049,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
