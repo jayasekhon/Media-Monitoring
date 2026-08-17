@@ -1,0 +1,380 @@
+{
+  "date": "2026-08-17",
+  "printed_time": "6:57 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Consecutive 7.2- and 7.5-magnitude earthquakes in Venezuela have killed nearly 3,000 people and left tens of thousands missing amidst widespread infrastructure destruction.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "The Ebola epidemic in the Democratic Republic of the Congo has become the deadliest in the nation's history, claiming at least 2,325 lives among nearly 5,000 confirmed cases across six provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A 7.4-magnitude earthquake in western Colombia has killed at least 289 people, injured nearly 4,000, and left 140 missing while causing extensive destruction in several major cities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A 7.7-magnitude earthquake off eastern Indonesia killed at least 53 people and displaced over 12,000 residents on Flores Island amidst hundreds of aftershocks.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Escalating gang conflict and security operations in Haiti killed at least 613 people between March and July, severely compromising access to critical ports, airports, and transport corridors.",
+      "region": "Americas"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Consecutive high-magnitude earthquakes in Venezuela have triggered a severe humanitarian crisis, leaving nearly 3,000 dead, tens of thousands missing, and critical infrastructure heavily damaged.",
+    "label": "AMERICAS — Massive Earthquakes Cause Severe Mortality in Venezuela"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza / West Bank — Israeli airstrikes resume in Gaza alongside settler violence in West Bank",
+        "score": 7.5,
+        "body": "Israeli forces have resumed airstrikes across the Gaza Strip, hitting targets in Khan Younis and the Nuseirat camp. The attacks wounded several people and killed at least one person who succumbed to injuries at Nasser hospital. The strikes occur alongside diplomatic efforts in Cairo, where mediators from the US, Egypt, Qatar, and Turkey are discussing a peace plan requiring an immediate cessation of hostilities and Israeli military withdrawal. Meanwhile, escalating Israeli settler violence against Palestinians in the occupied West Bank drew condemnation from the US ambassador to Israel, who characterized the attacks as terror acts.",
+        "verified_figures": [
+          "1 person killed from wounds in Khan Younis strike",
+          "several people wounded in Nuseirat camp strike"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon / Regional — Israel threatens full-force strikes on Hezbollah amid broader regional escalation",
+        "score": 6.0,
+        "body": "Israel has threatened to conduct additional full-force military strikes against Hezbollah in Lebanon following the reported killing of a senior commander. The threat comes as regional diplomatic and security tensions widen across West Asia. Iran has warned France against alleged illegal interference and reaffirmed its stance regarding control over the strategic Strait of Hormuz, raising ongoing concerns over global trade and energy shipping routes. The escalating cross-border military friction continues to threaten wider regional stability and civilian safety.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-israel-threatens-further-full-force-strikes-on-hezbollah-after-senior-commander-killed-iran-warns-france-over-illegal-interference-262517/amp/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Consecutive Earthquakes Cause Mass Casualties and Widespread Destruction",
+        "score": 9.5,
+        "body": "A major humanitarian crisis is unfolding in Venezuela following consecutive 7.2- and 7.5-magnitude earthquakes. Authorities report nearly 3,000 deaths, while tens of thousands of people remain missing under collapsed infrastructure. Search and rescue operations continue, though officials warn the likelihood of finding further survivors is rapidly diminishing. Severe damage has disrupted critical local infrastructure and emergency response capabilities in the hardest-hit urban centers.",
+        "verified_figures": [
+          "nearly 3,000 deaths",
+          "tens of thousands missing"
+        ],
+        "sources": [
+          {
+            "name": "dw.com",
+            "url": "https://dw.com/en/venezuela-earthquakes-trigger-widening-crisis/g-77802771"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Magnitude 7.4 Earthquake Causes Hundreds of Fatalities and Widespread Damage",
+        "score": 9.0,
+        "body": "Search and rescue efforts are ongoing in western Colombia following a 7.4-magnitude earthquake centered in San Jose del Palmar. Official reports confirm at least 289 deaths, nearly 4,000 injuries, and 140 people missing, with severe destruction concentrated in Cali, Pereira, and Buenaventura. In response, the United States military has initiated airlift operations to deliver humanitarian supplies to Bogotá and Medellín. Colombian President Abelardo de la Espriella has requested that the United States temporarily suspend tariffs to aid national recovery efforts.",
+        "verified_figures": [
+          "at least 289 deaths",
+          "nearly 4,000 injured",
+          "140 missing"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/colombia-earthquake-abelardo-de-la-espriella-trump-d5472db0c7b2f929b43a4c190dc0d41b"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Gang Conflict and Security Operations Claim Over 600 Lives",
+        "score": 8.0,
+        "body": "Intensifying violence between criminal gangs and security forces in Haiti killed at least 613 people and injured 375 others between March and July, according to a United Nations report. Conflict has concentrated in Cité Soleil and Plaine du Cul-de-Sac, threatening densely populated neighborhoods and critical infrastructure, including the main container port, international airport, and key highway arteries. The escalation marks one of the highest levels of violent disruption in the country in two years, severely impacting civilian safety and humanitarian accessibility.",
+        "verified_figures": [
+          "at least 613 killed",
+          "375 injured"
+        ],
+        "sources": [
+          {
+            "name": "slguardian.org",
+            "url": "https://slguardian.org/haiti-violence-leaves-more-than-600-dead-as-gang-conflict-intensifies/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Ebola epidemic becomes country's deadliest with over 2,300 fatalities",
+        "score": 9.0,
+        "body": "The ongoing Ebola outbreak in the Democratic Republic of the Congo has become the deadliest in the country's history, according to government data. Figures from the Congolese public health institute indicate that the death toll has reached at least 2,325, surpassing the 2,299 fatalities recorded during the 2018–2020 epidemic. Cumulative confirmed cases have risen to 4,945, including 101 new cases detected in a 24-hour period. The outbreak, involving the Bundibugyo virus strain, has expanded to 54 health zones across six provinces, including Ituri and North Kivu. In response, the United Nations has allocated an additional $30.5 million to combat the spreading epidemic.",
+        "verified_figures": [
+          "at least 2,325 deaths",
+          "4,945 confirmed cases",
+          "101 new cases in 24 hours",
+          "54 health zones across 6 provinces affected",
+          "$30.5 million allocated by UN"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/democratic-republic-congos-ebola-outbreak-becomes-deadliest-countrys-history-2026-08-16/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Russia/Ukraine — Reciprocal Long-Range Strikes Cause At Least 19 Deaths",
+        "score": 7.5,
+        "body": "Escalating cross-border missile and drone strikes between Russia and Ukraine killed at least 19 people across both countries on Sunday. Ukrainian forces launched one of their largest drone attacks of the war, triggering a fire at a warehouse near Moscow and killing at least six people in Russia, including casualties reported in Belgorod. Concurrently, Russian forces bombed multiple Ukrainian locations. Strikes in Kyiv killed at least four people, injured six others, and destroyed a popular outdoor book market, destroying local businesses and vendor livelihoods. The attacks mark a continued surge in long-range aerial bombardment damaging civilian infrastructure.",
+        "verified_figures": [
+          "At least 19 people killed in total",
+          "At least six people killed in Russia",
+          "At least four people killed in Kyiv",
+          "Six people injured in Kyiv market strike"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Hungary — Bus Crash Kills 12 and Injures Ten",
+        "score": 5.0,
+        "body": "A crash involving a Polish-registered bus killed 12 people and severely injured at least 10 others on a highway in Hungary early Sunday. Officials identified the incident as the worst accident of its kind in Hungary in over 20 years. Polish Prime Minister Donald Tusk announced that Poland would send an emergency aircraft to Budapest to assist those affected by the crash.",
+        "verified_figures": [
+          "12 people killed",
+          "At least 10 people severely injured"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260816-poland-registered-bus-veers-off-hungary-highway-killing-12-people"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Deadly 7.7-Magnitude Earthquake Displaces Thousands on Flores Island",
+        "score": 9.0,
+        "body": "A powerful 7.7-magnitude earthquake struck off the coast of eastern Indonesia, severely impacting Flores Island and triggering over 300 aftershocks. At least 53 people have been killed, while hundreds of homes and public buildings suffered extensive damage. More than 12,000 displaced residents are awaiting urgent humanitarian aid in temporary shelters, including schools, police stations, government offices, and outdoors. Medical facilities, damaged by the tremors, have set up tents in hospital yards to treat an influx of injured residents as search and rescue operations continue.",
+        "verified_figures": [
+          "At least 53 people killed",
+          "More than 12,000 people displaced",
+          "Over 300 aftershocks"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Cholera Outbreak Spreads Across Yangon",
+        "score": 6.5,
+        "body": "A cholera outbreak that began last week is spreading across Yangon, placing additional strain on Myanmar's deteriorating healthcare system. More than 180 people have been hospitalised with severe diarrhea across the region, with at least 93 patients testing positive for cholera at a single hospital in downtown Yangon. Public health officials confirmed that one 92-year-old man has died from the illness. Health infrastructure in the country has severely weakened under junta rule, as military expenditure has been prioritized over public health services.",
+        "verified_figures": [
+          "At least 93 cholera cases confirmed at a single hospital",
+          "More than 180 people hospitalised with diarrhea",
+          "1 confirmed death"
+        ],
+        "sources": [
+          {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Kills Over 2,100",
+        "score": 9.0,
+        "body": "Health authorities and humanitarian workers report that an Ebola outbreak centered around Bunia in northeastern Democratic Republic of the Congo has killed more than 2,100 people out of over 4,500 recorded infections since being declared in the spring. According to the World Health Organization, the event represents the fastest-growing Ebola outbreak in the region. The high fatality rate is severely straining local health services and devastating local communities, with young children among the victims.",
+        "verified_figures": [
+          "2,100+ deaths",
+          "4,500+ infected"
+        ],
+        "sources": [
+          {
+            "name": "The Spec",
+            "url": "https://www.thespec.com/news/canada/fastest-growing-ebola-outbreak-through-the-eyes-of-canadian-aid-workers/article_fa7e2c12-6090-5860-b402-d1605f32a0e5.html"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Bauchi State Declares Cholera Outbreak",
+        "score": 6.0,
+        "body": "The Bauchi State Ministry of Health and Social Welfare in Nigeria has officially declared a cholera outbreak following laboratory confirmations. As of late July 2026, the state recorded 398 suspected cholera cases and 16 deaths across 13 Local Government Areas, representing a four percent case fatality rate. The outbreak is most severe in Toro LGA with 231 cases, alongside notable case counts in Alkaleri, Kirfi, Ganjuwa, Bauchi, and Tafawa Balewa LGAs.",
+        "verified_figures": [
+          "398 suspected cholera cases",
+          "16 deaths",
+          "4% case fatality rate"
+        ],
+        "sources": [
+          {
+            "name": "LEADERSHIP Newspapers",
+            "url": "https://leadership.ng/breaking-bauchi-declares-cholera-outbreak-records-398-suspected-cases-16-deaths/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Cholera Outbreak Spreads in Yangon",
+        "score": 6.0,
+        "body": "A cholera outbreak in Yangon has led to the hospitalization of more than 180 people with diarrhea, with at least 93 patients testing positive for cholera at a single facility. Local health officials confirmed one death of a 92-year-old man, with infections concentrated primarily in downtown Yangon. The outbreak is placing additional pressure on Myanmar's health care system, which has been significantly weakened due to prioritized military spending under junta rule.",
+        "verified_figures": [
+          "180+ hospitalised",
+          "93 confirmed cholera cases at one hospital",
+          "1 death"
+        ],
+        "sources": [
+          {
+            "name": "WION",
+            "url": "https://www.wionews.com/world/cholera-outbreak-spreads-across-yangon-as-more-than-180-people-hospitalised-1786885971677"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Lebanon / West Asia",
+      "score": 6.0,
+      "trigger": "Implementation of threatened full-force Israeli military strikes against Hezbollah targets following the death of a senior commander, alongside rising maritime tensions near the Strait of Hormuz.",
+      "potential_impact": "Broadened cross-border conflict could drive extensive civilian casualties, destroy essential local infrastructure, and trigger rapid population displacement in southern Lebanon.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-israel-threatens-further-full-force-strikes-on-hezbollah-after-senior-commander-killed-iran-warns-france-over-illegal-interference-262517/amp/"
+        }
+      ]
+    },
+    {
+      "location": "Gaza Strip & Occupied West Bank",
+      "score": 7.5,
+      "trigger": "A breakdown in Cairo ceasefire talks combined with persistent Israeli airstrikes and unmitigated settler attacks on Palestinian communities.",
+      "potential_impact": "Further violent displacement, growing civilian fatalities, and additional constraints on the delivery of life-saving humanitarian relief.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine & Russia",
+      "score": 7.5,
+      "trigger": "A further step-up in long-range drone and missile strikes targeting urban centers and critical logistical facilities across both countries.",
+      "potential_impact": "Heightened risks to civilian safety, destruction of power and commercial infrastructure, and emergency displacement in affected urban locations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 4
+      },
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "The Sunday Guardian",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "LEADERSHIP Newspapers",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The New York Times",
+        "count": 1
+      },
+      {
+        "name": "The Spec",
+        "count": 1
+      },
+      {
+        "name": "WION",
+        "count": 1
+      },
+      {
+        "name": "dw.com",
+        "count": 1
+      },
+      {
+        "name": "slguardian.org",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1063,
+      "sources_cited": 12
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
