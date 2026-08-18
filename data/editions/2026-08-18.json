@@ -1,0 +1,419 @@
+{
+  "date": "2026-08-18",
+  "printed_time": "6:45 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The death toll from Venezuela's twin earthquakes reached 6,438 as emergency operations focus on high-risk structures and shelter for displaced families.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "The Democratic Republic of the Congo is facing its deadliest Ebola outbreak on record, with at least 2,325 confirmed deaths across six provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Humanitarian operations in western Colombia have shifted to recovery after a 7.4-magnitude earthquake killed at least 111 people and caused nearly $10 billion in damage.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A 7.7-magnitude earthquake and aftershocks in eastern Indonesia left at least 68 people dead and displaced nearly 13,000 residents amid aid shortages.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Ongoing Israeli military strikes and severe aid access restrictions across the Gaza Strip continue to worsen critical water insecurity and essential service shortages.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "Venezuela's death toll from its June 24 twin earthquakes has risen to 6,438 as authorities transition toward structural safety assessments and temporary housing for displaced survivors.",
+    "label": "AMERICAS — Venezuela Earthquake Toll Rises"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — Israeli strikes and aid restrictions compound Gaza crisis",
+        "score": 7.5,
+        "body": "Israeli forces launched attacks across the Gaza Strip on Monday, resulting in at least one Palestinian fatality in Deir Al-Balah and injuries to several civilians, including a child. The United Nations warned that ongoing military strikes, severe aid access restrictions, and persistent funding shortfalls are rapidly deteriorating humanitarian conditions. The restrictions have severely aggravated water insecurity and essential service shortages across the enclave. Medical sources confirmed one individual succumbed to prior bombardment injuries, while civil defense reported child casualties from air and artillery strikes.",
+        "verified_figures": [
+          "1 Palestinian killed",
+          "several civilians injured"
+        ],
+        "sources": [
+          {
+            "name": "imemc.org",
+            "url": "https://imemc.org/article/israeli-attacks-continue-across-gaza-amid-rising-deaths/"
+          }
+        ]
+      },
+      {
+        "headline": "Iran / United States — Tehran threatens offensive shift over US naval blockade",
+        "score": 6.5,
+        "body": "A senior Iranian official announced that Tehran will adopt a fully offensive strategy unless the United States eases its naval blockade and implements an interim agreement within weeks. The U.S. blockade has severely curtailed shipping through the Strait of Hormuz to a fraction of pre-war levels, crippling maritime movement and heightening regional economic strain. Diplomatic efforts to resolve the standoff have stalled, with Iranian officials expressing diminished confidence in regional mediation. The escalation raises risks to maritime safety and commercial shipping in critical trade routes.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Ynetnews",
+            "url": "https://www.ynetnews.com/article/bjjuhkldzl"
+          }
+        ]
+      },
+      {
+        "headline": "Iraq — Drone strikes target KRG premier's residence in Erbil",
+        "score": 4.5,
+        "body": "Iraqi officials requested formal clarification from Tehran following a drone attack against the private residence and office of Masrour Barzani, Premier of the Kurdistan Regional Government. The strike was carried out using Hadid-110 drones, according to Kurdish intelligence assessments. KRG leadership strongly condemned the attack as a major security threat and direct escalation. Iraqi Foreign Minister Fuad Hussein raised the incident directly with his Iranian counterpart in a phone call, amid heightened security concerns across northern Iraq.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/politics/iraq-seeks-iranian-clarification-over-drone-attack-on-residence-of-kurdish-regional-premier/4029845"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Shelling injures civilians in Al-Dhalea amid renewed fighting",
+        "score": 4.5,
+        "body": "Mortar fire attributed to Houthi forces struck populated residential areas in the Hajar and Maris districts of southwestern Al-Dhalea province on Monday. Local state media reported that the attack injured a woman and a child, though full details on their medical conditions remain unconfirmed. The incident coincided with reports of renewed armed clashes between Yemeni government forces and Houthi fighters across multiple fronts, raising protection concerns for civilian populations residing near active conflict zones.",
+        "verified_figures": [
+          "2 civilians injured (1 woman, 1 child)"
+        ],
+        "sources": [
+          {
+            "name": "usmuslims.com",
+            "url": "https://www.usmuslims.com/service/amp/woman-child-injured-in-houthi-mortar-attack-on-populated-areas-in-yemen-report-366500h.htm"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Earthquake death toll reaches 6,438 amid shelter efforts",
+        "score": 9.0,
+        "body": "Official figures confirm the death toll from Venezuela's June 24 twin earthquakes has risen to 6,438, an increase of 137 from the previous week. The reported number of injured remains at 16,740. Structural assessments of over 59,000 buildings revealed that more than 10,600 structures are high-risk and over 13,700 have restricted access, while 335 homes have been delivered to displaced families. La Guaira state remains severely affected as recovery and shelter efforts continue following the 7.2 and 7.5 magnitude tremors.",
+        "verified_figures": [
+          "6,438 killed",
+          "16,740 injured",
+          "10,696 high-risk buildings identified",
+          "335 homes delivered to affected families"
+        ],
+        "sources": [
+          {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20260818/adb6439f95bc46649128e4e656bbd34a/c.html"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Focus shifts to recovery following 7.4-magnitude quake",
+        "score": 9.0,
+        "body": "Humanitarian efforts in western Colombia are transitioning from rescue operations to shelter, aid, and reconstruction following a 7.4-magnitude earthquake on August 10. The quake killed at least 111 people and damaged thousands of buildings across the coffee region and Pacific coast, including Chocó province. Official preliminary estimates put total economic damage at approximately $9.58 billion (30 trillion Colombian pesos), with over 24.5 trillion pesos in physical structural losses. Reconstruction planning and damage assessments remain ongoing as authorities address immediate shelter needs.",
+        "verified_figures": [
+          "At least 111 people killed",
+          "At least 1,500 buildings damaged",
+          "$9.58 billion estimated economic damage"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak becomes country's deadliest on record",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting its deadliest Ebola outbreak on record, with official data confirming at least 2,325 deaths among 4,945 cases. The fatality toll has surpassed the 2,299 deaths recorded during the country's 2018–2020 epidemic. Health authorities report that the fast-moving virus has expanded into a sixth province, with an estimated case fatality rate of nearly 47 percent. The escalating health emergency in vulnerable regions has prompted calls for a humanitarian ceasefire to enable containment efforts.",
+        "verified_figures": [
+          "At least 2,325 deaths",
+          "4,945 confirmed cases",
+          "Spread across 6 provinces",
+          "Case fatality rate of about 47 percent"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-disease-ituri-bundibugyo-outbreak-d4a5aac8a82a35144ebfe9de96bef7d2"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/dr-congo-ebola-outbreak-becomes-country-s-deadliest"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes cause severe damage to energy infrastructure",
+        "score": 7.0,
+        "body": "Repeated Russian air attacks have severely damaged facilities belonging to Ukraine’s state energy company, Naftogaz Group. According to the company, Russian forces struck its facilities 13 times over a single week, bringing the total to nearly 300 attacks since the start of the year. The ongoing strikes on power and energy infrastructure pose severe winter survival risks for civilians by threatening access to electricity, heating, and running water across the country.",
+        "verified_figures": [
+          "13 strikes over past week",
+          "nearly 300 attacks on Naftogaz facilities since start of year"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-energy-facilities-winter-strikes-8cec7f6dacd1bc0508b8365d62e0d436"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Escalating strikes cause casualties and civilian infrastructure damage",
+        "score": 7.0,
+        "body": "Widespread aerial attacks across Ukraine and Russia have caused casualties and damaged civilian infrastructure over a 24-hour period. Russian officials reported nine deaths from Ukrainian attacks, while Ukrainian authorities reported four deaths. A Russian strike on the ArcelorMittal Kryvyi Rih steel plant in Ukraine killed two people, injured 13, and damaged energy infrastructure connected to blast furnaces. Another Russian strike hit a central book market in Kyiv. Overnight, Ukrainian forces launched a major drone attack against the Moscow region involving 620 drones, with air defenses intercepting over 180 over the capital, leaving several people wounded.",
+        "verified_figures": [
+          "9 killed in Russia in past 24 hours",
+          "4 killed in Ukraine in past 24 hours",
+          "2 killed and 13 injured at Kryvyi Rih steel plant",
+          "620 drones targeted Moscow region",
+          "over 180 drones intercepted over Moscow region"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region"
+          }
+        ]
+      },
+      {
+        "headline": "Finland — Court halts deportation of Russian anti-war activists facing prosecution",
+        "score": 2.0,
+        "body": "A Finnish court has halted the deportation of a Russian mother and son who fled to Finland in 2022 after opposing Russia's invasion of Ukraine. The family faced military summonses, threats, and risk of imprisonment or torture in Russia due to their pro-Ukrainian activism. Their asylum application will be reconsidered following the court ruling.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/17/finland-halts-deportation-russian-family-opposed-ukraine-invasion"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Devastating 7.7-magnitude earthquake and aftershocks hit Flores",
+        "score": 9.0,
+        "body": "A powerful 7.7-magnitude earthquake struck eastern Indonesia's Flores region on Saturday, followed by a 5.9-magnitude aftershock on Monday. According to Indonesia's National Disaster Management Agency, the death toll has reached at least 68 people, with more than 200 injured and nearly 13,000 displaced. The disaster damaged over 900 buildings, leaving thousands sheltering in outdoor tents amid ongoing aftershocks, aid shortages, and fears of starvation. Rescue operations continue as teams search through collapsed buildings for trapped residents.",
+        "verified_figures": [
+          "At least 68 people killed",
+          "More than 200 people injured",
+          "Nearly 13,000 people displaced",
+          "More than 900 buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/indonesia-earthquake-leaves-thousands-homeless-as-rescue-efforts-continue"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Cholera outbreak hospitalises hundreds in Yangon",
+        "score": 7.0,
+        "body": "At least 500 people have been hospitalised with severe diarrhoea in Yangon since 9 August amid a growing cholera outbreak. According to regional official Bo Htay, 149 patients tested positive on rapid tests, with nine cases officially confirmed as Vibrio cholerae by the National Health Laboratory. Daily admissions peaked at over 100 patients last Thursday. The outbreak poses a major public health risk in Myanmar's largest city, where health infrastructure has been severely weakened by years of civil war.",
+        "verified_figures": [
+          "At least 500 hospitalised with severe diarrhoea",
+          "149 positive cholera rapid tests",
+          "9 laboratory-confirmed Vibrio cholerae cases"
+        ],
+        "sources": [
+          {
+            "name": "Khaosod English",
+            "url": "https://www.khaosodenglish.com/news/asean/2026/08/18/at-least-500-hospitalised-as-cholera-outbreak-hits-yangon/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Rapidly expanding Ebola outbreak",
+        "score": 9.0,
+        "body": "An ongoing Ebola epidemic in the Democratic Republic of the Congo, declared on 15 May, has caused at least 4,300 cases and over 2,000 deaths across five eastern provinces, with transmission extending into Uganda. The World Health Organization warned that the outbreak is on track to eclipse the 2014–2016 West Africa epidemic, which killed more than 11,000 people. The outbreak is caused by the Bundibugyo strain, which carries an estimated 30 percent fatality rate and lacks approved vaccines or targeted treatments. Frontline healthcare workers responding to the emergency have reportedly gone unpaid for two to three months.",
+        "verified_figures": [
+          "at least 4,300 cases",
+          "more than 2,000 deaths",
+          "30 percent fatality rate",
+          "unpaid for two to three months"
+        ],
+        "sources": [
+          {
+            "name": "Commersant.ge",
+            "url": "https://commersant.ge/en/news/worl/ebola-outbreak-on-track-to-be-deadliest-ever-who-chief-says"
+          }
+        ]
+      },
+      {
+        "headline": "West and Central Africa — Cholera epidemic prompts emergency funding",
+        "score": 7.0,
+        "body": "The European Commission has released €2.3 million in emergency humanitarian funding to aid Nigeria, Cameroon, the Central African Republic, and Chad in combating an ongoing cholera epidemic. World Health Organization data indicates that over 61,000 cholera cases were reported across West and Central Africa during the first five months of 2026. A sum of €1.5 million is allocated to Nigeria to scale up rapid response teams, deliver cholera treatment kits, fund water and sanitation interventions, strengthen surveillance in inaccessible locations, and support case management.",
+        "verified_figures": [
+          "€2.3 million in emergency humanitarian funding",
+          "more than 61,000 cholera cases",
+          "€1.5 million allocated to Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "European Civil Protection and Humanitarian Aid Operations",
+            "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-provides-eur23-million-emergency-humanitarian-funding-curb-cholera-outbreak-west-and-central-2026-08-17_en"
+          }
+        ]
+      },
+      {
+        "headline": "United States (Hawaii) — Hurricane Lala causes severe flooding and damage",
+        "score": 5.0,
+        "body": "Hurricane Lala swept across the Hawaiian islands, bringing heavy rainfall, damaging winds, landslides, and high waves. The storm originated as a tropical wave in early August before intensifying into a tropical storm on 13 August. Officials identified the weather system as one of the most impactful storms to strike the Big Island in more than 150 years, causing widespread flooding alongside reports of snowfall at elevated altitudes.",
+        "verified_figures": [
+          "most impactful storms for the Big Island in over 150 years"
+        ],
+        "sources": [
+          {
+            "name": "The Weather Channel",
+            "url": "https://weather.com/2026/08/17/storms/hurricane/hawaii-hurricane-tropical-storm-lala-forecast"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Strait of Hormuz / Middle East",
+      "score": 6.5,
+      "trigger": "Tehran carrying out its threat to adopt a fully offensive military strategy if the United States naval blockade is not eased within weeks.",
+      "potential_impact": "Direct military friction in critical maritime trade corridors could curtail commercial shipping, compound regional economic distress, and disrupt supply lines.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Ynetnews",
+          "url": "https://www.ynetnews.com/article/bjjuhkldzl"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.0,
+      "trigger": "Sustained Russian aerial targeting of Naftogaz and power infrastructure over the coming days.",
+      "potential_impact": "Widespread failure of national heating and electricity grids ahead of winter would leave millions of civilians without basic utilities during freezing temperatures.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/russia-ukraine-war-energy-facilities-winter-strikes-8cec7f6dacd1bc0508b8365d62e0d436"
+        }
+      ]
+    },
+    {
+      "location": "Erbil, Iraq",
+      "score": 4.5,
+      "trigger": "Further unverified drone attacks targeting political leadership following the strike on the Kurdistan Regional Government premier's residence.",
+      "potential_impact": "Escalating cross-border targeted attacks risk triggering regional political instability and civilian disruption across northern Iraq.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/politics/iraq-seeks-iranian-clarification-over-drone-attack-on-residence-of-kurdish-regional-premier/4029845"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Xinhua English World"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Ynetnews",
+        "count": 2
+      },
+      {
+        "name": "Commersant.ge",
+        "count": 1
+      },
+      {
+        "name": "European Civil Protection and Humanitarian Aid Operations",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "Khaosod English",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Weather Channel",
+        "count": 1
+      },
+      {
+        "name": "Xinhua",
+        "count": 1
+      },
+      {
+        "name": "imemc.org",
+        "count": 1
+      },
+      {
+        "name": "usmuslims.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1325,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
