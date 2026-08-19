@@ -1,0 +1,441 @@
+{
+  "date": "2026-08-19",
+  "printed_time": "6:44 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The death toll from two major earthquakes in northern Venezuela has climbed to 6,438, destroying roughly 24,000 homes and leaving thousands of displaced families facing severe emergency needs.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "The deadliest Ebola outbreak in the Democratic Republic of the Congo's history has claimed at least 2,325 lives among 5,000 confirmed cases across six provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A 7.4-magnitude earthquake in western Colombia killed at least 111 people and damaged at least 1,500 structures across multiple regions.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A powerful 7.7-magnitude earthquake off Flores Island in Indonesia killed at least 70 people, injured nearly 1,200, and displaced over 40,000 residents.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "A Russian missile strike targeting Ukraine's northeastern Kharkiv region killed at least 10 civilians amidst ongoing aerial bombardments of populated areas.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The death toll from two major earthquakes in Venezuela has risen to 6,438, leaving tens of thousands of homes damaged or uninhabitable and driving an acute displacement crisis across northern coastal regions.",
+    "label": "AMERICAS — Venezuela Earthquake Crisis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli airstrike on displacement camp kills six",
+        "score": 7.0,
+        "body": "An Israeli airstrike targeted a cafe at Gaza City’s fishing harbor, which was serving as a makeshift displacement camp for fleeing families. According to local health officials, the attack killed at least six Palestinians, with Hamas claiming a child was among the victims. The strike targeted Hamas commanders following an inconclusive diplomatic mission by U.S. envoy Jared Kushner. Negotiations over proposed peace roadmaps remain at a standstill as both sides challenge disarmament terms, compounding severe humanitarian stress across the enclave.",
+        "verified_figures": [
+          "at least 6 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/politics/3965259-tensions-in-gaza-israeli-airstrikes-and-diplomatic-stalemate?amp"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Airstrikes trigger fresh displacement in south",
+        "score": 7.0,
+        "body": "Fresh Israeli airstrikes in southern Lebanon over the weekend triggered a new wave of civilian displacement despite active ceasefire arrangements. The United Nations High Commissioner for Refugees reported that hundreds of families fled northward seeking safety from affected southern areas. UNHCR confirmed it is maintaining emergency relief operations to assist displaced households as humanitarian needs persist.",
+        "verified_figures": [
+          "hundreds of families displaced"
+        ],
+        "sources": [
+          {
+            "name": "Saudi Gazette",
+            "url": "https://saudigazette.com.sa/article/663843/world/un-says-israeli-strikes-amid-ceasefire-trigger-new-wave-of-displacement-in-lebanon"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Israeli strikes hit Abu al-Duhur airbase",
+        "score": 5.0,
+        "body": "Eight Israeli airstrikes targeted Syria's Abu al-Duhur airbase. Syrian state media reported that the bombardment caused no casualties. The military operation drew formal diplomatic condemnation from Turkey, reflecting heightened regional tensions and volatile security conditions in Syrian airspace.",
+        "verified_figures": [
+          "8 airstrikes",
+          "no casualties"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east/eight-israeli-airstrikes-hit-syrias-abu-al-duhur-airbase-no-casualties-state-tv-2026-08-18/"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Detention death and alleged torture spark protests",
+        "score": 4.0,
+        "body": "Protests erupted in Aleppo and were planned outside parliament in Damascus following the death of a man in detention, who was allegedly tortured by security forces. Public images showed an unconscious White Helmets volunteer with extensive bruising. Demonstrators gathered to demand accountability, expressing concern over the persistence of arbitrary detention and severe abuse despite recent political transitions.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — 7.4-Magnitude Earthquake Kills Over 100 and Causes Widespread Destruction",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake struck western Colombia near San Jose del Palmar in the Chocó region, causing severe destruction across the country's coffee region and Pacific coast. Ground tremors were felt in major cities including Bogotá, Cali, Quibdó, and Pereira, as well as in Ecuador, Venezuela, and Panama. Official reports confirm at least 111 deaths and damage to at least 1,500 buildings, with many residents fleeing into the streets. Rescue teams and local volunteers are searching through rubble for survivors as international humanitarian aid begins arriving in affected areas.",
+        "verified_figures": [
+          "at least 111 people killed",
+          "at least 1,500 buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "IOL",
+            "url": "https://iol.co.za/news/world/2026-08-11-colombia-scrambles-for-survivors-after-deadly-74-magnitude-earthquake/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Earthquake Death Toll Reaches 6,438 Amid Ongoing Displacement Crisis",
+        "score": 9.5,
+        "body": "Official figures released by Venezuelan authorities indicate the death toll from two major earthquakes on 24 June has risen to 6,438. The magnitude 7.2 and 7.5 tremors struck northern coastal areas, heavily impacting La Guaira state and damaging infrastructure across multiple regions. Official assessments indicate that roughly 60,000 homes sustained damage, leaving approximately 24,000 houses completely uninhabitable. Emergency personnel and rescue workers continue structural assessments and emergency response activities as thousands of affected families face prolonged displacement and slim prospects of finding missing individuals.",
+        "verified_figures": [
+          "6,438 people killed",
+          "approximately 60,000 homes damaged",
+          "around 24,000 homes rendered uninhabitable"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/venezuela-earthquakes-trigger-widening-crisis/g-77802771"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Insecurity Drives Food Insecurity and Widespread Displacement Needs",
+        "score": 7.8,
+        "body": "Ongoing insecurity and violence across Haiti continue to exacerbate a severe humanitarian crisis, driving internal displacement and disrupting essential livelihoods. According to reporting from Action Against Hunger, an estimated 6 million people out of a total population of 11.8 million are in need of humanitarian assistance. Acute food insecurity remains widespread, with 6.3 million people facing severe hunger. Humanitarian organizations are maintaining active emergency programs focusing on hunger prevention and health support to reach displaced populations amidst volatile security conditions.",
+        "verified_figures": [
+          "6 million people in need",
+          "6.3 million people facing hunger"
+        ],
+        "sources": [
+          {
+            "name": "Action Against Hunger",
+            "url": "https://www.actionagainsthunger.org/story/healing-after-displacement-rosanitas-journey-toward-hope-in-haiti/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Becomes Deadliest on Record",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has become the deadliest in the nation's history, surpassing the 2018–2020 epidemic. According to government data cited by the World Health Organization and Africa CDC, the outbreak has killed at least 2,325 people and recorded approximately 5,000 confirmed cases across six provinces, including Ituri and North Kivu. Caused by the Bundibugyo strain, the disease carries a case fatality rate of 46 percent. Response efforts are complicated by armed conflict, delayed detection, and community mistrust, with over 700 individuals remaining hospitalized or in isolation.",
+        "verified_figures": [
+          "2,325 deaths",
+          "5,000 confirmed cases",
+          "46% fatality rate",
+          "730 people remain in hospitals or isolation",
+          "1,000 people recovered"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/video/watch/idRW623518082026RP1/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/ebola-in-drc-deadliest-outbreak-on-record-outpacing-the-response"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Civilian Infrastructure and Vehicles Targeted in Drone Strikes",
+        "score": 6.5,
+        "body": "A Sudanese legal rights group reported that dozens of civilians were killed in drone strikes across North Kordofan State. According to the Emergency Lawyers group, the attacks targeted essential civilian infrastructure and vehicles between July 24 and 26. Reported hit locations included a water station in Um Nabqa village, a civilian vehicle in Amn Dara, a health centre, and a school across several towns and villages. The strikes coincide with intensifying regional conflict, severely threatening civilian survival and essential service access.",
+        "verified_figures": [
+          "Dozens of civilians killed"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/sudan-war/384078/rights-group-reports-civilian-deaths-in-drone-attacks-on-sudans-north-kordofan"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian missile attack kills 10 in Kharkiv region",
+        "score": 9.0,
+        "body": "A Russian missile attack in Ukraine's northeastern Kharkiv region killed at least 10 people, according to regional officials. Ukrainian President Volodymyr Zelenskiy pledged a response following the strike. The attack highlights ongoing civilian protection risks and severe security concerns across northeastern Ukraine as aerial bombardments continue to affect populated areas.",
+        "verified_figures": [
+          "10 killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-missile-attack-kills-10-ukraines-kharkiv-region-officials-say-2026-08-18/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — 28 youth evacuated from Russian-occupied territories",
+        "score": 5.0,
+        "body": "A rescue operation on 18 August successfully evacuated 28 children and teenagers from Russian-occupied Ukrainian territories. Led by the Save Ukraine organisation under the Bring Kids Back UA initiative, the mission brought the group to safety. Evacuees included young people who faced forced mobilization lists, compelled drone operator training, or threats from drone strikes while living under occupation.",
+        "verified_figures": [
+          "28 children and teenagers evacuated"
+        ],
+        "sources": [
+          {
+            "name": "112.ua",
+            "url": "https://112.ua/en/z-timcasovo-okupovanih-teritorij-evakuuvali-28-ditej-i-pidlitkiv-detali-operacii-180092"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Ukrainian drone strikes cause major fire near Moscow",
+        "score": 3.0,
+        "body": "Ukrainian drone strikes targeted a massive retail logistics center outside Moscow, setting off a large fire that continued burning the following morning. Ukrainian drone crews in southern Ukraine subsequently prepared and launched approximately 20 explosive-laden drones in a follow-up attack toward Russian targets. The operation reflects ongoing long-range targeting of logistics infrastructure beyond the immediate frontlines.",
+        "verified_figures": [
+          "20 small planelike drones launched in follow-up strike"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-drone-strikes-8d9eb77fc5fc29c4771503b75f98b1f4"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Powerful 7.7-magnitude earthquake strikes Flores Island",
+        "score": 9.0,
+        "body": "A 7.7-magnitude earthquake off Flores Island in East Nusa Tenggara province has killed at least 70 people and injured nearly 1,200 others. The disaster damaged thousands of homes, leaving more than 40,000 people displaced and seeking shelter in tents, evacuation centers, and makeshift camps. Rescuers and survivors face urgent needs for aid, while displaced children are suffering widespread trauma. International support, including potential relief assistance from India, is being coordinated as emergency operations continue.",
+        "verified_figures": [
+          "at least 70 people killed",
+          "nearly 1,200 people injured",
+          "more than 40,000 people displaced"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/indonesia-flores-earthquake-displaced-traumatized-children-70f07f6bbaf611924b98594356f25b32"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Acute diarrhoea and cholera outbreak amid flooding and conflict",
+        "score": 6.5,
+        "body": "A rapid increase in acute diarrhoea and cholera cases has been reported in Yangon, compounding severe humanitarian strains caused by civil war and widespread flooding. At least 182 patients were admitted to Yangon General Hospital over a four-day period, with 93 testing positive for gastrointestinal pathogens. Media reports state that a cholera outbreak has killed at least three people and left hundreds ill, placing further pressure on healthcare facilities in Myanmar's largest city.",
+        "verified_figures": [
+          "at least 3 deaths",
+          "182 hospital admissions in Yangon over four days",
+          "93 positive pathogen tests"
+        ],
+        "sources": [
+          {
+            "name": "AOL.com",
+            "url": "https://www.aol.com/articles/myanmar-diarrhoea-outbreak-sees-hundreds-123654000.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Bundibugyo Ebola outbreak",
+        "score": 9.0,
+        "body": "The World Health Organization confirmed that the ongoing Bundibugyo ebolavirus outbreak originating in the Democratic Republic of the Congo remains a public health emergency of international concern. The outbreak has killed 2,325 people and surpassed 5,000 confirmed cases. Africa CDC officials attributed the rapid spread to ongoing conflict, delayed detection, and slow local response efforts. Regulatory authorities in the DRC have approved a Phase II clinical trial for an oral treatment, with trial materials already present in the country. Global transmission concerns also caused international travel disruptions, including a diverted US-bound flight due to passenger travel history from the DRC.",
+        "verified_figures": [
+          "2,325 deaths",
+          "Over 5,000 confirmed cases"
+        ],
+        "sources": [
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/08/18/world/video/africa-cdc-ebola-outbreak-interview-intl-dsk"
+          }
+        ]
+      },
+      {
+        "headline": "West and Central Africa — Regional cholera epidemic response",
+        "score": 7.5,
+        "body": "The European Commission allocated €2.3 million in emergency humanitarian funding to combat an expanding cholera epidemic across Nigeria, Cameroon, the Central African Republic, and Chad. According to the World Health Organization, more than 61,000 cholera cases were reported across the African region during the first five months of 2026. Under the funding allocation, Nigeria will receive €1.5 million to deploy rapid intervention teams, distribute emergency cholera kits, support water, sanitation, and hygiene interventions, and strengthen epidemiological surveillance in hard-to-reach areas.",
+        "verified_figures": [
+          "€2.3 million in emergency humanitarian funding",
+          "Over 61,000 cholera cases reported in first five months of 2026",
+          "€1.5 million allocated to Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "EU Reporter",
+            "url": "https://www.eureporter.co/health/diseases/2026/08/19/eu-provides-e2-3-million-in-emergency-humanitarian-funding-to-curb-cholera-outbreak-in-west-and-central-africa/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Southern Lebanon",
+      "score": 7.0,
+      "trigger": "Continued or expanding airstrikes across southern Lebanon despite active ceasefire arrangements could spark broader hostilities.",
+      "potential_impact": "Renewed fighting would force hundreds more families to flee northward and undermine fragile humanitarian stability in the region.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Saudi Gazette",
+          "url": "https://saudigazette.com.sa/article/663843/world/un-says-israeli-strikes-amid-ceasefire-trigger-new-wave-of-displacement-in-lebanon"
+        }
+      ]
+    },
+    {
+      "location": "Gaza Strip",
+      "score": 7.0,
+      "trigger": "A total collapse of peace roadmap negotiations following inconclusive diplomatic outreach could lead to intensified military operations.",
+      "potential_impact": "Expanded attacks on displacement sites and urban areas would exacerbate civilian casualties and compound severe humanitarian stress.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/politics/3965259-tensions-in-gaza-israeli-airstrikes-and-diplomatic-stalemate?amp"
+        }
+      ]
+    },
+    {
+      "location": "Haiti",
+      "score": 7.8,
+      "trigger": "Escalating security volatility and armed gang activity could disrupt main aid delivery corridors in urban displacement centers.",
+      "potential_impact": "Interrupted humanitarian operations would severely compromise hunger prevention and emergency health support for over 6 million vulnerable people.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Action Against Hunger",
+          "url": "https://www.actionagainsthunger.org/story/healing-after-displacement-rosanitas-journey-toward-hope-in-haiti/"
+        }
+      ]
+    },
+    {
+      "location": "West and Central Africa",
+      "score": 7.5,
+      "trigger": "Uncontrolled seasonal spread of cholera across hard-to-reach areas in Nigeria, Cameroon, CAR, and Chad could outpace emergency containment efforts.",
+      "potential_impact": "A worsening regional epidemic would lead to rising mortality rates among communities lacking adequate water, sanitation, and medical infrastructure.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "EU Reporter",
+          "url": "https://www.eureporter.co/health/diseases/2026/08/19/eu-provides-e2-3-million-in-emergency-humanitarian-funding-to-curb-cholera-outbreak-in-west-and-central-africa/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Action Against Hunger",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Devdiscourse",
+        "count": 2
+      },
+      {
+        "name": "EU Reporter",
+        "count": 2
+      },
+      {
+        "name": "Saudi Gazette",
+        "count": 2
+      },
+      {
+        "name": "112.ua",
+        "count": 1
+      },
+      {
+        "name": "AOL.com",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "CNN",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "IOL",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1342,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
