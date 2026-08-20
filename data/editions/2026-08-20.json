@@ -1,0 +1,465 @@
+{
+  "date": "2026-08-20",
+  "printed_time": "6:47 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A major 7.4-magnitude earthquake struck western Colombia, killing at least 314 people, injuring over 4,400, and affecting more than 262,000 across 15 departments.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "An uncontained Ebola epidemic in the eastern Democratic Republic of the Congo has surpassed 5,000 cases and killed over 2,300 people, remaining a global health emergency.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Two powerful earthquakes in north-central Venezuela killed over 160 people and injured nearly 1,000, leaving survivors trapped beneath collapsed structures.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A 7.7-magnitude earthquake in Indonesia killed at least 70 people and displaced over 40,000 survivors into temporary shelters amid slow aid delivery.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 5,
+      "text": "Russian ballistic missile strikes targeted residential blocks and infrastructure in Kyiv, killing between eight and 12 people and wounding up to 40 others.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "A 7.4-magnitude earthquake in western Colombia has killed at least 314 people and affected over 262,000 residents across 15 departments.",
+    "label": "AMERICAS — Catastrophic Earthquake Hits Colombia"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "OPT/Gaza — Airstrikes kill civilians and police leadership amid fragile ceasefire",
+        "score": 7.5,
+        "body": "At least 10 people were killed in Gaza during two Israeli airstrikes, including a strike on Gaza City's police headquarters that killed the women’s police chief and several officers. The bombardments cast doubt on ceasefire efforts shortly after U.S. negotiators reportedly requested a drawdown in Israeli attacks. Israeli forces also crossed the ceasefire line in southern Gaza at dawn to detain a police colonel. Local hospitals and the Palestinian Red Crescent confirmed the casualties, highlighting ongoing threats to civilians and humanitarian stability across the enclave.",
+        "verified_figures": [
+          "at least 10 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/gaza-israel-war-kushner-talks-trump-netanyahu-8c8741e238c72bcbc45e1647afbde206"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Fresh displacement reported as security situation remains fragile",
+        "score": 7.0,
+        "body": "The United Nations refugee agency warned that security in Lebanon remains fragile as recent Israeli airstrikes in the south triggered a new wave of displacement, forcing hundreds of families to flee northward. UNHCR reported that while approximately 860,000 displaced persons have returned to their home areas, around 360,000 people remain displaced across the country, including 22,000 staying in collective shelters. The ongoing military actions continue to destabilize return areas and generate urgent humanitarian assistance needs.",
+        "verified_figures": [
+          "around 860,000 returned",
+          "about 360,000 remain displaced",
+          "22,000 in collective shelters"
+        ],
+        "sources": [
+          {
+            "name": "سانا",
+            "url": "https://sana.sy/en/middle-east/2337306/"
+          }
+        ]
+      },
+      {
+        "headline": "OPT/Gaza — Israeli military opens criminal probes into civilian deaths but clears aid worker strikes",
+        "score": 6.0,
+        "body": "The Israeli military announced its first criminal investigations into troop conduct in Gaza, focusing on the deaths of five-year-old Hind Rajab, her family, and 15 Palestinian paramedics. However, military authorities declined to launch criminal probes into strikes that killed humanitarian personnel from World Central Kitchen and Doctors Without Borders. The decision not to pursue criminal charges for a strike that killed Australian aid worker Zomi Frankcom and six colleagues drew strong official outrage from Australia.",
+        "verified_figures": [
+          "5-year-old Hind Rajab",
+          "15 Palestinian paramedics",
+          "7 aid workers killed"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Explosive remnant detonates in southern region, killing two",
+        "score": 4.5,
+        "body": "Two young men were killed and several others injured when an unexploded device left behind by Israeli military actions detonated in southern Lebanon. According to Lebanese state media, the explosion occurred near an earthen embankment between the towns of Mifdoun and Zawtar al-Sharqiyah. Explosive remnants of war continue to pose serious protection risks to civilians and returning residents in southern Lebanese communities.",
+        "verified_figures": [
+          "2 killed",
+          "several injured"
+        ],
+        "sources": [
+          {
+            "name": "وكالة سبأ",
+            "url": "https://www.saba.ye/en/news3769412.htm"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — Devastating 7.4-magnitude earthquake kills over 300",
+        "score": 9.5,
+        "body": "A catastrophic 7.4-magnitude earthquake in western Colombia has killed at least 314 people and left 262 missing, according to the National Unit for Disaster Risk Management. More than 4,400 people were injured, while emergency teams rescued 364 survivors from the rubble. The disaster has affected over 262,000 people across 15 departments, destroying infrastructure and displacing over 8,000 coffee-growing families. China has dispatched nearly 80 tons of humanitarian assistance, including temporary shelters, water purification units, and power generators, to assist response efforts in affected municipalities.",
+        "verified_figures": [
+          "314 dead",
+          "262 missing",
+          "4,437 injured",
+          "364 rescued",
+          "262,154 people affected",
+          "over 8,000 coffee-growing families displaced"
+        ],
+        "sources": [
+          {
+            "name": "The Express Tribune",
+            "url": "https://tribune.com.pk/story/2624886/death-toll-in-colombia-from-magnitude-74-earthquake-rises-to-314"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Twin earthquakes cause over 160 fatalities",
+        "score": 9.0,
+        "body": "A pair of powerful earthquakes struck north-central Venezuela, killing more than 160 people and injuring almost 1,000. Emergency responders are conducting search and rescue operations to locate survivors trapped under collapsed rubble. United States officials reported that search and rescue teams are being deployed to support Venezuelan authorities with disaster relief efforts.",
+        "verified_figures": [
+          "more than 160 killed",
+          "almost 1,000 injured"
+        ],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/victims-deadly-venezuela-earthquakes/story?id=134202867"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Severe displacement and health risks persist amid ongoing violence",
+        "score": 7.0,
+        "body": "Widespread violence and insecurity across Haiti have internally displaced nearly 1.5 million people. According to humanitarian agencies, displaced communities face severe risks of hunger, violence, and trauma. A UN Women assessment highlighted that nearly 70 percent of displaced women and girls suffer from psychological distress, while only 10 percent have access to healthcare services. Relief organizations continue to deliver essential medical and mental health support to vulnerable families.",
+        "verified_figures": [
+          "nearly 1.5 million internally displaced people",
+          "70 percent of displaced women and girls experienced psychological distress",
+          "10 percent had access to health services"
+        ],
+        "sources": [
+          {
+            "name": "Pan American Health Organization (PAHO)",
+            "url": "https://www.paho.org/en/stories/haiti-health-and-psychosocial-support-help-displaced-families-rebuild-hope"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Deadliest Ebola outbreak on record surpasses 5,000 cases",
+        "score": 9.0,
+        "body": "The World Health Organization warned that the Democratic Republic of the Congo's deadliest recorded Ebola outbreak remains uncontained and continues to pose a public health emergency of international concern. Caused by the rare Bundibugyo virus strain, for which no licensed vaccines or treatments exist, the outbreak was declared on 15 May in Ituri province. Government data indicates confirmed cases have exceeded 5,000, with over 2,300 fatalities. Armed conflict, population movement, and delayed detection in northeastern DRC continue to hamper containment efforts. In response to regional risks, international health authorities, including the United States Centers for Disease Control and Prevention, have heightened airport screenings and travel restrictions.",
+        "verified_figures": [
+          "5,021 confirmed cases",
+          "2,378 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Geneva Solutions",
+            "url": "https://genevasolutions.news/global-health/dr-congo-s-deadliest-ebola-outbreak-still-at-high-risk-of-spreading-who"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian missile strikes hit residential areas and infrastructure in Kyiv",
+        "score": 7.5,
+        "body": "Russian ballistic missiles hit Kyiv and its surrounding region overnight, striking residential apartment blocks, warehouses, a medical facility, and an educational institution. The strikes caused structural collapses and fires across multiple districts. Local authorities reported varying casualty totals, stating that between eight and 12 people were killed and 33 to 40 others were wounded in the capital and surrounding areas. Ukrainian President Volodymyr Zelensky stated that Russia had prepared the barrage for a long time. Emergency responders worked through the night to extinguish fires and assist survivors.",
+        "verified_figures": [
+          "8 to 12 people killed",
+          "33 to 40 people wounded"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Ukrainian drone strikes ignite logistics warehouse near Moscow",
+        "score": 4.0,
+        "body": "Waves of Ukrainian drones targeted a major logistics center outside Moscow overnight, setting a large retail warehouse on fire. Ukrainian drone crews in southern Ukraine assembled and launched around 20 explosive-laden drones toward targets inside Russia, with operators preparing further strikes following the initial attack.",
+        "verified_figures": [
+          "around 20 small planelike drones launched"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-drone-strikes-8d9eb77fc5fc29c4771503b75f98b1f4"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Acute diarrhoea outbreak reported in Yangon amid flooding and conflict",
+        "score": 6.0,
+        "body": "State media reported that 182 patients were admitted to Yangon's general hospital with acute diarrhoea over a four-day period, with tests confirming pathogens in 93 of those cases. Official reports did not specify whether tests confirmed cholera. The sudden surge in cases places additional strain on Myanmar's public health infrastructure as the country copes with active civil war and severe seasonal flooding.",
+        "verified_figures": [
+          "182 patients admitted with diarrhoea over four days",
+          "93 tested positive for pathogens"
+        ],
+        "sources": [
+          {
+            "name": "AOL.com",
+            "url": "https://www.aol.com/articles/myanmar-diarrhoea-outbreak-sees-hundreds-123654000.html"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Junta forces forcibly displace thousands and attack civilians in Shan State",
+        "score": 7.0,
+        "body": "Myanmar military forces deployed across Ywangan Township in southern Shan State, issuing strict orders for civilians across several village tracts to evacuate their homes within three days. The military operation has forcibly displaced thousands of residents. On August 17, junta troops opened fire on a group of young men in Yaeu Village Tract, wounding one person and severely beating four others.",
+        "verified_figures": [
+          "Thousands of residents forcibly displaced",
+          "1 person shot and wounded",
+          "4 people severely beaten"
+        ],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/myanmar-junta-troops-shoot-one-beat-four-others-during-forced-evacuations-shan-states-ywangan"
+          }
+        ]
+      },
+      {
+        "headline": "Philippines — Severe flooding and typhoons disrupt transport and power across Luzon and Visayas",
+        "score": 5.0,
+        "body": "Three consecutive weeks of enhanced southwest monsoon rains and consecutive typhoons caused widespread flooding across Luzon and the Visayas. The extreme weather grounded flights, cut off transport corridors, and triggered power distribution outages. Landslide risks have heightened in mining-dense provinces, including Benguet and the Cordillera region. Weather authorities expect active monsoon conditions to persist through late August.",
+        "verified_figures": [
+          "Three consecutive weeks of enhanced southwest monsoon rains"
+        ],
+        "sources": [
+          {
+            "name": "DTN APAC",
+            "url": "https://apac.dtn.com/international/habagat-and-successive-typhoons-trigger-widespread-flooding-in-the-philippines/"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Three Afghan nationals killed in targeted shooting in Quetta",
+        "score": 3.0,
+        "body": "Unidentified gunmen attacked four Afghan nationals in the Hazarganji Cross area of Quetta, Pakistan, killing three and injuring one. According to local police, the victims were traveling from Dalbandin in Chagai district toward Gulistan when two armed men opened fire on their vehicle. Police are currently investigating the incident.",
+        "verified_figures": [
+          "3 Afghan nationals killed",
+          "1 Afghan national injured"
+        ],
+        "sources": [
+          {
+            "name": "kabulnow.com",
+            "url": "https://kabulnow.com/2026/08/three-afghan-nationals-killed-one-injured-in-shooting-in-pakistans-quetta/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Rapidly Spreading Ebola Outbreak Remains Global Emergency",
+        "score": 9.0,
+        "body": "The Ministry of Health in the Democratic Republic of the Congo has recorded 5,021 cases and 2,378 deaths in an ongoing Ebola epidemic in eastern Congo. World Health Organization Director-General Tedros Adhanom Ghebreyesus stated the outbreak remains a global emergency and is far from under control. Caused by the rare Bundibugyo virus strain, which lacks approved treatments or vaccines, the outbreak has become the fastest-spreading and second-largest Ebola epidemic on record, as well as the deadliest in Congo's history.",
+        "verified_figures": [
+          "5,021 cases",
+          "2,378 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-what-to-know-bcd974a1bc8e24b111668fdeccaa04f6"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Flores Earthquake Kills 70 and Displaces 40,000",
+        "score": 7.5,
+        "body": "A magnitude 7.7 earthquake ruptured the Flores Back-Arc Thrust in Indonesia on August 15, killing at least 70 people and injuring nearly 1,200 others. The earthquake is the country's deadliest seismic event since 2022. Search and rescue teams continue to clear rubble while more than 40,000 displaced survivors remain in temporary tent shelters. Relief assistance has been slow to reach affected populations as local businesses begin reopening.",
+        "verified_figures": [
+          "70 people killed",
+          "nearly 1,200 injured",
+          "more than 40,000 survivors displaced"
+        ],
+        "sources": [
+          {
+            "name": "Tech Times",
+            "url": "https://www.techtimes.com/articles/324917/20260819/same-flores-backthrust-that-killed-2500-1992-strikes-again-70-dead-40000-displaced.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Bauchi State Declares Cholera Outbreak",
+        "score": 5.0,
+        "body": "The Bauchi State Ministry of Health and Social Welfare in Nigeria officially declared a cholera outbreak after laboratory tests confirmed cases across 13 Local Government Areas. As of late July, the state recorded 398 suspected cholera cases and 16 deaths, reflecting a 4 percent case fatality rate. Toro LGA is the hardest hit, accounting for 231 cases, followed by Alkaleri and Kirfi.",
+        "verified_figures": [
+          "398 suspected cholera cases",
+          "16 deaths"
+        ],
+        "sources": [
+          {
+            "name": "LEADERSHIP Newspapers",
+            "url": "https://leadership.ng/breaking-bauchi-declares-cholera-outbreak-records-398-suspected-cases-16-deaths/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Yangon Cholera Outbreak Triggers Border Surveillance",
+        "score": 4.5,
+        "body": "A cholera outbreak in Yangon, Myanmar, has led to an increase in hospital admissions for severe diarrhoea, prompting health authorities in neighboring Thailand to tighten border surveillance. Thailand's Ministry of Public Health ordered heightened screening at international entry points and border communities, while preparing laboratory testing and control operations. Travelers visiting outbreak areas have been advised to take precautions regarding food and drinking water.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Nation Thailand",
+            "url": "https://www.nationthailand.com/health-wellness/40069991"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Gaza, Occupied Palestinian Territory",
+      "score": 7.5,
+      "trigger": "Continued Israeli military strikes and cross-border operations could breakdown fragile ceasefire talks in Gaza.",
+      "potential_impact": "A resumption of heavy fighting would increase civilian casualties and destabilize essential aid delivery across the enclave.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/gaza-israel-war-kushner-talks-trump-netanyahu-8c8741e238c72bcbc45e1647afbde206"
+        }
+      ]
+    },
+    {
+      "location": "Yangon, Myanmar / Thai Border",
+      "score": 6.0,
+      "trigger": "Surging cases of severe acute diarrhoea amid flooding and conflict could spread rapidly across regional border points.",
+      "potential_impact": "Uncontrolled disease spread would overwhelm border health infrastructure and trigger cross-border health emergencies.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Nation Thailand",
+          "url": "https://www.nationthailand.com/health-wellness/40069991"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Nation Thailand",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "AOL.com",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Burma News International",
+        "count": 1
+      },
+      {
+        "name": "DTN APAC",
+        "count": 1
+      },
+      {
+        "name": "Geneva Solutions",
+        "count": 1
+      },
+      {
+        "name": "LEADERSHIP Newspapers",
+        "count": 1
+      },
+      {
+        "name": "Pan American Health Organization (PAHO)",
+        "count": 1
+      },
+      {
+        "name": "Tech Times",
+        "count": 1
+      },
+      {
+        "name": "The Express Tribune",
+        "count": 1
+      },
+      {
+        "name": "kabulnow.com",
+        "count": 1
+      },
+      {
+        "name": "سانا",
+        "count": 1
+      },
+      {
+        "name": "وكالة سبأ",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1338,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
