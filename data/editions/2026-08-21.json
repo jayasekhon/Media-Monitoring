@@ -1,0 +1,454 @@
+{
+  "date": "2026-08-21",
+  "printed_time": "6:47 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An Ebola epidemic in the eastern Democratic Republic of the Congo has become the country's deadliest on record, causing nearly 2,500 deaths among more than 5,200 confirmed cases.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Two powerful earthquakes in north-central Venezuela killed over 160 people and injured nearly 1,000 others, triggering emergency international search and rescue efforts.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "A heavy Russian bombardment targeting Kyiv killed at least 17 civilians, injured 40 others, and damaged critical infrastructure and residential buildings across the city.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "Severe aid reductions and prolonged drought in Afghanistan have led to rising child mortality and severe poverty affecting an estimated 28 million people.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "More than 53 percent of Yemen's population is facing crisis-level acute food insecurity or worse during the ongoing dry season, with severe hunger concentrated in Houthi-controlled areas.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An unprecedented Ebola epidemic in the eastern Democratic Republic of the Congo has killed nearly 2,500 people amid rapid transmission driven by armed conflict and population displacement.",
+    "label": "AFRICA — DR Congo Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Over 53% of population facing severe hunger",
+        "score": 8.0,
+        "body": "A UN Food and Agriculture Organization report warns that over 53 percent of Yemen's population is projected to experience crisis-level acute food insecurity or worse (IPC Phase 3+) through September during the ongoing dry season. Millions remain in emergency conditions (IPC Phase 4), representing the highest global rate recorded. Although currency stabilization provided limited relief in government-held areas, severe hunger persists across Houthi-controlled regions.",
+        "verified_figures": [
+          "Over 53% of population facing crisis-level food insecurity (IPC Phase 3 or worse)"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://www.yemenonline.info/special-reports/13523"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Settler attacks force displacement of 107 West Bank communities",
+        "score": 7.0,
+        "body": "Human Rights Watch reported that escalating Israeli settler attacks in the occupied West Bank are driving the forced displacement of Palestinians, backed by direct and indirect government support. Since January 2023, 107 Palestinian communities have been fully or partially displaced. Attacks have intensified in 2026, involving killings, physical assaults, property destruction, arson, psychological intimidation, and livestock theft threatening local livelihoods.",
+        "verified_figures": [
+          "107 Palestinian communities fully or partially displaced since January 2023"
+        ],
+        "sources": [
+          {
+            "name": "Palestinian News Network",
+            "url": "https://english.pnn.ps/news/48242"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza / Israel — Israeli military opens probe into 2024 killing of Hind Rajab",
+        "score": 6.5,
+        "body": "The Israeli military ordered a criminal investigation after admitting its soldiers opened fire on a vehicle in Gaza in 2024, killing five-year-old Hind Rajab and six of her family members. The incident was among the most high-profile civilian casualty cases in the early months of the Gaza conflict, drawing international outrage.",
+        "verified_figures": [
+          "7 civilians killed (5-year-old Hind Rajab and 6 family members)"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen / Saudi Arabia — Houthi drone strikes target Najran facilities",
+        "score": 5.0,
+        "body": "Yemeni Houthi forces conducted two drone strikes targeting Saudi Aramco facilities and Najran airport in Saudi Arabia's Najran region. A military spokesman claimed the operations were launched in retaliation for Saudi drone incursions into Saada province's airspace, warning of further attacks if airspace violations persist.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "PressTV",
+            "url": "https://www.presstv.co.uk/Detail/2026/08/20/774742/Yemen-plans-intensify-attacks-siege-Saudi-Arabia"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Deadly earthquakes kill over 160 and injure hundreds",
+        "score": 9.0,
+        "body": "Two powerful earthquakes struck north-central Venezuela, killing more than 160 people and injuring nearly 1,000 others. Responders are carrying out intensive search and rescue operations to extract survivors from collapsed structures. The United States is deploying search and rescue teams to support emergency operations following discussions between American and Venezuelan leadership.",
+        "verified_figures": [
+          "More than 160 people killed",
+          "Almost 1,000 people injured"
+        ],
+        "sources": [
+          {
+            "name": "ABC News",
+            "url": "https://abcnews.com/International/victims-deadly-venezuela-earthquakes/story?id=134202867"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Fatal landslide at illegal gold mine leaves 13 dead",
+        "score": 5.0,
+        "body": "A landslide at an unlicensed gold mine in southwestern Colombia has killed at least 13 people and injured seven others. Emergency operations were initiated following the collapse at the informal mining site. Illegal and unmonitored extraction activities in the area present recurring structural and environmental hazards to workers.",
+        "verified_figures": [
+          "At least 13 people killed",
+          "7 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Peru — Strong earthquake strikes southern Andes without reported damage",
+        "score": 2.0,
+        "body": "A magnitude 6.7 earthquake struck southern Peru's Ayacucho region at a depth of 66 kilometers, according to the U.S. Geological Survey. Peru's Geophysical Institute recorded the quake at magnitude 7.2. Shaking was felt across the Arequipa and Ica regions. Civil Defense authorities confirmed that no casualties or damage were reported, and officials ruled out any tsunami risk.",
+        "verified_figures": [
+          "No casualties or damage reported"
+        ],
+        "sources": [
+          {
+            "name": "Yahoo News UK",
+            "url": "https://uk.news.yahoo.com/powerful-earthquake-strikes-peru-southern-185709434.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola epidemic becomes deadliest on record as cases pass 5,200",
+        "score": 9.0,
+        "body": "An Ebola epidemic in the eastern Democratic Republic of the Congo has become the country's deadliest and fastest-spreading on record, with health authorities and international partners reporting over 5,200 confirmed cases and nearly 2,500 deaths. The World Health Organization is allocating 70,000 doses of the Ervebo vaccine to contain transmission. Concurrently, the United Nations is scaling up response efforts by tripling safe-care capacity, doubling safe and dignified burial teams, and expanding surveillance. Response agencies warn the virus is spreading faster than containment efforts can manage, driven by conflict, displacement, and population movements across remote eastern provinces.",
+        "verified_figures": [
+          "5,200 confirmed cases",
+          "nearly 2,500 deaths",
+          "70,000 Ervebo vaccine doses allocated"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZnFYQnBMY3ZXWDZiU3RteTZDb3ozUW9wOWljV3ZIeHVFYjJTbFlfUGxaczNjVWZtWlptblZFalFzWnRHdl9ERGxyMWctNm5yUXJfZ2otMW1aN0pIVFhmVExVVE40djloajBsWFhZR1R0NXd0UmFEN2M0aUludW0wN0dPZW9xUWVaamY0ZUU0LXN5X3hFbk1CVC1teExsb2RscWRYUE5CWkdFVEQ1eXZFR09ZTktvcHEzaGNqN3ZGZm92NjYxa3ZsS01XUlPzSzVXVDRHV0puX3FOT0E?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/video/20260820-drc-s-ebola-outbreak-reaches-5-000-cases-outpaces-response-efforts-at-unprecedented-speed"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — M23 rebels restrict movement in eastern territory following Ebola infections",
+        "score": 6.0,
+        "body": "The AFC/M23 rebel alliance in eastern Democratic Republic of the Congo has introduced movement restrictions after two individuals traveling from government-controlled territory tested positive for Ebola in rebel-held areas. The rebel administration announced a one-month suspension of shared taxis along the Goma-Kirumba corridor and halted passenger boat services on select Lake Edward routes. Cargo trucks and taxi-buses subject to health screening will continue operating. The restrictions add movement and operational hurdles to humanitarian access and epidemiological tracking in conflict-affected eastern zones.",
+        "verified_figures": [
+          "2 Ebola cases detected in rebel territory",
+          "1-month suspension of shared taxis on Goma-Kirumba road"
+        ],
+        "sources": [
+          {
+            "name": "africanews.com",
+            "url": "https://www.africanews.com/amp/2026/08/20/drc-m23-tightens-movement-controls-as-ebola-outbreak-surpasses-5000-cases/"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-m23-rebels-introduce-new-movement-restrictions-over-ebola-concerns-2026-08-20/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Heavy Russian bombardment of Kyiv kills at least 17 civilians and hits infrastructure",
+        "score": 9.0,
+        "body": "A heavy Russian missile and drone bombardment targeted Kyiv overnight, killing at least 17 people and wounding 40 others. The strikes damaged residential apartment blocks, a school, and a children's medical facility across the city. Kyiv's mayor warned that critical infrastructure was intentionally targeted, causing disruptions to the capital's hot water supply. Ukrainian officials characterized the barrage as one of the most intense aerial attacks on the capital since the conflict began.",
+        "verified_figures": [
+          "At least 17 killed",
+          "At least 40 wounded"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260820-kyiv-under-fire-russian-strikes-kill-at-least-16"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Deepening Hunger Crisis, Child Mortality, and Mass Poverty",
+        "score": 8.0,
+        "body": "The World Food Programme has warned that Afghanistan faces a severe hunger crisis, with aid cuts causing child deaths. Officials reported turning away people from nutrition centres over the past three months due to depleted food stocks. Separately, a United Nations Development Programme report revealed that an estimated 28 million people lived in poverty in Afghanistan in 2025. The humanitarian situation has been compounded by prolonged drought, reduced international aid, and the return of approximately 2.9 million Afghans during 2025, which pushed an additional 1.4 million people into severe economic hardship.",
+        "verified_figures": [
+          "28 million people in poverty in 2025",
+          "2.9 million Afghan returns in 2025",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "خبرگزاری اطلس",
+            "url": "https://atlaspress.news/en/2026/08/20/world-food-programme-hunger-crisis-child-deaths-afghanistan/"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Shallow Magnitude 5.9 Earthquake Strikes Flores Region",
+        "score": 5.0,
+        "body": "A shallow magnitude 5.9 earthquake struck the Flores region of Indonesia at a depth of approximately 10 kilometres. The tremor follows an earlier major seismic event that caused fatalities and widespread landscape changes in the area. The latest shaking has heightened anxiety among local residents, emergency personnel, and tourists while complicating ongoing recovery and reconstruction operations.",
+        "verified_figures": [
+          "Magnitude 5.9 earthquake",
+          "Depth of approximately 10 kilometres"
+        ],
+        "sources": [
+          {
+            "name": "Nomad Lawyer",
+            "url": "https://www.nomadlawyer.org/indonesia-flores-magnitude-5-9-earthquake-deadly-quake-2026"
+          }
+        ]
+      },
+      {
+        "headline": "India — Monsoon Floods Cause Severe Disruption in Assam",
+        "score": 5.0,
+        "body": "Monsoon rains in Assam state have submerged villages, damaged roads, and severely disrupted access to food, clean water, and healthcare. Disaster response efforts have provided relief supplies to over 12,130 people across 24 villages in Sivasagar, Lakhimpur, Jorhat, and Charaideo districts. Humanitarian initiatives in the affected areas currently include a daily meal programme serving 1,500 people.",
+        "verified_figures": [
+          "Over 12,130 people reached with relief",
+          "24+ villages affected across 4 districts",
+          "1,500 people served daily cooked meals"
+        ],
+        "sources": [
+          {
+            "name": "India's News.Net",
+            "url": "https://www.indiasnews.net/news/279253440/true-impact-foundation-and-bharat-benevita-foundation-deliver-flood-relief-to-over-12000-people-across-assam"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Rapidly spreading Ebola outbreak records over 2,300 deaths",
+        "score": 9.0,
+        "body": "An Ebola epidemic in the Democratic Republic of the Congo has become the fastest-spreading on record, with the health ministry reporting 5,021 cases and 2,378 deaths. The outbreak is moving roughly three times faster than the 2014–2016 West Africa epidemic. It represents the country's seventeenth recorded Ebola outbreak, which the World Health Organization considers the deadliest in Congo's history. In response to the health emergency across the Democratic Republic of the Congo, Uganda, and South Sudan, international travel advisories have been updated. Updated U.S. restrictions require individuals who have visited the DRC to remain outside the country for 21 days prior to entry.",
+        "verified_figures": [
+          "5,021 cases",
+          "2,378 deaths"
+        ],
+        "sources": [
+          {
+            "name": "AOL.co.uk",
+            "url": "https://www.aol.co.uk/articles/ebola-outbreak-hits-record-setting-021058000.html"
+          }
+        ]
+      },
+      {
+        "headline": "Guinea-Bissau — First reported mpox outbreak raises transmission concerns among children",
+        "score": 5.0,
+        "body": "Guinea-Bissau has reported its first mpox outbreak, confirming seven cases among adults and no deaths as of mid-August. However, health authorities identified 46 suspected cases, 23 of which involve children under 15 years old. UNICEF warned that the country's fragile disease surveillance system risks leaving additional infections undetected and highlighted heightened risks for children ahead of scheduled school reopenings next month.",
+        "verified_figures": [
+          "7 confirmed cases",
+          "0 deaths",
+          "46 suspected cases",
+          "23 suspected cases involving children under 15"
+        ],
+        "sources": [
+          {
+            "name": "DNE Africa",
+            "url": "https://africa.dailynewsegypt.com/guinea-bissau-reports-first-mpox-outbreak-unicef-warns-of-risks-to-children/"
+          }
+        ]
+      },
+      {
+        "headline": "South Sudan — Cholera cases recorded across Unity State despite overall slowdown",
+        "score": 4.5,
+        "body": "Health officials in South Sudan's Unity State reported 42 new cholera cases in a 24-hour period, primarily concentrated in Rubkona County, which hosts the state capital of Bentiu. Although the outbreak has spread across seven counties, state health representatives noted that overall transmission levels have decreased over the past two months compared to previous figures.",
+        "verified_figures": [
+          "42 cholera cases recorded in 24 hours",
+          "outbreak spread across 7 counties"
+        ],
+        "sources": [
+          {
+            "name": "Eye Radio",
+            "url": "https://www.eyeradio.org/unity-state-records-42-cholera-cases-as-outbreak-eases/?amp"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Occupied West Bank",
+      "score": 7.0,
+      "trigger": "If state-backed Israeli settler attacks continue to escalate across Palestinian rural communities over the next 72 hours.",
+      "potential_impact": "Additional Palestinian communities face imminent risk of forced displacement, destruction of property, and loss of livelihoods.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Palestinian News Network",
+          "url": "https://english.pnn.ps/news/48242"
+        }
+      ]
+    },
+    {
+      "location": "Eastern Democratic Republic of the Congo",
+      "score": 6.0,
+      "trigger": "If movement restrictions imposed by AFC/M23 rebels along key transport corridors are prolonged or expanded due to new Ebola detections.",
+      "potential_impact": "Humanitarian access and crucial epidemiological tracking could be further disrupted across conflict-affected zones.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-m23-rebels-introduce-new-movement-restrictions-over-ebola-concerns-2026-08-20/"
+        }
+      ]
+    },
+    {
+      "location": "Yemen / Saudi Arabia border region",
+      "score": 5.0,
+      "trigger": "If Houthi drone strikes against Saudi infrastructure prompt retaliatory military actions or further airspace violations in Saada province.",
+      "potential_impact": "Escalating cross-border hostilities could imperil border communities and further constrain humanitarian movement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "PressTV",
+          "url": "https://www.presstv.co.uk/Detail/2026/08/20/774742/Yemen-plans-intensify-attacks-siege-Saudi-Arabia"
+        }
+      ]
+    },
+    {
+      "location": "Guinea-Bissau",
+      "score": 5.0,
+      "trigger": "If uncontained transmission of suspected mpox cases among children expands ahead of the nationwide school reopening next month.",
+      "potential_impact": "Undetected community spread could overburden the country's fragile health surveillance network and increase child morbidity.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "DNE Africa",
+          "url": "https://africa.dailynewsegypt.com/guinea-bissau-reports-first-mpox-outbreak-unicef-warns-of-risks-to-children/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "DNE Africa",
+        "count": 2
+      },
+      {
+        "name": "Palestinian News Network",
+        "count": 2
+      },
+      {
+        "name": "PressTV",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "ABC News",
+        "count": 1
+      },
+      {
+        "name": "AOL.co.uk",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Eye Radio",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "India's News.Net",
+        "count": 1
+      },
+      {
+        "name": "Nomad Lawyer",
+        "count": 1
+      },
+      {
+        "name": "Yahoo News UK",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      },
+      {
+        "name": "africanews.com",
+        "count": 1
+      },
+      {
+        "name": "خبرگزاری اطلس",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 3/3 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1288,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
