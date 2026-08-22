@@ -1,0 +1,448 @@
+{
+  "date": "2026-08-22",
+  "printed_time": "6:43 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A rapidly expanding Ebola epidemic in the Democratic Republic of the Congo has caused over 2,500 deaths and 5,200 confirmed cases across six provinces, compounding severe ongoing humanitarian crises.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A pair of strong earthquakes in north-central Venezuela killed more than 160 people and injured nearly 1,000 others, prompting emergency search-and-rescue operations for survivors trapped under debris.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Russian double-tap drone attacks on a commercial shopping center in Kryvyi Rih, Ukraine, killed at least 16 civilians and injured 130, targeting first responders during the second strike.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "Four out of five Gaza Strip households are experiencing critical or catastrophic shelter conditions due to severe winter flooding and Israeli import restrictions that leave 90 percent without shelter aid.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Continued Israeli military strikes across southern Lebanon have raised the aggregate death toll to 8,915 since October 2023, driving renewed civilian displacement along coastal evacuation routes.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A rapidly accelerating Ebola epidemic in the Democratic Republic of the Congo has killed over 2,500 people among more than 5,200 confirmed cases, with transmission rates severely overstretching containment capacities amid ongoing armed conflict and population displacement.",
+    "label": "AFRICA — DRC Ebola Epidemic"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "OPT/Gaza — Four in five households face catastrophic shelter conditions",
+        "score": 8.0,
+        "body": "Four out of five households in the Gaza Strip are facing critical or catastrophic living conditions in their shelters, according to a report by the Norwegian Refugee Council. Two-thirds of households are residing in makeshift tents or shelters unsuitable for long-term habitation. The report highlights severe living conditions, with 89 percent of households reporting rodents, 79 percent reporting insect infestations, and 71 percent affected by winter flooding. Due to Israeli import restrictions and severe funding shortfalls, only 10 percent of households in need have received shelter assistance.",
+        "verified_figures": [
+          "4 out of 5 households facing critical or catastrophic living conditions",
+          "Two thirds of households living in makeshift shelters or tents",
+          "89% reported rodents inside shelters",
+          "79% reported mosquitos, ticks, or lice",
+          "71% affected by winter flooding",
+          "Only 10% of households received shelter aid"
+        ],
+        "sources": [
+          {
+            "name": "The New Humanitarian",
+            "url": "https://www.thenewhumanitarian.org/news2026/08/21/uninhabitable-gaza-shelters-yemen-war-warnings-aid-worker-deaths-cheat-sheet"
+          }
+        ]
+      },
+      {
+        "headline": "OPT/Gaza — UK, Canada, Australia condemn refusal of criminal probe into aid worker deaths",
+        "score": 6.0,
+        "body": "Britain, Canada, and Australia issued a joint statement condemning the Israeli military's decision not to launch a criminal investigation into the April 2024 airstrikes that killed seven World Central Kitchen aid workers in Gaza. The strikes targeted a convoy carrying humanitarian personnel, including citizens from the three condemning nations. The governments described the refusal to pursue criminal accountability as shameful. The incident previously drew global condemnation regarding the protection of humanitarian workers in conflict zones.",
+        "verified_figures": [
+          "Seven humanitarian workers killed in April 2024 strikes"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Death toll reaches 8,915 amid ongoing strikes and displacement",
+        "score": 7.5,
+        "body": "Official Lebanese data indicates that the cumulative death toll from Israeli military strikes has risen to 8,915 since October 8, 2023. Continued attacks on southern Lebanese towns have triggered ongoing displacement, causing heavy traffic congestion along coastal routes as families move away from targeted areas. The sustained violence is compounding severe economic losses across the country and exacerbating humanitarian strain on affected populations.",
+        "verified_figures": [
+          "8,915 killed in Lebanon since October 8, 2023"
+        ],
+        "sources": [
+          {
+            "name": "news.cgtn.com",
+            "url": "https://news.cgtn.com/news/2026-08-22/Israeli-strikes-push-up-Lebanon-s-death-toll-deepen-economic-strain-1POgBSzqSOI/p.html"
+          }
+        ]
+      },
+      {
+        "headline": "OPT/West Bank — Palestinian youth killed in settler violence near Hebron",
+        "score": 5.0,
+        "body": "A Palestinian teenager was shot and killed and another person was critically injured during an incident involving Israeli settlers in Khirbet Hamroush, northeast of Hebron in the occupied West Bank. According to Israeli police reports, an unapproved settler group entered the village, leading to clashes where Palestinians threw stones. A civilian security coordinator subsequently opened fire, killing an 18-year-old Palestinian. The event highlights growing protection concerns and escalating violence across the occupied West Bank.",
+        "verified_figures": [
+          "1 Palestinian killed",
+          "1 person critically injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Pair of deadly earthquakes kill over 160 people and injure nearly 1,000",
+        "score": 9.0,
+        "body": "A pair of powerful earthquakes struck north-central Venezuela on Wednesday evening, killing more than 160 people and injuring almost 1,000 as of Thursday morning. Emergency responders are undertaking intensive search-and-rescue operations to extract survivors trapped under rubble, according to acting President Delcy Rodriguez. U.S. Secretary of State Marco Rubio confirmed that the United States is dispatching search-and-rescue teams to assist with recovery efforts.",
+        "verified_figures": [
+          "160+ killed",
+          "almost 1,000 injured"
+        ],
+        "sources": [
+          {
+            "name": "ABC News",
+            "url": "https://abcnews.com/International/victims-deadly-venezuela-earthquakes/story?id=134202867"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Escalating conflict leaves 6.3 million facing hunger amid widespread protection needs",
+        "score": 6.0,
+        "body": "Ongoing conflict in Haiti continues to drive severe humanitarian needs, leaving an estimated 6 million people in need of assistance and 6.3 million facing hunger out of a population of 11.8 million. Humanitarian agency Action Against Hunger reports that conflict is intensifying root vulnerabilities and gender-based violence. Relief organizations are delivering targeted interventions, including hunger prevention, treatment programs, and specialized support for survivors of gender-based violence.",
+        "verified_figures": [
+          "6 million people in need",
+          "6.3 million people facing hunger",
+          "11.8 million total population"
+        ],
+        "sources": [
+          {
+            "name": "Action Against Hunger",
+            "url": "https://www.actionagainsthunger.org/story/supporting-survivors-of-gender-based-violence-in-haiti/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Emergency aid shipment arrives from Türkiye following earthquake",
+        "score": 4.0,
+        "body": "Colombia's Foreign Ministry confirmed the arrival of an emergency humanitarian shipment from Türkiye to support communities affected by a recent earthquake. The aid package includes more than one metric ton of food, alongside medical supplies, relief items, and hundreds of blankets. Colombian authorities publicly thanked Ankara for the assistance as relief supplies are deployed to impacted populations.",
+        "verified_figures": [
+          "more than 1 metric ton of food"
+        ],
+        "sources": [
+          {
+            "name": "Yeni Safak English",
+            "url": "https://en.yenisafak.com/world/colombia-thanks-turkiye-for-earthquake-aid-3722188"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Hawaii prepares for second tropical system following Hurricane Lala",
+        "score": 3.0,
+        "body": "Authorities and airlines in Hawaii are preparing for a second potential tropical system approaching the state, days after Hurricane Lala disrupted travel and triggered a state of emergency on the Big Island. Tropical Depression Two-C formed southeast of Hawaii and may strengthen into Tropical Storm Moke as it tracks south of the islands over the weekend.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "TheTravel",
+            "url": "https://www.thetravel.com/us-airlines-prepare-for-second-potential-hawaii-tropical-storm-moke-following-hurricane-lala/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Rapidly Spreading Ebola Outbreak Kills Over 2,500",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is facing its largest recorded Ebola epidemic, with fatalities exceeding 2,500 people and confirmed cases surpassing 5,200 across six provinces. According to United Nations officials, transmission is accelerating rapidly, with more than half of all fatalities occurring within a twenty-day span. The World Health Organization has maintained the outbreak as a public health emergency of international concern. The epidemic involves the rare Bundibugyo strain, for which approved vaccines and targeted therapeutics remain limited. Response operations are further constrained by ongoing insecurity, active armed conflict, and community displacement across eastern DRC.",
+        "verified_figures": [
+          "2,516 confirmed deaths",
+          "5,290 confirmed cases",
+          "70,000 Ebola vaccine doses allocated"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGlzWmZGUUs1X1M5QzZfSktWcDVPWS1HX3lhRVhkaHlFeDUycU9PTlhnMkRzX1NJY19tNFhBSENhSzdlTHBUN2w2Ukx4QXdBejVpSWsxRk1Id3NGaUlGTmZfQ2Q5b2k3NnZ3bEpKZk1MNWgzbXppdll4TEV6a2lQM2hTLWp4VURhdC1WUlF5TXN5eElOSWlVVW9oRlJzc01RclJ0MHpFaTNuWG1ab1g5SktvUzE0SVZjVUpqQU9GZ0k4WmVGeHfSAcsBQVVfeXFMTzAxd1VXdzNtVUVhRGVoNVN4cmM3c2R1WXdkSkFKOEVmY0FxMXg1Qkt2SXFUclpmYVF6aEZyM3hGa3RqQk93bkdGX0hGd2JXeUp2RXpJQzk2LXgzMnJkZE9oU0dBcmROQkw4VkZ0Sk9zZ1hYUmNMWlF6LS1QeEZJTkF2SFVjZzZEY0Q4pDU1Mmg2cHBWSTlWSlVyaGZBMWR5cy1TZEdXYlJ2eWdreDJwQm1EOHJxcURzS1BuWFQzeG9VUFZ4YlhMSTBtTVU?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/video/20260821-2-500-dead-and-rising-un-says-dr-congo-ebola-outbreak-growing-exponentially"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Double-Tap Drone Strike Kills 16 at Kryvyi Rih Shopping Mall",
+        "score": 9.0,
+        "body": "Russian double-tap drone strikes targeted a busy shopping center in Kryvyi Rih, central Ukraine, killing at least 16 people and injuring 130 others. Ukrainian officials reported that the second drone struck approximately 30 minutes after the initial hit, targeting emergency responders on the scene. Additional Russian strikes early the following day killed at least two more people across the country. The European Union condemned the attack on civilian infrastructure and announced plans to put forward far-reaching sanctions against Moscow.",
+        "verified_figures": [
+          "at least 16 killed",
+          "130 wounded",
+          "at least 2 killed in subsequent strikes"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/five-killed-52-wounded-russian-strike-ukraines-kryvyi-rih-2026-08-21/"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260822-russian-strikes-in-ukraine-kill-at-least-two-people-injure-several-others"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Junta Forcefully Clears Villages for Russia-Backed Port Project",
+        "score": 6.5,
+        "body": "Myanmar’s military forces have deployed hundreds of troops in the southern Tanintharyi region to secure land for a Russia-backed deep-sea port and special economic zone in Dawei. According to local activists and resistance fighters, military operations backed by naval bombardments have forcibly cleared civilian populations, sealed off land, and burned villages. The offensive seeks to clear the area to re-establish a strategic maritime trade corridor connecting Russia directly to the Andaman Sea.",
+        "verified_figures": [
+          "an estimated 700 troops deployed"
+        ],
+        "sources": [
+          {
+            "name": "Marine Insight",
+            "url": "https://www.marineinsight.com/myanmar-deploys-hundreds-of-troops-to-reclaim-areas-designated-for-russia-backed-dawei-deep-sea-port-project/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Sagaing Monastery Airstrike Kills 14",
+        "score": 7.5,
+        "body": "A military airstrike targeted a Buddhist monastery during a meditation retreat in Swel Le Oh village, Myaung township, in Myanmar's central Sagaing region. Fighter jets reportedly dropped two bombs approximately 15 minutes apart, destroying nearby homes. Local opposition groups and residents reported that 14 people were killed, including three women, and 20 others were wounded. The attack occurred roughly 75 kilometers west of Mandalay, as the military regime continues aerial bombardments against civilian areas and opposition strongholds.",
+        "verified_figures": [
+          "14 killed",
+          "20 wounded"
+        ],
+        "sources": [
+          {
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com/world/asia/14-killed-in-myanmar-monastery-airstrike-during-meditation-retreat-article-155950212"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Mass Returns and Drought Deepen Poverty Crisis",
+        "score": 7.5,
+        "body": "A report by the United Nations Development Programme indicates that an estimated 28 million people were living in poverty in Afghanistan in 2025. The country's humanitarian crisis continues to deepen due to persistent drought, severe international aid reductions, and mass population returns. Approximately 2.9 million Afghans returned to the country during the year, pushing an additional 1.4 million people into hardship despite modest national economic growth.",
+        "verified_figures": [
+          "28 million living in poverty",
+          "2.9 million returned",
+          "1.4 million pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "The Kabul Tribune",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Displaced Women Face Health Risks in Rakhine State",
+        "score": 6.5,
+        "body": "Ongoing military conflict in Myanmar's Rakhine State has displaced more than 500,000 people, with women comprising 57 percent of the displaced population, according to research by the Institute for Strategy and Policy-Myanmar. Displaced women face severe safety, health, and hygiene risks in overcrowded camps due to a critical shortage of designated latrines and private sanitation facilities.",
+        "verified_figures": [
+          "more than 500,000 displaced",
+          "57 percent women"
+        ],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/women-make-57-displaced-population-myanmars-rakhine-state-facing-severe-health-and-safety-risks"
+          }
+        ]
+      },
+      {
+        "headline": "Philippines — Monsoon Floods Hit Northern Region",
+        "score": 4.5,
+        "body": "Weeks of heavy monsoon rainfall have caused widespread flooding across northern areas of the Philippines, disrupting daily life and heightening humanitarian needs. Affected residents in flooded communities are raising severe concerns regarding the management and implementation of local flood-control infrastructure projects.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Rapidly Escalating Ebola Outbreak Surpasses 2,500 Deaths",
+        "score": 9.0,
+        "body": "An Ebola outbreak in the Democratic Republic of Congo is expanding rapidly, with Congolese officials reporting 5,290 confirmed cases and 2,516 deaths. According to World Health Organization officials, the disease is growing exponentially, with half of all recorded fatalities occurring over a recent 20-day period. The United Nations senior Ebola coordinator warned that the virus is spreading faster than containment responses can adapt. Public health agencies estimate that only 30% to 40% of cases are currently detected, suggesting total infections could be up to three times higher than official counts.",
+        "verified_figures": [
+          "5,290 confirmed cases",
+          "2,516 confirmed deaths",
+          "30% to 40% case detection rate estimate"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/audio/play/w1730c6j46p7fkl"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Cholera Outbreak Declared in Bauchi State",
+        "score": 6.0,
+        "body": "Health authorities in Bauchi State, Nigeria, have declared a cholera outbreak following laboratory confirmation of cases across 13 Local Government Areas. Officials reported 398 suspected cholera cases and 16 deaths, representing a 4% case fatality rate. The outbreak has heavily impacted Toro Local Government Area with 231 cases, while Alkaleri and Kirfi recorded 46 cases each. State health officials are attempting to manage the rising infection rates across the affected districts.",
+        "verified_figures": [
+          "398 suspected cholera cases",
+          "16 deaths",
+          "4% case fatality rate"
+        ],
+        "sources": [
+          {
+            "name": "LEADERSHIP Newspapers",
+            "url": "https://leadership.ng/breaking-bauchi-declares-cholera-outbreak-records-398-suspected-cases-16-deaths/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Bauchi State, Nigeria",
+      "score": 6.0,
+      "trigger": "Further contamination of local water sources across 13 affected Local Government Areas following a newly declared cholera outbreak.",
+      "potential_impact": "Rapidly rising infection rates could strain local health facilities and exacerbate fatalities beyond the 16 deaths and 398 suspected cases already recorded.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "LEADERSHIP Newspapers",
+          "url": "https://leadership.ng/breaking-bauchi-declares-cholera-outbreak-records-398-suspected-cases-16-deaths/"
+        }
+      ]
+    },
+    {
+      "location": "Hawaii, United States",
+      "score": 4.0,
+      "trigger": "Tropical Depression Two-C strengthening into Tropical Storm Moke as it moves south of the Hawaiian islands over the weekend.",
+      "potential_impact": "Subsequent severe weather could trigger additional flooding and transport disruptions shortly after Hurricane Lala caused damage and emergency declarations.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "TheTravel",
+          "url": "https://www.thetravel.com/us-airlines-prepare-for-second-potential-hawaii-tropical-storm-moke-following-hurricane-lala/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "LEADERSHIP Newspapers",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "TheTravel",
+        "count": 2
+      },
+      {
+        "name": "ABC News",
+        "count": 1
+      },
+      {
+        "name": "Action Against Hunger",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Burma News International",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Marine Insight",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Kabul Tribune",
+        "count": 1
+      },
+      {
+        "name": "The New Humanitarian",
+        "count": 1
+      },
+      {
+        "name": "Times Now",
+        "count": 1
+      },
+      {
+        "name": "Yeni Safak English",
+        "count": 1
+      },
+      {
+        "name": "news.cgtn.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 3/3 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1226,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
