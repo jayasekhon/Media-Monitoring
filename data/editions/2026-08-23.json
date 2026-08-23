@@ -1,0 +1,437 @@
+{
+  "date": "2026-08-23",
+  "printed_time": "6:42 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Two major earthquakes in Venezuela killed an estimated 6,000 people and trapped numerous survivors beneath collapsed buildings near Caracas.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "An exponentially spreading Ebola outbreak in the Democratic Republic of the Congo has killed over 2,500 people as initial vaccine shipments arrive in Kinshasa.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A magnitude 7.7 earthquake on Indonesia's Flores Island killed at least 91 people and damaged more than 66,000 homes.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Severe aid restrictions in the Gaza Strip have left 1.4 million Palestinians facing acute food insecurity, with ten percent of the population on the brink of famine.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Escalating Russian aerial attacks across Ukraine killed at least 23 people, including 16 in a strike on a Kryvyi Rih shopping centre.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Two major earthquakes measuring 7.2 and 7.5 magnitude struck western Venezuela, killing an estimated 6,000 people and trapping residents beneath structural debris near Caracas.",
+    "label": "AMERICAS — Catastrophic Earthquakes in Venezuela"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza Strip — Severe Food Insecurity Affects Over 1.4 Million",
+        "score": 8.5,
+        "body": "According to UN reports, approximately 1.4 million Palestinians—representing 67 percent of Gaza's population—are facing acute food insecurity amid severe restrictions on humanitarian aid entering the enclave. An estimated 10 percent of the population is currently on the edge of famine. More than 1 million displaced individuals are struggling to secure daily food and clean water, with many living in makeshift tents and relying entirely on sporadic distributions or charity kitchens.",
+        "verified_figures": [
+          "1.4 million people facing acute food insecurity",
+          "67 percent of Gaza's population",
+          "around 10 percent of Gaza's population on the edge of famine"
+        ],
+        "sources": [
+          {
+            "name": "bastillepost.com",
+            "url": "https://www.bastillepost.com/global/article/6100500-over-1-million-displaced-gazans-face-hunger"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza Strip — Israeli Airstrikes and Ground Operations Cause Casualties",
+        "score": 7.5,
+        "body": "Israeli military operations across the Gaza Strip have resulted in multiple casualties, casting doubt on diplomatic efforts to reduce hostilities. Strikes on Wednesday near the Nuseirat refugee camp killed at least 10 people, while a drone attack in Deir al-Balah targeted a family, killing one person and wounding others. The Israeli military claimed its strikes targeted armed group infrastructure, including a Hamas battalion commander. Additionally, Israeli forces crossed the ceasefire line in southern Gaza to detain a police colonel.",
+        "verified_figures": [
+          "at least 10 people killed",
+          "one person killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "West Bank — Escalating Settler Attacks and Military Raids",
+        "score": 5.0,
+        "body": "Palestinian residents across the West Bank faced military raids and expanding settler actions that injured several people. Settlers besieged the village of Qusra as part of broader efforts to expand territorial control. Local reports highlight increasing forced displacement pressures and physical attacks on local populations, backed by Israeli military operations.",
+        "verified_figures": [
+          "several Palestinians injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Intensified Fighting Causes Casualties Across Multiple Provinces",
+        "score": 5.0,
+        "body": "Yemen's Houthi movement reported the deaths of 12 fighters, including a brigadier general and three other officers, following clashes with government forces in Sanaa, Saada, Hajjah, Mahwit, Dhamar, and Amran provinces. Concurrently, the Yemeni military announced it executed 81 operations targeting Houthi positions and field units within a 24-hour period, reflecting a significant uptick in military activity.",
+        "verified_figures": [
+          "12 fighters killed",
+          "81 operations carried out within 24 hours"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://yemenonline.info/special-reports/13534"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Powerful Earthquakes Cause Mass Casualties Near Caracas",
+        "score": 9.5,
+        "body": "Two major earthquakes measuring 7.2 and 7.5 in magnitude struck about 160 kilometers west of Caracas, causing widespread structural collapse and trapping residents beneath rubble. Emergency responders operated throughout the capital as powerful aftershocks continued. Reports indicate an estimated 6,000 people have died from the double disaster. Relatives and rescue teams worked through collapsed building debris to extract dazed survivors and search for missing people as night fell across affected areas.",
+        "verified_figures": [
+          "6,000 people died",
+          "magnitude 7.2 and 7.5 earthquakes"
+        ],
+        "sources": [
+          {
+            "name": "The Canberra Times",
+            "url": "https://www.canberratimes.com.au/story/9298839/thousands-feared-dead-after-major-quakes-hit-venezuela/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti / United States — US Resumes Deportations to Haiti Following TPS Repeal",
+        "score": 6.5,
+        "body": "US Immigration and Customs Enforcement deported over 160 people to Haiti following a US Supreme Court ruling upholding the repeal of Temporary Protected Status, which affects roughly 330,000 Haitians. The deportation flight arrived in Cap-Haïtien rather than Port-au-Prince due to severe safety risks, as armed gangs control approximately 70 percent of the capital region. Officials expressed concern that arriving deportees, including former status holders, face immediate protection risks and potential targeting by gang violence.",
+        "verified_figures": [
+          "over 160 people deported",
+          "330,000 Haitians impacted by status repeal",
+          "gangs control roughly 70% of Port-au-Prince"
+        ],
+        "sources": [
+          {
+            "name": "Jurist.org",
+            "url": "https://www.jurist.org/news/2026/08/us-deports-over-160-people-to-haiti-following-end-of-protected-status/"
+          }
+        ]
+      },
+      {
+        "headline": "Peru — Deep Magnitude Earthquake Shakes Ayacucho Region",
+        "score": 3.0,
+        "body": "A magnitude 7.2 earthquake struck central Peru's Ayacucho region at a depth of over 100 kilometers, with its epicenter located 35 kilometers north of Coracora in the Andes. Due to the deep focal depth of the tremor, local authorities and geophysical monitors reported no immediate casualties or major structural collapse. The seismic event occurs amid heightened regional earthquake activity across South America, following recent major quakes in Venezuela and Colombia.",
+        "verified_figures": [
+          "magnitude 7.2 earthquake",
+          "depth of 108 kilometers",
+          "no reported fatalities"
+        ],
+        "sources": [
+          {
+            "name": "q costa rica",
+            "url": "https://qcostarica.com/from-venezuela-to-peru-why-is-south-america-experiencing-so-many-earthquakes/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC/Ebola — Vaccine batch arrives as death toll exceeds 2,500",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo has received an initial delivery of 16,250 Ervebo Ebola vaccine doses in Kinshasa, part of 70,000 doses expected from the World Health Organization and partners. Health authorities and UN officials report that the outbreak, declared in May in Ituri province, has infected 5,290 people and killed 2,516 across six provinces. UN Senior Ebola Coordinator Julien Harneis warned that the epidemic is spreading exponentially, with half the deaths occurring in the past 20 days, while existing response funding will run out within weeks. Ongoing armed conflict and weak infrastructure in the eastern region continue to disrupt containment efforts.",
+        "verified_figures": [
+          "16,250 vaccine doses delivered",
+          "70,000 total vaccine doses expected from WHO and partners",
+          "5,290 cases confirmed",
+          "2,516 deaths recorded"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-vaccine-1ce25c0697bfae7656eae3e5fe6aa6ae"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/ebola-epidemic-in-dr-congo-is-spreading-18-times-faster-than-deadliest-outbreak-on-record"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Mass Casualties Reported Following Escalating Strikes on Kryvyi Rih and Other Regions",
+        "score": 8.5,
+        "body": "A series of Russian aerial attacks across Ukraine killed at least seven people on Saturday, following a strike on a shopping centre in Kryvyi Rih on Friday that killed at least 16 people and wounded around 130, including children. Rescuers continue to search for four missing individuals at the shopping centre. Additional casualties and damage were reported in Zaporizhzhia, Kyiv, and Odesa. In Russia, a Ukrainian drone strike killed three people in the Krasnodar region. The deadly strikes come amid reports of Ukraine facing severe shortages of air defense interceptors, leading France to announce the delivery of new interceptor missiles.",
+        "verified_figures": [
+          "At least 16 people killed in Kryvyi Rih shopping centre strike",
+          "130 people injured in Kryvyi Rih",
+          "4 people missing in Kryvyi Rih",
+          "At least 7 people killed in Ukraine on Saturday",
+          "3 people killed in Krasnodar region, Russia"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-5e6f60963f2662907441e95c635470c4"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/children-among-wounded-in-zelensky-s-hometown-struck-by-russian-drones"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Devastating magnitude 7.7 earthquake hits Flores Island",
+        "score": 9.0,
+        "body": "A magnitude 7.7 earthquake in East Nusa Tenggara province on Flores Island has killed at least 91 people and damaged more than 66,000 homes. Thousands of recurring aftershocks have forced survivors into makeshift tarpaulins across public squares and soccer pitches. Emergency responders continue combing through rubble while struggling to deliver island-wide humanitarian relief.",
+        "verified_figures": [
+          "91 dead",
+          "over 66,000 homes damaged"
+        ],
+        "sources": [
+          {
+            "name": "InvestorTrust",
+            "url": "https://investortrust.id/national/113859/devastating-flores-earthquake-leaves-91-dead-and-over-66-000-homes-damaged-as-indonesia-races-to-deliver-island-relief?page=english-edition"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military airstrike on monastery kills 14 civilians",
+        "score": 7.5,
+        "body": "A Myanmar military airstrike targeted a Buddhist monastery in Swel Le Oh village, Myaung township, killing 14 people and injuring several monks. Local witnesses and opposition sources reported that the site in central Sagaing region was struck twice while civilians, primarily elderly worshippers, were gathered for a meditation retreat marking Buddhist Lent.",
+        "verified_figures": [
+          "14 killed"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — UNDP reports 28 million people living in poverty",
+        "score": 6.5,
+        "body": "A United Nations Development Programme report indicates that 28 million people in Afghanistan lived in poverty in 2025. The deepening humanitarian crisis is driven by persistent drought, international aid reductions, and the return of nearly 2.9 million Afghans over the year, which forced an additional 1.4 million people into severe economic hardship despite modest national economic growth.",
+        "verified_figures": [
+          "28 million in poverty in 2025",
+          "2.9 million Afghan returnees in 2025",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Philippines — Leptospirosis cases rise following Manila flooding",
+        "score": 3.5,
+        "body": "Health authorities in Manila reported 50 leptospirosis cases and two deaths at San Lazaro Hospital following severe flooding caused by persistent heavy rains. Local health officials are urging individuals exposed to floodwaters to take preventive antibiotics as medical facilities manage the influx of bacterial infections.",
+        "verified_figures": [
+          "50 leptospirosis cases",
+          "2 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Mid-Day",
+            "url": "https://www.mid-day.com/news/world-news/article/philippines-floods-leptospirosis-cases-hit-50-in-manila-amid-flooding-two-deaths-reported-23646097"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Historic Ebola Outbreak Ramps Up as Vaccines Arrive",
+        "score": 9.5,
+        "body": "An ongoing Ebola outbreak in the Democratic Republic of the Congo has recorded nearly 5,000 cases and over 2,000 deaths since mid-May, marking the largest and deadliest outbreak in the country's history. Caused by the rare Bundibugyo strain, which currently lacks an approved treatment or vaccine, the virus has spread rapidly in provinces such as Ituri. Unpaid frontline healthcare workers face severe risks of workplace exposure. In response, an initial shipment of 16,250 vaccine doses arrived in Kinshasa as part of a 70,000-dose batch provided by the World Health Organization and partners.",
+        "verified_figures": [
+          "almost 5,000 cases",
+          "more than 2,000 deaths",
+          "16,250 initial vaccine doses delivered",
+          "70,000 total vaccine doses expected"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/22/ebola-drc-democratic-republic-congo-health-workers-unpaid-wages"
+          }
+        ]
+      },
+      {
+        "headline": "India — Severe Flooding Displaces Hundreds of Thousands in Odisha",
+        "score": 7.0,
+        "body": "Severe monsoon flooding in the eastern Indian state of Odisha has affected an estimated 1.3 million people across multiple districts. Local emergency authorities report that approximately 487,000 people have been evacuated from inundated communities and relocated into temporary relief shelters to access emergency aid and safety. Response efforts remain ongoing to manage widespread displacement and meet essential humanitarian needs across impacted areas.",
+        "verified_figures": [
+          "1.3 million people affected",
+          "487,000 people evacuated to relief shelters"
+        ],
+        "sources": [
+          {
+            "name": "Pragativadi",
+            "url": "https://pragativadi.com/odisha-floods-13-lakh-affected-4-87-lakh-evacuated-to-relief-shelters/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Tropical Storm Moke Approaches Hawaii Following Hurricane Lala",
+        "score": 4.0,
+        "body": "Weather authorities have warned that Tropical Storm Moke is poised to strike southern Hawaii, bringing heavy rainfall and damaging winds. The storm threatens communities still recovering from Hurricane Lala, which passed through the region days earlier. The Big Island is expected to experience severe weather as the storm tracks south. Meteorological services warn that intense precipitation poses high risks of flash flooding and mudslides in areas already saturated by recent storms.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke"
+          }
+        ]
+      },
+      {
+        "headline": "Japan — Magnitude 5.9 Earthquake Injures 23 Across Eastern Prefectures",
+        "score": 3.5,
+        "body": "A magnitude 5.9 earthquake struck eastern Japan at a depth of roughly 70 kilometers, causing strong shaking across the Tokyo metropolitan region. Authorities reported that at least 23 people were injured across four prefectures, including Saitama, Kanagawa, Chiba, and Ibaraki, mostly due to falling objects or loss of balance. Official assessments confirmed there was no tsunami threat associated with the tremor.",
+        "verified_figures": [
+          "at least 23 people injured"
+        ],
+        "sources": [
+          {
+            "name": "NewsX",
+            "url": "https://www.newsx.com/world/59-magnitude-earthquake-hits-japan-injures-23-second-major-quake-weeks-after-deadly-tremor-263546/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Haiti",
+      "score": 6.5,
+      "trigger": "Continued US deportation flights following the repeal of Temporary Protected Status could force hundreds of returnees into areas heavily controlled by armed gangs.",
+      "potential_impact": "Deportees face immediate protection threats, extortion, and exposure to armed violence in a country where gangs control 70 percent of the capital region.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Jurist.org",
+          "url": "https://www.jurist.org/news/2026/08/us-deports-over-160-people-to-haiti-following-end-of-protected-status/"
+        }
+      ]
+    },
+    {
+      "location": "Hawaii, United States",
+      "score": 4.0,
+      "trigger": "Tropical Storm Moke's arrival could bring heavy precipitation over soil already saturated by Hurricane Lala days earlier.",
+      "potential_impact": "Intense rainfall raises the risk of severe flash flooding and mudslides, threatening vulnerable communities and damaging infrastructure.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Jurist.org",
+        "count": 2
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "InvestorTrust",
+        "count": 1
+      },
+      {
+        "name": "Mid-Day",
+        "count": 1
+      },
+      {
+        "name": "NewsX",
+        "count": 1
+      },
+      {
+        "name": "Pragativadi",
+        "count": 1
+      },
+      {
+        "name": "The Canberra Times",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      },
+      {
+        "name": "bastillepost.com",
+        "count": 1
+      },
+      {
+        "name": "q costa rica",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1041,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
