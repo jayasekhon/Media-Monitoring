@@ -1,0 +1,403 @@
+{
+  "date": "2026-08-24",
+  "printed_time": "7:00 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo faces its deadliest Bundibugyo strain Ebola epidemic on record, exceeding 2,557 deaths and 5,375 cases as violence and insecurity disrupt response operations across northeastern provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Escalating gang violence and severe insecurity across Haiti have displaced nearly 1.5 million people, severe protection risks, gender-based violence, and widespread breakdown of social services.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Internal displacement in Myanmar has expanded to 3.8 million people alongside 1.63 million refugees abroad as dwindling international humanitarian assistance deepens protection vulnerabilities.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Israeli airstrikes targeting southern Lebanese residential areas killed at least 11 civilians, including three children, and injured 19 others across multiple locations.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Escalating Russian attacks across Ukraine have caused rising civilian deaths near Kharkiv while critical national air defense ammunition stocks near exhaustion.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo is confronting the deadliest Bundibugyo strain Ebola epidemic in its history, surpassing 2,557 deaths across 100 days as community deaths and armed conflict severely impede isolation and treatment efforts.",
+    "label": "AFRICA — Record Ebola Epidemic Reaches 100 Days"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Lebanon — Israeli airstrikes in the south kill 11 civilians",
+        "score": 7.5,
+        "body": "Israeli airstrikes targeting southern Lebanon killed at least 11 people, including three children, and injured 19 others in severe attacks on residential sites. According to Lebanon's Health Ministry and official media, an airstrike on a home in Ansar village killed seven people and wounded two. A second attack on Deir al-Zahrani killed four people and wounded 17. Additional overnight airstrikes and artillery bombardment targeted the vicinity of Nabatieh al-Fawqa, Tell al-Dabsha, and Kfar Rumman.",
+        "verified_figures": [
+          "11 people killed",
+          "3 children killed",
+          "19 people injured"
+        ],
+        "sources": [
+          {
+            "name": "AOL.ca",
+            "url": "https://www.aol.ca/articles/trump-urges-americans-accept-high-124548000.html"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza — Airstrikes cause civilian casualties, targeting displacement shelter",
+        "score": 7.0,
+        "body": "Israeli airstrikes across the Gaza Strip killed at least two people, including a four-year-old boy, according to medical personnel. Additional strikes hit central Gaza, including a drone strike targeting a displacement tent sheltering civilians. The ongoing bombardment continues to inflict casualties and increase protection risks for displaced populations who lack safe shelter across the enclave.",
+        "verified_figures": [
+          "2 people killed",
+          "1 child killed",
+          "2 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/israeli-airstrikes-gaza-kill-two-people-including-4-year-old-boy-medics-say-2026-08-23/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Over 150 families displaced by Houthi shelling in Hodeidah",
+        "score": 6.5,
+        "body": "Persistent artillery, missile, and drone bombardment by Houthi forces targeting residential areas and civilian infrastructure in Hodeidah Governorate forced 158 families to flee their homes. According to local human rights sources, 124 families sought safety in Hays district from Jarrahi, Jabal Ras, and Maqbanah, while 34 families reached Khokha district. Many displaced households are living in open terrain under rocks without access to basic services, food, or adequate protection.",
+        "verified_figures": [
+          "158 families displaced",
+          "124 families displaced to Hays district",
+          "34 families displaced to Khokha district"
+        ],
+        "sources": [
+          {
+            "name": "وكالة خبر للأنباء",
+            "url": "https://www.khabaragency.net/news251988.html"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Violence and Internal Displacement",
+        "score": 8.0,
+        "body": "Ongoing gang violence and insecurity across Haiti have internally displaced nearly 1.5 million people. Displaced populations, particularly women and adolescent girls, face severe protection risks, including gender-based violence, domestic servitude, and exploitation. The violence has disrupted education and weakened protective social infrastructure. International organizations and health partners are providing mental health, psychosocial support, and protection services to help survivors recover and meet essential needs.",
+        "verified_figures": [
+          "Nearly 1.5 million people internally displaced"
+        ],
+        "sources": [
+          {
+            "name": "Pan American Health Organization (PAHO)",
+            "url": "https://www.paho.org/en/stories/haiti-health-and-psychosocial-support-help-displaced-families-rebuild-hope"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Severe Rains Trigger Flooding and Evacuations in Caracas",
+        "score": 6.5,
+        "body": "Torrential rains caused severe flooding across Caracas and nearby areas after the El Valle River overflowed. Rising waters submerged major highways, damaged power infrastructure, trapped motorists, and damaged homes. Authorities activated the National Risk Management System and initiated evacuations in vulnerable neighborhoods. Emergency teams are searching for at least four missing individuals.",
+        "verified_figures": [
+          "At least 4 people missing"
+        ],
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://apnews.com/video/several-missing-as-heavy-rains-cause-devastating-floods-in-venezuela-c566b130da1e4826aa6f91a9a42f193a"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Protracted Displacement Following Earthquakes",
+        "score": 6.5,
+        "body": "Two months after two earthquakes struck Venezuela, more than 12,500 people remain housed in temporary displacement camps in La Guaira. Survivors endure precarious living conditions, weather exposure, and limited access to healthcare and humanitarian assistance. Relief initiatives, including an upcoming international benefit concert, seek to raise funds for housing reconstruction, school repairs, and psychosocial support across affected areas in Venezuela and Colombia.",
+        "verified_figures": [
+          "More than 12,500 people living in temporary camps"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/venezuela-two-months-after-the-quake-12-500-people-still-live-in-temporary-camps"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Deadliest Ebola Outbreak Hits 100 Days as Death Toll Exceeds 2,500",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo is experiencing its deadliest and fastest-growing Ebola outbreak on record, driven by the Bundibugyo strain. Reaching 100 days of transmission since being declared in Ituri Province on May 15, 2026, the epidemic has infected 5,375 people and killed 2,557, yielding a case-fatality rate of nearly 48 percent. Over half of recorded deaths occurred outside treatment facilities, indicating many people are dying in their communities without care. The virus has spread across an area larger than France, while machete attacks, violence, and strikes continue to disrupt response efforts. Currently, 737 patients remain in isolation units and 1,167 have recovered.",
+        "verified_figures": [
+          "5,375 infected",
+          "2,557 deaths",
+          "47.6% case-fatality rate",
+          "1,167 recoveries",
+          "737 patients in isolation"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pope-leo-urges-global-action-confront-congos-ebola-outbreak-2026-08-23/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Displaced Families Face Hunger and Repeated Displacement",
+        "score": 6.0,
+        "body": "Displaced families across Sudan face severe hunger and repeated displacement, according to warnings from the Norwegian Refugee Council. Ongoing insecurity and deteriorating conditions continue to force vulnerable populations to flee multiple times, aggravating food insecurity and hindering humanitarian access.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Modern Ghana",
+            "url": "https://www.modernghana.com/videonews/aljazeera/1/704352"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Escalating Russian strikes cause rising civilian deaths amid air defense shortages",
+        "score": 7.5,
+        "body": "Russian military attacks in Ukraine have escalated, resulting in higher civilian casualties than at any point since the early months of the invasion. In Kharkiv, a Russian attack killed three people near the city, according to the regional governor. Ukrainian officials warned that national air defense supplies are running low. In response, key European allies, including the leaders of Britain, France, and Germany, convened a meeting in Ukraine to discuss urgent air defense deliveries and additional pressure on Moscow.",
+        "verified_figures": [
+          "3 people killed near Kharkiv"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-attack-kills-three-near-ukraines-kharkiv-governor-says-2026-08-23/"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260824-live-ukraine-backers-gather-as-russian-attacks-escalate-air-defence-runs-low"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Drone attacks target logistics infrastructure and leave civilian casualties in Krasnodar and Orenburg",
+        "score": 5.0,
+        "body": "Drone strikes targeted infrastructure across western Russian regions, resulting in civilian casualties and property damage. In the Krasnodar region, a drone attack killed two children and ignited a fire at a local logistics hub. Separately, the governor of the Orenburg region reported that a drone strike hit a warehouse facility belonging to the Russian e-commerce company Ozon.",
+        "verified_figures": [
+          "2 children killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/drone-attack-kills-two-children-burns-logistics-hub-russias-krasnodar-2026-08-24/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Displacement crisis deepens amid shrinking humanitarian support",
+        "score": 7.5,
+        "body": "Nine years after more than one million Rohingya fled to Bangladesh, displacement across Myanmar continues to worsen amid declining international assistance and deteriorating conditions. According to United Nations figures from July, approximately 3.8 million people are internally displaced within Myanmar, while an additional 1.63 million are refugees and asylum-seekers abroad. The lack of viable repatriation pathways and reduced humanitarian funding are forcing displaced populations to undertake increasingly hazardous journeys in search of safety and basic livelihoods, exacerbating one of the world's most protracted displacement emergencies.",
+        "verified_figures": [
+          "1 million+ Rohingya fled in initial exodus",
+          "3.8 million internally displaced inside Myanmar",
+          "1.63 million refugees and asylum-seekers"
+        ],
+        "sources": [
+          {
+            "name": "The Financial Express",
+            "url": "https://thefinancialexpress.com.bd/home/ninth-anniversary-of-rohingya-exodus-myanmar-displacement-crisis-deepens-as-humanitarian-support-dwindles"
+          }
+        ]
+      },
+      {
+        "headline": "China & Vietnam — Typhoon Narra triggers widespread flooding and mass evacuations",
+        "score": 6.5,
+        "body": "Torrential rains triggered by Typhoon Narra have caused severe flooding across southern China and Vietnam, prompting emergency responders to deploy rescue boats in submerged areas. In southwestern China's Guangxi region, authorities evacuated more than 54,000 residents as floodwaters breached warning thresholds on 15 major rivers. The extreme weather event has caused severe infrastructural and logistical disruptions, compounding regional climate vulnerabilities.",
+        "verified_figures": [
+          "54,000+ residents displaced in Guangxi region",
+          "15 major rivers breached warning thresholds"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/china-evacuates-tens-thousands-rain-typhoon-narra-lashes-southwest-2026-08-24/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Climate shocks worsen child malnutrition crisis",
+        "score": 6.0,
+        "body": "Climate change is escalating the child malnutrition crisis in Afghanistan, according to a statement by UNICEF. Prolonged droughts, unseasonal heavy rainfall, and rising temperatures are increasingly undermining the ability of vulnerable families to secure basic food needs. Environmental pressures have disrupted food production and restricted access, heightening protection risks and nutritional deficits for children across the country.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://www.thekabultribune.com/en/0009583"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Cholera outbreak kills three and infects hundreds",
+        "score": 5.5,
+        "body": "A cholera outbreak in Myanmar has killed three people and left hundreds ill, according to local news reports. The outbreak compounds pre-existing humanitarian risks in the country, where access to safe drinking water, clean sanitation, and functional medical facilities remains severely impacted by ongoing insecurity and conflict.",
+        "verified_figures": [
+          "3 deaths",
+          "hundreds fall ill"
+        ],
+        "sources": [
+          {
+            "name": "The Malaysian Reserve",
+            "url": "https://themalaysianreserve.com/2026/08/24/cholera-outbreak-kills-3-in-myanmar-hundreds-fall-ill/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Ebola Outbreak",
+        "score": 9.0,
+        "body": "A major Ebola outbreak caused by the Bundibugyo strain in the Democratic Republic of the Congo has killed between 2,000 and over 2,500 people since cases were first recorded in May. The World Health Organization declared the outbreak a Public Health Emergency of International Concern, and it has now become the deadliest Ebola epidemic in the country's history. Response efforts face operational challenges and mistrust within local communities. Because no licensed vaccine exists for the Bundibugyo strain, researchers are currently testing whether existing Zaire strain vaccines offer cross-protection.",
+        "verified_figures": [
+          "Over 2,500 killed",
+          "2,325 killed"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Gaza Strip, Occupied Palestinian Territory",
+      "score": 7.0,
+      "trigger": "Continued aerial and drone bombardment targeting makeshift tent shelters housing displaced civilians in central Gaza over the next 72 hours.",
+      "potential_impact": "Direct strikes on packed shelter camps would cause severe civilian casualties and heighten protection risks for displaced families lacking safe alternative accommodation.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/israeli-airstrikes-gaza-kill-two-people-including-4-year-old-boy-medics-say-2026-08-23/"
+        }
+      ]
+    },
+    {
+      "location": "Hodeidah Governorate, Yemen",
+      "score": 6.5,
+      "trigger": "Sustained artillery, missile, and drone bombardment by Houthi forces against residential areas in southern Hodeidah over the coming 72 hours.",
+      "potential_impact": "Additional forced displacement of vulnerable families into open desert terrain without shelter, basic food supplies, or sanitation access.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "وكالة خبر للأنباء",
+          "url": "https://www.khabaragency.net/news251988.html"
+        }
+      ]
+    },
+    {
+      "location": "Caracas, Venezuela",
+      "score": 6.5,
+      "trigger": "Continued heavy rainfall causing further overflow of river systems and failure of flood defenses across urban sectors in the next 72 hours.",
+      "potential_impact": "Uncontrolled flash flooding could trigger structural collapses in vulnerable hillside communities, prolonged power disruptions, and widespread emergency evacuations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/video/several-missing-as-heavy-rains-cause-devastating-floods-in-venezuela-c566b130da1e4826aa6f91a9a42f193a"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AP News",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 6
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 4
+      },
+      {
+        "name": "AP News",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "وكالة خبر للأنباء",
+        "count": 2
+      },
+      {
+        "name": "AOL.ca",
+        "count": 1
+      },
+      {
+        "name": "Modern Ghana",
+        "count": 1
+      },
+      {
+        "name": "Pan American Health Organization (PAHO)",
+        "count": 1
+      },
+      {
+        "name": "The Financial Express",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Malaysian Reserve",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1002,
+      "sources_cited": 12
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
