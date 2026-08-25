@@ -1,0 +1,453 @@
+{
+  "date": "2026-08-25",
+  "printed_time": "6:48 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola epidemic in the Democratic Republic of the Congo has claimed over 2,600 lives across 57 health zones amid recurring attacks on health responders.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A violent overnight gang attack in Kenscoff, Haiti, targeted a church sheltering displaced people, leaving between 20 and 47 dead.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Civilian casualties in Ukraine hit a four-year monthly peak in July, with at least 437 people killed and more than 2,600 injured.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "Colombia's recovery from a 7.4-magnitude earthquake that killed over 300 people is further complicated by a newly announced immigration enforcement crackdown.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "A 7.7-magnitude earthquake in Indonesia killed at least 53 people and forced the evacuation of around 5,000 residents.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An expanding Ebola epidemic in the Democratic Republic of the Congo has caused more than 2,600 deaths across six provinces, with containment severely compromised by mistrust and armed attacks against responders.",
+    "label": "AFRICA — DRC Ebola Epidemic"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — Airstrikes target displaced civilians in central Gaza",
+        "score": 7.5,
+        "body": "Israeli military forces conducted strikes and shelling targeting structures and makeshift tents sheltering displaced Palestinians in central Gaza, including Deir al-Balah and Al-Zawaida. A strike on a tent camp in Deir al-Balah killed one man and injured two others, according to local medical reports, while Al Jazeera English reported the attack as part of broader strikes. In Al-Zawaida, an Israeli strike killed two Palestinians, including a four-year-old child, and injured seven others. Al Jazeera English reports that over 1,300 Palestinians have been killed since the October ceasefire.",
+        "verified_figures": [
+          "1,300+ Palestinians killed since October ceasefire",
+          "2 Palestinians killed in Al-Zawaida, including 1 child",
+          "7 injured in Al-Zawaida",
+          "1 killed, 2 injured in Deir al-Balah"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Oman/Iran — Projectile strikes oil tanker in Strait of Hormuz",
+        "score": 5.5,
+        "body": "An oil tanker sustained physical damage after being struck by a projectile in the Strait of Hormuz off the coast of Oman, according to the United Kingdom Maritime Trade Operations. No casualties were reported. The incident follows an effective maritime blockade enforced by Tehran in the strategic waterway after US and Israeli strikes against Iran in late February. Iranian forces have targeted vessels accused of evading designated passage routes and transit tolls.",
+        "verified_figures": [
+          "0 casualties"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman"
+          }
+        ]
+      },
+      {
+        "headline": "Guinea-Bissau — Children account for over half of mpox outbreak cases",
+        "score": 6.0,
+        "body": "Health officials in Guinea-Bissau report that children comprise more than half of all mpox cases following the declaration of a national epidemic on July 4. Since a 27-year-old woman was identified as the first confirmed case in late June, the West African nation has recorded seven confirmed cases and 46 suspected cases. Authorities report that 16 of the affected patients are children under four years old, raising concerns that the virus may be spreading undetected.",
+        "verified_figures": [
+          "7 confirmed mpox cases",
+          "46 suspected mpox cases",
+          "16 patients under the age of 4"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass-casualty gang attack on displaced persons near Port-au-Prince",
+        "score": 9.0,
+        "body": "Armed gang members carried out a violent overnight assault in Kenscoff, located 10 kilometres south of Port-au-Prince, targeting a church where displaced people were sheltering and setting fire to multiple homes. According to the local mayor, around 40 displaced individuals were killed inside the church, while local media and UN reports estimate between 20 and 47 total fatalities across the municipality. Several residents remain missing. The raid highlights the continued expansion of armed gangs near the capital, severely increasing protection risks for vulnerable displaced populations.",
+        "verified_figures": [
+          "between 20 and 47 people killed",
+          "around 40 displaced people killed in church attack"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/americas/20260825-haiti-gang-members-kill-40-displaced-people-church-attack"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Earthquake devastation compounded by announced immigration crackdown",
+        "score": 8.0,
+        "body": "Colombia continues to cope with the aftermath of a major 7.4-magnitude earthquake that struck on 10 August, killing more than 300 people and destroying over 30,000 homes. Rescuers have been searching through rubble across the coffee region and Pacific coast cities, including Pereira and Quibdo, where at least 1,500 buildings were damaged. Humanitarian concerns are further heightened following an announcement by Colombia's newly inaugurated president ordering operations to detain and deport irregular immigrants, creating additional protection risks for vulnerable migrant communities.",
+        "verified_figures": [
+          "7.4-magnitude earthquake",
+          "more than 300 people killed",
+          "more than 30,000 homes destroyed",
+          "at least 1,500 buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Flash floods destroy shelters for earthquake-displaced families in Caracas",
+        "score": 7.0,
+        "body": "Heavy rainfall over the weekend triggered severe flash flooding across Caracas, destroying temporary shelters housing families displaced by earlier earthquakes. Local reports confirm at least three fatalities, including two young girls swept away by floodwaters and one person killed by a collapsing wall. Several residents remain missing. The flooding struck neighborhoods previously damaged by two major earthquakes on 24 June measuring magnitude 7.2 and 7.5, compounding vulnerability and displacement in the capital.",
+        "verified_figures": [
+          "3 fatalities",
+          "several residents missing",
+          "magnitude 7.2 and 7.5 earthquakes on June 24"
+        ],
+        "sources": [
+          {
+            "name": "The Weather Channel",
+            "url": "https://weather.com/2026/08/24/news/weather/venezuela-caracas-flash-flooding-earthquake-aftermath"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola outbreak deaths exceed 2,600 amid attacks on responders",
+        "score": 9.5,
+        "body": "Official Ministry of Health figures show the ongoing Ebola outbreak in the Democratic Republic of the Congo has recorded 5,514 confirmed cases and 2,642 deaths after 100 days, including 317 deaths in a single week. The epidemic, caused by the rare Bundibugyo strain for which no approved treatment or vaccine exists, has spread across 57 health zones in six provinces. Containment efforts are severely constrained by insecurity, displacement, and community mistrust, with 11 violent attacks targeting Ebola responders since May 15, resulting in injuries to six Red Cross workers. Experts indicate the true scale of infections may be significantly higher than reported figures.",
+        "verified_figures": [
+          "5,514 confirmed cases",
+          "2,642 total deaths",
+          "317 deaths reported in one week",
+          "6 Red Cross workers injured across 11 violent incidents since 15 May"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-deaths-vaccine-bundibugyo-06f39ce4dc7dfd2dbcaf509b6e6ecbe5"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/aug/24/ebola-100-days-deadliest-outbreak-disease-communities-who"
+          }
+        ]
+      },
+      {
+        "headline": "South Sudan — Ebola preparedness intensified along border with DRC",
+        "score": 4.0,
+        "body": "South Sudan's Ministry of Health and National Public Health Institute, supported by United Nations agencies and humanitarian partners, have stepped up Ebola preparedness efforts. The measures are driven by concerns over potential cross-border transmission from the ongoing outbreak in the neighboring Democratic Republic of the Congo. Authorities and humanitarian agencies confirm that no cases of Ebola have been identified or confirmed within South Sudan to date, but frequent civilian movement across the shared border presents a continuous risk.",
+        "verified_figures": [
+          "0 confirmed Ebola cases in South Sudan"
+        ],
+        "sources": [
+          {
+            "name": "SKNVibes",
+            "url": "https://www.sknvibes.com/news/newsdetails.cfm/127802"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Civilian casualties reach four-year high in July",
+        "score": 8.0,
+        "body": "UN Under-Secretary-General for Humanitarian Affairs Tom Fletcher reported that July was the deadliest month for Ukrainian civilians in over four years, recording at least 437 deaths and more than 2,600 injuries. Civilian casualties in the first half of 2026 increased by 37 percent compared to the same period in 2025. Fletcher noted witnessing drone attacks targeting civilians in Kherson, while ongoing air defense shortages leave civil energy infrastructure exposed ahead of winter.",
+        "verified_figures": [
+          "at least 437 killed",
+          "more than 2,600 injured",
+          "Civilian casualties during the first half of 2026 rose 37 per cent compared with the same period last year"
+        ],
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/amp/rubric-polytics/4157353-july-becomes-deadliest-month-for-ukrainian-civilians-since-russias-fullscale-war-begins-un-deputy-chief.html"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Black Sea port strikes choke grain shipments",
+        "score": 6.0,
+        "body": "Reciprocal military strikes on Black Sea ports by Ukraine and Russia have reduced grain shipments through the vital trade corridor to a crawl. The renewed blockade severely impacts Ukrainian agricultural workers during the harvest period. Analysts also warn that Ukraine remains exposed to attacks on its civil energy infrastructure as winter approaches due to a lack of air defense systems capable of intercepting ballistic and hypersonic missiles.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Perm refinery halts operations following drone attack",
+        "score": 4.0,
+        "body": "Operations at Russia's Perm oil refinery were halted following a drone strike on August 21. In response to increasing vulnerabilities across key facilities, Russian President Vladimir Putin has authorized state control over infrastructure deemed inadequately protected against incoming aerial strikes.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/russias-perm-oil-refinery-halted-operations-after-august-21-drone-attack-sources-2026-08-24/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military offensive near planned port displaces residents and kills aid workers",
+        "score": 7.5,
+        "body": "Myanmar’s military has deployed around 700 troops in the Tanintharyi Region to secure land for a proposed Russia-backed port and industrial project. Supported by air and naval strikes, ground troops have raided villages, burned homes, killed civilians, and forced residents to flee. Three humanitarian workers assisting displaced communities were reportedly detained and killed during the offensive.",
+        "verified_figures": [
+          "Around 700 troops",
+          "Three humanitarian workers assisting displaced communities were reportedly detained and killed"
+        ],
+        "sources": [
+          {
+            "name": "The Defense Post",
+            "url": "https://thedefensepost.com/2026/08/24/myanmar-russia-port/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — 7.7 Magnitude Earthquake Kills 53 and Displaces Thousands",
+        "score": 8.0,
+        "body": "A major 7.7 magnitude earthquake struck Indonesia, killing at least 53 people and forcing the evacuation of approximately 5,000 residents. The severe shaking disrupted local communities and damaged infrastructure, prompting emergency medical interventions and rescue efforts. Local authorities and response teams are managing emergency shelters for displaced families across the impacted regions.",
+        "verified_figures": [
+          "7.7 magnitude earthquake",
+          "53 killed",
+          "5,000 evacuations"
+        ],
+        "sources": [
+          {
+            "name": "Mshale",
+            "url": "https://mshale.com/c5437a7e/d697f0d4JWzNOjVv0Eg"
+          }
+        ]
+      },
+      {
+        "headline": "India — Severe Flooding Kills Over 100 in Assam",
+        "score": 7.5,
+        "body": "Heavy monsoonal rainfall in the Indian state of Assam caused widespread flooding after the Mitong River overflowed its banks. Sudden inundation submerged unpaved roads and paddy fields in towns such as Gaurisagar, with floodwaters rapidly rising to waist levels inside residential areas. The flooding resulted in major destruction across affected communities, leaving more than 100 people dead and thousands homeless.",
+        "verified_figures": [
+          "more than 100 killed",
+          "thousands left homeless"
+        ],
+        "sources": [
+          {
+            "name": "AOL.co.uk",
+            "url": "https://www.aol.co.uk/articles/feared-d-drowned-indian-floods-050019000.html"
+          }
+        ]
+      },
+      {
+        "headline": "Bangladesh — Flash Floods and Landslides Cut Road Links in Khagrachhari",
+        "score": 4.5,
+        "body": "Sudden heavy rainfall inundated low-lying areas and triggered landslides across Bangladesh's Khagrachhari district, submerging regions including Merung, Kabakhali, Hamtoli, and Boalkhali. The local weather observation centre recorded 103 millimetres of rainfall within six hours, causing the Maini River to exceed danger thresholds. Water flooded Aman paddy fields and entered homes, while landslides forced the suspension of vehicular traffic along the Khagrachhari-Dighinala road.",
+        "verified_figures": [
+          "103 millimetres of rainfall in six hours"
+        ],
+        "sources": [
+          {
+            "name": "The Daily Star",
+            "url": "https://www.thedailystar.net/news/environment/natural-disaster/news/heavy-rain-floods-low-lying-areas-khagrachhari-cuts-road-links-4253866"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Epidemic",
+        "score": 9.0,
+        "body": "A rapidly expanding Ebola outbreak in the Democratic Republic of the Congo is spreading faster than containment efforts, according to United Nations officials. The outbreak has recorded nearly 5,000 cases and over 2,000 deaths since mid-May, making it the country's deadliest on record. Driven by the Bundibugyo strain, infections continue to rise exponentially across vast areas. Public health officials and community leaders in Bunia emphasize that halting transmission requires urgent international assistance alongside direct local involvement to strengthen early detection, contact tracing, and public trust.",
+        "verified_figures": [
+          "nearly 5,000 cases",
+          "more than 2,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/audio/play/w1730c6j46p7fkl"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/aug/24/ebola-100-days-deadliest-outbreak-disease-communities-who"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Flash Floods in Caracas",
+        "score": 5.0,
+        "body": "Heavy torrential rains triggered flash flooding in Caracas, destroying temporary shelters accommodating families previously displaced by recent major earthquakes. The flooding killed at least three people, including two young girls swept away by floodwaters and a third person killed by a wall collapse. Several residents remain missing. The severe weather has compounded humanitarian vulnerabilities in neighborhoods still recovering from magnitude 7.2 and 7.5 earthquakes that struck the region on June 24.",
+        "verified_figures": [
+          "3 fatalities",
+          "several residents missing"
+        ],
+        "sources": [
+          {
+            "name": "The Weather Channel",
+            "url": "https://weather.com/2026/08/24/news/weather/venezuela-caracas-flash-flooding-earthquake-aftermath"
+          }
+        ]
+      },
+      {
+        "headline": "Guinea-Bissau — Mpox Outbreak",
+        "score": 4.0,
+        "body": "An outbreak of mpox in Guinea-Bissau is impacting pediatric populations, with children accounting for half of all recorded cases. Specific figures regarding total infections, casualties, or local containment measures have not yet been detailed.",
+        "verified_figures": [
+          "children account for half of cases"
+        ],
+        "sources": [
+          {
+            "name": "India News Network",
+            "url": "https://www.indianewsnetwork.com/en/mpox-outbreak-guinea-bissau-children-account-half-cases-20260825"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Strait of Hormuz",
+      "score": 5.5,
+      "trigger": "Further Iranian projectile strikes or enforcement actions against commercial shipping in the Strait of Hormuz could trigger international military escalation.",
+      "potential_impact": "Disruption of critical global shipping channels could severely affect trade stability and heighten regional security risks for neighboring states.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman"
+        }
+      ]
+    },
+    {
+      "location": "South Sudan",
+      "score": 4.0,
+      "trigger": "Uncontrolled civilian movement across the border with the Democratic Republic of the Congo could introduce the lethal Bundibugyo Ebola strain into South Sudan.",
+      "potential_impact": "A secondary cross-border outbreak would rapidly overwhelm South Sudan's fragile health infrastructure and endanger vulnerable border communities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "SKNVibes",
+          "url": "https://www.sknvibes.com/news/newsdetails.cfm/127802"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 6.0,
+      "trigger": "Continued targeting of Black Sea port facilities and energy infrastructure ahead of winter could further weaken agricultural distribution and power grids.",
+      "potential_impact": "Severe interruptions to food exports and winter energy access threaten broad severe hardship for millions of civilians across affected areas.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 4
+      },
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "SKNVibes",
+        "count": 2
+      },
+      {
+        "name": "The Weather Channel",
+        "count": 2
+      },
+      {
+        "name": "AOL.co.uk",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "India News Network",
+        "count": 1
+      },
+      {
+        "name": "Mshale",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Daily Star",
+        "count": 1
+      },
+      {
+        "name": "The Defense Post",
+        "count": 1
+      },
+      {
+        "name": "Ukrinform",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1337,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
