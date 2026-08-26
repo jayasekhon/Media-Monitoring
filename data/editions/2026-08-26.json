@@ -1,0 +1,390 @@
+{
+  "date": "2026-08-26",
+  "printed_time": "6:51 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo is confronting its deadliest Ebola outbreak on record, with the Bundibugyo strain claiming over 2,600 lives across six conflict-affected eastern provinces.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "An overnight gang attack in Kenscoff, Haiti, left at least 47 people dead and over 50 abducted, with up to 22 victims executed inside a church compound.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Surging acute malnutrition in Afghanistan has overwhelmed medical infrastructure, leaving 3.7 million children malnourished and one million facing life-threatening severe wasting.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "An Israeli airstrike destroyed an emergency aid warehouse in Gaza, killing seven people as health authorities warn of an imminent total collapse of basic survival necessities.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Civilian casualties in Ukraine hit a four-year monthly peak in July 2026 with 437 killed and more than 2,600 injured amid a broader 37 percent rise in casualties this year.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The unmitigated spread of a deadly Bundibugyo Ebola strain across six conflict-affected eastern provinces in the Democratic Republic of the Congo has killed more than 2,600 people, severely compounding existing humanitarian crises where no established vaccine is available.",
+    "label": "DEMOCRATIC REPUBLIC OF THE CONGO — Record Ebola Epidemic Exceeds 2,600 Fatalities"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli airstrikes hit aid warehouse and civilian shelter",
+        "score": 8.0,
+        "body": "An Israeli airstrike in Gaza destroyed an aid supply warehouse, killing seven people, according to reporting from Al Jazeera. In a separate incident, a 10-year-old Palestinian girl was shot and killed in a tent in Gaza. The Gaza Health Ministry warned of an impending complete collapse of basic life necessities as military operations persist. Destruction of critical relief facilities and ongoing bombardment severely impede humanitarian access and the distribution of emergency supplies to vulnerable populations across the enclave.",
+        "verified_figures": [
+          "7 killed in aid warehouse strike",
+          "1 ten-year-old girl killed",
+          "complete collapse of basic necessities warned"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Cumulative death toll reaches 4,350 as health sector suffers 179 attacks",
+        "score": 7.5,
+        "body": "Statistical reports from the Lebanese Ministry of Health state that the cumulative casualty toll from Israeli military actions in Lebanon since March 2nd has reached 4,350 killed and 12,310 wounded. Two fatalities and three injuries were recorded over a recent four-day period. Attacks targeting medical infrastructure and personnel have resulted in 135 healthcare workers killed and 410 wounded across 179 distinct incidents, significantly impairing emergency health services and medical response capacity.",
+        "verified_figures": [
+          "4,350 killed",
+          "12,310 wounded",
+          "135 healthcare workers killed",
+          "410 healthcare workers wounded",
+          "179 attacks on healthcare workers"
+        ],
+        "sources": [
+          {
+            "name": "وكالة سبأ",
+            "url": "https://www.saba.ye/en/news3775271.htm"
+          }
+        ]
+      },
+      {
+        "headline": "East Jerusalem/OPT — Israeli forces seize UNRWA headquarters facility",
+        "score": 6.5,
+        "body": "Israeli forces entered and seized an UNRWA facility in occupied East Jerusalem, expelling staff members from the premises. The operation occurred alongside reports of settler attacks and military raids across the occupied West Bank. UNRWA serves as the primary provider of essential relief, healthcare, and educational support to Palestinian refugees, making forced access restrictions and facility seizures a major impediment to international humanitarian operations in the territory.",
+        "verified_figures": [
+          "UNRWA staff expelled from East Jerusalem facility"
+        ],
+        "sources": [
+          {
+            "name": "Drop Site News",
+            "url": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Government forces report 14 Houthi casualties near Hodeidah",
+        "score": 4.5,
+        "body": "Yemeni government forces reported that airstrikes conducted near the western port city of Hodeidah killed 14 Houthi combatants. Hodeidah remains a vital maritime gateway for commercial imports and international humanitarian shipments into northern Yemen. Military activity around the port city threatens critical supply corridors relied upon by millions of food-insecure civilians across the country.",
+        "verified_figures": [
+          "14 Houthis killed"
+        ],
+        "sources": [
+          {
+            "name": "Latest news from Azerbaijan",
+            "url": "https://news.az/news/14-houthis-killed-in-strikes-near-hodeidah-yemen-government-forces-say"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Massacre and Mass Abductions in Kenscoff",
+        "score": 9.0,
+        "body": "At least 47 people were killed and more than 50 abducted following an overnight attack by an armed gang in Kenscoff, a commune near Haiti's capital, Port-au-Prince. According to UN reports and local officials, gang members torched homes and executed up to 22 people sheltered inside a church compound, including internally displaced individuals. Casualty figures remain under verification, with local official death toll estimates ranging between 25 and 47. A gang leader has threatened to kill hostages if security forces intervene. Kenscoff overlooks key access routes to Port-au-Prince, where gang violence has previously forced thousands of residents to flee.",
+        "verified_figures": [
+          "At least 47 killed",
+          "More than 50 kidnapped",
+          "Up to 22 executed in a church compound",
+          "15 to 20 injured"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/haiti-kenscoff-gangs-killed-kidnapped-attack-1690b1523421eb72aa260d9d56b5d521"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Record Ebola Outbreak Spreads Across Eastern Conflict Zones",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is experiencing its deadliest and fastest-growing Ebola outbreak on record, centered in conflict-affected eastern regions including Ituri province. According to United Nations experts, response efforts are severely challenged because the epicentre is in an active conflict zone with fragile health infrastructure. Additionally, the outbreak involves a rare species of the Ebola virus for which no established vaccine exists, though testing is underway. Humanitarian agencies report severe impacts on healthcare access, with maternal deaths in the epicentre doubling since the outbreak began.",
+        "verified_figures": [
+          "2,325 to over 2,600 reported deaths",
+          "4,945 to more than 5,500 reported cases",
+          "63,700 pregnant women at risk in affected areas"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cz72p75zg4qo"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — UN Reports Highest Monthly Civilian Casualties in Over Four Years",
+        "score": 8.0,
+        "body": "UN Under-Secretary-General for Humanitarian Affairs Tom Fletcher informed the UN Security Council that July 2026 marked the deadliest month for civilians in Ukraine in more than four years. During the month, at least 437 civilians were killed and over 2,600 were injured. Additionally, civilian casualty numbers recorded during the first half of 2026 increased by 37 percent compared to the same period in 2025. The briefing followed a recent visit by the UN humanitarian chief to Ukraine.",
+        "verified_figures": [
+          "at least 437 killed in July 2026",
+          "over 2,600 injured in July 2026",
+          "37% increase in civilian casualties in the first half of 2026 compared to same period last year"
+        ],
+        "sources": [
+          {
+            "name": "fakti.bg",
+            "url": "https://fakti.bg/en/world/1076654-july-is-the-month-with-the-highest-number-of-civilian-casualties-in-ukraine-since-the-beginning-of-the-war"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian Drones Accused of Deliberately Targeting Civilians",
+        "score": 7.0,
+        "body": "Reports indicate Russian military drone operators are continuing to deliberately target Ukrainian civilians in attacks described as 'human safaris.' Recent video published by the Russian military showed a Ukrainian cyclist being targeted and killed in a short-range drone strike. An independent UN commission has previously denounced deliberate attacks targeting civilians as war crimes.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260825-not-an-isolated-incident-russian-drones-stalk-ukraine-civilians-human-safaris"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Industrial Fire at Gas Chemical Complex Kills Three, Injures 150",
+        "score": 5.0,
+        "body": "A major fire broke out at a gas chemical complex in Russia, resulting in three fatalities and leaving approximately 150 people injured. Among those injured in the industrial incident was at least one Chinese worker, according to available reporting.",
+        "verified_figures": [
+          "3 killed",
+          "some 150 injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/china/more-than-120-injured-fire-russian-gas-chemical-complex-one-chinese-worker-2026-08-25/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Widespread Child Malnutrition Overwhelms Hospitals",
+        "score": 8.0,
+        "body": "UNICEF reported that approximately 3.7 million children in Afghanistan are suffering from acute malnutrition, with around 1 million facing life-threatening severe acute malnutrition. Hospitals across the country are overwhelmed by increasing admissions. Children under two years of age account for 83 percent of severe acute malnutrition cases, while infants under six months represent nearly 40 percent of hospital admissions for severe wasting with medical complications. The crisis is driven by severe food insecurity, which severely compromises immune systems and increases vulnerability to infections.",
+        "verified_figures": [
+          "3.7 million children suffering from acute malnutrition",
+          "1 million children facing severe acute malnutrition",
+          "83 percent of severe acute malnutrition cases are children under two",
+          "nearly 40 percent of hospitalized severe wasting cases are under six months old"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/hospitals-overwhelmed-child-malnutrition-surges-across-afghanistan"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar/Bangladesh — Escalating Rakhine Conflict and Prolonged Displacement",
+        "score": 7.5,
+        "body": "Diplomatic missions in Bangladesh reported that conditions do not allow for the safe return of Rohingya refugees to Myanmar as displacement reaches its ninth year. Escalating conflict across Rakhine state, airstrikes on civilian infrastructure, and blockades on aid and trade by Myanmar authorities continue to deepen the humanitarian crisis. Meanwhile, humanitarian conditions inside Bangladesh refugee camps are deteriorating due to funding shortfalls and cuts to food rations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Herald Malaysia Online",
+            "url": "https://www.heraldmalaysia.com/news/rohingya-mark-ninth-year-of-displacement-amid-worsening-hunger-uncertainty/91297/2"
+          }
+        ]
+      },
+      {
+        "headline": "China — Typhoon Narra Triggers Record Flooding and Displaces Thousands",
+        "score": 6.5,
+        "body": "Widespread flooding triggered by Typhoon Narra submerged homes and forced mass evacuations in southern China. Authorities in Chongzuo, in the Guangxi region, evacuated more than 15,000 residents after water levels surpassed a record set in 2008. Heavy rainfall is forecast to affect parts of southern China and Vietnam, while a separate storm system, Typhoon Saudel, tracks toward Taiwan and Japan.",
+        "verified_figures": [
+          "more than 15,000 people evacuated"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Magnitude 4.9 Earthquake Injures 15 in Nangarhar",
+        "score": 4.0,
+        "body": "A 4.9-magnitude earthquake struck eastern Afghanistan's Nangarhar province, injuring at least 15 people, including women and children. According to local health authorities, the quake struck at approximately 5:48 am local time, shaking the provincial capital of Jalalabad as well as Behsud and Kuz Kunar districts. The injured were transferred to health facilities for treatment.",
+        "verified_figures": [
+          "At least 15 people injured"
+        ],
+        "sources": [
+          {
+            "name": "KabulNow",
+            "url": "https://kabulnow.com/2026/08/15-people-injured-as-magnitude-4-9-earthquake-strikes-eastern-afghanistan/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Bundibugyo Ebola outbreak exceeds 2,600 deaths across six provinces",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is facing its fastest-growing Ebola epidemic on record, caused by the Bundibugyo strain. Over 100 days since the outbreak was declared, health officials have logged 5,515 confirmed cases and 2,642 deaths, marking a case fatality rate of nearly 48 percent, alongside 1,200 recoveries. The virus has spread across 57 health zones in six provinces—Ituri, North Kivu, South Kivu, Haut-Uele, Bas-Uele, and Tshopo—with Ituri accounting for roughly 85 percent of all cases. The World Health Organization warned that transmission is outpacing control efforts as researchers rapidly launch human vaccine trials.",
+        "verified_figures": [
+          "5,515 confirmed cases",
+          "2,642 deaths",
+          "48% case fatality rate",
+          "1,200 recoveries",
+          "57 health zones across 6 provinces"
+        ],
+        "sources": [
+          {
+            "name": "World Health Organization (WHO)",
+            "url": "https://www.who.int/news-room/commentaries/detail/the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "An armed intervention by security forces to rescue abducted civilians could prompt gang members to execute over 50 hostages.",
+      "potential_impact": "Hostage executions would precipitously raise civilian fatalities and exacerbate mass displacement along critical logistical routes connecting to Port-au-Prince.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/haiti-kenscoff-gangs-killed-kidnapped-attack-1690b1523421eb72aa260d9d56b5d521"
+        }
+      ]
+    },
+    {
+      "location": "Southern China and East Asia",
+      "score": 6.5,
+      "trigger": "Persistent extreme precipitation from Typhoon Narra combined with the landfall trajectory of Typhoon Saudel could cause severe secondary riverine flooding.",
+      "potential_impact": "Compounding floods risk inundating urban centers, causing mass displacement beyond the 15,000 residents already evacuated in Guangxi, and damaging critical infrastructure.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china"
+        }
+      ]
+    },
+    {
+      "location": "Hodeidah, Yemen",
+      "score": 6.0,
+      "trigger": "Heightened military actions and airstrikes around Hodeidah could directly disrupt port operations and maritime access.",
+      "potential_impact": "Operational blockades or structural damage at Hodeidah would paralyze commercial and humanitarian supply lines vital for millions of food-insecure civilians in northern Yemen.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Latest news from Azerbaijan",
+          "url": "https://news.az/news/14-houthis-killed-in-strikes-near-hodeidah-yemen-government-forces-say"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "UNICEF",
+      "WHO"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Latest news from Azerbaijan",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Drop Site News",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Herald Malaysia Online",
+        "count": 1
+      },
+      {
+        "name": "KabulNow",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "World Health Organization (WHO)",
+        "count": 1
+      },
+      {
+        "name": "fakti.bg",
+        "count": 1
+      },
+      {
+        "name": "وكالة سبأ",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1317,
+      "sources_cited": 14
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
