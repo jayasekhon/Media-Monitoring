@@ -1,0 +1,395 @@
+{
+  "date": "2026-08-27",
+  "printed_time": "5:25 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An unprecedented Ebola outbreak in the Democratic Republic of the Congo has killed over 2,700 people and infected more than 5,700, outstripping regional containment capabilities.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Devastating flash floods along the Nepal-China border have killed hundreds of people and left over 1,000 missing, with a rapidly filling upstream lake threatening further catastrophic outburst flooding.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 3,
+      "text": "The confirmed death toll from Venezuela's major earthquakes has risen to 6,509, with more than 16,700 people injured and over 1,500 missing.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Direct military conflict between the United States, Israel, and Iran intensified with fresh airstrikes on Tehran following the killing of Iran's Supreme Leader.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "An armed gang assault in Kenscoff, Haiti, killed at least 47 people—including displaced civilians sheltering in a church—and resulted in the abduction of over 50 residents.",
+      "region": "Americas"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "A rapidly expanding Ebola outbreak driven by the Bundibugyo strain in the Democratic Republic of the Congo has infected over 5,700 people and claimed more than 2,700 lives, outpacing containment capacity.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Middle East — US, Israel, and Iran Launch Fresh Airstrikes in Expanding Regional Conflict",
+        "score": 9.0,
+        "body": "Direct military conflict involving the United States, Israel, and Iran entered its eighth day with renewed airstrikes and drone attacks targeting multiple locations, including Tehran. The escalation follows a joint US-Israeli strike that killed Iranian Supreme Leader Ayatollah Ali Khamenei and senior commanders, triggering retaliatory attacks from Tehran. Concurrently, the US administration approved a 151 million dollar arms sale to Israel.",
+        "verified_figures": [
+          "151 million US dollar arms sale"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/west-asia-conflict-enters-eighth-day-as-united-states-israel-and-iran-launch-fresh-airstrikes/"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Israeli Shelling and Airstrikes Hit Southern Towns",
+        "score": 7.0,
+        "body": "Israeli forces conducted airstrikes and artillery shelling across southern Lebanon, striking the towns of Al-Mansouri, Sarbein, Beit Lif, and the Wadi Zibqin area. Lebanese official media reported that Israeli drones dropped explosive canisters on residential homes in Al-Mansouri, while warplanes carried out multiple bombing runs. The attacks mark continued violations of the regional ceasefire agreement.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "وكالة سبأ",
+            "url": "https://www.saba.ye/en/news3775980.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Funding Allocated for Ebola Vaccine Development Amid Outbreak",
+        "score": 7.5,
+        "body": "The Coalition for Epidemic Preparedness Innovations committed up to 16.5 million dollars to Egyptian drugmaker Minapharm to advance a candidate vaccine into clinical trials against the Bundibugyo strain of Ebola. The funding aims to combat an ongoing Ebola outbreak concentrated in the Democratic Republic of the Congo, which has caused over 2,700 deaths. The event marks the second-largest Ebola outbreak on record.",
+        "verified_figures": [
+          "more than 2,700 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Fierce Biotech",
+            "url": "https://www.fiercebiotech.com/biotech/cepi-backs-push-bring-ebola-vaccine-clinic-curb-fast-growing-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Severe Flash Floods Kill Over 350 People Along Border",
+        "score": 9.0,
+        "body": "Flash flooding near the Nepal-Tibet border killed more than 350 people and left nearly 1,400 missing, mostly tourists. Rising water levels at a lake formed by the disaster prompted authorities to warn of potential bursts, threatening further hazards. Flooding destroyed trees and electricity infrastructure, disrupting transport and complicating emergency responses along key travel routes.",
+        "verified_figures": [
+          "more than 350 killed",
+          "nearly 1,400 missing"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Massacre and Mass Abduction in Kenscoff",
+        "score": 8.0,
+        "body": "A violent attack by armed gangs in Kenscoff, near Port-au-Prince, killed at least 47 people and led to the abduction of dozens of residents, according to United Nations and international reports. Victims included displaced civilians who were executed inside a church compound where they were seeking shelter. At least 22 people were injured, and thousands of residents fled the town. Gang leader Izo 2 threatened to kill the hostages if security operations were launched against his group. UN Secretary-General António Guterres condemned the assault, emphasizing the worsening security situation in Haiti and calling for urgent international security support.",
+        "verified_figures": [
+          "at least 47 killed",
+          "22 injured",
+          "more than 50 kidnapped",
+          "thousands fled"
+        ],
+        "sources": [
+          {
+            "name": "WSJ",
+            "url": "https://www.wsj.com/world/americas/haitian-towns-pleas-for-help-went-unanswered-before-massacre-c654eb41"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Earthquake Death Toll Rises Above 6,500",
+        "score": 9.0,
+        "body": "The death toll from two major earthquakes that struck Venezuela on June 24 has risen to 6,509 following the confirmation of 71 additional fatalities, according to National Assembly President Jorge Rodríguez. Officials reported that 16,740 people have been injured during the disaster. In La Guaira state, the region hardest hit by casualties and destruction, Governor José Alejandro Terán confirmed that 1,579 individuals remain missing. Emergency responses and search operations continue as authorities assess the full scale of casualties and structural losses.",
+        "verified_figures": [
+          "6,509 killed",
+          "16,740 injured",
+          "1,579 missing in La Guaira state"
+        ],
+        "sources": [
+          {
+            "name": "Haberler.com",
+            "url": "https://en.haberler.com/death-toll-in-venezuela-earthquake-rises-to-6-509-2304548/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — 5.1-Magnitude Earthquake Prompts Evacuations",
+        "score": 3.0,
+        "body": "A 5.1-magnitude earthquake struck Santander department in northeastern Colombia on Wednesday, with its epicenter located in Los Santos at a depth of 149 kilometers, according to the Colombian Geological Survey. The tremor caused shaking across central and northeastern regions, prompting precautionary evacuations in Bogotá and Bucaramanga. The seismic event occurred 16 days after a separate 7.4-magnitude earthquake caused over 300 fatalities in the country. No immediate casualties or significant structural damages were reported following Wednesday's earthquake.",
+        "verified_figures": [
+          "5.1-magnitude earthquake",
+          "more than 300 killed in previous 7.4-magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "Euronews.com",
+            "url": "https://www.euronews.com/2026/08/26/51-magnitude-earthquake-hits-colombia-forcing-evacuations-in-bogota-and-bucaramanga"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak and Displacement Crisis Escalation",
+        "score": 9.5,
+        "body": "An Ebola epidemic in eastern Democratic Republic of the Congo, driven by the Bundibugyo strain, has become the fastest-spreading Ebola outbreak on record. UN Secretary-General António Guterres warned the virus is expanding faster than containment capabilities. Health authorities report at least 5,713 confirmed cases and 2,744 deaths, with over 300 fatalities recorded in a single week. Local experts caution the true scale may be three times higher due to out-of-facility deaths. The public health emergency is severely compounding insecurity in Ituri and surrounding regions, where persistent conflict has forced over 16,400 Congolese to flee into neighboring countries since January, overwhelming host communities and essential services.",
+        "verified_figures": [
+          "5,713 confirmed Ebola cases",
+          "2,744 deaths from Ebola",
+          "317 deaths reported in a single week",
+          "More than 16,400 refugees fled to neighbouring countries since January"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://aa.com.tr/en/africa/un-chief-warns-ebola-outbreak-in-dr-congo-spreading-faster-than-containment-efforts/4039478"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Humanitarian Preparedness for Climate Shocks and Displacement",
+        "score": 4.5,
+        "body": "The Somali Disaster Management Agency met with the Norwegian Refugee Council in Mogadishu to review response strategies for compounding climate and security crises. Discussions focused on national preparations for potential extreme weather impacts linked to Super El Niño, alongside ongoing emergencies caused by severe drought, seasonal flooding, armed conflict, internal displacement, and acute food insecurity. Officials assessed operations at the national emergency center to strengthen contingency planning, as overlapping environmental shocks continue to strain local coping capacities and humanitarian service delivery across vulnerable communities.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Shabelle Media Network",
+            "url": "https://shabellemedia.com/somalia-disaster-chief-meets-nrc-head-over-drought-floods-and-displacement/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Moscow Warns UK and France Over Missile Technology Transfers",
+        "score": 5.0,
+        "body": "Russia has threatened potential retaliation against military targets inside and outside Ukraine following statements from Britain and France regarding missile technology transfers to Kyiv. UK Prime Minister Andy Burnham announced that Britain would grant Ukraine access to classified technology to enable domestic production of Storm Shadow long-range cruise missiles, alongside a similar technology supply agreement from France. Russian Foreign Ministry spokesperson Maria Zakharova warned that Western nations are playing with fire. The statements follow reports that the CIA director privately warned the Kremlin against launching attacks on NATO members.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — UN Expert Details Russian, Chinese, and Serbian Weapons Transfers",
+        "score": 6.5,
+        "body": "A report by United Nations independent human rights expert Thomas Andrews states that Russia, China, and Serbia have supplied weapons to Myanmar's military junta since it seized power. According to the findings, Russia and China provided fighter jets that are being used to carry out attacks against civilian populations. Andrews urged the UN Security Council to block weapon flows to the regime, asserting that international suppliers transferred arms with full knowledge that they would be used to commit atrocities against civilians.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Financial Express",
+            "url": "https://thefinancialexpress.com.bd/print/myanmar-junta-using-new-russian-chinese-arms-against-civilians-un-expert-1645591632"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal & China — Devastating Himalayan flash floods and secondary outburst risk",
+        "score": 9.5,
+        "body": "Devastating flash floods along the Nepal-China border have killed at least 165 people, according to Al Jazeera, while Reuters reports hundreds dead and over 1,000 missing, including more than 600 foreign tourists. The torrent of water, mud, and debris destroyed homes, roads, bridges, and power infrastructure in Nepal. United Nations agencies are delivering emergency aid and coordinating local relief efforts. Meanwhile, Chinese authorities warned Nepal of an additional flood risk along the Bhotekoshi River caused by a river blockage and lake formation upstream on the Lhende River, leading Nepal's disaster agency to advise heightened caution in downstream areas.",
+        "verified_figures": [
+          "At least 165 killed",
+          "More than 1,000 missing",
+          "Over 600 tourists missing"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/rescuers-search-survivors-after-devastating-nepal-flood-2026-08-27/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Rapidly Spreading Ebola Outbreak",
+        "score": 9.0,
+        "body": "An Ebola outbreak driven by the Bundibugyo strain in the eastern Democratic Republic of the Congo has infected at least 5,605 people and killed 2,683 since May 15, according to CDC and Congolese official data. Health experts warn the rapid transmission rate surpasses the country's 2018–2022 outbreak and outpaces early spread during the 2014–2016 West Africa crisis, with actual casualties estimated to be higher. Meanwhile, the World Health Organization has declared an emergency regarding the outbreak, triggering heightened disease surveillance measures in countries including Nigeria.",
+        "verified_figures": [
+          "at least 5,605 people infected",
+          "2,683 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Newser",
+            "url": "https://www.newser.com/story/395335/ebola-outbreak-poised-to-become-deadliest-ever.html"
+          },
+          {
+            "name": "The Guardian Nigeria News",
+            "url": "https://guardian.ng/tv/who-declares-emergency-over-ebola-outbreak-as-ncdc-intensifies-surveillance/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal and Tibet — Deadly Flash Floods and Rising Lake Risk",
+        "score": 9.5,
+        "body": "Catastrophic flash floods along the Nepal-Tibet border have obliterated entire villages, sweeping away homes and infrastructure. BBC reports at least 160 people killed, while higher estimates from The Guardian place the death toll at least 359 with more than 1,300 missing. Rescue teams and international aid efforts are struggling to access impacted mountain valleys. Humanitarian concerns are escalating following warnings that a newly formed flood lake at the disaster site is rapidly rising and risks bursting.",
+        "verified_figures": [
+          "at least 160 to 359 people killed",
+          "more than 1,300 missing"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-floods-aid"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Bhotekoshi River Basin, Nepal-China Border",
+      "score": 9.0,
+      "trigger": "A sudden breach of a rapidly rising lake formed by flood debris blockages on the upstream Lhende River.",
+      "potential_impact": "Severe downstream flooding along the Bhotekoshi River, risking further loss of life, displacement, and destruction of remaining emergency access routes.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/rescuers-search-survivors-after-devastating-nepal-flood-2026-08-27/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news"
+        }
+      ]
+    },
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "The launch of targeted security operations against gang leader Izo 2's forces following threats to execute hostages.",
+      "potential_impact": "Immediate execution of dozens of kidnapped residents and intensified violent clashes causing additional civilian casualties and community displacement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/world/americas/haitian-towns-pleas-for-help-went-unanswered-before-massacre-c654eb41"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine / Eastern Europe",
+      "score": 7.5,
+      "trigger": "Russian military strikes targeting British or French assets inside or outside Ukraine in response to long-range cruise missile technology transfers.",
+      "potential_impact": "A direct military confrontation between Russia and Western nations, escalating the broader regional armed conflict.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "BBC",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 6
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "WSJ",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Euronews.com",
+        "count": 1
+      },
+      {
+        "name": "Fierce Biotech",
+        "count": 1
+      },
+      {
+        "name": "Haberler.com",
+        "count": 1
+      },
+      {
+        "name": "News On AIR",
+        "count": 1
+      },
+      {
+        "name": "Newser",
+        "count": 1
+      },
+      {
+        "name": "Shabelle Media Network",
+        "count": 1
+      },
+      {
+        "name": "The Financial Express",
+        "count": 1
+      },
+      {
+        "name": "The Guardian Nigeria News",
+        "count": 1
+      },
+      {
+        "name": "وكالة سبأ",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1219,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
