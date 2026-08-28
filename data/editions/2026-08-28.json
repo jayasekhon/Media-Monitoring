@@ -1,0 +1,443 @@
+{
+  "date": "2026-08-28",
+  "printed_time": "6:18 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Catastrophic flash floods and landslides along the Nepal-Tibet border have killed nearly 600 people, left over 1,900 missing, and placed at least 93,000 individuals in urgent need of assistance.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "A rapidly expanding Ebola outbreak in the Democratic Republic of the Congo has caused over 2,700 deaths out of more than 5,700 confirmed cases, prompting urgent multi-hundred-million-dollar funding appeals.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "An armed gang raid on a church sheltering displaced civilians in Kenscoff, Haiti, left at least 47 people dead, 22 injured, and more than 50 kidnapped.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Israeli strikes across the Gaza Strip killed civilians, including four children, and destroyed essential water infrastructure and humanitarian supplies amid acute food insecurity.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "A joint assessment highlights a severe humanitarian crisis in Afghanistan, where 21.9 million people require urgent assistance and 45 percent of the population faces acute food insecurity.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Devastating flash floods and mudslides across the Himalayan border region of Nepal and Tibet have claimed nearly 600 lives and left over 1,900 missing, leaving tens of thousands of survivors in urgent need of humanitarian assistance amidst ongoing risks from debris-dammed lakes.",
+    "label": "GLOBAL / CROSS-CUTTING — Nepal-Tibet Border Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza — Israeli Strikes Kill Civilians, Target Infrastructure, and Disrupt Humanitarian Aid",
+        "score": 8.0,
+        "body": "Israeli strikes across the Gaza Strip have killed at least five people, including three members of a single family, amid ongoing severe food insecurity. In separate attacks, four children were killed, while critical water infrastructure was damaged and humanitarian supplies were destroyed.",
+        "verified_figures": [
+          "5 people killed",
+          "3 members of one family killed",
+          "4 children killed"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/four-children-killed-separate-attacks-destroy-humanitarian-supplies-and-damage"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strikes-kill-five-people-including-three-from-one-family-in-gaza?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — UN Committee Warns Against Civilian Attacks Amid Displacement and Fatal Strike",
+        "score": 7.0,
+        "body": "The UN Committee on the Elimination of Racial Discrimination issued an urgent warning calling for an end to attacks directed against or indiscriminately affecting civilians in Lebanon. The committee highlighted concerns regarding civilian deaths and mass displacement during armed conflict. Separately, Lebanese national media reported that a woman was killed in an Israeli airstrike in southern Lebanon.",
+        "verified_figures": [
+          "1 woman killed"
+        ],
+        "sources": [
+          {
+            "name": "Jurist.org",
+            "url": "https://www.jurist.org/news/2026/08/un-committee-warns-of-racial-discrimination-amid-civilian-deaths-and-mass-displacement-in-lebanon/"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied West Bank — Israeli Airstrike Kills Three in Jenin",
+        "score": 6.5,
+        "body": "The Israeli military carried out an airstrike in the Jenin area of the occupied West Bank on Friday, killing three people. According to the Israeli military, the strike targeted a Hamas militant operative and two accomplices. The operation represents a rare deployment of deadly air power by Israeli forces within the occupied territory.",
+        "verified_figures": [
+          "3 people killed"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — US Calls for De-escalation Following Israeli Airstrikes on Airbase",
+        "score": 5.0,
+        "body": "The United States urged Israel and Syria to reduce tensions and pursue dialogue following Israeli airstrikes on the Abu al-Duhur military airbase in Idlib province, northwestern Syria. Speaking to the UN Security Council, US Deputy Representative Tammy Bruce stated Washington would engage regional actors to encourage diplomatic solutions. Israeli warplanes previously carried out eight strikes against the base, damaging its runway and infrastructure.",
+        "verified_figures": [
+          "8 strikes targeting airbase runway"
+        ],
+        "sources": [
+          {
+            "name": "Muslim Network TV",
+            "url": "https://www.muslimnetwork.tv/us-urges-israel-syria-to-de-escalate-after-airstrikes/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass-Casualty Gang Attack on Displaced Shelter in Kenscoff",
+        "score": 9.0,
+        "body": "Armed gang members from the Viv Ansanm coalition attacked a church sheltering displaced people in Kenscoff, near Haiti's capital Port-au-Prince. According to the United Nations and local officials, the raid killed at least 47 people, injured 22, and resulted in the kidnapping of more than 50 individuals. Assailants executed victims, burned homes, and targeted civilians who had already been displaced by ongoing violence. The Haitian National Police are facing heightened public frustration and scrutiny over their failure to curb escalating gang violence and protect vulnerable communities.",
+        "verified_figures": [
+          "at least 47 killed",
+          "22 injured",
+          "more than 50 kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Earthquakes Cause Child Displacement and Food Insecurity",
+        "score": 5.0,
+        "body": "Earthquakes in Venezuela have left affected communities facing displacement, trauma, and food insecurity, with children particularly impacted. Displaced families are currently housed in temporary shelters, including tents set up at sports facilities in La Guaira. The disaster has compounded protection risks and disrupted access to basic needs, creating urgent humanitarian and psychosocial support requirements for affected young children and their caregivers.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Global Voices",
+            "url": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity/"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Border Measures Extended in Response to DRC Ebola Outbreak",
+        "score": 2.0,
+        "body": "The Public Health Agency of Canada has extended temporary border measures for an additional 30 days, through September 28, 2026, in response to an Ebola disease outbreak in the Democratic Republic of the Congo. Under the extended protocol, travelers arriving in Canada who have spent time in affected regions within the preceding 21 days and exhibit Ebola symptoms will be isolated at medical facilities. Asymptomatic travelers arriving from affected areas will undergo mandatory health assessments upon entry.",
+        "verified_figures": [
+          "30-day extension of border measures",
+          "21-day travel history window"
+        ],
+        "sources": [
+          {
+            "name": "canada.ca",
+            "url": "https://www.canada.ca/en/public-health/news/2026/08/government-of-canada-extends-temporary-border-measures-in-response-to-ebola-disease-outbreak.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Worsening Ebola Outbreak and UN $1.1 Billion Appeal",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is facing its deadliest and fastest-growing Ebola outbreak on record, compounded by ongoing conflict and displacement in the east. United Nations Secretary-General António Guterres appealed for an additional $1.1 billion to sustain humanitarian operations, warning available funds could run out within weeks. As of late August, official reports recorded 5,713 confirmed cases and 2,744 deaths, with approximately 500 new cases identified weekly. Women and children are disproportionately affected, while widespread misinformation continues to hinder response efforts. Additionally, persistent insecurity has forced over 16,400 Congolese to seek refuge in neighboring countries since January, overburdening host communities.",
+        "verified_figures": [
+          "5,713 confirmed Ebola cases",
+          "2,744 Ebola deaths",
+          "Approximately 500 new cases reported weekly",
+          "$1.1 billion requested in additional UN funding",
+          "More than 16,400 Congolese fled to neighbouring countries since January"
+        ],
+        "sources": [
+          {
+            "name": "Realnews Magazine",
+            "url": "https://realnewsmagazine.net/drc-un-chief-seeks-1-1bn-as-ebola-death-toll-hits-2744/"
+          }
+        ]
+      },
+      {
+        "headline": "Uganda — Country Declared Ebola-Free Following 42-Day Monitoring Period",
+        "score": 3.0,
+        "body": "Uganda has been declared free of the Bundibugyo Ebola virus following the completion of a required 42-day monitoring period with no new confirmed cases. The benchmark, which doubles the maximum incubation period of the virus, commenced after the country's final imported Ebola patient was discharged on July 16. Health workers monitored more than 800 contacts during the outbreak response. Despite the milestone, health experts stress the urgent need for safe health-and-trade corridors due to the heightened risk of cross-border transmission posed by the expanding epidemic in the neighboring Democratic Republic of the Congo.",
+        "verified_figures": [
+          "42-day monitoring period completed without new cases",
+          "More than 800 contacts monitored"
+        ],
+        "sources": [
+          {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/08/27/uganda-declared-ebola-free-even-congo-faces-deadly-fast-growing-epidemic/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Defensive reinforcement in Donetsk amid rising casualties and Western missile transfers",
+        "score": 6.0,
+        "body": "Ukrainian forces have reinforced defensive positions in the eastern Donetsk region as Russian forces press to capture Sloviansk, part of a defense belt including Kramatorsk, Druzhkivka, and Kostiantynivka. Ukrainian strikes reportedly killed 12 people across Russia and the Donbas region. Concurrently, the United Kingdom and France agreed to transfer Storm Shadow cruise missile technology to Ukraine to aid long-range targeting of production facilities. In response, Russian officials warned of potential retaliation against Western military assets inside and outside Ukraine.",
+        "verified_figures": [
+          "12 killed in Russia and Donbas"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Infrastructure destruction and export blockades prompt economic downgrade",
+        "score": 5.0,
+        "body": "Ukraine's Ministry of Economy has reduced its 2026 GDP growth forecast from 1.3 percent to 0.8 percent, attributing the cut to severe damage across critical national infrastructure. The downgrade follows persistent drone attacks on Kyiv and Kherson, alongside ongoing disruptions to logistics networks and the blockade of Black Sea grain export routes. Ukrainian forces have also conducted retaliatory drone strikes on Russian energy infrastructure, including an oil refinery.",
+        "verified_figures": [
+          "2026 GDP growth forecast lowered from 1.3% to 0.8%"
+        ],
+        "sources": [
+          {
+            "name": "Whalesbook",
+            "url": "https://www.whalesbook.com/news/English/world-affairs/Ukraine-Lowers-2026-Growth-to-08percent-Amid-Escalating-Drone-War/6a917302a703e4a81608315f"
+          }
+        ]
+      },
+      {
+        "headline": "Russia/Ukraine — Western estimates highlight high Russian battlefield attrition",
+        "score": 4.0,
+        "body": "Western officials report that Russian forces in Ukraine are losing approximately 6,000 more troops per month than Moscow can enlist. Despite maintaining a recruitment rate of about 1,000 personnel daily, casualty levels over the past two months have outpaced replacements, impacting the sustainability of front-line military personnel.",
+        "verified_figures": [
+          "6,000 more troops lost monthly than recruited",
+          "1,000 recruits per day"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal/China — Border Flash Floods Cause Mass Casualties",
+        "score": 9.0,
+        "body": "Rescuers along the Nepal-China border have resumed search operations after fears of an overflowing landslide lake temporarily halted work. Massive flash floods and mudslides across the Himalayan border region have killed at least 543 people, with reports indicating the death toll is approaching 600. Nepali military personnel rescued around 100 people trapped inside a flooded hydropower tunnel, while more than 1,500 individuals remain missing. Authorities warned that an artificial lake created by a debris dam poses a high risk of breaching, driving local evacuations to higher ground.",
+        "verified_figures": [
+          "at least 543 people killed",
+          "more than 1,500 people missing",
+          "around 100 people rescued from tunnel"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/rescuers-scour-nepal-flood-debris-risk-fresh-flooding-grows-2026-08-28/"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/nepal-flood-survivors-rescued-from-hydropower-tunnel"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst"
+          },
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/08/28/flood-risks-hamper-efforts-search-hundreds-missing-nepal-china-border/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — UN Assessment Highlights Deepening Humanitarian Crisis",
+        "score": 7.5,
+        "body": "A joint assessment by the United Nations and REACH warns that persistent hunger, displacement, and drought are exacerbating a severe mental health crisis in Afghanistan. According to the report, 21.9 million people in the country require urgent humanitarian assistance, while 45 percent of the population faces acute food insecurity. Chronic economic hardship and environmental shocks continue to strain community coping mechanisms across affected areas.",
+        "verified_figures": [
+          "21.9 million people in need of urgent humanitarian assistance",
+          "45% of population facing acute hunger"
+        ],
+        "sources": [
+          {
+            "name": "Afghanistan International",
+            "url": "https://www.afintl.com/en/202608284626"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal / Tibet — Devastating Flash Floods Cause Mass Casualties and Widespread Destruction",
+        "score": 9.5,
+        "body": "Catastrophic flash floods and landslides along the Nepal-Tibet border have killed nearly 600 people and left over 1,900 missing. According to the International Federation of Red Cross and Red Crescent Societies, at least 93,000 people are in urgent need of humanitarian assistance. Rescue operations across the Bhotekoshi and Trishuli river basins remain severely hampered by destroyed roads, bridges, and rugged terrain. Emergency responders also face growing risks from rising debris-dammed lakes that threaten to cause secondary flooding in downstream communities.",
+        "verified_figures": [
+          "Nearly 600 people killed",
+          "Over 1,900 people missing",
+          "At least 93,000 people in great need"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260828-rescuers-grapple-with-mountain-of-challenges-after-the-nepal-tibet-floods"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Ebola Outbreak Expands Rapidly as Death Toll Exceeds 2,700",
+        "score": 9.0,
+        "body": "A rapidly expanding Ebola outbreak in the eastern Democratic Republic of the Congo has spread to two additional health zones in North Kivu province. According to health authorities, the outbreak has recorded 5,794 confirmed cases and 2,786 deaths, with an overall case fatality rate of 48 percent. Mortality is reportedly higher in newly affected areas due to delayed response efforts. In response, international and regional health agencies are seeking to mobilize 518 million US dollars for a continental preparedness and containment plan.",
+        "verified_figures": [
+          "5,794 confirmed cases",
+          "2,786 deaths",
+          "48% overall case fatality rate",
+          "US$518 million plan required"
+        ],
+        "sources": [
+          {
+            "name": "Devon Live",
+            "url": "https://www.devonlive.com/news/uk-world-news/fastest-ebola-outbreak-history-spreads-11132707?int_source=mantis_rec&int_medium=web&int_campaign=more_like_this"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Syria",
+      "score": 5.0,
+      "trigger": "Further Israeli strikes against Syrian military airbases following the eight raids on Abu al-Duhur base in Idlib could provoke direct military escalation between regional state actors.",
+      "potential_impact": "Escalated cross-border strikes risk further damaging local infrastructure, increasing civilian casualties, and impeding humanitarian movement in northwestern Syria.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Muslim Network TV",
+          "url": "https://www.muslimnetwork.tv/us-urges-israel-syria-to-de-escalate-after-airstrikes/"
+        }
+      ]
+    },
+    {
+      "location": "Occupied West Bank",
+      "score": 6.5,
+      "trigger": "Continued reliance on aerial strikes by Israeli forces targeting militants in populated areas like Jenin could trigger broader armed confrontation across the West Bank.",
+      "potential_impact": "Intensified military engagements in urban communities would elevate civilian casualty rates and aggravate protection and displacement concerns.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 6.0,
+      "trigger": "The expansion of Western long-range missile transfers to enable Ukrainian strikes on Russian production facilities could trigger retaliatory Russian actions against Western assets.",
+      "potential_impact": "Wider long-range strike campaigns and retaliations risk expanding the conflict geographic scope and compounding energy and civilian infrastructure damage.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 5
+      },
+      {
+        "name": "France 24 English",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Muslim Network TV",
+        "count": 2
+      },
+      {
+        "name": "Afghanistan International",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Devon Live",
+        "count": 1
+      },
+      {
+        "name": "Global Voices",
+        "count": 1
+      },
+      {
+        "name": "Jurist.org",
+        "count": 1
+      },
+      {
+        "name": "Realnews Magazine",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Washington Post",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "Whalesbook",
+        "count": 1
+      },
+      {
+        "name": "canada.ca",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1301,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
