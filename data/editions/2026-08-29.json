@@ -1,0 +1,359 @@
+{
+  "date": "2026-08-29",
+  "printed_time": "12:24 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Catastrophic flash floods along the Himalayan border between Nepal and China have killed at least 633 people and left over 3,500 missing amid extensive infrastructure damage.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 2,
+      "text": "A rapidly expanding Ebola outbreak in the Democratic Republic of the Congo has spread to 60 health zones across six provinces, recording 2,786 deaths among 5,794 confirmed cases.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "An assault by armed gang members targeting displaced civilians at a local church in Kenscoff, Haiti, killed at least 47 people, wounded 22, and led to over 52 abductions.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A Russian drone strike on a warehouse storing explosive materials in Ukraine's Kyiv region caused massive secondary detonations, killing at least 37 people and injuring 42.",
+      "region": "Europe"
+    },
+    {
+      "rank": 5,
+      "text": "An early-morning armed attack on a cattle camp and boma in South Sudan's Warrap State killed at least 49 people and injured 33 others.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Devastating Himalayan flash floods along the border between Nepal and China have killed hundreds of people and left thousands missing, causing massive infrastructure destruction and prompting cross-border emergency relief operations.",
+    "label": "ASIA-PACIFIC — Himalayan Flash Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Fatal Strikes and Infrastructure Damage",
+        "score": 7.5,
+        "body": "Israeli military strikes across the Gaza Strip have killed at least five people, according to local hospital officials. The casualties include three family members killed in a strike outside Khan Younis and two individuals killed in separate attacks in Gaza City. Additionally, UNICEF reported that recent strikes killed at least four children over a five-day period and damaged essential humanitarian infrastructure, including a water facility and nutrition supplies. The destruction of these critical services has cut off affected communities from safe drinking water and emergency nutritional assistance amid widespread food shortages.",
+        "verified_figures": [
+          "5 people killed",
+          "4 children killed over 5 days"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/several-killed-in-israeli-strikes-on-gaza-and-west-bank"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Severe Floods Cause Fatalities and Widespread Damage",
+        "score": 7.0,
+        "body": "Persistent heavy rainfall and severe flooding across several Yemeni provinces since July have killed at least 73 people and injured 37 others, according to a report by the International Federation of Red Cross and Red Crescent Societies. The adverse weather has affected over 7,600 families, representing approximately 53,760 individuals, while causing extensive damage to residential properties and basic infrastructure.",
+        "verified_figures": [
+          "73 deaths",
+          "37 injured",
+          "7,600 families affected",
+          "53,760 individuals affected"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/yemen/145076-international-report-73-deaths-and-over-7000-families-affected-by-rains-and-floods-in-yemen/"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Escalation of Airstrikes and Artillery Shelling in South",
+        "score": 5.0,
+        "body": "Israeli forces escalated attacks in southern Lebanon, targeting multiple towns with airstrikes, artillery shelling, and controlled detonations. According to Lebanon's National News Agency, a large explosion occurred in Kfar Tibnit, while several booby-trapped homes were detonated in Houla in the Marjeyoun district. The attacks represent continued violations of the established ceasefire agreement.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Saba Agency",
+            "url": "https://www.saba.ye/en/news3776915.htm"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Massacre Kills 47 Displaced Civilians in Kenscoff",
+        "score": 9.0,
+        "body": "On 23 August, approximately 150 heavily armed gang members attacked Kenscoff, near Port-au-Prince, targeting displaced civilians who had sought refuge in a local church. According to UN Human Rights Office data, at least 47 people were killed, including three boys and two girls, 22 were injured, and more than 52 were abducted. The UN Security Council convened an emergency meeting following the violence. Between 1 April and 30 June, UN figures indicate that 1,408 people were killed, 656 injured, and 326 subjected to sexual violence amid escalating gang conflict in Haiti.",
+        "verified_figures": [
+          "at least 47 killed",
+          "22 injured",
+          "more than 52 abducted",
+          "1,408 killed between 1 April and 30 June",
+          "656 injured between 1 April and 30 June",
+          "326 subjected to sexual violence between 1 April and 30 June"
+        ],
+        "sources": [
+          {
+            "name": "The Daily Star",
+            "url": "https://www.thedailystar.net/news/world/news/around-40-dead-gang-attack-near-haitis-capital-4256246"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Earthquakes Drive Child Displacement and Food Insecurity",
+        "score": 4.5,
+        "body": "Earthquakes in Venezuela have left children and families facing displacement, psychological trauma, and food insecurity. Affected populations in La Guaira are currently residing in temporary displacement sites, including tents set up at a local sports complex. The living conditions in temporary shelters continue to impact vulnerable early-age children, compounding existing crisis conditions for affected communities.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Global Voices",
+            "url": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Rapidly expanding Ebola outbreak causes over 2,700 deaths",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has expanded to 60 health zones across six provinces, with Ituri remaining the epicentre. According to the World Health Organization, the Bundibugyo strain epidemic has reached 5,794 confirmed cases and 2,786 deaths, representing a case fatality rate of nearly 48.1 percent. UN Secretary-General António Guterres requested an additional $1.1 billion to support humanitarian response efforts, warning that available resources will run out within weeks. Meanwhile, neighboring Uganda declared its Ebola outbreak over after completing 42 days without registering new cases.",
+        "verified_figures": [
+          "5,794 confirmed cases",
+          "2,786 deaths",
+          "60 health zones affected",
+          "6 provinces affected",
+          "48.1% case fatality rate",
+          "$1.1 billion additional funding requested"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/ebola-outbreak-congo-615dcbccd5b37f68aca89f8e286f4d7b"
+          },
+          {
+            "name": "The Guardian Nigeria News",
+            "url": "https://guardian.ng/tv/who-chief-in-dr-congo-as-efforts-intensify-to-contain-ebola-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "South Sudan — Armed attack in Warrap State leaves dozens dead",
+        "score": 7.5,
+        "body": "An armed attack in Tonj North County, located in South Sudan’s Warrap State, has left at least 49 people dead and 33 others wounded. State Information Minister William Wol Mayom Bol reported that the early-morning assault targeted Machar-Pakuek cattle camp and Mading Juer Boma in Majak Payam. The casualties include members of several local communities, notably the Nuer, Juer, Lou-dit, Palipiny, Apuk-Padoc, and Pan-ariik groups.",
+        "verified_figures": [
+          "49 people killed",
+          "33 people wounded"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/south-sudan/394771/49-killed-33-injured-in-attack-in-south-sudans-warrap-state?amp=1"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Drone Strike Kills 37 in Kyiv Region",
+        "score": 9.0,
+        "body": "A Russian drone strike on a depot in the Bucha district of Ukraine's Kyiv region triggered massive explosions and a fire, killing at least 37 people and injuring 42 others, including four children. The strike damaged at least 50 residential buildings, among them a care home for elderly and disabled people. Emergency operations forced the evacuation of more than 380 civilians. Local authorities reported that the targeted warehouse stored explosive materials, which detonated upon impact, causing widespread destruction across adjacent residential areas.",
+        "verified_figures": [
+          "at least 37 killed",
+          "42 injured, including 4 children",
+          "at least 50 residential buildings damaged",
+          "more than 380 civilians evacuated"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-strike-kyiv-area-warehouse-causes-detonation-killing-27-2026-08-29/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-bucha-kyiv-4be42e27897bf45797a0cf3758be5eaf"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/dozens-dead-after-russian-drone-strike-hits-warehouse"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal & China — Himalayan Flash Floods Cause Mass Casualties and Widespread Destruction",
+        "score": 9.5,
+        "body": "Devastating flash floods along the Himalayan border between Nepal and China's Tibet autonomous region have caused severe casualties and infrastructure damage. Emergency teams have recovered at least 633 bodies across the affected region, while rescue efforts resume following pauses caused by risks from a newly formed lake. Nepali authorities report nearly 3,000 people missing, while Chinese officials report more than 550 unaccounted for. Rescue crews reaching the Gyirong border crossing complex reported widespread destruction. Nepali officials estimate rebuilding efforts will cost billions of dollars. In response, India has dispatched 62 tonnes of emergency relief, including temporary shelters, hygiene kits, and medical supplies.",
+        "verified_figures": [
+          "At least 633 bodies recovered",
+          "7 confirmed dead in Tibet",
+          "Nearly 3,000 missing in Nepal",
+          "More than 550 missing in China",
+          "62 tonnes of relief aid delivered by India"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/nepal-tibet-china-glacier-floods-ae9973b5fd2b1dc6d54c3e88b1b55bdc"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/29/nepal-and-china-resume-flood-rescue-as-death-toll-nears-600?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal/China — Devastating flash floods across Nepal-Tibet border leave hundreds dead and thousands missing",
+        "score": 9.0,
+        "body": "Catastrophic flash floods along the Nepal-Tibet border have killed nearly 600 people, according to the International Federation of Red Cross and Red Crescent Societies. Up to 2,478 people are reported missing as destroyed roads and bridges severely hamper rescue operations in hard-to-reach areas. The Red Cross estimates at least 93,000 people are affected and in urgent need of humanitarian aid. Emergency operations include a Nepali army effort to evacuate over 100 workers trapped inside a swamped hydropower project tunnel. Rescue teams face ongoing challenges due to difficult terrain and fears of potential secondary flooding in the region.",
+        "verified_figures": [
+          "nearly 600 killed",
+          "up to 2,478 missing",
+          "at least 93,000 affected",
+          "over 100 trapped in hydropower tunnel"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Rapidly spreading Ebola outbreak expands to new health zones in North Kivu",
+        "score": 9.0,
+        "body": "An ongoing Ebola outbreak in the eastern Democratic Republic of the Congo has spread to two additional health zones in North Kivu province, Biena and Manguredjipa. Ministry of Health figures document 5,794 confirmed cases and 2,786 deaths, with delayed response efforts contributing to elevated fatality rates in the newly affected areas. In response, the World Health Organization and Africa CDC launched a continental preparedness plan seeking $518 million to strengthen early detection and containment, while joint EU-WHO efforts focus on transmission in DRC and Uganda. Vaccination efforts targeting frontline health workers have also commenced in Kisangani.",
+        "verified_figures": [
+          "5,794 confirmed cases",
+          "2,786 deaths",
+          "US$518 million requested for response plan"
+        ],
+        "sources": [
+          {
+            "name": "Devon Live",
+            "url": "https://www.devonlive.com/news/uk-world-news/fastest-ebola-outbreak-history-spreads-11132707?int_source=mantis_rec&int_medium=web&int_campaign=more_like_this"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Gaza Strip, Occupied Palestinian Territory",
+      "score": 7.5,
+      "trigger": "Continued military strikes targeting critical water facilities and nutrition supply lines over the next 72 hours could completely sever vulnerable communities from essential survival aid.",
+      "potential_impact": "Loss of safe drinking water and emergency nutritional supplies will rapidly worsen acute food shortages and drive severe malnutrition among affected populations, particularly children.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/several-killed-in-israeli-strikes-on-gaza-and-west-bank"
+        }
+      ]
+    },
+    {
+      "location": "Southern Lebanon",
+      "score": 5.0,
+      "trigger": "Escalating military bombardments, controlled detonations, and booby-trap explosions in southern towns over the next 72 hours risk causing a wider breakdown of the established ceasefire agreement.",
+      "potential_impact": "A collapse of ceasefire conditions would lead to renewed mass civilian displacement, increased casualties, and extensive destruction of residential property across border communities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Saba Agency",
+          "url": "https://www.saba.ye/en/news3776915.htm"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 4
+      },
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Saba Agency",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Devon Live",
+        "count": 1
+      },
+      {
+        "name": "Global Voices",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "The Daily Star",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Guardian Nigeria News",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1170,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
