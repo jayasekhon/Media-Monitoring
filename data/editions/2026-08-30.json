@@ -1,0 +1,399 @@
+{
+  "date": "2026-08-30",
+  "printed_time": "11:24 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Catastrophic flash floods caused by a glacial collapse along the Nepal-Tibet border have killed over 700 people and left nearly 3,000 missing, sweeping away entire villages and destroying critical infrastructure.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 2,
+      "text": "The Ebola outbreak in the Democratic Republic of the Congo has expanded to six provinces, causing 2,786 deaths among 5,794 confirmed cases with a 48.1 percent case fatality rate.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Russian strikes targeting a warehouse and military facility near Kyiv killed at least 38 people and forced hundreds of residents to evacuate.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "An armed gang attack in Kenscoff, Haiti, left at least 47 people dead—including children hiding in a church—and resulted in mass abductions.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Israeli military strikes in Gaza killed four children and destroyed essential humanitarian facilities, including a nutrition warehouse and a UNICEF-supported water plant.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Devastating flash floods triggered by a glacial collapse along the Nepal-Tibet border have left hundreds dead and thousands missing, destroying entire communities and causing severe regional power and infrastructure disruptions.",
+    "label": "ASIA-PACIFIC — Nepal Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Nepal — Death Toll Surpasses 730 Following Devastating Flash Floods",
+        "score": 9.5,
+        "body": "Catastrophic flash floods across Nepal and Tibet have killed more than 730 people, with nearly 2,500 to 3,000 others remaining missing after floodwaters swept away entire villages and infrastructure along the Nepal-China border. Tens of thousands of people are seeking information on missing family members at medical centers across the country. The disaster has caused massive displacement and severe trauma among affected local populations. Emergency search and rescue efforts continue as families and local authorities attempt to locate survivors and provide urgent humanitarian assistance to impacted communities.",
+        "verified_figures": [
+          "more than 730 people killed",
+          "nearly 2,500 people missing",
+          "at least 675 people killed",
+          "more than 3,000 people missing"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/nepal-thousands-still-missing-as-death-toll-rises"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/29/daughter-traces-mother-and-aunts-last-known-location-in-nepal-through-tiktok-video"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza/OPT — Attacks Kill Four Children and Destroy Critical Humanitarian Facilities",
+        "score": 8.0,
+        "body": "Recent military strikes in the Gaza Strip killed at least four children and injured several others over a five-day period, while severely damaging critical aid infrastructure. The attacks destroyed a warehouse containing essential nutrition supplies and damaged a UNICEF-supported water facility, compounding severe shortages of safe drinking water and food. Reported child fatalities include two boys aged two and four killed in separate strikes, a 10-year-old girl struck by ground fire inside her tent, and a 16-year-old boy who died from severe injuries.",
+        "verified_figures": [
+          "at least 4 children killed",
+          "1 nutrition warehouse destroyed",
+          "1 UNICEF-supported water facility damaged"
+        ],
+        "sources": [
+          {
+            "name": "Unicef",
+            "url": "https://www.unicef.org/press-releases/four-children-killed-separate-attacks-destroy-humanitarian-supplies-and-damage"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza/OPT — Israeli Airstrike Kills Two, Including Child, in Deir Al-Balah",
+        "score": 6.0,
+        "body": "An Israeli airstrike near a bakery in Deir Al-Balah in the central Gaza Strip killed two Palestinians, including a three-year-old child, according to local medical officials. Several other civilians sustained injuries in the attack. Health authorities identified the victims as three-year-old Tayyem Hamdan and Hussam Nusair. The Israeli military stated that the operation targeted a Hamas militant, without providing additional details regarding the strike.",
+        "verified_figures": [
+          "2 Palestinians killed",
+          "1 three-year-old child killed",
+          "several people injured"
+        ],
+        "sources": [
+          {
+            "name": "Global Banking & Finance Review",
+            "url": "https://www.globalbankingandfinance.com/israeli-strike-kills-two-people-including-3-year-old-boy/"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Israeli Military Demolishes Nursing Home and Conducts Airstrikes in South",
+        "score": 5.5,
+        "body": "Israeli military forces conducted demolitions and airstrikes across several towns in southern Lebanon. Local official media reported that Israeli forces demolished a social care nursing home in the town of Houla and triggered a massive explosion in Talousa in the Marjeyoun district. Additionally, Israeli warplanes launched two airstrikes targeting Al-Mansouri in the Tyr district, accompanied by intensive fighter jet and drone overflights across multiple Lebanese regions.",
+        "verified_figures": [
+          "1 nursing home demolished"
+        ],
+        "sources": [
+          {
+            "name": "وكالة سبأ",
+            "url": "https://www.saba.ye/en/news3777488.htm"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Massacre Kills 47 in Kenscoff as Hostages Freed",
+        "score": 8.5,
+        "body": "UNICEF confirmed that an armed gang in Haiti released 13 hostages—seven women and six children, including three under age two—following a mass abduction of about 50 people during a raid on Kenscoff near Port-au-Prince. The attack resulted in at least 47 fatalities, including children hiding inside a church. Following the massacre, representatives from the United States and Pakistan called on the UN Security Council to urgently deploy the authorized Gang Suppression Force to combat escalating violence and protect vulnerable communities across the country.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "13 hostages released",
+          "around 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/haiti-kidnapped-released-unicef-gang-kenscoff-201baf43dd8e8a281428d7afd42c0708"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Escalating Ebola Outbreak and Response",
+        "score": 9.0,
+        "body": "The World Health Organization reported that an Ebola outbreak in the Democratic Republic of the Congo has expanded to 60 health zones across six provinces, reaching 5,794 confirmed cases and 2,786 deaths. Driven by the Bundibugyo strain, the disease carries an estimated case fatality rate of 48.1%. Authorities have initiated a vaccination campaign in Kisangani prioritizing healthcare and frontline workers using the Ervebo vaccine, although its efficacy against the Bundibugyo strain is unproven. Meanwhile, ahead of nationwide school reopenings scheduled for 1 September, education officials have classified 2,890 schools in high-risk transmission zones under a three-tier safety system.",
+        "verified_figures": [
+          "5,794 confirmed cases",
+          "2,786 deaths",
+          "60 health zones affected across six provinces",
+          "48.1% case fatality rate",
+          "2,890 schools identified at high risk"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Strike Near Kyiv Kills 38 and Triggers Evacuations",
+        "score": 9.0,
+        "body": "Russian strikes hitting a warehouse and military depot near Kyiv have killed at least 38 people, marking the deadliest attack in Ukraine this year. Ukrainian President Volodymyr Zelenskiy confirmed the updated death toll. The attack caused massive explosions that damaged nearby homes and businesses, prompting the evacuation of hundreds of residents. Authorities have launched an investigation into the storage of military equipment near residential areas.",
+        "verified_figures": [
+          "at least 38 people killed",
+          "hundreds evacuated"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/kyiv-region-strike-death-toll-rises-38-zelenskiy-says-2026-08-30/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-strikes-attacks-energy-oil-gas-drones-warehouse-5cfe71b2954a40489c070459ba82116e"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Strikes on Food Distribution Sites Threaten Supplies",
+        "score": 6.0,
+        "body": "Russian forces have shifted military targets toward food distribution facilities and shopping centers across Ukraine, threatening to create food shortages. Markets in Kyiv and multiple other cities are struggling to maintain stocked shelves following strikes on supply hubs. The ongoing targeting of commercial food infrastructure presents an escalating risk to food security and basic supply chains in major urban centers.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/08/30/russian-strikes-food-warehouses-pose-threat-shortages-ukraine/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal & China — Catastrophic Flash Floods Leave Hundreds Dead and Thousands Missing",
+        "score": 9.5,
+        "body": "Catastrophic flash floods along the Nepal-China border have left between 691 and 750 people dead and more than 3,000 missing across Nepal and Tibet. Rescue operations remain severely hampered by ongoing heavy rainfall, rising river levels, and poor weather. The flooding disrupted infrastructure in Nepal and knocked out approximately 550 megawatts of power supply, prompting discussions for emergency electricity imports from India. Nepali authorities have requested international technical assistance for body identification, DNA testing, and search operations, while warning that national reconstruction efforts could cost billions of dollars.",
+        "verified_figures": [
+          "691 to 750 dead",
+          "more than 3,000 people missing",
+          "550 megawatts of power supply knocked out"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/death-toll-rises-as-3-000-remain-missing-in-nepal-china"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Armed Conflict in Rakhine State Drives Rohingya Displacement and Human Rights Abuses",
+        "score": 7.0,
+        "body": "Escalating armed conflict in Myanmar's Rakhine state between the ruling military junta and the Arakan Army has forced more than 150,000 Rohingya refugees to flee and seek asylum. Investigations using leaked documents and local footage document widespread massacres, human trafficking, and severe protection risks facing the Muslim minority population caught in the crossfire between military forces and rebel elements controlling the region.",
+        "verified_figures": [
+          "more than 150,000 refugees"
+        ],
+        "sources": [
+          {
+            "name": "Qatar Tribune",
+            "url": "https://www.qatar-tribune.com/article/251042/nation/aj-documentary-investigates-rohingya-massacres-and-trafficking-in-myanmar/amp"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal / Tibet — Devastating Glacial Collapse and Flash Floods",
+        "score": 9.0,
+        "body": "Flash floods triggered by a glacial collapse along the Nepal-Tibet border have killed at least 750 people and left nearly 3,000 missing. Rescue operations face severe hazards due to heavy rainfall, swollen rivers, and an upstream flood-formed lake threatening to burst its banks. Disaster authorities in Nepal have begun temporarily burying recovered victims following DNA sampling to allow future family identification. Rising waters have trapped hydropower workers in tunnels, while whole villages have been washed away across the region.",
+        "verified_figures": [
+          "750 deaths reported",
+          "Nearly 3,000 people missing"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/nepal-glacial-collapse-leaves-3-000-missing"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/29/nepal-flood-missing-kathmandu-hospital"
+          }
+        ]
+      },
+      {
+        "headline": "Madagascar — Tropical Cyclone Gezani Causes Widespread Destruction",
+        "score": 7.5,
+        "body": "Tropical Cyclone Gezani struck Madagascar's eastern port city of Toamasina with wind speeds exceeding 195 kilometers per hour, leaving at least 20 people dead and 33 injured. Authorities reported 15 people missing and over 2,700 displaced. The storm destroyed 75 percent of infrastructure in Toamasina and cut regional power supplies. Red alerts for landslides and flooding were declared as the system moved inland. Gezani has weakened to a tropical storm but is expected to approach Madagascar's southwest coast next week, less than two weeks after Cyclone Fytia hit the country.",
+        "verified_figures": [
+          "20 killed",
+          "33 injured",
+          "15 missing",
+          "Over 2,700 evacuations",
+          "75 percent of infrastructure destroyed in Toamasina"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/another-cyclone-gezani-hits-madagascar-9-killed-19-injured/"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Sustained Active Cholera Transmission Across 35 States",
+        "score": 5.5,
+        "body": "The Nigeria Centre for Disease Control and Prevention reported that active cholera transmission persists across 35 states and approximately 195 Local Government Areas. More than 65,000 suspected cholera cases have been documented nationwide this year. Although weekly case counts have dropped significantly from their peak, health authorities emphasized that continued intervention is critical to prevent further infections and deaths.",
+        "verified_figures": [
+          "More than 65,000 suspected cases",
+          "35 states affected",
+          "Approximately 195 Local Government Areas affected"
+        ],
+        "sources": [
+          {
+            "name": "Voice of Nigeria",
+            "url": "https://von.gov.ng/ncdc-warns-cholera-outbreak-not-yet-over/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Madagascar",
+      "score": 7.5,
+      "trigger": "Continued inland movement of Tropical Cyclone Gezani bringing heavy rainfall over areas already severely damaged by recent storm systems.",
+      "potential_impact": "Widespread landslides and secondary flooding could cause additional civilian casualties and worsen acute shelter and infrastructure crises.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "url": "https://newsonair.gov.in/another-cyclone-gezani-hits-madagascar-9-killed-19-injured/"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 6.5,
+      "trigger": "Sustained military targeting of commercial food warehouses, markets, and supply infrastructure in major urban centers.",
+      "potential_impact": "Severe urban supply chain disruptions could create acute food shortages and restrict humanitarian food access for vulnerable resident populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/08/30/russian-strikes-food-warehouses-pose-threat-shortages-ukraine/"
+        }
+      ]
+    },
+    {
+      "location": "Nigeria",
+      "score": 5.5,
+      "trigger": "Sustained active cholera transmission across 35 states combined with poor sanitation infrastructure during ongoing rainy conditions.",
+      "potential_impact": "A sudden surge in severe cholera cases could strain local healthcare capacity and increase mortality across affected Local Government Areas.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Voice of Nigeria",
+          "url": "https://von.gov.ng/ncdc-warns-cholera-outbreak-not-yet-over/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "News On AIR",
+        "count": 2
+      },
+      {
+        "name": "Voice of Nigeria",
+        "count": 2
+      },
+      {
+        "name": "Washington Post",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Global Banking & Finance Review",
+        "count": 1
+      },
+      {
+        "name": "Qatar Tribune",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "Unicef",
+        "count": 1
+      },
+      {
+        "name": "وكالة سبأ",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 996,
+      "sources_cited": 14
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
