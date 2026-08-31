@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-31",
+  "printed_time": "12:53 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Flash floods triggered by a Himalayan glacier collapse along the Nepal-China border have killed over 900 people and left more than 4,000 missing across Nepal and Tibet.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 2,
+      "text": "An Ebola virus outbreak caused by the Bundibugyo strain has killed 2,862 people and infected nearly 6,000 across six provinces in the Democratic Republic of the Congo.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A violent gang assault targeting a community and prayer shelter in Haiti's Kenscoff commune killed at least 47 people, led to 50 abductions, and displaced 2,500 residents.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A Russian drone strike targeting a military warehouse near Kyiv killed at least 38 people and severely damaged surrounding civilian homes in Myla village.",
+      "region": "Europe"
+    },
+    {
+      "rank": 5,
+      "text": "Israeli military strikes in Gaza killed four children, destroyed over $770,000 in UN nutrition supplies, and damaged critical water infrastructure.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Catastrophic flash floods triggered by a Himalayan glacier collapse have killed over 900 people and left more than 4,000 missing along the Nepal-China border.",
+    "label": "ASIA-PACIFIC — Himalayan Glacier Flash Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli strikes kill four children and destroy vital aid supplies",
+        "score": 8.0,
+        "body": "Israeli military strikes in the Gaza Strip killed four children aged between two and 16 and destroyed over $770,000 in UN nutrition supplies, according to OCHA and UNICEF. The attacks also damaged critical water infrastructure servicing thousands of people. Separately, an Israeli airstrike targeting a Hamas commander at Shuhada al-Aqsa Hospital in Deir al-Balah killed three people, breaching a ceasefire agreed in October 2025. Medical evacuations remain severely constrained, with thousands of patients awaiting transport despite the World Health Organization facilitating the evacuation of 106 patients and 132 companions over the past week.",
+        "verified_figures": [
+          "4 children killed",
+          "over $770,000 in nutrition supplies destroyed",
+          "3 people killed in hospital strike",
+          "106 patients evacuated by WHO",
+          "132 companions evacuated by WHO"
+        ],
+        "sources": [
+          {
+            "name": "European Sting",
+            "url": "https://europeansting.com/2026/08/31/four-children-killed-as-separate-attacks-in-gaza-destroy-aid-supplies/"
+          }
+        ]
+      },
+      {
+        "headline": "Iran/USA/Jordan — US and Iran exchange strikes in major regional escalation",
+        "score": 7.0,
+        "body": "United States forces launched an airstrike on Iranian rocket launchers on Larak Island in the Strait of Hormuz, killing two people and injuring two others. The operation marks the first US attack on Iranian targets in a month. Iran subsequently conducted retaliatory strikes against airbases hosting US personnel in Jordan. Regional tensions heightened further following reports of an oil tanker catching fire in the Strait of Hormuz and an Iranian drone entering United Arab Emirates territorial waters. Claims by the US administration regarding attacks on Iran's oil export hub at Kharg Island remain unconfirmed by defense officials.",
+        "verified_figures": [
+          "2 people killed",
+          "2 people injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Israeli artillery shells border town in southern Lebanon",
+        "score": 3.0,
+        "body": "Israeli military forces launched artillery strikes targeting the border municipality of Houla in southern Lebanon. The shelling occurred amid broader regional escalations in the Middle East. No casualties or damage figures were immediately reported from the targeted area.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Il Sole 24 ORE",
+            "url": "https://en.ilsole24ore.com/art/iran-raid-us-larak-tehran-attacks-jordan-oil-tanker-flames-hormuz-AJWgjAz"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Massacre Kills 47 and Displaces Thousands in Kenscoff",
+        "score": 9.0,
+        "body": "A deadly assault by the Viv Ansam gang targeted a community and church prayer center in Haiti's Kenscoff commune, where displaced residents had sought refuge. Armed gang members executed civilians inside and outside the church, set homes ablaze, and abducted residents. The violence left at least 47 people dead, 50 kidnapped, and forced approximately 2,500 residents to flee their homes. In response to the attack, the United States called for the rapid deployment of a United Nations-authorized Gang Suppression Force to address the country's escalating security crisis.",
+        "verified_figures": [
+          "47 killed",
+          "50 kidnapped",
+          "2,500 people displaced"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/haiti-funeral-gang-attack-kenscoff-ccd977768e6d4fa520d08c920b22b1ba"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Escalates as Death Toll Exceeds 2,800",
+        "score": 9.0,
+        "body": "According to the Democratic Republic of the Congo's Health Ministry, an Ebola virus outbreak caused by the Bundibugyo strain has killed 2,862 people and infected 5,945 across six provinces since being declared in mid-May. The epidemic has spread to 60 health zones across Haut-Uele, Ituri, North Kivu, South Kivu, Bas-Uele, and Tshopo provinces. Currently, 896 confirmed patients remain in isolation or receiving hospital treatment, while 1,327 have recovered. The World Health Organization has maintained the outbreak's status as a public health emergency of international concern, citing rapid virus evolution, sustained community transmission, and the absence of a licensed vaccine or specific therapy for this strain.",
+        "verified_figures": [
+          "2,862 deaths",
+          "5,945 confirmed cases",
+          "6 affected provinces",
+          "60 affected health zones",
+          "1,327 recoveries",
+          "896 patients in isolation or hospital care"
+        ],
+        "sources": [
+          {
+            "name": "Bastille Post",
+            "url": "https://www.bastillepost.com/global/article/6118911-dr-congo-records-over-5900-ebola-cases-including-2862-deaths"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strike on ammunition dump near Kyiv kills at least 38",
+        "score": 9.0,
+        "body": "A Russian drone strike on an ammunition warehouse in Myla, a village located 15 miles outside Kyiv, killed at least 38 people. The attack caused extensive destruction to surrounding civilian homes and properties, destroying allotments and blowing off roofs. The strike represents one of the deadliest attacks in Ukraine this year and has drawn local frustration over the proximity of military storage sites to civilian residential areas.",
+        "verified_figures": [
+          "at least 38 killed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-strikes-attacks-energy-oil-gas-drones-warehouse-5cfe71b2954a40489c070459ba82116e"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian drone campaign targets agricultural rail network and grain exports",
+        "score": 7.0,
+        "body": "Russian forces are actively targeting Ukraine's rail transport infrastructure, deploying drones against trains carrying grain and farm products. Over the past six months, Russian strikes have damaged more than 250 locomotives across the country. The targeting of transit logistics has severely degraded agricultural transport, reducing Ukraine's farm product export volume to one-third of normal levels by late August.",
+        "verified_figures": [
+          "more than 250 locomotives damaged",
+          "agricultural exports reduced to one-third of normal volume"
+        ],
+        "sources": [
+          {
+            "name": "Euromaidan Press",
+            "url": "https://euromaidanpress.com/2026/08/30/russo-ukrainian-war-day-1648-russia-hunts-ukraines-grain-trains/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal/China — Devastating Himalayan Flash Floods Cause Mass Casualties",
+        "score": 9.5,
+        "body": "Massive flash floods triggered by a Himalayan glacier collapse along the Nepal-China border have killed over 900 people in Nepal and Tibet. Authorities report that more than 4,000 individuals remain missing, including up to 933 workers trapped in blocked hydropower tunnels. Rescue teams supported by experts from China and India are clearing mud and debris to reach survivors. With morgues operating at capacity, Nepal has begun mass burials for unclaimed victims. Meanwhile, Tibetan advocacy groups claim hundreds of homes were destroyed in Tibet and allege official missing figures are understated.",
+        "verified_figures": [
+          "More than 900 confirmed dead",
+          "Over 4,000 people missing",
+          "933 hydropower project workers trapped or missing"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260831-nepal-buries-victims-of-himalayan-flooding-as-death-toll-climbs-past-900"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar/Bangladesh — UN Warns of Escalating Protection Risks for Rohingya",
+        "score": 6.0,
+        "body": "The United Nations has warned of deteriorating conditions and ongoing security threats facing hundreds of thousands of displaced Rohingya in Myanmar, Bangladesh, and surrounding areas. Humanitarian organizations report escalating violence, declining protection standards, and increased exposure to human trafficking risks. Decreasing levels of humanitarian aid are compounding hardship for displaced communities, while opportunities for safe, voluntary, and sustainable return to their home regions remain limited due to persistent instability.",
+        "verified_figures": [
+          "Hundreds of thousands of Rohingya displaced or affected"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/news/world/migration-news/145108-the-united-nations-warns-of-continued-attacks-and-deteriorating-conditions-for-rohingya-displaced-persons/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Survivors Struggle One Year After Kunar Earthquake",
+        "score": 4.5,
+        "body": "One year after a magnitude 6.0 earthquake devastated Kunar and neighboring provinces in eastern Afghanistan, thousands of survivors remain in temporary tents and dependent on humanitarian aid, according to Islamic Relief. The August 2025 earthquake killed more than 2,100 people, injured thousands, and affected an estimated 500,000 individuals. Humanitarian organizations report that families in remote mountainous communities continue to struggle to rebuild homes and restore livelihoods amidst ongoing shelter shortages.",
+        "verified_figures": [
+          "More than 2,100 killed in 2025 earthquake",
+          "About 500,000 people affected",
+          "Thousands of survivors still living in tents"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0011062"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal & Tibet — Catastrophic Flash Flooding",
+        "score": 9.0,
+        "body": "Rescuers in Nepal and Tibet are conducting search and recovery operations following severe flash flooding on 26 August that buried communities. According to Nepal's disaster agency, the death toll in Nepal has reached 903, with 4,247 people reported missing. Across the border in Tibet, Chinese authorities reported 16 fatalities and 546 missing. Authorities issued fresh flood warnings for districts along the Bhotekoshi River after rising upstream water levels prompted concerns of further surging. Floodwaters and landslides damaged key transit routes, including the Pasang Lhamu highway connecting Kathmandu, complicating search and emergency operations.",
+        "verified_figures": [
+          "903 deaths in Nepal",
+          "4,247 missing in Nepal",
+          "16 deaths in Tibet",
+          "546 missing in Tibet"
+        ],
+        "sources": [
+          {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/news/nepal-flooding-warning-death-toll-rescue/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Bhotekoshi River Corridor, Nepal",
+      "score": 8.0,
+      "trigger": "Rising upstream water levels along the Bhotekoshi River could cause secondary outburst surging and widespread landslides within the next 72 hours.",
+      "potential_impact": "Subsequent flooding risks severing key transit routes, crippling search and rescue efforts, and placing downstream displaced communities in immediate life-threatening danger.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/nepal-flooding-warning-death-toll-rescue/"
+        }
+      ]
+    },
+    {
+      "location": "Strait of Hormuz and Jordan",
+      "score": 7.0,
+      "trigger": "Additional direct retaliatory strikes between United States forces and Iran following attacks in the Strait of Hormuz and Jordanian airbases could escalate the confrontation into an open military conflict.",
+      "potential_impact": "A wider regional clash would disrupt global supply chains, endanger civilians near military bases, and spark mass displacement across vulnerable border areas.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.0,
+      "trigger": "Sustained targeted Russian drone attacks against grain transport trains and rail infrastructure could fully paralyze domestic agricultural logistics.",
+      "potential_impact": "A complete stoppage of grain transit would severely curtail international export flows, compounding global food insecurity and inflating emergency relief procurement costs.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/08/30/russo-ukrainian-war-day-1648-russia-hunts-ukraines-grain-trains/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "CBS News",
+        "count": 2
+      },
+      {
+        "name": "Euromaidan Press",
+        "count": 2
+      },
+      {
+        "name": "Bastille Post",
+        "count": 1
+      },
+      {
+        "name": "European Sting",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Il Sole 24 ORE",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1038,
+      "sources_cited": 11
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
