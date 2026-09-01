@@ -1,0 +1,451 @@
+{
+  "date": "2026-09-01",
+  "printed_time": "11:17 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Glacial melting triggered catastrophic flash flooding along the Nepal-China border, killing over 1,000 people and leaving more than 4,200 missing in remote Himalayan communities.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 2,
+      "text": "An uncontained Ebola outbreak driven by the vaccine-resistant Bundibugyo strain has infected over 6,000 people and killed 2,911 across six provinces in the Democratic Republic of the Congo.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "An overnight raid by armed gangs in Kenscoff, Haiti, resulted in at least 47 civilian deaths, including 34 executions near a church, and displaced thousands of residents.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A major 7.4-magnitude earthquake struck Colombia's coffee region and Pacific coast, killing at least 111 people and damaging over 1,500 structures.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Six consecutive nights of Russian missile and drone bombardment targeted Ukrainian energy, rail, and healthcare infrastructure, killing 12 people and damaging humanitarian supply depots.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Glacial collapse and devastating flash floods along the Nepal-China border have claimed over 1,000 lives and left thousands missing, triggering an acute humanitarian crisis across hard-to-reach mountain communities.",
+    "label": "ASIA-PACIFIC — Himalayan Glacial Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli airstrikes kill at least four in Gaza City",
+        "score": 7.5,
+        "body": "Israeli military airstrikes across the Gaza Strip have killed at least four Palestinians, including children, and wounded several others. An air attack targeted the al-Kateeba district west of Gaza City, while additional strikes were reported against a civilian vehicle in the nearby Tal al-Hawa neighborhood. Regional media outlets reported up to five fatalities across Gaza. The continued aerial bombardment presents severe ongoing protection risks for non-combatants navigating the densely populated enclave amidst widespread hostilities.",
+        "verified_figures": [
+          "At least 4 killed, including children",
+          "Several wounded"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-including-three-children-gaza-medics-say-2026-09-01/"
+          }
+        ]
+      },
+      {
+        "headline": "Iran/USA — Escalation in Strait of Hormuz following US strikes on Larak Island",
+        "score": 7.0,
+        "body": "The United States and Iran traded military strikes near the Strait of Hormuz, marking the first direct US action against Iranian forces in several weeks. A US military attack on Larak Island killed two people and injured several others. In response, Iranian forces launched missile and drone attacks against US-linked positions, while the United Arab Emirates intercepted an Iranian drone over its waters. The exchange represents a significant escalation in regional military tensions.",
+        "verified_figures": [
+          "2 killed",
+          "Several injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Attack Kills 47 in Kenscoff",
+        "score": 9.0,
+        "body": "Armed gang members launched an overnight raid in Kenscoff, near Port-au-Prince, killing at least 47 people and kidnapping over 50 others. At least 22 people were injured, 25 homes were burned, and thousands of residents were forced to flee. According to the United Nations, 34 people were executed around a Protestant church where fleeing residents sought refuge, including five children. Haitian authorities and international representatives at an urgent UN Security Council meeting called for accelerated deployment of the UN-backed Gang Suppression Force and stricter enforcement of arms embargoes.",
+        "verified_figures": [
+          "at least 47 killed",
+          "22 injured",
+          "more than 50 kidnapped",
+          "25 homes burned",
+          "thousands forced to flee",
+          "34 executed around a church",
+          "5 children killed"
+        ],
+        "sources": [
+          {
+            "name": "NY Carib News",
+            "url": "https://nycaribnews.com/haiti-deadly-gang-attacks-condemned-by-us-calls-for-security-mission-support/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — 7.4-Magnitude Earthquake Kills At Least 111",
+        "score": 9.0,
+        "body": "A major 7.4-magnitude earthquake struck Colombia's coffee region and Pacific coast, causing widespread panic and severe damage across several cities, including Bogota, Cali, and Quibdo. At least 111 people have been killed, and at least 1,500 buildings were damaged. Rescuers and volunteers are conducting search operations through collapsed structures to locate survivors.",
+        "verified_figures": [
+          "at least 111 killed",
+          "at least 1,500 buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "IOL",
+            "url": "https://iol.co.za/news/world/2026-08-11-colombia-scrambles-for-survivors-after-deadly-74-magnitude-earthquake/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Government Air Strikes Kill 20 Alleged Guerrillas",
+        "score": 6.0,
+        "body": "Fresh government air strikes in southern Colombia killed 20 alleged members of the Central General Staff armed group, President Abelardo de la Espriella announced. The operation follows two other lethal air strikes conducted by the administration in August, which Colombia's forensics authority reported resulted in the deaths of at least four minors.",
+        "verified_figures": [
+          "20 alleged guerrillas killed",
+          "at least 4 minors killed in previous August strikes"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/americas/20260901-government-air-strikes-kill-20-alleged-guerrillas-in-colombia-president-says"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Ebola Travel Restrictions Extended for DRC, Uganda, and South Sudan",
+        "score": 3.0,
+        "body": "The Public Health Agency of Canada extended entry bans and immigration document suspensions for travelers and residents tied to Ebola-affected regions through September 28, 2026. Foreign nationals with a travel history to the Democratic Republic of the Congo within the last 21 days remain barred from entry, while travel documents for residents of the DRC, Uganda, and South Sudan remain suspended.",
+        "verified_figures": [
+          "travel bans extended to September 28, 2026"
+        ],
+        "sources": [
+          {
+            "name": "CIC News",
+            "url": "https://www.cicnews.com/2026/08/canada-extends-ebola-related-travel-ban-0879813.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak surpasses 6,000 cases and 2,900 deaths",
+        "score": 9.5,
+        "body": "Congolese health authorities and the Ministry of Communication confirmed that a rapidly growing Ebola outbreak across six northern and eastern provinces has reached 6,041 confirmed cases and 2,911 deaths, representing a 48% fatality rate. At least 1,366 patients have recovered. Driven by the Bundibugyo strain, for which no approved vaccine or specific treatment currently exists, the epidemic has surpassed the DRC's 2018–2020 outbreak. The World Health Organization maintains a Public Health Emergency of International Concern, warning the outbreak remains out of control, while student groups demand urgent sanitation measures in classrooms.",
+        "verified_figures": [
+          "6,041 confirmed cases",
+          "2,911 deaths",
+          "48% fatality rate",
+          "1,366 recovered patients",
+          "6 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-virus-outbreak-e3bd4026809c9b59199b2bbeae9ac1f9"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Strikes Kill 12 Across Kyiv and Odesa Regions",
+        "score": 8.5,
+        "body": "Russian missile and drone attacks targeted Kyiv and the surrounding region for a sixth consecutive night, killing at least 12 people and injuring several others. Strikes hit energy and railway infrastructure, including a railway depot on Kyiv’s left bank where seven workers were killed. Additional strikes in the southern Odesa region left thousands of residents without electricity. Ukrainian officials reported that Russia is exploiting shortages of air defense interceptors to intensify attacks on key infrastructure and lower morale. Recent strikes also damaged humanitarian warehouses storing critical supplies.",
+        "verified_figures": [
+          "at least 12 people killed",
+          "thousands without electricity in Odesa region"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://u.afp.com/SVXz"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/russia-targets-kyiv-and-its-region-for-sixth-consecutive-night-of-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — WHO Records Over 3,200 Attacks on Healthcare Facilities",
+        "score": 7.0,
+        "body": "The World Health Organization reported that 3,205 attacks have targeted Ukraine's healthcare system since the start of Russia's full-scale invasion. According to WHO Representative Jarno Habicht, recent strikes on humanitarian warehouses destroyed medical supplies intended for hundreds of thousands of people. Despite mounting security risks and severe psychological strain on healthcare personnel, WHO and United Nations partners continue delivering emergency healthcare assistance and supplies to hard-to-reach areas.",
+        "verified_figures": [
+          "3,205 attacks on healthcare facilities since full-scale invasion"
+        ],
+        "sources": [
+          {
+            "name": "The European Sting",
+            "url": "https://europeansting.com/2026/08/31/who-reports-more-than-3200-attacks-on-ukraines-healthcare-system-since-full-scale-invasion/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal and China — Massive Himalayan floods leave over 1,000 dead",
+        "score": 9.5,
+        "body": "Massive floods triggered by a melting glacier unleashed rock and ice down the Bhote Kashi River along the Nepal-China border. According to Nepal's Disaster Management Authority cited by the Associated Press, at least 1,003 people have died, including 987 in Nepal and 16 in China. Another 4,462 people are reported missing, comprising 3,916 in Nepal and 546 in China. Additionally, the BBC reported that over 100 Indian nationals are missing near a key border trade crossing. Emergency crews are currently searching through mud and debris for survivors across the affected region.",
+        "verified_figures": [
+          "1,003 total deaths",
+          "987 deaths in Nepal",
+          "16 deaths in China",
+          "4,462 total missing",
+          "3,916 missing in Nepal",
+          "546 missing in China",
+          "Over 100 Indian nationals missing"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/nepal-flash-floods-death-toll-tibet-china-835459b2978adcd2b3bcf6e0595aee6c"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Junta offensive and blockade threaten civilians in southern Rakhine State",
+        "score": 6.5,
+        "body": "Intense airstrikes and naval bombardments by Myanmar's military junta in Gwa Township have trapped civilians and displaced populations in southern Rakhine State. The junta offensive, launched to enter Rakhine from neighboring Ayeyarwady Region, has severely disrupted daily survival and local economic activity. Local residents report that persistent air attack threats have left populations unable to work, exacerbating a worsening humanitarian crisis and restricting access to basic needs.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/military-offensive-and-blockade-threaten-civilian-survival-southern-part-rakhine-state"
+          }
+        ]
+      },
+      {
+        "headline": "India — Ethnic violence leaves three civilians dead in Manipur",
+        "score": 5.0,
+        "body": "Suspected militants from the Naga community launched an attack on a Kuki village in Manipur's Kangpokpi district along the Imphal-Tamenglong road, killing three Kuki civilians and injuring four others. The deceased include two women aged 40 and 21 and a 36-year-old man. The assault represents the second fatal attack along the route within a week, following a previous ambush that killed four Naga civilians, deepening inter-community tensions in the state.",
+        "verified_figures": [
+          "3 Kuki civilians killed",
+          "4 people injured",
+          "4 Naga civilians killed in previous ambush"
+        ],
+        "sources": [
+          {
+            "name": "Scroll.in",
+            "url": "https://amp.scroll.in/latest/1095383/manipur-three-kuki-civilians-killed-in-suspected-militant-attack"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Catastrophic flash flooding death toll surpasses 1,000",
+        "score": 9.5,
+        "body": "Catastrophic flash floods triggered by a glacier collapse and landslide along the Nepal-China border have killed over 1,000 people. UN reports indicate that more than 4,200 people remain missing, while rescue teams have pulled over 11,000 individuals to safety. Hundreds of hydropower workers remain trapped at damaged project sites across the Himalayas. The disaster, described as Nepal's deadliest since the April 2015 earthquake, has left at least 65,000 people requiring emergency water, sanitation, and hygiene assistance. Rescuers continue building temporary bridges to reach remote communities as power and communications are gradually restored.",
+        "verified_figures": [
+          "Over 1,000 deaths",
+          "More than 4,200 missing",
+          "65,000 people requiring emergency water, sanitation, and hygiene",
+          "More than 11,000 people rescued"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/nepal-rescuers-reach-remote-areas-electricity-restored-nearly-week-after-2026-09-01/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000?traffic_source=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Ebola outbreak surpasses 6,000 cases",
+        "score": 8.5,
+        "body": "The Democratic Republic of the Congo is confronting the largest Ebola outbreak in its history, with total cases topping 6,000 and deaths reaching 2,911. Driven by the Bundibugyo strain, for which no approved vaccines or treatments exist, the epidemic is actively spreading in North Kivu province. According to the World Health Organization, the crude case fatality ratio stands at 48.1%. Health officials warn that ongoing challenges in timely case detection, clinical access, and infection control continue to facilitate viral transmission across households, healthcare facilities, and local communities.",
+        "verified_figures": [
+          "6,041 cases",
+          "2,911 deaths",
+          "48.1% case fatality ratio"
+        ],
+        "sources": [
+          {
+            "name": "CIDRAP",
+            "url": "https://www.cidrap.umn.edu/ebola/ebola-death-toll-approaches-3000-case-fatality-rate-hovers-around-50"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Flash flooding strikes Grand Canyon National Park",
+        "score": 3.0,
+        "body": "Torrential rainfall triggered severe flash flooding along Bright Angel Canyon in Grand Canyon National Park, Arizona, killing two visitors and leaving one person unaccounted for. Rescue crews successfully evacuated about 80 people from the area. The flood severely damaged the Transcanyon Waterline, the main water pipeline serving the national park. In response, park officials barred tourists from staying at local lodges and implemented emergency water restrictions for residents while infrastructure assessments continue.",
+        "verified_figures": [
+          "2 dead",
+          "1 missing",
+          "Approximately 80 rescued"
+        ],
+        "sources": [
+          {
+            "name": "ABC7 Los Angeles",
+            "url": "https://abc7.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Gaza Strip",
+      "score": 7.5,
+      "trigger": "Continued daily air strikes by Israeli military forces targeting densely populated residential neighborhoods such as al-Kateeba and Tal al-Hawa.",
+      "potential_impact": "Further civilian casualties, expanded displacement of non-combatants, and increased protection risks in urban areas.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-including-three-children-gaza-medics-say-2026-09-01/"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "Strait of Hormuz / Larak Island",
+      "score": 7.0,
+      "trigger": "Reciprocal direct strikes between US forces and Iranian military assets following the strike on Larak Island and counter-attacks.",
+      "potential_impact": "Escalation of regional conflict risking civilian infrastructure damage and severe disruption to maritime trade corridors.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "location": "Southern Rakhine State, Myanmar",
+      "score": 6.5,
+      "trigger": "Sustained military junta aerial bombardments and naval blockades surrounding Gwa Township.",
+      "potential_impact": "Total economic paralysis, severe humanitarian access restrictions, and increased forced movement of vulnerable populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Burma News International",
+          "url": "https://www.bnionline.net/en/news/military-offensive-and-blockade-threaten-civilian-survival-southern-part-rakhine-state"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera English",
+        "count": 4
+      },
+      {
+        "name": "BBC",
+        "count": 4
+      },
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Burma News International",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "ABC7 Los Angeles",
+        "count": 1
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "CIC News",
+        "count": 1
+      },
+      {
+        "name": "CIDRAP",
+        "count": 1
+      },
+      {
+        "name": "IOL",
+        "count": 1
+      },
+      {
+        "name": "NY Carib News",
+        "count": 1
+      },
+      {
+        "name": "Scroll.in",
+        "count": 1
+      },
+      {
+        "name": "The European Sting",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1167,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
