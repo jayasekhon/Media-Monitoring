@@ -1,0 +1,413 @@
+{
+  "date": "2026-09-02",
+  "printed_time": "10:44 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Catastrophic flash floods following a Himalayan glacial collapse along the Nepal-Tibet border killed over 1,000 people, with nearly 4,500 missing and hundreds of workers trapped in damaged infrastructure.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "The Ebola epidemic in the Democratic Republic of the Congo reached a record 3,007 fatalities and over 6,100 confirmed cases, with 60 percent of deaths occurring outside medical facilities.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A gang attack on a church sheltering displaced people near Port-au-Prince, Haiti, resulted in more than 40 execution-style deaths, dozens of injuries, and several abductions.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Acute child malnutrition in Afghanistan reached critical levels, leaving 3.7 million children facing wasting and overwhelming hospital facilities nationwide.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Renewed US airstrikes in Iran killed up to 11 people, including civilians at a wedding, drawing retaliatory Iranian missile and drone strikes against US military positions across the region.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Catastrophic flash floods triggered by a Himalayan glacial collapse along the Nepal-Tibet border killed over 1,000 people and left nearly 4,500 missing across affected communities.",
+    "label": "GLOBAL / CROSS-CUTTING — Himalayan Glacial Collapse and Mass Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Iran/USA — Regional escalation following US airstrikes and Iranian retaliatory attacks",
+        "score": 8.0,
+        "body": "The United States launched renewed airstrikes against military targets in Iran, interrupting a month-long lull in direct direct military action. Local Iranian officials and state media reported that US strikes killed up to 11 people in two separate attacks. One strike hit a residence hosting a wedding near Sirik in Hormozgan province, killing between two and five civilians and injuring dozens. In response, Iran's Revolutionary Guard launched ballistic missiles and drones targeting American military assets and bases in Jordan, Bahrain, Kuwait, and Iraqi Kurdistan.",
+        "verified_figures": [
+          "11 people killed in Iranian state media reports",
+          "2 to 5 civilians killed in wedding strike near Sirik",
+          "dozens injured"
+        ],
+        "sources": [
+          {
+            "name": "azfamily.com",
+            "url": "https://www.azfamily.com/2026/09/01/us-military-says-its-striking-targets-iran-over-attempted-attacks-shipping/"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/2026/sep/02/us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Israeli attacks trigger new displacement in the south",
+        "score": 6.0,
+        "body": "Continued Israeli military strikes in southern Lebanon are impacting civilian populations and triggering localized displacement. The UN refugee agency warned that ongoing hostilities are preventing thousands of displaced people from returning to their homes while creating fresh displacement across affected communities.",
+        "verified_figures": [
+          "thousands of people displaced"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-explosions-near-bandar-abbas-israeli-attacks-in-southern-lebanon-leave-thousands-displaced-un-raises-alarm-275012/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang attack kills over 40 in church shelter near capital",
+        "score": 8.5,
+        "body": "A criminal gang attack on a church sheltering displaced people in Kenscoff, six miles southeast of Port-au-Prince, resulted in more than 40 deaths. Local officials reported execution-style killings, multiple house fires, dozens of injuries, and several abductions. Following the attack, the United States condemned the violence and called for the rapid deployment of the United Nations-authorized Gang Suppression Force to address the country's severe security crisis.",
+        "verified_figures": [
+          "More than 40 people killed",
+          "Dozens of people wounded"
+        ],
+        "sources": [
+          {
+            "name": "Barnabas Aid",
+            "url": "https://www.barnabasaid.org/gb/news/criminal-gang-massacres-more-than-40-taking-refuge-in-church-near-haiti/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Main airport partially reopens following deadly earthquakes",
+        "score": 7.0,
+        "body": "Commercial flights have partially resumed at Venezuela's main airport following deadly earthquakes that struck the country. Recovery efforts continue as affected communities work to recover from the seismic event, though specific figures regarding total casualties and infrastructure damage remain unconfirmed.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/venezuela-airport-simon-bolivar-flights-resume-earthquakes-74144da8c39b41ba7f3559ff3bd264d7"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Two kidnapped foreign workers safely released in Port-au-Prince",
+        "score": 3.0,
+        "body": "Two South Korean employees of a local firm abducted by a gang in Port-au-Prince on 31 July have been safely released. South Korea's foreign ministry confirmed one worker was freed on 18 August and the second on 2 September. Both individuals are reported to be in good health following diplomatic coordination with Haitian authorities.",
+        "verified_figures": [
+          "2 workers released"
+        ],
+        "sources": [
+          {
+            "name": "koreatimes.co.kr",
+            "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20260902/2-koreans-kidnapped-in-haiti-released-safely-foreign-ministry"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Ebola-related travel restrictions extended through September 2026",
+        "score": 2.0,
+        "body": "Canada's Public Health Agency has extended temporary border measures linked to Ebola outbreaks in parts of Africa through 28 September 2026. The measures bar foreign nationals who traveled to the Democratic Republic of the Congo within the preceding 21 days from entry, and suspend certain immigration documents for residents of the Democratic Republic of the Congo, Uganda, and South Sudan.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ImmigToronto",
+            "url": "https://immigtoronto.com/canada-extends-ebola-related-travel-restrictions/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak death toll exceeds 3,000",
+        "score": 9.0,
+        "body": "The Ebola epidemic in the Democratic Republic of the Congo has become the deadliest in the country's history, recording 3,007 fatalities and 6,186 confirmed cases across six provinces. Caused by the Bundibugyo species, the disease is spreading rapidly due to conflict, attacks on health personnel, population mobility, and community resistance. The World Health Organization estimates that roughly 60 percent of deaths are occurring outside medical facilities, highlighting significant gaps in surveillance and delayed access to care. Despite health risks, schools are reopening with safety protocols supported by humanitarian partners. Officially declared in Ituri province in May, health experts indicate the outbreak may have originated as early as January.",
+        "verified_figures": [
+          "3,007 deaths",
+          "6,186 confirmed cases",
+          "48.6% fatality rate",
+          "1,409 recoveries",
+          "60% of fatalities occurring outside treatment centres",
+          "Spread to 6 provinces"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-disease-outbreak-deaths-79042056c1bd20cb1233a013fedf30d3"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Strikes Injure Civilians in Kyiv Region as Infrastructure Threat Escalates",
+        "score": 6.0,
+        "body": "Russian forces launched strikes targeting rail infrastructure in the Kyiv region, injuring at least 20 people, including two children, according to Ukrainian officials. The attacks damaged key transport networks critical for moving civilians and supplies. Russian authorities simultaneously announced plans to step up strikes against Ukraine's energy facilities ahead of winter. Concurrently, Ukrainian President Volodymyr Zelenskyy warned commercial airlines that Russian airspace is becoming unsafe due to an increasing number of Ukrainian drone operations flying into Russia, though he stated there is no intention to target civilian flights directly.",
+        "verified_figures": [
+          "20 people injured",
+          "2 children injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy"
+          }
+        ]
+      },
+      {
+        "headline": "Germany — EU Summons Russian Officials Over Leipzig Airport Drone Incident and Substation Investigation",
+        "score": 2.0,
+        "body": "Germany and several European Union member states summoned Russian embassy officials following an attempted drone attack at Leipzig/Halle Airport, which German authorities attributed to Russian hybrid operations. In response, Germany ordered the closure of a Russian consulate and cultural center in Berlin. Separately, German police opened an investigation into a suspected attempt to cause an explosion and disrupt public services at a power substation near Brandenburg. Russian officials denied responsibility, describing the claims as false.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeE1lRUstV1lRTDlmeGRheDFMS0JsTHhNcFUwc2FIYWp0dWxMcWdyN3ZnMEpYRmRidU5QUUZWeV_paTE4c09QYjZSRHd2Vnc0Vnc4dV_CUzJZc1VHMjVoajRFeWU4U1FZekxab0d1MXd6UTFlLVZvWEVQTmw2S1M3ZEVQaUYya0dVTEhIaEtXQzQwN3NkbXR4UXZEY0hXY3lqNEhPYm8xOVphY21rWFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal — Devastating Himalayan glacial collapse triggers lethal flash floods",
+        "score": 9.0,
+        "body": "A massive collapse of ice and rock along the Nepal-Tibet border triggered severe glacial flash floods along the Bhotekoshi River, leaving at least 1,066 people dead and nearly 4,500 missing. Torrential floodwaters, rocks, and debris swept away entire settlements, roads, bridges, and hydropower infrastructure across Nepal, while 17 bodies were recovered downstream in India. Nepali authorities report overflowing mortuaries and have begun DNA sampling before burying unidentified victims. In response, Nepal's government is seeking formal climate compensation from major greenhouse gas emitters and requesting emergency support from the global Loss and Damage Fund.",
+        "verified_figures": [
+          "1,066 deaths",
+          "Nearly 4,500 missing",
+          "At least 17 bodies recovered in India"
+        ],
+        "sources": [
+          {
+            "name": "The Daily Star",
+            "url": "https://www.thedailystar.net/news/world/news/china-nepal-flood-death-toll-rises-1066-4262616"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Wasting surges among children as malnutrition crisis deepens",
+        "score": 8.0,
+        "body": "Child malnutrition has reached critical levels across Afghanistan, with 3.7 million children suffering from acute malnutrition, or wasting, according to UNICEF. Approximately one million of these children face life-threatening severe acute malnutrition. Hospitals across the country are overwhelmed, with infants under six months representing nearly 40 percent of children admitted with severe wasting and medical complications. In response to ongoing drought and severe food insecurity, the European Union announced an additional $17.4 million for the World Food Programme to support school feeding, climate-resilient livelihoods, and agribusiness over the next 12 months.",
+        "verified_figures": [
+          "3.7 million children suffering from wasting",
+          "1 million children with severe acute malnutrition",
+          "Nearly 40% of admitted severe wasting cases are babies under six months",
+          "$17.4 million additional EU funding"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/hospitals-overwhelmed-child-malnutrition-surges-across-afghanistan"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Torrential monsoon rains cause severe flash flooding in twin cities",
+        "score": 4.5,
+        "body": "Torrential monsoon rains triggered widespread flash flooding across Islamabad and neighbouring Rawalpindi, overwhelming local drainage systems and forcing water levels in the Nullah Lai past danger thresholds. Inundated low-lying neighbourhoods saw floodwaters enter homes and basements, stranding vehicles and disrupting major roadways. Local authorities declared a rain emergency in Rawalpindi, ordered the closure of educational institutions, and deployed emergency teams to contain the flooding.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/amp/science/story/heavy-rain-swells-pakistans-rivers-floods-drown-islamabad-rawalpindi-2984604-2026-09-01"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal and Tibet — Death toll exceeds 1,000 following catastrophic flash floods",
+        "score": 9.5,
+        "body": "The death toll from severe flash floods impacting Nepal and Tibet has surpassed 1,000 following a week of heavy inundation across towns and valleys. Search and rescue teams have constructed temporary bridges to access remote areas and navigate destroyed infrastructure. Approximately 600 workers remain trapped inside several devastated hydropower facilities, which have become a primary focus of emergency operations. Authorities report that over 11,000 individuals have been rescued to date, while power and communications are gradually being restored to selected regions.",
+        "verified_figures": [
+          "More than 1,000 deaths",
+          "About 600 workers trapped in hydropower stations",
+          "More than 11,000 people rescued"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/nepal-flash-floods-death-toll-tibet-china-835459b2978adcd2b3bcf6e0595aee6c"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo and Uganda — Resurgent Ebola outbreak spreads as international aid increases",
+        "score": 8.0,
+        "body": "A resurgence of Ebola disease caused by the Bundibugyo virus across the Democratic Republic of the Congo and Uganda risks becoming the deadliest on record. Médecins Sans Frontières is establishing treatment units, managing isolation facilities, and distributing critical supplies, while urging drugmakers and donors to include children in treatment research. In response to the growing crisis, the United Kingdom announced a new £50 million funding package to contain the outbreak at its source, bringing total UK support for the emergency response to £78 million.",
+        "verified_figures": [
+          "£50 million package of UK funding",
+          "£78 million total UK contribution"
+        ],
+        "sources": [
+          {
+            "name": "GOV.UK",
+            "url": "https://www.gov.uk/government/news/uk-accelerates-support-for-efforts-to-stop-ebola-outbreak-at-source"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Flash flooding in Grand Canyon leaves two dead and damages infrastructure",
+        "score": 2.5,
+        "body": "Flash flooding in Grand Canyon National Park killed two people and left one missing, while emergency personnel rescued nearly 80 individuals. The deluge severely damaged the park's primary water pipeline, forcing authorities to impose emergency water conservation measures on permanent residents and close all lodges and hotels inside the canyon to tourists. Search operations continue for the missing person.",
+        "verified_figures": [
+          "2 confirmed deaths",
+          "1 person missing",
+          "Nearly 80 people rescued"
+        ],
+        "sources": [
+          {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/texas/news/family-identifies-texas-man-among-those-killed-in-grand-canyon-flood-as-rescuers-search-for-missing/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ukraine",
+      "score": 6.0,
+      "trigger": "Intensified Russian strikes targeting energy infrastructure ahead of winter could severely disrupt Ukraine's power grid.",
+      "potential_impact": "Widespread electricity and heating failure would expose millions of civilians to acute humanitarian crisis during cold weather.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "location": "Southern Lebanon",
+      "score": 6.0,
+      "trigger": "Continued Israeli military strikes in southern Lebanon could expand further into populated communities.",
+      "potential_impact": "Escalating attacks risk driving secondary displacement for thousands of families and barring access to primary residences.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-explosions-near-bandar-abbas-israeli-attacks-in-southern-lebanon-leave-thousands-displaced-un-raises-alarm-275012/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "The Sunday Guardian",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Barnabas Aid",
+        "count": 1
+      },
+      {
+        "name": "CBS News",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "GOV.UK",
+        "count": 1
+      },
+      {
+        "name": "ImmigToronto",
+        "count": 1
+      },
+      {
+        "name": "India Today",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Daily Star",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "azfamily.com",
+        "count": 1
+      },
+      {
+        "name": "koreatimes.co.kr",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1215,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
