@@ -1,0 +1,518 @@
+{
+  "date": "2026-09-03",
+  "printed_time": "10:54 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Trump says US ready to strike Iran again 'any time we want'.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Blast also injures 68 guests at the wedding in southern Iran, prompting fears of escalation in hostilities Iran has accused the US of a war crime after a missile blast killed at least four people and injured 68 who were attending a wedding at a private home in a coastal city of southern Iran, as the fresh exchange of strikes prompted fears of a wider renewal of hostilities.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Maryland judge issues preliminary injunction blocking Trump’s executive order targeting what he termed ‘birth tourism’ Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change the name of the Great Lake amid his trade spat with Canada.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Iran says 18 killed, 108 wounded in Tuesday's US attacks.",
+    "label": "MIDDLE EAST — Iran says 18 killed, 108 wounded in Tuesday's US attacks"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Iran — Missile strike on wedding ceremony causes civilian casualties",
+        "score": 7.5,
+        "body": "A missile strike hit a private home hosting a wedding ceremony in Kuhestak, Hormozgan province, killing four people and injuring up to 68 others. Iranian officials accused the United States of a war crime, while the Iranian Red Crescent urged an International Criminal Court investigation into the incident. Iranian authorities reported that broader US attacks on Tuesday resulted in a total of 18 deaths and 108 injuries across the country.",
+        "verified_figures": [
+          "18 killed in US attacks on Tuesday",
+          "108 wounded in US attacks on Tuesday",
+          "4 killed in Kuhestak wedding strike",
+          "68 injured in Kuhestak wedding strike"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East — Iran launches retaliatory strikes targeting US bases and regional allies",
+        "score": 7.0,
+        "body": "Iran launched missile and drone strikes against US military bases and regional allies in Kuwait, Jordan, the United Arab Emirates, Bahrain, and the Kurdistan region of Iraq. The attacks followed extensive US bombardments across Iran. Kuwait's military reported intercepting incoming missiles and drones. Separately, Saudi Arabia reported that an attack targeting the Saudi tanker Sidr in the Strait of Hormuz killed two Filipino sailors.",
+        "verified_figures": [
+          "2 Filipino sailors killed"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260903-mideast-live-kuwait-army-says-intercepting-missile-drone-attack-from-iran"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cx2zxgg4mx9o"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Palestinian teenagers killed during village attack in West Bank",
+        "score": 5.5,
+        "body": "Israeli settlers and soldiers killed two Palestinian teenagers, aged 16 and 19, in the West Bank village of al-Mughayyir. Local officials reported that the youth were killed while attempting to stop settlers from stealing livestock. The Israeli military stated that its forces entered the village to support an effort to retrieve livestock and fired upon individuals throwing stones during a violent disturbance.",
+        "verified_figures": [
+          "2 Palestinian teenagers killed"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang rampage kills dozens in Kenscoff church attack",
+        "score": 8.5,
+        "body": "Armed members of Haiti's Viv Ansanm gang coalition carried out a coordinated attack in the Kenscoff commune near Port-au-Prince, killing 47 people and kidnapping 50 others, including children. The violence began late on 23 August and extended into the next morning. Attackers targeted the Ark of the New Testament evangelical church, executing 22 people who had sought refuge in the prayer center. Mourners have begun attending services as the country faces worsening gang-driven insecurity and severe protection risks.",
+        "verified_figures": [
+          "47 killed",
+          "50 kidnapped",
+          "22 executed in church compound"
+        ],
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://apnews.com/article/haiti-gang-attack-funeral-1bacaf16c7d2c29acfab810930bdbfdf"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Main airport partially reopens following deadly earthquakes",
+        "score": 8.0,
+        "body": "Venezuela’s Simón Bolívar International Airport near Caracas has partially resumed commercial operations using temporary metal structures after suffering severe structural damage during twin earthquakes on 24 June. The magnitude 7.2 and 7.5 quakes caused extensive destruction to airport runways, the control tower, and passenger terminals. The earthquakes resulted in more than 6,500 deaths and left approximately 17,900 people homeless across the country, while search and recovery efforts continue amid collapsed buildings.",
+        "verified_figures": [
+          "more than 6,500 dead",
+          "some 17,900 people homeless"
+        ],
+        "sources": [
+          {
+            "name": "WLRN",
+            "url": "https://www.wlrn.org/americas/2026-09-02/venezuelas-main-airport-partially-resumes-commercial-flights-after-deadly-earthquakes"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Severe storm causes blackout for thousands in Toronto",
+        "score": 3.5,
+        "body": "A severe thunderstorm struck Toronto, damaging infrastructure, flooding roads, and leaving at least 45,000 customers without electricity. The storm delivered torrential rainfall, high winds, and large hail across Canada's largest city, prompting local tornado watches and warnings. The power disruptions and structural damage represent localized operational and municipal challenges following extreme weather conditions.",
+        "verified_figures": [
+          "at least 45,000 customers without electricity"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/3/powerful-storm-hits-canadas-toronto-cutting-power-to-tens-of-thousands?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000",
+        "score": 10.0,
+        "body": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-disease-outbreak-deaths-79042056c1bd20cb1233a013fedf30d3"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak: Congo faces deadliest crisis with over 3,000 deaths",
+        "score": 10.0,
+        "body": "Ebola outbreak: Congo faces deadliest crisis with over 3,000 deaths Congo’s Ebola outbreak has killed more than 3,000, as government figures reveal today According to the latest government data released today, Congo’s Ebola outbreak has reportedly killed more than 3,000 people out of more than 6,100 confirmed cases as the disease spreads faster than containment measures can track and slow it. The outbreak has recorded 6,186 confirmed cases including 3,007 deaths since it was declared a public health emergency in mid-May, becoming one of the fastest-growing Ebola ever on record. The cases have surged in the last few weeks with two health zones affected last week in North Kivu where the death",
+        "verified_figures": [
+          "3,000 deaths",
+          "3,000 people",
+          "3,007 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk/latest/1414623-ebola-outbreak-congo-faces-deadliest-crisis-with-over-3000-deaths"
+          }
+        ]
+      },
+      {
+        "headline": "Congo’s Ebola outbreak death toll tops 3,000 as virus spreads at unprecedented speed",
+        "score": 10.0,
+        "body": "More than 3,000 people have died in Congo's Ebola outbreak from over 6,100 confirmed infections, according to fresh government statistics released on Wednesday. Transmission of the virus is accelerating at a rate outpacing efforts to trace and contain it. Figures published by Congo's Ministry of Health confirm 6,186 infections and 3,007 fatalities since the situation was designated an international health emergency in mid-May. The crisis continues to be the most rapidly expanding Ebola epidemic on record. Infections have escalated sharply in recent weeks, reaching two additional health zones in North Kivu last week—a province experiencing a significantly higher mortality rate than other impa",
+        "verified_figures": [
+          "3,000 people",
+          "3,007 fatalities"
+        ],
+        "sources": [
+          {
+            "name": "Yahoo News UK",
+            "url": "https://uk.news.yahoo.com/congo-ebola-outbreak-death-toll-121243933.html"
+          }
+        ]
+      },
+      {
+        "headline": "The Ebola epidemic in Congo has caused over 3,000 deaths out of 6,186 confirmed infecti...",
+        "score": 10.0,
+        "body": "The Ebola epidemic in Congo has caused over 3,000 deaths out of 6,186 confirmed infections, with an acceleration of the virus transmission.",
+        "verified_figures": [
+          "3,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Informat.ro",
+            "url": "https://informat.ro/en/international/ebola-epidemic-in-congo-over-3000-deaths-and-6100-confirmed-infections-137256"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes wound 17 in Odesa",
+        "score": 6.0,
+        "body": "A Russian air attack damaged a multi-story residential building in the Ukrainian port city of Odesa, wounding 17 people, according to local officials. The strike comes amid continued Russian air attacks targeting infrastructure and urban centers across Ukraine, exacerbating humanitarian risks and civilian protection concerns in affected areas.",
+        "verified_figures": [
+          "17 wounded"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/russian-air-attack-damages-multi-story-residential-building-ukraines-odesa-2026-09-02/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Kyiv urges UN flight ban over Russian airspace",
+        "score": 4.5,
+        "body": "Ukraine has urged the International Civil Aviation Organization to call for a full ban on civilian flights through Russian airspace. Ukrainian President Volodymyr Zelensky warned that Russian airspace has become unsafe due to growing Ukrainian drone operations. Kyiv stated it plans to increase retaliatory strikes strictly targeting military facilities inside Russia in response to intensified Russian attacks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Oxfam transitions from direct in-country operations to remote response",
+        "score": 4.0,
+        "body": "International humanitarian organization Oxfam officially ended its direct operational presence in Ukraine on September 1 after four and a half years of on-the-ground emergency response. The agency has shifted to a remote strategic engagement model. Oxfam highlighted the protracted nature of the conflict following Russia's invasion, emphasizing ongoing disruptions to civilian lives, livelihoods, and rights across the country.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Oxfam",
+            "url": "https://politicsofpoverty.oxfamamerica.org/abby-maxman-reflects-on-milestone-in-ukraine/"
+          }
+        ]
+      },
+      {
+        "headline": "Germany — Berlin accuses Russia of failed drone attack at Leipzig airport",
+        "score": 3.5,
+        "body": "Authorities in Berlin have blamed Russia for a failed drone attack targeting Leipzig airport in Germany. In response, officials from the European Union and NATO vowed to step up pressure on Moscow, pointing to an escalation of hostile actions. EU member states are currently evaluating effective responses to the incident.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/germany-russia-explosive-drone-leipzig-attack-8a0054face48cc56f6cb6bcf9a8f4b51"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal/China — Border Floods",
+        "score": 9.5,
+        "body": "Rescue operations are underway in Nepal following catastrophic flooding along the Chinese border that has killed more than 1,270 people. Emergency teams are deploying helicopters and zip lines to deliver assistance and access isolated, flood-stricken villages. Following the widespread destruction, Nepalese authorities reportedly plan to reconstruct early-warning systems along the border with China to enhance future disaster response, while seeking international climate compensation.",
+        "verified_figures": [
+          "Over 1,270 dead"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/nepal-rebuild-early-warning-system-china-border-after-deadly-flood-sources-say-2026-09-02/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Long-Term Conflict Impact",
+        "score": 5.5,
+        "body": "A report by the United Nations Assistance Mission in Afghanistan details the severe long-term humanitarian consequences of armed conflict between 2001 and 2021. The report documents more than 40,000 deaths and nearly 77,000 injuries over two decades. UNAMA stresses that thousands of survivors face ongoing physical disabilities and severe psychological trauma, underscoring persistent humanitarian needs long after major active combat ended.",
+        "verified_figures": [
+          "Over 40,000 killed between 2001 and 2021",
+          "Nearly 77,000 injured between 2001 and 2021"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/news/islam/afghanistan/145190-the-legacy-of-two-decades-of-war-in-afghanistan-over-40000-dead-and-77000-injured-psychological-trauma-haunting-survivors/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Bago River Flooding",
+        "score": 4.5,
+        "body": "Heavy rainfall caused the Bago River in Myanmar to rise more than 1.5 feet above the danger level, inundating urban wards and sections of the Bago–Yangon highway. Local authorities evacuated 494 residents from 126 households to temporary emergency shelters. Meteorological monitors reported the river stood at 923 cm, stabilizing without further increases following initial overnight surges.",
+        "verified_figures": [
+          "494 residents evacuated",
+          "126 households displaced to shelters"
+        ],
+        "sources": [
+          {
+            "name": "The Star",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/update-nearly-500-people-evacuated-as-myanmar039s-bago-river-rises-heavy-rains-flood-urban-wards-and-major-roads"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Ebola Deaths Top 3,000 in Fastest-Growing Outbreak on Record",
+        "score": 10.0,
+        "body": "NEED TO KNOW The current Ebola outbreak in the Democratic Republic of Congo has caused 3,007 deaths and 6,186 confirmed cases The Bundibugyo virus, a rare Ebola strain, may have spread undetected for months due to delayed identification Parents in affected areas are keeping children home from school, citing insufficient prevention measures Ebola deaths are climbing in the ongoing outbreak in the Democratic Republic of Congo, with cases rising far more quickly than they have during previous outbreaks — and parents are worried about their children's safety as school has resumed in the impacted areas. There have been 3,007 confirmed deaths, according to a September 2 post on X by the Democratic",
+        "verified_figures": [
+          "3,007 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Yahoo News Canada",
+            "url": "https://ca.news.yahoo.com/ebola-deaths-top-3-000-202557753.html"
+          }
+        ]
+      },
+      {
+        "headline": "5.0-Magnitude Earthquake Hits Tibet Days After Deadly Flash Floods Kill Over 1,200",
+        "score": 10.0,
+        "body": "A 5.0-magnitude earthquake struck Tibet at a depth of 14km on Thursday, with no immediate reports of casualties or major damage. The tremor came days after devastating flash floods killed at least 1,252 people and left thousands missing in Nepal. Around 100 Nepali nationals remain missing in Tibet, while thousands who were stranded after the floods have been evacuated or returned home. An earthquake of magnitude 5.0 struck Tibet on Thursday days after devastating flash floods in the Himalayan region killed more than 1,252 people in Nepal. The earthquake occurred at a shallow depth of 14km, making it susceptible to aftershocks. In a post on X, the National Center for Seismology (NCS) said, “E",
+        "verified_figures": [
+          "1,252 people"
+        ],
+        "sources": [
+          {
+            "name": "Outlook India",
+            "url": "https://www.outlookindia.com/international/50-magnitude-earthquake-hits-tibet-days-after-deadly-flash-floods-kill-over-1200"
+          }
+        ]
+      },
+      {
+        "headline": "Earthquake of magnitude 5.1 strikes Tibet days after flood tragedy | World News",
+        "score": 10.0,
+        "body": "Earthquake of magnitude 5.1 strikes Tibet days after flood tragedy The earthquake comes a week after a massive ice, rock and mud avalanche in the Himalayas triggered a devastating flash flood across parts of Nepal and Tibet. An earthquake of magnitude 5.1 struck Tibet on Thursday, according to the United States Geological Survey (USGS). The quake occurred at a depth of 10 km (6.21 miles), according to GFZ, Reuters reported. It came a week after a massive ice, rock and mud avalanche in the Himalayas triggered a devastating flash flood across parts of Nepal and Tibet.",
+        "verified_figures": [
+          "1,252 people"
+        ],
+        "sources": [
+          {
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/world-news/earthquake-of-magnitude-5-1-strikes-tibet-days-after-flood-tragedy-101788424670941.html"
+          }
+        ]
+      },
+      {
+        "headline": "Fabricated video of fighter jet attack falsely presented as cause of deadly Nepal floods",
+        "score": 10.0,
+        "body": "Fabricated video of fighter jet attack falsely presented as cause of deadly Nepal floods.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://factcheck.afp.com/doc.afp.com.C73Y2ZQ"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ebola outbreak: Congo faces deadliest crisis with over 3,000",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://www.thenews.com.pk/latest/1414623-ebola-outbreak-congo-faces-deadliest-crisis-with-over-3000-deaths"
+        }
+      ]
+    },
+    {
+      "location": "Congo’s Ebola outbreak death toll tops 3,000 as virus spread",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/congo-ebola-outbreak-death-toll-121243933.html"
+        }
+      ]
+    },
+    {
+      "location": "The Ebola epidemic in Congo has caused over 3,000 deaths out",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Informat.ro",
+          "url": "https://informat.ro/en/international/ebola-epidemic-in-congo-over-3000-deaths-and-6100-confirmed-infections-137256"
+        }
+      ]
+    },
+    {
+      "location": "From Uttarakhand to Kerala: India’s 10 deadliest floods that",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "url": "https://www.moneycontrol.com/science/from-uttarakhand-to-kerala-india-s-10-deadliest-floods-that-killed-thousands-article-14021052.html"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "AP News",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Informat.ro",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "The News International",
+        "count": 2
+      },
+      {
+        "name": "Yahoo News UK",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AP News",
+        "count": 1
+      },
+      {
+        "name": "Hindustan Times",
+        "count": 1
+      },
+      {
+        "name": "Moneycontrol.com",
+        "count": 1
+      },
+      {
+        "name": "Outlook India",
+        "count": 1
+      },
+      {
+        "name": "Oxfam",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Star",
+        "count": 1
+      },
+      {
+        "name": "WLRN",
+        "count": 1
+      },
+      {
+        "name": "Yahoo News Canada",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "5 item(s) had no extractable figures in available reporting.",
+      "3 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 10/10 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 4/6 region(s) with candidate material generated via Gemini (LLM), 2 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 982,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
