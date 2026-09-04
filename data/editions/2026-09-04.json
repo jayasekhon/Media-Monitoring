@@ -1,0 +1,324 @@
+{
+  "date": "2026-09-04",
+  "printed_time": "10:46 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Devastating flash floods and mudslides caused by a glacial collapse in Nepal have killed over 1,270 people and left up to 5,000 missing, isolating remote communities and destroying vital infrastructure.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "A sharp escalation in Boko Haram attacks in Chad's Lake Province has displaced more than 75,000 people from island communities toward inland towns, prompting emergency aid expansion.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A missile strike on a wedding celebration in Kuhestak, southern Iran, killed at least four civilians and injured over 60 others as US officials investigate potential missile involvement.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Multiple drone strikes across Ethiopia's northern Tigray region have raised fears of renewed armed conflict, threatening health systems and post-war recovery efforts.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Iranian military forces targeted US air bases in the United Arab Emirates and Kuwait, furthering regional warfare that has kept the Strait of Hormuz effectively closed.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "Glacial failure in Nepal triggered catastrophic flash flooding and mudslides that killed more than 1,270 people, left thousands missing, and severed vital access to remote communities.",
+    "label": "GLOBAL / CROSS-CUTTING — Glacial Flood Disaster in Nepal"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Iran — Missile strike on wedding kills four and injures over 60",
+        "score": 7.0,
+        "body": "A missile strike on a wedding in the coastal town of Kuhestak in southern Iran killed at least four people, including a child, and wounded more than 60 others on 1 September. According to the Iranian Red Crescent Society, missile shrapnel struck the celebration near the Strait of Hormuz. United States officials indicated that an investigation is under way to determine whether a US missile was responsible for the explosion.",
+        "verified_figures": [
+          "at least 4 killed",
+          "more than 60 injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/04/iranian-town-kuhestak-devastated-strike-wedding"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Escalating clashes in Taiz trigger fresh displacement",
+        "score": 6.5,
+        "body": "Intensifying clashes between Houthi forces and Yemeni government troops in Taiz governorate have triggered a new wave of civilian displacement. The fighting has forced thousands of residents from their homes and threatens crucial roadways connecting the area to the Red Sea coast, exacerbating humanitarian and movement challenges in the region.",
+        "verified_figures": [
+          "thousands displaced"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Two teenagers killed and village razed in West Bank",
+        "score": 6.0,
+        "body": "Israeli forces shot and killed two Palestinian teenagers, aged 16 and 19, in the West Bank village of al-Mughayyir after settlers encircled the community. Separately, Israeli troops razed an entire village outside Hebron, continuing a broader pattern of destruction and civilian casualties across the occupied West Bank.",
+        "verified_figures": [
+          "2 killed"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East — Iran targets US military bases in UAE and Kuwait",
+        "score": 7.0,
+        "body": "Iranian forces struck air bases used by the United States in the United Arab Emirates and Kuwait as regional conflict expands. The six-month war has kept the Strait of Hormuz commercial shipping route effectively closed since February and prompted a sweeping economic blockade. Official Pentagon records confirm 18 US service members have been killed since hostilities began.",
+        "verified_figures": [
+          "18 US service members killed"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps"
+          }
+        ]
+      }
+    ],
+    "Americas": [],
+    "Africa": [
+      {
+        "headline": "Chad — Mass displacement in Lake Province following Boko Haram attacks",
+        "score": 7.5,
+        "body": "More than 75,000 people have been newly displaced within Chad’s Lake Province due to a surge in attacks by the Boko Haram armed group over recent months. Most of those affected have fled island areas on Lake Chad to seek safety in towns and villages located further inland. The International Organization for Migration is expanding emergency humanitarian assistance to meet the immediate relief needs of the newly displaced populations.",
+        "verified_figures": [
+          "More than 75,000 people newly displaced"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260904-iom-ramps-up-emergency-aid-in-lake-chad-as-thousands-flee-boko-haram"
+          }
+        ]
+      },
+      {
+        "headline": "Ethiopia — Drone strikes in Tigray heighten risk of renewed conflict",
+        "score": 7.0,
+        "body": "Multiple drone strikes have hit several areas in Ethiopia's northern Tigray region over the past month, driving fears of a return to active hostility. Health experts warn that any resumption of conflict poses severe risks to patient care in a region that has yet to rebuild or recover from the previous war, which resulted in an estimated 600,000 deaths.",
+        "verified_figures": [
+          "Estimated 600,000 killed in previous conflict"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260904-tigray-s-fragile-recovery-at-risk-as-drone-strikes-reignite-war-fears"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Police arrest four suspects in illegal organ harvesting network",
+        "score": 4.0,
+        "body": "Police in Nigeria have arrested four suspects, including two medical doctors, in connection with an illegal organ harvesting operation. Authorities report that the network exploited financially vulnerable and uneducated young people to forcibly or illegally harvest kidneys for transplantation into wealthy patients.",
+        "verified_figures": [
+          "4 suspects arrested",
+          "2 medical doctors accused"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260904-nigerian-police-arrest-four-suspects-over-alleged-organ-harvesting"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Europe — Suspected Russian sabotage targets airport and defense facilities across continent",
+        "score": 3.0,
+        "body": "European governments are pointing to an escalating campaign of suspected Russian hybrid warfare and sabotage targeting critical infrastructure and defense sites across the continent. Recent incidents include the discovery of an explosives-laden drone near a Ukrainian cargo aircraft at Germany's Leipzig airport, alongside suspected sabotage activities in Poland. Multiple unexplained fires and explosions have also struck European defense facilities involved in supplying material to Ukraine. Officials across Europe are increasingly calling out Moscow publicly for these covert actions while seeking strategies to deter future attacks that remain below the threshold of open conventional warfare.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Mass food poisoning outbreak linked to school meals programme",
+        "score": 5.5,
+        "body": "Around 2,000 students and teachers across Indonesia have fallen ill with food poisoning over a three-day period, linked to the government's free school meals programme. In a recent incident at a high school in Rembang, Central Java, 777 people became unwell after consuming the meals. The multibillion-dollar initiative, designed to improve student nutrition under President Prabowo Subianto, faces scrutiny following the mass illness alongside allegations of corruption and high costs.",
+        "verified_figures": [
+          "Around 2,000 students and teachers fallen ill",
+          "777 people unwell in Rembang, Central Java"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "China — Severe flooding and building collapse in Fujian",
+        "score": 4.5,
+        "body": "Severe flooding in Fujian province, China, has caused a three-storey building to collapse. The affected region is preparing for further heavy rainfall as Typhoon Saudel approaches. Local authorities and emergency services remain on alert for worsening conditions across the province, though specific figures regarding overall displacement or casualties have not yet been reported.",
+        "verified_figures": [
+          "1 three-storey building collapsed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Rescue workers extract trapped individuals following flash floods",
+        "score": 3.5,
+        "body": "Rescue teams in Nepal have pulled two workers from a hydropower tunnel, more than a week after a massive flash flood devastated areas along the Nepal-China border. The flood caused significant destruction in the border region. Further information on overall casualties or damage remains limited following the rescue operation.",
+        "verified_figures": [
+          "2 people rescued"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Devastating flash floods cause mass casualties and severe destruction",
+        "score": 9.0,
+        "body": "Devastating flash floods and mudslides triggered by a glacial collapse near the Langtang Lirung peak have struck Nepal and Tibetan valleys. Authorities report over 1,270 people killed and between 4,700 and 5,000 missing. Rescue teams extricated two workers alive from a hydropower tunnel nine days after being trapped, though at least 639 plant workers remain unaccounted for along affected rivers. Survivors in temporary shelters face critical shortages of food and basic supplies, prompting emergency teams to deliver medicine using zip lines to reach isolated communities. Nepalese officials state that rebuilding damaged infrastructure will require billions of dollars in funding.",
+        "verified_figures": [
+          "More than 1,270 people killed",
+          "More than 4,700 to 5,000 people missing",
+          "At least 639 hydropower workers missing",
+          "Two workers rescued alive after nine days trapped underground"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/4/nepal-floods-how-does-dna-identification-of-bodies-work?traffic_source=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/03/nepal-floods-rasuwagadhi-hydropower-hydro-tunnel-trapped-workers-search-rescue"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260904-nepal-flood-aftermath-zip-lines-carry-medicine-as-survivors-relive-the-horror"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Taiz Governorate, Yemen",
+      "score": 6.5,
+      "trigger": "Intensifying military clashes between Houthi forces and government troops could sever crucial transit corridors connecting inland Taiz to the Red Sea coast within the next 72 hours.",
+      "potential_impact": "Disruption of these key roadways would restrict humanitarian movement and severely impede aid delivery to thousands of recently displaced civilians.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "Fujian Province, China",
+      "score": 4.5,
+      "trigger": "The arrival of Typhoon Saudel over the next 72 hours threatens to bring additional severe rainfall to already flooded areas of Fujian province.",
+      "potential_impact": "Heightened floodwaters could lead to further structural collapses, secondary landslides, and additional emergency evacuations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "West Bank, Occupied Palestinian Territory",
+      "score": 6.0,
+      "trigger": "Continued settler encirclement of Palestinian communities could spark renewed lethal encounters and military destruction over the next 72 hours.",
+      "potential_impact": "Further violent incidents risk increasing civilian fatalities, destruction of property, and broader localized displacement across West Bank villages.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 6
+      },
+      {
+        "name": "The Guardian",
+        "count": 6
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 5
+      },
+      {
+        "name": "France 24 English",
+        "count": 4
+      }
+    ],
+    "limitations": [
+      "No developments met inclusion thresholds in the monitoring window for: Americas.",
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 5/5 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation, 1 had no qualifying candidates to send. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 112,
+      "sources_cited": 4
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
