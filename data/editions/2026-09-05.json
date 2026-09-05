@@ -1,0 +1,509 @@
+{
+  "date": "2026-09-05",
+  "printed_time": "10:03 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A catastrophic high-altitude glacial collapse on the Nepal-Tibet border triggered downstream flooding that killed over 1,300 people and left more than 4,900 missing across the region.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "An outbreak of the Bundibugyo Ebola virus strain across Central Africa has caused nearly 5,800 confirmed cases and 2,786 deaths amid a severe lack of validated vaccines.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "A magnitude 7.4 earthquake in western Colombia killed over 300 people and caused massive destruction, with reconstruction costs estimated at $9.6 billion.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Escalating military offensives in southeastern Myanmar have driven total displacement past 1.6 million people, forcing families into remote areas without access to basic aid.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Russian drone and missile strikes on Kyiv killed at least 12 people and damaged vital non-military targets, including a World Health Organization medical supply warehouse.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "A catastrophic glacial collapse on the Nepal-Tibet border triggered severe flash flooding and debris flows that killed over 1,300 people and left thousands missing across Nepal, China, and India.",
+    "label": "GLOBAL / CROSS-CUTTING — Devastating Glacial Collapse Triggers Mass Flooding"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — UN warns West Bank camp displacements may constitute crimes against humanity",
+        "score": 7.0,
+        "body": "A UN report warns that the forced displacement of more than 33,000 Palestinians from the Jenin, Nur Shams, and Tulkarm refugee camps in the West Bank in January 2025 could amount to crimes against humanity. Israeli authorities have not permitted the displaced residents to return to their homes. The Israeli government rejected the report, accusing the UN of spreading misinformation.",
+        "verified_figures": [
+          "more than 33,000 Palestinians displaced"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Houthi offensive in Taiz governorate triggers new wave of displacement",
+        "score": 6.0,
+        "body": "Escalating military clashes between Yemeni government forces and Houthi rebels in Taiz governorate have triggered a new wave of displacement affecting thousands of civilians. Houthi forces launched a coordinated offensive across the Maqbanah, Mawzaa, and Jabal Habashi districts using missiles, drones, and ground troops to sever key roads connecting Taiz city to the Red Sea coast. Heavy fighting resulted in casualties on both sides.",
+        "verified_figures": [
+          "thousands of civilians displaced"
+        ],
+        "sources": [
+          {
+            "name": "abcnepal.tv",
+            "url": "https://abcnepal.tv/posts/331597"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Israeli airstrikes cause civilian casualties in south despite ceasefire",
+        "score": 5.0,
+        "body": "Israeli drone and airstrikes in southern Lebanon have killed up to five people and injured several others despite an active ceasefire agreement. The strikes targeted locations in southern Lebanon, causing casualties and demonstrating ongoing security risks for local populations despite diplomatic efforts to halt hostilities.",
+        "verified_figures": [
+          "5 killed",
+          "many injured"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/2-killed-in-israeli-drone-strike-in-southern-lebanon-despite-ceasefire/4047670"
+          }
+        ]
+      },
+      {
+        "headline": "Iran — Deadly strike on wedding in Hormozgan province kills four and injures dozens",
+        "score": 5.0,
+        "body": "A strike on a wedding in Kuhestak, a predominantly Baloch city in Iran's southern Hormozgan province, killed at least four people, including a child, and injured more than 60 others. Local authorities stated the explosion occurred on 1 September in the coastal community along the Strait of Hormuz, causing widespread casualties among celebrating civilians.",
+        "verified_figures": [
+          "at least 4 killed",
+          "more than 60 injured"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/04/iranian-town-kuhestak-devastated-strike-wedding"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — Magnitude 7.4 Earthquake Impacts",
+        "score": 9.0,
+        "body": "A magnitude 7.4 earthquake that struck western Colombia on August 10 resulted in over 300 fatalities and severe destruction, with heavy damage radiating from San José del Palmar. Colombian officials estimate reconstruction costs at $9.6 billion, including $8 billion for housing and $1.6 billion for infrastructure. Local authorities in Cali and Pereira indicate that full recovery could take three to five years, while immediate response efforts remain focused on urgent humanitarian assistance.",
+        "verified_figures": [
+          "over 300 lives claimed",
+          "$9.6 billion in reconstruction costs"
+        ],
+        "sources": [
+          {
+            "name": "Atlantic Council",
+            "url": "https://www.atlanticcouncil.org/dispatches/how-the-us-can-support-colombias-post-earthquake-recovery-for-the-long-term/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Gang Attacks Expand to Rural Areas",
+        "score": 8.0,
+        "body": "Armed men attacked the rural community of Kenscoff outside Port-au-Prince on August 23, killing at least 47 people and executing one of the largest mass kidnappings in Haiti's history. The assault reflects a broader shift in gang tactics following the February 2024 coalition of major gangs under the Viv Ansanm umbrella. Despite security operations concentrated in the capital, armed groups continue to expand violent operations into peripheral and rural regions.",
+        "verified_figures": [
+          "at least 47 people dead"
+        ],
+        "sources": [
+          {
+            "name": "Global Initiative against Transnational Organized Crime (GI-TOC)",
+            "url": "https://globalinitiative.net/analysis/from-port-au-prince-to-the-periphery-the-ruralization-of-haitian-gang-violence/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Increased US Deportation Flights",
+        "score": 5.5,
+        "body": "The United States government deported 101 people to Cap-Haïtien aboard a flight from Louisiana, according to Haitian Foreign Ministry officials. This marks the third consecutive weekly deportation flight, reflecting an acceleration from monthly operations despite widespread gang violence across Haiti. Human rights monitors note that more than 200 individuals were previously returned on two separate flights in late August.",
+        "verified_figures": [
+          "101 deportees",
+          "more than 200 people deported in late August"
+        ],
+        "sources": [
+          {
+            "name": "NBC 6 South Florida",
+            "url": "https://www.nbcmiami.com/news/local/u-s-deports-more-than-100-people-to-haiti-as-gang-violence-persists/3855075/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Category 4 Hurricane Lowell Approaches Hawaii",
+        "score": 5.0,
+        "body": "The state of Hawaii declared a statewide emergency as Hurricane Lowell strengthened to a Category 4 storm with sustained winds of approximately 240 kilometres per hour. Located about 985 kilometres south of Lihue, the system is expected to approach the western Hawaiian Islands. Authorities warned that severe weather, including high surf and heavy rainfall, could extend hundreds of miles from the storm center.",
+        "verified_figures": [
+          "sustained winds of around 240 kilometres per hour"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/united-states-hawaii-declares-emergency-as-hurricane-lowell-strengthens-to-category-4/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Rapidly Spreading Bundibugyo Ebola Outbreak",
+        "score": 9.0,
+        "body": "An ongoing outbreak of the Bundibugyo Ebola virus strain across the Democratic Republic of the Congo has caused at least 5,794 confirmed cases and 2,786 deaths. Response efforts face severe challenges due to the lack of a validated vaccine effective against this specific strain, alongside local misinformation and cultural obstacles. Humanitarian agencies and church structures are establishing isolation units and delivering medical supplies in affected areas, including Ituri province. Aid organizations are urging drug developers to explicitly include pediatric populations in research for treatments.",
+        "verified_figures": [
+          "5,794 confirmed cases",
+          "2,786 deaths"
+        ],
+        "sources": [
+          {
+            "name": "2 Minute Medicine",
+            "url": "https://www.2minutemedicine.com/bundibugyo-ebola-outbreak-surpasses-5700-cases-without-a-validated-vaccine/"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Concurrent Health Crises Threaten Eastern Provinces",
+        "score": 7.0,
+        "body": "Humanitarian responders warn that the focus on the Ebola epidemic is diverting resources from other severe health and protection crises in North and South Kivu provinces. Ongoing armed conflict, along with widespread outbreaks of measles, cholera, and malaria, continues to impact thousands of vulnerable civilians. Médecins Sans Frontières teams have treated more than 12,050 patients for cholera and measles in the two provinces since January 2026, urging donors to maintain essential healthcare funding across the region.",
+        "verified_figures": [
+          "more than 12,050 patients treated for measles and cholera since January 2026"
+        ],
+        "sources": [
+          {
+            "name": "Doctors Without Borders",
+            "url": "https://www.doctorswithoutborders.org/latest/amid-ebola-outbreak-dr-congo-faces-other-urgent-health-needs"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian air strikes kill 12 in Kyiv, hit WHO warehouse and security HQ",
+        "score": 8.0,
+        "body": "Russian forces launched an intense wave of drone, cruise, and ballistic missile strikes against Kyiv, killing at least 12 people. The overnight attacks struck multiple non-military targets across the region, including a World Health Organization warehouse storing medical supplies and a Teva pharmaceutical facility. A Russian drone strike also damaged the head office of Ukraine's SBU security service in central Kyiv. Ukrainian Foreign Minister Andrii Sybiha called the strikes a major escalation and appealed to Western partners for additional Patriot air defense missiles, while President Volodymyr Zelenskyy ordered an appropriate response.",
+        "verified_figures": [
+          "12 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/who-warehouse-storing-medical-supplies-attacked-overnight-kyiv-region-who-says-2026-09-04/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-diplomacy-zelenskyy-kushner-witkoff-553d4ed8204070be97b1671db0c5cd53"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — US peace envoys to visit Moscow and Kyiv following stalled talks",
+        "score": 3.0,
+        "body": "United States peace envoys Steve Witkoff and Jared Kushner are scheduled to travel to Moscow and Kyiv over the weekend as part of diplomatic efforts by US President Donald Trump to negotiate an end to the Russia-Ukraine war. The planned visits come as diplomatic talks have stalled and military escalation in Ukraine continues.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal/China — Devastating Glacial Collapse Causes Mass Casualties",
+        "score": 9.5,
+        "body": "A catastrophic high-altitude glacial collapse triggered massive downstream flooding and debris flows across Nepal, extending into China and India. Reports indicate the death toll has reached between 1,066 and over 1,200 people, with nearly 4,500 others missing. The freezing surge destroyed entire settlements and gouged through river valleys, trapping dozens of workers in hydropower tunnels. Authorities in Nepal have begun burying unidentified victims as mortuaries reach capacity, while search operations continue and India provides emergency relief.",
+        "verified_figures": [
+          "1,066 to over 1,200 dead",
+          "nearly 4,500 missing"
+        ],
+        "sources": [
+          {
+            "name": "thedailystar.net",
+            "url": "https://www.thedailystar.net/news/world/news/china-nepal-flood-death-toll-rises-1066-4262616"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Displacement Surges Past 1.6 Million in Southeast",
+        "score": 8.0,
+        "body": "Escalating military junta offensives, including heavy artillery shelling, airstrikes, and drone attacks, have driven total displacement across southeastern Myanmar past 1.6 million people. Regional figures include more than 799,700 displaced in Karen State, 516,240 in Tanintharyi Region, and 299,729 in Mon State. Displaced families are taking shelter in remote forests and rubber plantations without adequate food, medical supplies, or shelter, while local humanitarian organizations face mounting operational hurdles to reach affected populations.",
+        "verified_figures": [
+          "over 1.6 million displaced",
+          "799,700 displaced in Karen State",
+          "516,240 displaced in Tanintharyi Region",
+          "299,729 displaced in Mon State"
+        ],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/displacement-exceeds-16-million-southeastern-myanmar-aid-groups-face-mounting-hurdles"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Deepening Poverty and Severe Malnutrition Crisis",
+        "score": 7.5,
+        "body": "United Nations agencies report severe humanitarian deterioration in Afghanistan, where nearly five million mothers and children are suffering from acute malnutrition. Declining international assistance, compounded by persistent drought, has exacerbated conditions across the country. A United Nations Development Programme review indicates that 28 million people were living in poverty in 2025. The economic strain has been further heightened by the return of approximately 2.9 million Afghans during the year, which pushed an additional 1.4 million people into extreme hardship.",
+        "verified_figures": [
+          "nearly 5 million mothers and children facing severe malnutrition",
+          "28 million in poverty",
+          "2.9 million returns",
+          "1.4 million pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008717"
+          }
+        ]
+      },
+      {
+        "headline": "China — Tropical Cyclone Saudel Causes Fatal Mudslide and Flooding",
+        "score": 4.0,
+        "body": "Heavy rainfall from Tropical Cyclone Saudel triggered a mudslide in Suichuan County, Jiangxi province, killing one person and leaving 11 others missing. Rescuers extracted two survivors and evacuated local residents as the landslip damaged a dozen homes. The storm made multiple landfalls across Zhejiang and Fujian provinces as both a typhoon and tropical storm, causing widespread flooding and severe weather across eastern coastal regions.",
+        "verified_figures": [
+          "1 dead",
+          "11 missing",
+          "12 houses damaged"
+        ],
+        "sources": [
+          {
+            "name": "TRT World",
+            "url": "https://www.trtworld.com/article/e57fc094752b"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Devastating Glacial Collapse Triggers Mass Flooding",
+        "score": 9.5,
+        "body": "Severe flash floods and landslides caused by an August 26 glacial collapse on the Nepal-Tibet border have killed at least 1,311 people, while more than 5,300 remain missing. Emergency personnel and international teams have rescued over 13,000 individuals from severely affected northern areas. Relief agencies have established temporary learning spaces for displaced children in Nuwakot. United Nations estimates show building damages reaching $158 million, with total national reconstruction costs projected in the billions.",
+        "verified_figures": [
+          "1,311 to 1,344 killed",
+          "4,900 to 5,330 missing",
+          "over 13,000 rescued",
+          "$158 million in building damage"
+        ],
+        "sources": [
+          {
+            "name": "bbc.co.uk",
+            "url": "https://www.bbc.co.uk/news/articles/clyeq83vv1no"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260905-nepal-temporary-education-centres-help-flood-displaced-children"
+          }
+        ]
+      },
+      {
+        "headline": "Central Africa — Severe Ebola Outbreak Surpasses 2,700 Deaths",
+        "score": 9.5,
+        "body": "An outbreak of the Bundibugyo strain of Ebola across Central Africa has resulted in 5,794 confirmed cases and 2,786 fatalities. Response efforts are hampered because the primary licensed Ebola vaccine has uncertain efficacy against the Bundibugyo variant and is restricted to research settings. To expand testing capacity, the World Health Organization issued an emergency use listing for a rapid molecular diagnostic panel developed by Cepheid. The health agency previously designated the event a Public Health Emergency.",
+        "verified_figures": [
+          "5,794 confirmed cases",
+          "2,786 deaths"
+        ],
+        "sources": [
+          {
+            "name": "2 Minute Medicine",
+            "url": "https://www.2minutemedicine.com/bundibugyo-ebola-outbreak-surpasses-5700-cases-without-a-validated-vaccine/"
+          }
+        ]
+      },
+      {
+        "headline": "Madagascar — Tropical Cyclone Gezani Causes Casualties and Widespread Damage",
+        "score": 7.0,
+        "body": "Tropical Cyclone Gezani struck Madagascar's eastern port city of Toamasina, killing 20 people, injuring 33, and leaving 15 missing. Winds reaching 195 kilometers per hour destroyed 75 percent of the infrastructure in the city of 300,000 inhabitants and disrupted electricity networks. Authorities issued red alerts for flooding and landslides as over 2,700 individuals were evacuated. The storm follows less than two weeks after Cyclone Fytia hit the country.",
+        "verified_figures": [
+          "20 killed",
+          "33 injured",
+          "15 missing",
+          "over 2,700 evacuations",
+          "75% of Toamasina infrastructure destroyed"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/another-cyclone-gezani-hits-madagascar-9-killed-19-injured/"
+          }
+        ]
+      },
+      {
+        "headline": "Malawi — Health Officials Contain Cholera and Mpox Outbreaks",
+        "score": 3.0,
+        "body": "Malawi's Ministry of Health and the World Health Organization declared that national cholera and mpox outbreaks have been successfully contained. The country registered zero confirmed cholera cases for over 28 consecutive days and zero mpox cases for more than 90 days. Over the course of the response, health services treated 3,200 cholera cases across 18 districts and isolated 162 confirmed mpox cases nationwide.",
+        "verified_figures": [
+          "0 confirmed cholera cases for over 28 days",
+          "0 confirmed mpox cases for over 90 days",
+          "3,200 cholera cases",
+          "162 confirmed mpox cases"
+        ],
+        "sources": [
+          {
+            "name": "Channel Africa",
+            "url": "https://www.channelafrica.co.za/channelafrica/news/malawi-declares-cholera-mpox-outbreaks-contained/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Yemen (Taiz Governorate)",
+      "score": 6.5,
+      "trigger": "Continued Houthi military attacks across Maqbanah, Mawzaa, and Jabal Habashi districts could fully sever major road connections between Taiz city and the Red Sea coast.",
+      "potential_impact": "Blocking key supply corridors would disrupt critical humanitarian transport and trigger additional civilian displacement across southern Yemen.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "abcnepal.tv",
+          "url": "https://abcnepal.tv/posts/331597"
+        }
+      ]
+    },
+    {
+      "location": "United States (Hawaii)",
+      "score": 6.0,
+      "trigger": "Category 4 Hurricane Lowell continuing its trajectory toward the western Hawaiian Islands with sustained winds of 240 kilometres per hour over the next 72 hours.",
+      "potential_impact": "Severe rainfall and storm surge could cause severe coastal flooding, infrastructure collapse, and widespread power disruptions across the islands.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "url": "https://newsonair.gov.in/united-states-hawaii-declares-emergency-as-hurricane-lowell-strengthens-to-category-4/"
+        }
+      ]
+    },
+    {
+      "location": "Lebanon (Southern Lebanon)",
+      "score": 5.5,
+      "trigger": "Further Israeli drone and airstrikes in southern Lebanon despite an active ceasefire agreement.",
+      "potential_impact": "Persistent strikes risk breaking the ceasefire completely, provoking broader military engagements and renewing civilian displacement in southern border areas.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/middle-east/2-killed-in-israeli-drone-strike-in-southern-lebanon-despite-ceasefire/4047670"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "News On AIR",
+        "count": 3
+      },
+      {
+        "name": "2 Minute Medicine",
+        "count": 2
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "abcnepal.tv",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Atlantic Council",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Burma News International",
+        "count": 1
+      },
+      {
+        "name": "Channel Africa",
+        "count": 1
+      },
+      {
+        "name": "Doctors Without Borders",
+        "count": 1
+      },
+      {
+        "name": "Global Initiative against Transnational Organized Crime (GI-TOC)",
+        "count": 1
+      },
+      {
+        "name": "NBC 6 South Florida",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "TRT World",
+        "count": 1
+      },
+      {
+        "name": "bbc.co.uk",
+        "count": 1
+      },
+      {
+        "name": "thedailystar.net",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1105,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
