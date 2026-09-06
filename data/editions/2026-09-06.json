@@ -1,0 +1,440 @@
+{
+  "date": "2026-09-06",
+  "printed_time": "10:23 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Catastrophic flooding and landslides in Nepal have caused at least 1,300 deaths and left more than 5,000 people missing amidst continued heavy rainfall.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "An escalating Ebola epidemic in the Democratic Republic of the Congo has claimed over 3,000 lives across five provinces, with confirmed cases reaching 6,342.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "The death toll from a major earthquake in Venezuela has approached 1,500 as international relief arrives and the government appeals for gold reserves to fund recovery.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Ongoing Israeli airstrikes and shelling in southern Lebanon have killed nearly 9,000 people since 2023, including 179 healthcare workers in deliberate or collateral attacks on medical crews.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Severe malnutrition affects nearly five million mothers and children in Afghanistan as deep economic poverty impacts 28 million people amidst ongoing aid reductions.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Devastating flooding and landslides across Nepal have killed over 1,300 people and left more than 5,000 missing, presenting an immediate mass-casualty humanitarian crisis as heavy rains persist.",
+    "label": "GLOBAL / CROSS-CUTTING — Nepal Floods and Landslides"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Escalating ground offensive and missile strikes kill dozens",
+        "score": 7.5,
+        "body": "Fierce ground fighting between Houthi rebels and government forces along Yemen's south-west coast has resulted in more than 60 deaths, marking some of the heaviest clashes in years. The combat killed 26 government soldiers and 31 Houthi fighters. In Taiz governorate, Houthi missile strikes targeted civilian transport and gatherings along the Heijah al-Abd road, killing at least four to six civilians and wounding up to nine others. The renewed offensive comes amid intensifying military engagements across key front lines in Taiz and Hodeidah governorates.",
+        "verified_figures": [
+          "More than 60 killed",
+          "26 government troops killed",
+          "31 Houthi fighters killed",
+          "At least four civilians killed",
+          "Nine injured"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Ongoing Israeli attacks cause civilian deaths and target medical personnel",
+        "score": 8.0,
+        "body": "Israeli airstrikes and shelling in southern Lebanon killed at least three civilians and wounded several others in Nabatieh and Ramadiyeh, alongside strikes on Arab Salem following evacuation warnings. Health data shows Israeli attacks on Lebanon since 2023 have killed nearly 9,000 people. The conflict has severely impacted medical operations, with more than 179 attacks on ambulance crews recorded since March 2, resulting in the deaths of 179 healthcare workers.",
+        "verified_figures": [
+          "Nearly 9,000 killed since 2023",
+          "179 healthcare workers killed",
+          "179 attacks on ambulance crews recorded since March 2",
+          "Three civilians killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Gaza strike injuries and findings on aid worker targeting",
+        "score": 6.0,
+        "body": "An Israeli military strike wounded three people in the Tuffah neighbourhood of northeastern Gaza City, according to the Palestinian Red Crescent Society. Separately, an investigation revealed that the April 2024 strike that killed seven World Central Kitchen aid workers in Gaza resulted from an Israeli military practice of establishing guilt by association, despite the humanitarian convoy being clearly marked.",
+        "verified_figures": [
+          "Three wounded in Tuffah neighbourhood",
+          "Seven aid workers killed"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Earthquake death toll nears 1,500 amidst ongoing recovery efforts",
+        "score": 9.0,
+        "body": "The death toll from a major earthquake in Venezuela has approached 1,500 as rescue and relief efforts continue across affected areas. Interim President Delcy Rodríguez formally appealed for the release of approximately 31 tonnes of Venezuelan gold reserves valued at £3.4 billion held at the Bank of England to fund recovery operations. Meanwhile, international humanitarian assistance has begun arriving, including a field hospital established by India under Operation Amistad to deliver medical care.",
+        "verified_figures": [
+          "nearly 1,500 killed",
+          "31 tonnes of gold reserves (£3.4 billion) requested for recovery"
+        ],
+        "sources": [
+          {
+            "name": "DD News",
+            "url": "https://ddnews.gov.in/en/venezuela-quake-death-toll-nears-1500-as-rescue-work-goes-on/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — US extends flight ban to Port-au-Prince over ongoing gang violence",
+        "score": 5.0,
+        "body": "The United States Federal Aviation Administration has extended its flight ban to Port-au-Prince until March due to persistent gang violence. The restriction prohibits US commercial and civilian aircraft from flying below 10,000 feet over the capital and parts of central Haiti. The measure was first implemented in November 2025 after gunmen fired on a commercial airliner landing at Toussaint Louverture International Airport, injuring a flight attendant.",
+        "verified_figures": [
+          "flight ban extended until March 2026",
+          "aircraft prohibited below 10,000 feet"
+        ],
+        "sources": [
+          {
+            "name": "Scripps News",
+            "url": "https://www.scrippsnews.com/us-news/us-extends-ban-on-flights-to-haitis-capital-as-gang-violence-surges"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Drone attack kills three soldiers in military compound",
+        "score": 4.0,
+        "body": "At least three soldiers were killed and four others wounded in an attack on a military compound in northeastern Colombia. Officials stated that assailants dropped explosives from drones before engaging in an armed clash inside the facility. Local authorities attributed the attack to the National Liberation Army guerrilla group.",
+        "verified_figures": [
+          "at least 3 soldiers killed",
+          "4 soldiers wounded"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Marie and severe heat wave impact 17 states",
+        "score": 4.0,
+        "body": "Mexico is managing concurrent weather extremes as flood risks expand across southern and western states while severe heat reaches 45°C in nine northern states. Offshore, Hurricane Marie has weakened to Category 1 status, producing sustained winds of 150 km/h with gusts up to 185 km/h, located approximately 1,020 km west of Baja California's southern tip.",
+        "verified_figures": [
+          "temperatures reaching 45°C in 9 states",
+          "sustained winds of 150 km/h with gusts to 185 km/h"
+        ],
+        "sources": [
+          {
+            "name": "inkl",
+            "url": "https://www.inkl.com/news/alert-in-17-mexican-states-hurricane-marie-and-45degc-heat-split-mexico-in-two"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Exceeds 3,000 Deaths",
+        "score": 9.0,
+        "body": "The Ebola epidemic in the Democratic Republic of the Congo has killed more than 3,000 people across five provinces, with official reports recording 6,342 confirmed cases and 3,072 deaths since mid-May. The outbreak is expanding rapidly, notably in Ituri province. The World Health Organization is expanding support by adding over 500 hospital beds and deploying additional medical staff; currently, 770 patients are hospitalized in isolation, while 1,475 have recovered. Regional response efforts include Tanzania delivering 52 tonnes of medical equipment, protective gear, and medicines to Kinshasa to bolster containment and treatment operations.",
+        "verified_figures": [
+          "6,342 confirmed cases",
+          "3,072 deaths",
+          "770 patients hospitalized in isolation",
+          "1,475 recovered patients",
+          "52 tonnes of medical supplies delivered by Tanzania"
+        ],
+        "sources": [
+          {
+            "name": "bastillepost.com",
+            "url": "https://www.bastillepost.com/global/article/6134817-who-scales-up-support-to-dr-congo-amid-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Climate Displacement and Food Crisis",
+        "score": 7.0,
+        "body": "Thousands of Somalis have migrated to major cities seeking relief from an ongoing hunger crisis exacerbated by severe drought and crop failures, with recent harvest yields dropping to roughly 20 percent of normal averages. Pastoralist communities have suffered widespread losses of cattle, sheep, and goats. While a food emergency was declared last November, recovery efforts from previous dry spells and severe flooding during 2022 and 2023 remain stalled. Humanitarian concerns are heightening as incoming El Niño weather patterns are expected to bring renewed heavy flooding to affected regions.",
+        "verified_figures": [
+          "harvest yields at 20% of average"
+        ],
+        "sources": [
+          {
+            "name": "Yahoo",
+            "url": "https://www.yahoo.com/news/world/articles/somalis-roiled-famine-climate-displacement-193334592.html"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Temporary 72-hour pause on capital strikes amid US envoy talks",
+        "score": 6.0,
+        "body": "Russia and Ukraine agreed to a temporary 72-hour pause on military strikes targeting their respective capital cities during a visit by United States envoys Steve Witkoff and Jared Kushner. The envoys met Russian President Vladimir Putin in Moscow for three-hour diplomatic negotiations concerning the conflict in Ukraine before planned follow-up discussions in Kyiv. While no formal long-term peace agreement was established, both sides committed to halting capital strikes during the mediation efforts. The White House indicated that substantive plans regarding subsequent steps in the diplomatic process will be formally announced in the coming weeks.",
+        "verified_figures": [
+          "72-hour pause on strikes"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Defense adviser warns of winter energy infrastructure risks and potential evacuations",
+        "score": 6.0,
+        "body": "A defense technology adviser to Ukrainian President Volodymyr Zelenskyy, Serhii Beskrestnov, warned that ongoing long-range strikes and frontline deadlock are placing civilians and critical infrastructure at increasing risk. Expressing concern over Kyiv's preparedness for the upcoming winter, Beskrestnov cautioned that sustained Russian bombardment could destroy the capital's energy supply grid. He suggested that elderly residents should be evacuated from Kyiv if energy infrastructure is severely compromised. The adviser described the conflict as an escalating war of long-range strikes where neither side can achieve a complete military victory, compounding humanitarian risks for civilian populations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Malnutrition and Poverty Deepen Amid Aid Cuts and Returns",
+        "score": 7.5,
+        "body": "The United Nations and Médecins Sans Frontières warn of a worsening food and malnutrition crisis across Afghanistan. According to the World Food Programme, nearly five million mothers and children are affected by severe malnutrition. In Kandahar province, MSF reported a 30 percent increase in malnutrition cases, treating 12,530 children between January and August, including 3,450 severe cases and 1,291 hospitalizations. Furthermore, a UNDP report indicates that 28 million people lived in poverty in 2025, with 2.9 million returnees pushing an additional 1.4 million people into economic hardship amidst prolonged drought and declining international assistance.",
+        "verified_figures": [
+          "nearly 5 million mothers and children affected by severe malnutrition",
+          "28 million people living in poverty in 2025",
+          "2.9 million returnees in 2025",
+          "additional 1.4 million people pushed into hardship",
+          "12,530 children suffering from malnutrition treated in Kandahar between January and August",
+          "3,450 children treated for severe malnutrition",
+          "1,291 children hospitalized due to health complications"
+        ],
+        "sources": [
+          {
+            "name": "The Kabul Tribune",
+            "url": "https://thekabultribune.com/en/0008717"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal & India — Landslide Blocks Chamelia River, Triggering Flood Warnings",
+        "score": 5.5,
+        "body": "A massive landslide in Api Himal Rural Municipality, in Nepal’s Darchula district, has partially blocked the Chamelia River, creating an artificial lake and raising fears of flash floods along the Kali River in India and Nepal. Heavy rainfall caused hillside debris to collapse into the river, leading to upstream water accumulation. Border communities downstream, including Jhulaghat, Pancheshwar, and Tanakpur, face potential flood risks if the obstruction breaks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The New Indian Express",
+            "url": "https://www.newindianexpress.com/india/2026/Sep/05/massive-landslide-blocks-nepals-chamelia-river-flash-flood-fears-rise-along-kali-in-india"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar & Malaysia — Pledges on Repatriation of Overseas Nationals Amid Rohingya Concerns",
+        "score": 5.0,
+        "body": "Myanmar has pledged to facilitate the safe return of displaced citizens abroad following international concerns over Malaysia’s plan to repatriate nearly 1,500 people. The United Nations and human rights organizations questioned the safety of the planned returns, particularly for members of the persecuted Rohingya Muslim minority. In response, Myanmar authorities stated on September 3 that they would ensure orderly repatriations.",
+        "verified_figures": [
+          "nearly 1,500 people planned for repatriation"
+        ],
+        "sources": [
+          {
+            "name": "Migrant Times",
+            "url": "https://migrantimes.com/migration-policy/06-09-2026/myanmar-pledges-safe-and-dignified-return-for-displaced-nationals"
+          }
+        ]
+      },
+      {
+        "headline": "China — Torrential Rains from Cyclone Saudel Cause Deadly Mudslide",
+        "score": 4.0,
+        "body": "A mudslide triggered by days of heavy rainfall from Tropical Cyclone Saudel killed one person and left 11 others missing in eastern China. According to local authorities, the landslide damaged a dozen homes as search and rescue efforts continue.",
+        "verified_figures": [
+          "1 person killed",
+          "11 people missing",
+          "a dozen houses damaged"
+        ],
+        "sources": [
+          {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/posts/the-manila-times_beijing-a-mudslide-on-saturday-killed-one-activity-7502074505360723969-lV1Y"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Floods and Landslides",
+        "score": 9.5,
+        "body": "Severe flooding and landslides across Nepal have caused widespread destruction, leaving over 1,300 people dead and more than 5,000 missing, according to reports citing local authorities. Continued heavy rainfall in central regions west of the primary disaster zone has triggered new landslides, killing two hydropower plant workers at a construction site in Kaski. Additional flooding along the Namrung River in Gorkha District washed away four homes and a bridge. Emergency teams are continuing recovery efforts while fears grow over further potential damage in affected communities.",
+        "verified_figures": [
+          "at least 1,300 people dead",
+          "over 5,000 missing",
+          "two hydropower plant workers killed",
+          "four homes washed away",
+          "one bridge washed away"
+        ],
+        "sources": [
+          {
+            "name": "아시아경제",
+            "url": "https://www.asiae.co.kr/en/article/2026090615014867100"
+          }
+        ]
+      },
+      {
+        "headline": "China — Typhoon Bavi Flooding",
+        "score": 7.5,
+        "body": "Typhoon Bavi has caused severe flooding in northeastern China, forcing the evacuation of more than 260,000 residents in Liaoning province. The storm, identified as the strongest to hit mainland China this year, pulled tropical moisture northward to produce extreme rainfall across the region. In Shenyang, the provincial capital, high-voltage power lines were severed by drifting debris, and floodwaters inundated major roadways. In response to the persistent downpours and rising floodwaters, authorities closed all schools and training institutions in affected areas.",
+        "verified_figures": [
+          "more than 260,000 people evacuated"
+        ],
+        "sources": [
+          {
+            "name": "DD News",
+            "url": "https://ddnews.gov.in/en/more-than-260000-evacuated-as-typhoon-bavi-brings-severe-floods/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Grand Canyon Flash Flooding",
+        "score": 3.0,
+        "body": "Monsoonal summer storms pulling moisture from the Gulf of California and Pacific Ocean triggered severe flash flooding across the American Southwest, forcing major evacuations and park closures. Heavy rainfall on dry terrain led to sudden flood conditions and emergency rescues in the Grand Canyon, particularly impacting Bright Angel Canyon and the Phantom Ranch area. Authorities warned that rapid downpours and accompanying lightning strikes have increased safety risks and heightened the threat of wildfires throughout affected national parks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Yahoo",
+            "url": "https://www.yahoo.com/news/weather-news/articles/deadly-grand-canyon-flash-floods-143650529.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Nepal and India border along the Kali River",
+      "score": 6.0,
+      "trigger": "A breach or burst of the artificial lake formed by a massive landslide blocking the Chamelia River could release severe flash floods downstream within the next 72 hours.",
+      "potential_impact": "Sudden flooding along the Kali River would threaten border communities including Jhulaghat, Pancheshwar, and Tanakpur with widespread destruction and displacement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/india/2026/Sep/05/massive-landslide-blocks-nepals-chamelia-river-flash-flood-fears-rise-along-kali-in-india"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine (Kyiv)",
+      "score": 6.5,
+      "trigger": "The expiration or collapse of the temporary 72-hour pause on capital strikes following diplomatic mediation could trigger immediate renewed long-range missile attacks.",
+      "potential_impact": "Resumed strikes on capital infrastructure risk crippling Kyiv's energy grid ahead of winter, forcing mass emergency evacuations of vulnerable populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "DD News",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "The New Indian Express",
+        "count": 2
+      },
+      {
+        "name": "Yahoo",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "LinkedIn",
+        "count": 1
+      },
+      {
+        "name": "Migrant Times",
+        "count": 1
+      },
+      {
+        "name": "Scripps News",
+        "count": 1
+      },
+      {
+        "name": "The Kabul Tribune",
+        "count": 1
+      },
+      {
+        "name": "bastillepost.com",
+        "count": 1
+      },
+      {
+        "name": "inkl",
+        "count": 1
+      },
+      {
+        "name": "아시아경제",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 990,
+      "sources_cited": 14
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
