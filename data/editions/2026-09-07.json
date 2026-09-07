@@ -1,0 +1,487 @@
+{
+  "date": "2026-09-07",
+  "printed_time": "11:43 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An accelerating Ebola outbreak in the Democratic Republic of the Congo has killed nearly 3,200 people among more than 6,600 confirmed cases, with health authorities warning that transmission is outpacing containment efforts.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Catastrophic flash flooding triggered by a glacial collapse along the Nepal-Tibet border has killed over 1,300 people and left nearly 5,000 others missing.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 3,
+      "text": "More than 500 Rohingya refugees fleeing conflict in Rakhine State and Bangladesh are feared dead after two vessels capsized off the coast of Myanmar.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "An attack by armed gangs in Kenscoff, Haiti, left at least 47 people dead and resulted in the mass kidnapping of more than 50 hostages.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Resurgent combat between Yemeni government forces and Houthi rebels for control of a Red Sea gateway killed over 300 people and displaced thousands of families.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An accelerating Ebola outbreak in the Democratic Republic of the Congo has claimed nearly 3,200 lives among more than 6,600 confirmed cases, severely straining response teams as transmission outpaces containment efforts.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Resurgent clash for Red Sea gateway causes mass displacement",
+        "score": 7.8,
+        "body": "Heavy fighting between Yemeni government forces and Houthi rebels for control of a Red Sea gateway in southwest Yemen has killed over 300 people in the deadliest escalation since a 2022 ceasefire collapsed. Combat fatalities include at least 84 government troops alongside civilian casualties. Airstrikes hit Houthi positions in Hodeidah, Taiz, Al-Bayda, and Marib provinces. The UN Humanitarian Coordinator expressed deep concern as the Houthi offensive forced thousands of families to flee their homes in Taiz and surrounding areas.",
+        "verified_figures": [
+          "Over 300 people killed",
+          "84 government troops killed",
+          "Thousands of families displaced"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260907-yemen-govt-forces-houthi-rebels-battle-for-control-of-red-sea-gateway"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Israeli airstrikes kill 11 in southern residential areas",
+        "score": 7.0,
+        "body": "Israeli airstrikes across southern Lebanon killed at least 11 people, including nine in a residential building in Kfar Reman and two medics in a drone strike. The attacks injured several people, including two infants and two journalists in Nabatiyeh. Lebanese President Joseph Aoun called on Washington and international partners to help halt the violence. Prior to the strikes, the Israeli military issued evacuation orders for residents in Deir Zahrani.",
+        "verified_figures": [
+          "At least 11 people killed",
+          "2 medics killed",
+          "2 infants injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/lebanon-israel-airstrikes-kfar-rumman-fc3f8c5ac5e09c93232b3a9841afb9f4"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass Kidnapping and Gang Attack in Kenscoff",
+        "score": 8.0,
+        "body": "An attack by armed men in Kenscoff, near Port-au-Prince, killed at least 47 people, including five children, and resulted in more than 50 kidnappings. The United Nations confirmed the incident, marking it as one of the largest mass kidnappings in Haiti in recent years. A gang leader publicly threatened to execute all hostages if police attempt rescue operations.",
+        "verified_figures": [
+          "at least 47 killed",
+          "at least 5 children killed",
+          "more than 50 kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Ongoing Search for Tens of Thousands Missing After Earthquakes",
+        "score": 7.5,
+        "body": "More than two months after dual 7.2 and 7.5 magnitude earthquakes struck northern Venezuela on June 24, search efforts continue amid widespread destruction in La Guaira. While government statistics acknowledge 1,500 missing individuals, independent accounts estimate that tens of thousands remain unaccounted for. Extensive rubble continues to obstruct recovery efforts across affected coastal communities.",
+        "verified_figures": [
+          "1,500 missing (government estimate)",
+          "tens of thousands missing (independent estimate)",
+          "7.2 and 7.5 magnitude earthquakes"
+        ],
+        "sources": [
+          {
+            "name": "WLRN / Associated Press",
+            "url": "https://www.wlrn.org/americas/2026-09-06/months-after-venezuela-earthquakes-a-family-refuses-to-give-up-search-for-their-missing-relative"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Guerrilla Drone Attack Kills Three Soldiers in Catatumbo",
+        "score": 4.5,
+        "body": "A guerrilla drone strike on a military garrison in Ocaña, located in Colombia's Catatumbo region, killed three soldiers and wounded at least five others. Authorities attributed the attack to the National Liberation Army (ELN) as government forces carry out security operations against armed groups in the area.",
+        "verified_figures": [
+          "3 soldiers killed",
+          "at least 5 wounded"
+        ],
+        "sources": [
+          {
+            "name": "Myanmar International TV",
+            "url": "https://www.myanmaritv.com/news/colombian-defense-minister-visits-site-deadly-drone-attack-military-garrison"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Fireworks Explosion Kills Ten During Religious Festival",
+        "score": 4.0,
+        "body": "At least ten people were killed and dozens of others suffered injuries when a fireworks display detonated during a religious festival in Mexico. The blast took place during festival celebrations, resulting in multiple fatalities and leaving dozens of attendees injured.",
+        "verified_figures": [
+          "10 killed",
+          "dozens injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Fatal Ebola outbreak outpaces containment efforts",
+        "score": 9.5,
+        "body": "An accelerating Ebola outbreak in the Democratic Republic of the Congo has caused nearly 3,200 deaths among more than 6,600 confirmed cases since mid-May, primarily in Ituri province. The epidemic is linked to the Bundibugyo strain, which lacks licensed vaccines. The World Health Organization reported that the spread is outpacing response efforts. Responders and burial teams face severe operational strain and local community hostility. Doctors Without Borders cautioned that children under five face a mortality rate exceeding 60 percent due to a critical lack of pediatric treatments and usage guidelines.",
+        "verified_figures": [
+          "nearly 3,200 deaths",
+          "more than 6,600 confirmed cases",
+          "mortality rate over 60% for children under 5"
+        ],
+        "sources": [
+          {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/news/reuters.com,2026-09-07:newsml_Zaw4zvC3Z:0-zawya-pressure-mounts-on-dr-congo-to-contain-ebola-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Cholera outbreak reported in West Kordofan",
+        "score": 6.5,
+        "body": "A cholera outbreak in Sudan's West Kordofan state has resulted in at least 23 fatalities and over 310 confirmed and suspected cases across two locations in Al-Udayyah locality. Local relief group Dar Hamar Emergency Room warned of deteriorating health conditions in Humeir village and Hilla Hussein. In Humeir, an isolation facility registered 120 suspected cases and 11 deaths, underscoring severe local public health risks amid ongoing broader instability.",
+        "verified_figures": [
+          "23 deaths",
+          "over 310 cholera cases and suspected infections",
+          "120 suspected cases in Humeir isolation center"
+        ],
+        "sources": [
+          {
+            "name": "Azərtac",
+            "url": "https://azertag.az/en/xeber/23_dead_over_310_cholera_cases_reported_in_sudans_west_kordofan_local_group-4400881"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Weekly rise in South Kivu cholera cases",
+        "score": 5.0,
+        "body": "South Kivu province recorded 449 suspected cases of cholera and 13 related deaths within a single week. The figures highlight persistent waterborne disease transmission and critical health infrastructure vulnerabilities in eastern Democratic Republic of the Congo.",
+        "verified_figures": [
+          "449 suspected cholera cases in one week",
+          "13 deaths in one week"
+        ],
+        "sources": [
+          {
+            "name": "Outbreak News Today",
+            "url": "https://outbreaknewstoday.substack.com/p/drc-449-suspected-cases-of-cholera"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Russia — Avalanche in North Caucasus kills at least 11 climbers",
+        "score": 5.0,
+        "body": "An avalanche in Russia's North Caucasus region has killed at least 11 climbers. Additional details regarding the identity of the victims, emergency response efforts, or potential additional casualties have not yet been made public. The incident underscores severe natural hazard risks in high-altitude areas of the mountain range.",
+        "verified_figures": [
+          "at least 11 killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/least-11-killed-after-avalanche-hits-climbers-russias-north-caucasus-2026-09-07/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — US envoys conduct talks in Kyiv following Moscow meeting",
+        "score": 6.0,
+        "body": "United States envoys Jared Kushner and Steve Witkoff met with Ukrainian President Volodymyr Zelenskyy in Kyiv on Sunday as part of renewed diplomatic efforts to end Russia's four-and-a-half-year war in Ukraine. The visit followed three hours of talks in Moscow with Russian President Vladimir Putin on Saturday. Although Putin characterized the discussions as highly useful, no immediate breakthrough was announced. The US administration indicated it has presented a new proposal to resolve the conflict.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "TRT World",
+            "url": "https://www.trtworld.com/article/12a699504550"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-witkoff-kushner-zelenskyy-putin-44bba3b57b480560d9f48dba7d28534e"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — International foundation established to aid traumatized children",
+        "score": 4.5,
+        "body": "Five Scandinavian countries have established the Nadija Foundation in partnership with Ukraine to support children impacted by war trauma. Collaborating with international researchers and experts from UNSW Sydney, the initiative aims to assess the long-term psychological impacts of the conflict on youth. Through early professional interventions, the foundation seeks to reduce long-term physical and mental health consequences for affected children across Ukraine.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Inside State Government",
+            "url": "https://www.insidestategovernment.com.au/new-research-foundation-to-improve-support-for-war-affected-children-in-ukraine/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Over 500 Rohingya Refugees Feared Dead in Boat Capsizings",
+        "score": 9.0,
+        "body": "Over 500 Rohingya refugees are feared dead after two vessels capsized off the coast of Myanmar, according to the International Organization for Migration and the UN Refugee Agency. The vessels departed from conflict-affected Rakhine State and refugee camps in Cox’s Bazar, Bangladesh, in late June. One vessel carrying approximately 250 people lost contact shortly after departure, while a second boat carrying roughly 280 passengers reportedly sank near Myanmar’s Ayeyarwady coast on July 8. The incidents highlight extreme protection risks faced by displaced populations attempting perilous sea crossings.",
+        "verified_figures": [
+          "Over 500 feared dead",
+          "One boat carrying about 250 people lost contact",
+          "Second boat with about 280 passengers sank"
+        ],
+        "sources": [
+          {
+            "name": "National Accord Newspaper",
+            "url": "https://nationalaccordnewspaper.com/over-500-feared-dead-as-boats-carrying-rohingya-refugees-sink-off-myanmar-coast/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal/China — Glacial Collapse Causes Mass-Casualty Flooding on Border",
+        "score": 9.5,
+        "body": "A glacial collapse on August 26 triggered catastrophic flash floods along the Nepal-Tibet border, leaving over 1,300 people dead and up to four times that number missing, according to the U.S. Geological Survey. Glacial debris and floodwaters swept 62 miles downslope through the Lhenda and Trishuli rivers into central Nepal. On the Chinese side of the border, severe flooding destroyed key infrastructure at the Gyirong border crossing, a vital trade route. Chinese authorities have launched recovery operations, with search teams retrieving 12 additional bodies from the destroyed port area.",
+        "verified_figures": [
+          "Over 1,300 lives claimed",
+          "Up to four times 1,300 missing",
+          "12 additional bodies recovered at Gyirong border area"
+        ],
+        "sources": [
+          {
+            "name": "Newsweek",
+            "url": "https://www.newsweek.com/china-falls-victim-own-secrecy-nepal-deadly-floods-12411058"
+          }
+        ]
+      },
+      {
+        "headline": "China — Extreme Weather and Typhoon Saudel Trigger Mass Evacuations and Flooding",
+        "score": 7.5,
+        "body": "Extreme weather across China, including heavy rainfall from Typhoon Saudel, rare tornadoes, and earthquakes, has caused extensive flooding and at least 50 deaths nationwide. In south-eastern China, record rainfall triggered landslips, river embankment breaches, and infrastructure destruction. Authorities in Fujian province evacuated nearly 600,000 people from high-risk flood zones, while over 128,000 residents were affected and 9,000 evacuated across Jiangxi province. In Zhejiang's Wenzhou city, flash floods trapped over 2,500 teachers and students. Search and rescue operations remain underway following a landslide in Jiangxi's Suichuan county that killed three people and left nine missing.",
+        "verified_figures": [
+          "At least 50 people killed across China",
+          "Almost 600,000 people evacuated in Fujian",
+          "128,000 people affected in Jiangxi",
+          "9,000 people evacuated in Jiangxi",
+          "More than 2,500 teachers and students trapped in Wenzhou",
+          "At least 1,260 people rescued in Putian",
+          "3 killed and 9 missing in Suichuan county landslide"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/china-mudslide-jiang-xi-deaths-saudel-typhoon-8e302d3fae97f3b0c2f74dca908039ec"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Devastating Floods Kill Over 1,300 with Thousands Missing",
+        "score": 9.5,
+        "body": "Search and rescue operations continue in Nepal following catastrophic flooding that killed at least 1,344 people and left nearly 5,000 missing. Authorities face significant challenges identifying recovered bodies, prompting police to collect DNA samples from relatives. Among those reported missing are 589 foreign nationals. The country observed a national day of mourning to mark the disaster. Additionally, health authorities have begun dispatching cholera vaccines to severely affected regions, including Rasuwa, to prevent disease outbreaks following the severe inundation.",
+        "verified_figures": [
+          "1,344 killed",
+          "nearly 5,000 missing",
+          "589 foreign nationals missing"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmezkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/nepal-tibet-floods-mourning-f5477d09ca1c56541450828302818d73"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — WHO Warns Ebola Outbreak Outpacing Response",
+        "score": 7.5,
+        "body": "The World Health Organization has warned that an active Ebola outbreak in the Democratic Republic of the Congo is outpacing existing response and containment measures. Containment efforts are struggling to keep up with the spread of the virus, raising severe public health concerns for the region and highlighting the urgent need for enhanced response tools and intervention resources.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/09/07/world/video/ebola-drc-tools-howard-pkg-090702aseg2-cnni-world-fast"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Cholera Outbreak Expands Across West Kordofan State",
+        "score": 6.5,
+        "body": "A cholera outbreak is expanding across West Kordofan state, resulting in additional fatalities. The spread of the waterborne disease presents an increasing health threat to local populations already facing severe humanitarian distress and widespread displacement from the country's ongoing internal conflict.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Menafn",
+            "url": "https://menafn.com/1111629694/Cholera-Outbreak-Claims-More-Lives-Spreads-Across-West-Kordofan"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.0,
+      "trigger": "A police rescue operation could trigger the immediate execution of over 50 hostages following public threats by gang leaders.",
+      "potential_impact": "The execution of dozens of abducted civilians and heightened violence against nearby residents.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    },
+    {
+      "location": "Southern Lebanon",
+      "score": 7.0,
+      "trigger": "Continued Israeli military airstrikes following evacuation orders in southern communities such as Deir Zahrani could expand the conflict zone.",
+      "potential_impact": "Increased civilian casualties, destruction of residential infrastructure, and further mass displacement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes"
+        }
+      ]
+    },
+    {
+      "location": "West Kordofan State, Sudan",
+      "score": 6.5,
+      "trigger": "Continued degradation of sanitation infrastructure and isolation facilities in Humeir village could accelerate waterborne disease transmission.",
+      "potential_impact": "Rapid spread of cholera across additional localities, leading to rising fatalities among vulnerable displaced populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Azərtac",
+          "url": "https://azertag.az/en/xeber/23_dead_over_310_cholera_cases_reported_in_sudans_west_kordofan_local_group-4400881"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "Azərtac",
+        "count": 2
+      },
+      {
+        "name": "DW",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "CNN",
+        "count": 1
+      },
+      {
+        "name": "Inside State Government",
+        "count": 1
+      },
+      {
+        "name": "Menafn",
+        "count": 1
+      },
+      {
+        "name": "Myanmar International TV",
+        "count": 1
+      },
+      {
+        "name": "National Accord Newspaper",
+        "count": 1
+      },
+      {
+        "name": "Newsweek",
+        "count": 1
+      },
+      {
+        "name": "Outbreak News Today",
+        "count": 1
+      },
+      {
+        "name": "TRT World",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "TradingView",
+        "count": 1
+      },
+      {
+        "name": "WLRN / Associated Press",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 4 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 4/4 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1030,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
