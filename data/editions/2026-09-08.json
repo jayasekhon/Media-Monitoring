@@ -1,0 +1,461 @@
+{
+  "date": "2026-09-08",
+  "printed_time": "10:42 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo is confronting its deadliest Ebola outbreak on record, with official figures confirming 3,226 deaths and over 6,600 cases across six provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Catastrophic flash floods and landslides caused by a glacial lake outburst in northern Nepal have killed at least 1,342 people, leaving thousands missing and workers trapped in hydropower tunnels.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "A 7.4-magnitude earthquake in Colombia's western Chocó department killed 331 people, injured more than 4,600, and left 240 individuals missing.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Powerful back-to-back 7.1 and 7.5-magnitude earthquakes struck off the coast of Venezuela, causing buildings to collapse across the capital, Caracas.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Soaring commodity prices, currency transaction discounts, and active warfare across Sudan have pushed food insecurity into an immediate daily crisis for millions of displaced civilians.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The Democratic Republic of the Congo is battling its deadliest Ebola outbreak on record, which has claimed over 3,200 lives across six provinces as active conflict severely hinders containment operations and medical care.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Lebanon — Israeli airstrikes across southern Lebanon leave dozens dead and wounded",
+        "score": 7.0,
+        "body": "A three-day Israeli military escalation in southern Lebanon has killed at least 27 people and wounded 69 others, predominantly women, children, and paramedics, according to the Lebanese Ministry of Health. Airstrikes heavily targeted the Nabatieh region, destroying a multi-story residential building in Kfar Rumman and killing up to 12 people, including infants. Further strikes on Mansouri reportedly destroyed two-thirds of the town’s homes. Lebanese authorities and child rights groups report that Israeli attacks have killed nearly 800 children and displaced approximately 360,000 people across Lebanon over nearly three years of conflict.",
+        "verified_figures": [
+          "27 dead",
+          "69 wounded",
+          "nearly 800 children killed",
+          "360,000 displaced"
+        ],
+        "sources": [
+          {
+            "name": "arabnews.jp",
+            "url": "https://www.arabnews.jp/en/middle-east/article_177385/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Houthi attack on displaced persons site in Marib kills children and destroys shelters",
+        "score": 5.0,
+        "body": "A Houthi projectile attack targeting a gathering of internally displaced persons in Raghwan district, northern Marib province, killed two children and wounded 15 others, according to Yemen’s Executive Unit for the Management of Displaced Persons Camps. The shelling completely destroyed 16 shelters, leaving 23 families without housing or basic necessities. The strike caused extensive damage to property within the displacement facility. Separately, official media reported that more than 23 Houthi militia members were killed in a simultaneous large-scale military operation.",
+        "verified_figures": [
+          "2 children killed",
+          "15 injured",
+          "16 shelters completely destroyed",
+          "23 families left without accommodation"
+        ],
+        "sources": [
+          {
+            "name": "سانا",
+            "url": "https://sana.sy/en/middle-east/2341140/"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East / Maritime — Two crew members killed in Iranian attack on crude tanker",
+        "score": 4.0,
+        "body": "Sixteen seafarers were evacuated from a damaged Bahri Very Large Crude Carrier following a deadly attack attributed to Iran. According to reports, the strike on the oil tanker resulted in the deaths of two Filipino crew members, while the remaining crew were safely evacuated from the damaged vessel.",
+        "verified_figures": [
+          "16 seafarers evacuated",
+          "2 Filipino seafarers killed"
+        ],
+        "sources": [
+          {
+            "name": "TradeWinds News",
+            "url": "https://www.tradewindsnews.com/tankers/sixteen-seafarers-evacuated-from-damaged-bahri-tanker-hit-in-deadly-iran-attack/2-1-2040081"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Twin earthquakes cause building collapses in Caracas",
+        "score": 9.0,
+        "body": "Back-to-back powerful earthquakes struck Venezuela, causing buildings to collapse in the capital, Caracas. The United States Geological Survey reported an initial 7.1-magnitude earthquake along the Caribbean coast near Morón at a depth of 22 kilometers. A minute later, a shallow 7.5-magnitude quake hit 16 kilometers southwest of Morón at a depth of 10 kilometers. The shaking was felt as far away as neighboring Trinidad and Tobago. Rescue and assessment operations are underway across affected urban areas, though official casualty totals have not yet been released.",
+        "verified_figures": [
+          "7.1-magnitude initial earthquake",
+          "7.5-magnitude second earthquake"
+        ],
+        "sources": [
+          {
+            "name": "Trinidad Guardian",
+            "url": "https://www.guardian.co.tt/article/buildings-collapse-as-2-earthquakes-slam-venezuela-6.2.2613373.e1b2bd8da9"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Earthquake in Chocó leaves over 300 dead and thousands injured",
+        "score": 9.0,
+        "body": "Recovery efforts continue following a 7.4-magnitude earthquake that struck Colombia's western Chocó department, with its epicenter in San José del Palmar. Updated figures confirm 331 deaths, over 4,600 people injured, and 240 individuals remaining missing. Business leaders and government officials traveled to the department's capital, Quibdó, to establish a recovery plan focused on restoring damaged housing, roads, and medical facilities. Private humanitarian flights are also delivering 100 tons of emergency aid supplies to affected communities.",
+        "verified_figures": [
+          "331 people dead",
+          "over 4,600 people injured",
+          "240 people missing",
+          "100 tons of supplies mobilized"
+        ],
+        "sources": [
+          {
+            "name": "ColombiaOne.com",
+            "url": "https://colombiaone.com/2026/09/07/colombia-business-leaders-travel-to-choco-to-support-earthquake-recovery/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Violence drives internal displacement to nearly 1.5 million people",
+        "score": 7.0,
+        "body": "Ongoing civil insecurity and armed violence across Haiti have displaced nearly 1.5 million people. The widespread displacement has severely disrupted livelihoods, local health infrastructure, and access to basic services, particularly in the Ouest Department. Humanitarian partners, including the Pan American Health Organization, are providing critical physical medical care and psychosocial support services to help affected families cope with trauma and loss as protection risks continue to escalate nationwide.",
+        "verified_figures": [
+          "nearly 1.5 million people internally displaced"
+        ],
+        "sources": [
+          {
+            "name": "Pan American Health Organization (PAHO)",
+            "url": "https://www.paho.org/en/stories/haiti-health-and-psychosocial-support-help-displaced-families-rebuild-hope"
+          }
+        ]
+      },
+      {
+        "headline": "Cuba — Government reports $8.08 billion in annual economic damages from US sanctions",
+        "score": 4.0,
+        "body": "Cuban Foreign Minister Bruno Rodríguez reported that United States sanctions caused $8.08 billion in economic damages between March 2025 and February 2026. Official statements indicate this represents a 7 percent increase from the previous year, bringing total cumulative reported losses to $178.7 billion. The Cuban government stated that the measures heavily restrict access to essential resources, severely impacting public health, clean water, power generation, food supply, and educational infrastructure across the country.",
+        "verified_figures": [
+          "$8.08 billion in annual economic damages",
+          "$178.7 billion in accumulated impact"
+        ],
+        "sources": [
+          {
+            "name": "Orinoco Tribune",
+            "url": "https://orinocotribune.com/cuba-reports-record-8-08-billion-annual-damages-from-us-blockade/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Deaths Exceed 3,200",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is facing its deadliest Ebola outbreak on record, driven by the rare Bundibugyo strain across six provinces and 61 health zones. Official health ministry data reports 6,686 confirmed cases and 3,226 deaths, with Ituri province remaining the primary epicenter. The World Health Organization is coordinating and funding treatment capacity expansions, including adding 42 beds to the Lita treatment centre in Ituri. Response operations face significant obstacles due to ongoing conflict and violent attacks targeting health workers in affected areas, though contact tracing coverage has reached 85.3%.",
+        "verified_figures": [
+          "6,686 confirmed cases",
+          "3,226 deaths",
+          "1,563 recoveries",
+          "48.3% case fatality rate"
+        ],
+        "sources": [
+          {
+            "name": "WHO | Regional Office for Africa",
+            "url": "https://afro.who.int/countries/democratic-republic-of-congo/news/adapting-care-evolving-ebola-outbreak-democratic-republic-congo"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Escalating Food Insecurity and Economic Strain",
+        "score": 7.5,
+        "body": "Active conflict, collapsing local agricultural production, and unprecedented price increases for grain and essential goods are driving severe food insecurity across Sudan. The General Coordination for Displaced People and Refugees Camps warned that food insecurity has transitioned into an immediate daily crisis for millions of displaced people and families. Alongside soaring commodity costs, displaced households face additional financial burdens, including steep transaction discounts reaching 30% on digital banking transfers. The combination of warfare, economic strain, and reduced food availability continues to push vulnerable populations toward severe humanitarian distress.",
+        "verified_figures": [
+          "30% discount on Bankak application transactions"
+        ],
+        "sources": [
+          {
+            "name": "Dabanga Radio TV Online",
+            "url": "https://www.dabangasudan.org/en/all-news/article/general-coordination-for-displaced-people-warns-of-deepening-food-insecurity-in-sudan"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Air strikes resume on Kyiv following end of temporary pause",
+        "score": 6.5,
+        "body": "Russia resumed air strikes on Kyiv following the expiration of a three-day halt in attacks, killing at least two people and wounding seven others, according to Ukrainian emergency services and municipal military authorities. Associated Press reported four total deaths resulting from renewed Russian barrages and a Ukrainian strike. The resumption of attacks coincided with visits to Moscow and Kyiv by United States envoys Steve Witkoff and Jared Kushner for talks aimed at negotiating an end to the war.",
+        "verified_figures": [
+          "at least 2 people killed in Kyiv",
+          "7 people wounded in Kyiv",
+          "4 people killed overall in renewed strikes"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ghana/Ukraine — Foreign Ministry reports 62 Ghanaian citizens killed in conflict",
+        "score": 5.0,
+        "body": "Ghanaian Foreign Affairs Minister Samuel Okuzet Ablakwa reported that 62 Ghanaian nationals have been killed and 15 remain missing in connection with the Russia-Ukraine war. The update was delivered alongside data on broader government repatriation efforts, which have assisted 4,972 distressed citizens abroad since 2025, including victims of human trafficking and fraudulent overseas recruitment schemes.",
+        "verified_figures": [
+          "62 Ghanaians killed",
+          "15 Ghanaians missing",
+          "4,972 Ghanaians repatriated globally"
+        ],
+        "sources": [
+          {
+            "name": "asaaseradio.com",
+            "url": "https://asaaseradio.com/62-ghanaians-killed-15-missing-in-russia-ukraine-conflict-ablakwa/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — UK pledges £100 million military package for winter air defence",
+        "score": 4.0,
+        "body": "The United Kingdom announced a £100 million commitment to strengthen Ukraine's air defence capabilities ahead of the winter season. The funding package, provided through NATO's prioritized requirements list, includes Patriot missiles, defensive interceptors, drones, and large-calibre artillery rounds aimed at countering ongoing Russian attacks against critical infrastructure and populated areas.",
+        "verified_figures": [
+          "£100m committed for air defence"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal — Glacial Floods Cause Mass Casualties and Trap Hydropower Workers",
+        "score": 8.5,
+        "body": "Rescuers in Nepal are attempting to free dozens of workers trapped inside three hydropower project tunnels following catastrophic flash floods caused by a glacial lake outburst near the Nepal-China border. The disaster, which struck two weeks ago, killed hundreds of people and left thousands missing across Nepal and neighboring Tibet. Floodwaters destroyed key bridges, roads, and trade infrastructure along Nepal's main northern gateway, isolating mountain communities and cutting off supply routes. Disaster management experts warned that the event underscores severe glacial outburst risks across the Himalayas.",
+        "verified_figures": [
+          "Hundreds killed",
+          "Thousands missing",
+          "Dozens of workers trapped"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260908-nepal-rescuers-race-to-free-dozens-trapped-in-hydropower-tunnels"
+          }
+        ]
+      },
+      {
+        "headline": "India — Severe Flooding Affects 2.7 Million People in Bihar",
+        "score": 6.5,
+        "body": "Severe monsoon flooding in the eastern Indian state of Bihar has affected approximately 2.7 million people, following heavy rainfall across the region. The India Meteorological Department issued additional heavy rain alerts for the state, heightening risks for submerged communities. The widespread inundation poses major challenges for local populations, impacting homes, infrastructure, and agricultural lands.",
+        "verified_figures": [
+          "2.7 million (27 lakh) people affected"
+        ],
+        "sources": [
+          {
+            "name": "Dainik Jagran MP CG",
+            "url": "https://english.dainikjagranmpcg.com/top-stories/india-weather-bihar-floods-affect-27-lakh-imd-rain-alert/article-29502"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Devastating flash floods and landslides leave over 1,300 dead",
+        "score": 9.0,
+        "body": "Massive flash floods and landslides in northern Nepal have killed at least 1,342 people, with thousands remaining missing or unreachable following intense rainfall. Bodies have been recovered across multiple river basin districts. In response to health risks in flood-damaged areas, authorities dispatched anti-cholera vaccines to Nuwakot district. The Nepalese government declared a national day of mourning as emergency teams continue recovery operations in affected mountain communities.",
+        "verified_figures": [
+          "1,342 people dead",
+          "thousands missing or unreachable"
+        ],
+        "sources": [
+          {
+            "name": "Aktualita.co",
+            "url": "https://aktualita.co/en/international/nepal-floods-kill-1342-thousands-still-missing"
+          }
+        ]
+      },
+      {
+        "headline": "DRC — Rapidly spreading Ebola outbreak deaths exceed 3,000",
+        "score": 8.5,
+        "body": "The ongoing Ebola outbreak in the Democratic Republic of the Congo has killed 3,007 people out of 6,186 confirmed cases since a global health emergency was declared in May. Driven by the Bundibugyo strain, it is the country's deadliest outbreak on record. Containment efforts remain hindered by active conflict and attacks on healthcare workers, despite increased funding, supplies, and treatment facilities. A university vaccine trial in the United Kingdom is currently underway to help contain the virus.",
+        "verified_figures": [
+          "3,007 deaths",
+          "6,186 confirmed cases"
+        ],
+        "sources": [
+          {
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/health/health-news/ebola-outpaces-containment-efforts-despite-money-supplies-rcna595512"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Category 3 Hurricane Lowell threatens Hawaii with severe flooding",
+        "score": 4.0,
+        "body": "Tropical storm warnings have been activated for the Hawaiian islands of Kauai and Niihau as Category 3 Hurricane Lowell approaches. The National Hurricane Center warned that the major storm could cause torrential rainfall, flash flooding, and dangerous mudslides as it moves past the islands. Rainfall forecasts range between 6 and 10 inches, with localized peaks of up to 14 inches. Authorities advised residents and tourists to prepare emergency provisions.",
+        "verified_figures": [
+          "Rainfall totals of 6 to 10 inches (up to 14 inches locally)"
+        ],
+        "sources": [
+          {
+            "name": "independent.co.uk",
+            "url": "https://www.independent.co.uk/news/world/americas/hawaii-hurricane-lowell-category-path-update-b3046179.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Southern Lebanon",
+      "score": 7.0,
+      "trigger": "A continuation of intensive Israeli air strikes across southern Lebanon could trigger further high-casualty attacks on residential centers over the next 72 hours.",
+      "potential_impact": "Renewed heavy strikes risk inflicting additional civilian fatalities, destroying housing, and escalating displacement beyond the 360,000 people already uprooted.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "arabnews.jp",
+          "url": "https://www.arabnews.jp/en/middle-east/article_177385/"
+        }
+      ]
+    },
+    {
+      "location": "Kyiv, Ukraine",
+      "score": 6.5,
+      "trigger": "The end of a temporary three-day halt in Russian air strikes could trigger sustained, intensified missile and drone barrages targeting Kyiv in the coming days.",
+      "potential_impact": "Expanded strikes threaten additional civilian casualties, urban power disruptions, and damage to residential infrastructure.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e"
+        },
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "Hawaii, United States",
+      "score": 4.0,
+      "trigger": "Category 3 Hurricane Lowell passing near Kauai and Niihau could trigger severe torrential rain and mudslides over the next 72 hours.",
+      "potential_impact": "Up to 14 inches of localized rainfall risks inundating populated coastal zones, cutting off ground access, and forcing localized emergency evacuations.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "independent.co.uk",
+          "url": "https://www.independent.co.uk/news/world/americas/hawaii-hurricane-lowell-category-path-update-b3046179.html"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "WHO"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "arabnews.jp",
+        "count": 2
+      },
+      {
+        "name": "independent.co.uk",
+        "count": 2
+      },
+      {
+        "name": "Aktualita.co",
+        "count": 1
+      },
+      {
+        "name": "ColombiaOne.com",
+        "count": 1
+      },
+      {
+        "name": "Dabanga Radio TV Online",
+        "count": 1
+      },
+      {
+        "name": "Dainik Jagran MP CG",
+        "count": 1
+      },
+      {
+        "name": "NBC News",
+        "count": 1
+      },
+      {
+        "name": "Orinoco Tribune",
+        "count": 1
+      },
+      {
+        "name": "Pan American Health Organization (PAHO)",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "TradeWinds News",
+        "count": 1
+      },
+      {
+        "name": "Trinidad Guardian",
+        "count": 1
+      },
+      {
+        "name": "WHO | Regional Office for Africa",
+        "count": 1
+      },
+      {
+        "name": "asaaseradio.com",
+        "count": 1
+      },
+      {
+        "name": "سانا",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1105,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
