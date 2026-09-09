@@ -1,0 +1,465 @@
+{
+  "date": "2026-09-09",
+  "printed_time": "10:52 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Catastrophic flash floods and landslides in Nepal have killed 1,355 people and left nearly 5,000 missing while severing critical trade routes along the border with China.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 2,
+      "text": "An escalating Ebola outbreak in the Democratic Republic of the Congo has claimed 3,226 lives out of 6,604 confirmed cases across six provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Widespread gang violence in Haiti has displaced nearly 1.5 million people, driving acute hunger and forcing severe disruptions to flight operations and public services.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Nearly 23 million people in Afghanistan face severe food insecurity as climate shocks and persistent conflict exacerbate child malnutrition.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "A U.S. airstrike on a school in Minab, Iran, killed dozens of children amid intensifying regional hostilities.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Devastating flash floods and ice-and-rock slides along Nepal's Bhotekoshi and Trishuli river basins have killed 1,355 people, left nearly 5,000 missing, and severed vital cross-border supply routes.",
+    "label": "ASIA-PACIFIC — Nepal Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Saudi-Houthi Escalation Displaces Nearly 20,000",
+        "score": 7.5,
+        "body": "Fighting between Houthis and Saudi-backed forces has intensified following a Houthi offensive toward the Bab al-Mandab strait. Houthi strikes on Saudi oil facilities wounded dozens, prompting retaliatory Saudi airstrikes. The United Nations condemned the violence, warning that renewed hostilites are driving a severe wave of displacement. Nearly 20,000 people have been displaced as the four-year truce unravels, compounding an already critical humanitarian crisis.",
+        "verified_figures": [
+          "nearly 20,000 displaced",
+          "dozens wounded"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes"
+          }
+        ]
+      },
+      {
+        "headline": "Iran — Dozens of Children Killed in U.S. Strike on School",
+        "score": 8.0,
+        "body": "Families in Minab, Iran, are grieving after a U.S. strike on a school killed dozens of children. The attack occurs alongside escalating regional conflict, with rights organizations warning that military operations targeting Iranian locations could amount to war crimes. Diplomatic efforts by regional powers to restart U.S.-Iran negotiations remain stalled as violence increases.",
+        "verified_figures": [
+          "dozens of children killed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/iran-minab-school-children-killed-d1edcacd8bd3fc64badaa5a4caf184c9"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Israeli Strikes and Hezbollah Attacks Strain Ceasefire",
+        "score": 6.5,
+        "body": "Israeli military strikes have intensified across southern Lebanon in response to Hezbollah drone attacks, placing heavy strain on a U.S.-backed ceasefire. Reports indicate at least 27 people have been killed and 69 injured in southern Lebanon as renewed exchanges of fire threaten regional stability and civilian safety.",
+        "verified_figures": [
+          "27 people killed",
+          "69 injured"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/08/renewed-fighting-southern-lebanon-strains-us-backed-ceasefire/"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Casualties and Displacement Orders in Gaza",
+        "score": 6.0,
+        "body": "Israeli military attacks across Gaza killed four Palestinians, including a child and an elderly man, and injured at least 12 others, including during a drone strike on a displacement tent near the Nuseirat refugee camp. Israeli authorities issued new forced displacement orders in Gaza alongside military raids and closures across the West Bank, further straining humanitarian conditions.",
+        "verified_figures": [
+          "4 Palestinians killed",
+          "at least 12 injured"
+        ],
+        "sources": [
+          {
+            "name": "Drop Site News",
+            "url": "https://www.dropsitenews.com/p/yemen-saudi-ansarallah-uk-israel-settlements-cuba-blockade"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Escalating gang violence causes mass displacement and flight restrictions",
+        "score": 8.5,
+        "body": "Widespread armed gang violence across Haiti has displaced nearly 1.5 million people, driving severe hunger and urgent humanitarian needs. Ongoing insecurity has severely disrupted public services, forcing many schools, particularly in Port-au-Prince, to postpone the start of the academic year. Amid persistent conflict and after gunmen previously targeted commercial aircraft, the United States Federal Aviation Administration extended its ban on civilian flights below 10,000 feet over the capital and central region until March. Humanitarian agencies warn that operational funding shortfalls threaten to exacerbate conditions further.",
+        "verified_figures": [
+          "nearly 1.5 million Haitians forced from their homes"
+        ],
+        "sources": [
+          {
+            "name": "International Rescue Committee",
+            "url": "https://www.rescue.org/article/haitis-gang-violence-crisis-what-know-and-how-help"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Powerful earthquakes collapse buildings while housing recovery continues",
+        "score": 8.0,
+        "body": "Back-to-back earthquakes with magnitudes of 7.1 and 7.5 struck off Venezuela's northern coast near Morón, causing building collapses in Caracas and shaking neighboring Trinidad and Tobago. The tremors occurred at depths of 22 and 10 kilometers. Meanwhile, state recovery programs reported that 1,476 residences affected by double earthquake damage have been repaired across the country to date. This includes the recent restoration of 440 housing units in Caracas's Catia parish, which permitted more than 1,100 displaced residents to return to their homes.",
+        "verified_figures": [
+          "1,476 homes repaired",
+          "more than 1,100 people returned to their homes"
+        ],
+        "sources": [
+          {
+            "name": "Trinidad Guardian",
+            "url": "https://www.guardian.co.tt/article/buildings-collapse-as-2-earthquakes-slam-venezuela-6.2.2613373.e1b2bd8da9"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Escalates with Over 3,200 Fatalities",
+        "score": 9.0,
+        "body": "An ongoing Ebola virus outbreak in the Democratic Republic of the Congo has caused 3,226 deaths out of 6,604 confirmed cases across six provinces. According to the World Health Organization, the epidemic exhibits increasingly divergent trends, combining declining transmission in some areas with expansion elsewhere. A critical development is the rising proportion of community deaths, which reached 75 percent during the first week of September. The World Food Programme stated that providing food aid is critical to halting the virus's spread, while health experts warn the fast-moving outbreak carries potential regional and global risks.",
+        "verified_figures": [
+          "3,226 deaths",
+          "6,604 confirmed cases",
+          "48.1% case fatality ratio",
+          "75% of confirmed deaths occurred in the community during Aug 31–Sept 6",
+          "61 of 151 health zones affected across six provinces"
+        ],
+        "sources": [
+          {
+            "name": "China Daily Asia",
+            "url": "https://www.chinadailyasia.com/hk/article/639273"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Mpox Outbreak Spreads to Over 40 Counties",
+        "score": 6.0,
+        "body": "Kenya's Ministry of Health confirmed at least 19 deaths and 1,298 confirmed cases of Mpox since declaring an outbreak three months ago. The virus has spread to more than 40 counties, with the highest caseloads concentrated in Mombasa with 452 cases and Nairobi with 320 cases. Health officials identified seven high-risk counties, including Busia, Makueni, Kiambu, Kilifi, and Nakuru, citing their location along major transport corridors and proximity to international borders. The health ministry warned that the outbreak continues to pose a persistent health threat.",
+        "verified_figures": [
+          "19 deaths",
+          "1,298 confirmed cases",
+          "452 cases in Mombasa",
+          "320 cases in Nairobi",
+          "Spread to over 40 counties"
+        ],
+        "sources": [
+          {
+            "name": "Agence de Presse Africaine",
+            "url": "https://apanews.net/228664-2/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Global/Ukraine — Cluster munition casualties reach near-record levels driven by war in Ukraine",
+        "score": 7.0,
+        "body": "According to a report by the Cluster Munition Coalition, cluster munitions killed or wounded at least 1,063 people during 2025, marking the third-highest annual toll on record. The surge was primarily driven by ongoing warfare in Ukraine. The report highlighted that civilians made up 87 percent of all casualties, with children representing roughly two-fifths of those impacted. The coalition warned that the continued manufacturing, transfer, and deployment of cluster weapons by non-treaty states threaten international efforts to protect vulnerable populations.",
+        "verified_figures": [
+          "at least 1,063 casualties in 2025",
+          "87% civilians",
+          "around two-fifths children"
+        ],
+        "sources": [
+          {
+            "name": "WTVB",
+            "url": "https://wtvbam.com/2026/09/08/cluster-bomb-casualties-near-record-driven-by-war-in-ukraine/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Moldova — Russian drone and missile strikes kill seven in Kyiv and border region",
+        "score": 6.5,
+        "body": "Russian airstrikes caused fatalities across Ukraine and near its southwestern border. In Kyiv, a daytime drone attack struck a building housing a Ukrainian television channel, killing at least five people. Separately, two people were killed in a strike targeting the Starokozache border crossing with Ukraine, prompting Moldovan leadership to warn of Russian military operations expanding westward. The attacks were part of a broader series of strikes targeting multiple locations across several Ukrainian oblasts.",
+        "verified_figures": [
+          "5 killed in Kyiv drone strike",
+          "2 killed in Starokozache border crossing strike"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Ukrainian drone attack on Novorossiysk leaves four dead and 29 injured",
+        "score": 5.0,
+        "body": "A Ukrainian drone strike on the Russian port city of Novorossiysk in the Krasnodar region killed four people, including a child, and injured 29 others, according to local officials. Falling drone debris reportedly impacted municipal infrastructure. Novorossiysk serves as a key commercial hub for Russian grain, commodities, and oil exports, and has experienced recurring drone strikes amid the ongoing war.",
+        "verified_figures": [
+          "4 killed (including 1 child)",
+          "29 injured"
+        ],
+        "sources": [
+          {
+            "name": "Global Banking & Finance Review",
+            "url": "https://www.globalbankingandfinance.com/russia-ukrainian-drone-attack-killed-four-novorossiysk/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal — Devastating flash floods cause mass casualties and disrupt border trade",
+        "score": 9.5,
+        "body": "Flash floods along the Bhotekoshi and Trishuli river basins in Nepal have caused severe loss of life and infrastructure destruction near the border with China. The disaster has cut key transport and trade routes between the two countries, damaging the Rasuwagadhi-Kerung border network and forcing cargo trucks onto alternative routes. The disruption threatens consumer supplies ahead of major national festivals. Local authorities and rescue teams continue search and recovery efforts following extensive mud, ice, and rock slides across Rasuwa and Nuwakot districts.",
+        "verified_figures": [
+          "1,355 killed",
+          "nearly 5,000 missing"
+        ],
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://m.economictimes.com/news/international/world-news/nepal-china-trade-hit-as-bhotekoshi-floods-disrupt-key-border-routes-ahead-of-festivals/amp_articleshow/133957080.cms"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — UN warns nearly 23 million face severe food insecurity amid climate pressures",
+        "score": 8.5,
+        "body": "The United Nations reports that nearly 23 million people in Afghanistan face severe food insecurity, driven by decades of conflict, instability, and natural disasters. The United Nations Children's Fund warned that climate change is exacerbating the crisis, with extreme weather events including prolonged droughts, heavy rainfall, and rising temperatures worsening child malnutrition. Disrupted food production and limited access to basic needs continue to strain vulnerable communities across the country. Afghanistan also hosts one of the largest refugee populations globally, compounding widespread humanitarian assistance needs.",
+        "verified_figures": [
+          "nearly 23 million facing severe food insecurity"
+        ],
+        "sources": [
+          {
+            "name": "خبرگزاری اطلس",
+            "url": "https://atlaspress.news/en/2026/09/08/un-says-23-million-in-afghanistan-face-severe-food-insecurity/"
+          }
+        ]
+      },
+      {
+        "headline": "Bangladesh — Country combats major measles outbreak driven by vaccination gaps",
+        "score": 7.0,
+        "body": "Bangladesh is confronting a severe measles outbreak linked to gaps in vaccination coverage, according to media reporting. The resurgence of the highly contagious viral disease poses significant health risks to vulnerable populations, particularly children, amid ongoing efforts to contain its transmission across affected communities.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-fights-worlds-worst-measles-outbreak-vaccination-gaps-fuel-spread-2026-09-09/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military airstrike kills seven civilians in Sagaing Region",
+        "score": 6.5,
+        "body": "A Myanmar military airstrike killed seven people at a vehicle repair shop in rural Ye-U Township, located in the Sagaing Region stronghold. According to local reports, three gyrocopters and a helicopter bombed the workshop, killing six employees and one customer. The attack highlights ongoing aerial bombardments targeting opposition strongholds and damaging civilian infrastructure.",
+        "verified_figures": [
+          "7 killed"
+        ],
+        "sources": [
+          {
+            "name": "Myanmar Now",
+            "url": "https://myanmar-now.org/en/news/myanmar-military-kills-7-in-airstrike-on-sagaing-car-workshop/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Rapidly worsening Ebola outbreak exceeds 2,700 deaths",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting a severe resurgence of Ebola virus disease caused by the rare Bundibugyo strain. Since being officially declared on May 15, the country's 17th outbreak has spread from its epicenter in Ituri province to North Kivu, South Kivu, Tshopo, Haut-Uele, and Bas-Uele. Over 2,700 deaths have been recorded as containment efforts lag behind the virus's spread. Response measures face severe challenges due to active conflict, ongoing population displacement, an already fragile healthcare system, and unpaid health workers failing to enforce safe burial protocols.",
+        "verified_figures": [
+          "more than 2,700 deaths",
+          "6 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "wsj.com",
+            "url": "https://www.wsj.com/world/africa/unpaid-ebola-workers-let-families-touch-the-dead-161351e3"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Disastrous flooding causes mass casualties and displacement",
+        "score": 8.0,
+        "body": "Severe flooding across Nepal has resulted in mass casualties and widespread population displacement, drawing urgent warnings from United Nations agencies. The disaster has caused severe shelter overcrowding and damaged municipal sanitation systems, significantly elevating the risk of infectious disease outbreaks. Affected communities require immediate emergency access to clean water, healthcare, food, and education. Nepali officials and human rights advocates have called on the international community to address climate change as a primary driver of these extreme weather disasters.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://factcheck.afp.com/doc.afp.com.C7P29ZR"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Hurricane Lowell causes localized weather damage and one fatality in Hawaii",
+        "score": 2.5,
+        "body": "Hurricane Lowell passed just west of Hawaii, bringing damaging tropical storm-force winds and heavy rainfall to Oahu. A homeless individual residing in a tent at Sherwood Beach in Waimanalo was killed after being struck by a falling tree trunk during the severe weather. Local police classified the incident as an unattended death with no foul play suspected as local authorities assess storm impacts.",
+        "verified_figures": [
+          "1 fatality"
+        ],
+        "sources": [
+          {
+            "name": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/09/09/man-killed-by-fallen-tree-waimanalo-hurricane-lowell-passes/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Yemen",
+      "score": 7.5,
+      "trigger": "Continued Houthi advances toward the Bab al-Mandab strait and strikes on Saudi infrastructure could invite expanded Saudi aerial bombardments.",
+      "potential_impact": "Further military escalation risks deepening civilian displacement beyond the 20,000 recently displaced and worsening access across a severe humanitarian landscape.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes"
+        }
+      ]
+    },
+    {
+      "location": "Southern Lebanon",
+      "score": 6.5,
+      "trigger": "Sustained exchanges of drone attacks and retaliatory airstrikes could fully shatter the fragile U.S.-backed ceasefire.",
+      "potential_impact": "A complete collapse of the truce would expose border communities to heightened civilian casualties, infrastructure damage, and widespread displacement.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/09/08/renewed-fighting-southern-lebanon-strains-us-backed-ceasefire/"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine-Moldova Border",
+      "score": 6.5,
+      "trigger": "Further Russian missile and drone attacks targeting border infrastructure near Moldova could expand the geographic scope of military operations.",
+      "potential_impact": "Escalated strikes on border crossings risk disrupting essential transit corridors and triggering new cross-border population movements into Moldova.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "Washington Post",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Agence de Presse Africaine",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "China Daily Asia",
+        "count": 1
+      },
+      {
+        "name": "Drop Site News",
+        "count": 1
+      },
+      {
+        "name": "Global Banking & Finance Review",
+        "count": 1
+      },
+      {
+        "name": "Hawaii News Now",
+        "count": 1
+      },
+      {
+        "name": "International Rescue Committee",
+        "count": 1
+      },
+      {
+        "name": "Myanmar Now",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Economic Times",
+        "count": 1
+      },
+      {
+        "name": "Trinidad Guardian",
+        "count": 1
+      },
+      {
+        "name": "WTVB",
+        "count": 1
+      },
+      {
+        "name": "wsj.com",
+        "count": 1
+      },
+      {
+        "name": "خبرگزاری اطلس",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1230,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
