@@ -1,0 +1,451 @@
+{
+  "date": "2026-09-10",
+  "printed_time": "10:46 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Severe glacial flash flooding across Nepal has left at least 1,377 people dead and more than 5,100 missing as search and rescue operations continue under difficult conditions.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "Two major earthquakes in north-central Venezuela have caused between 1,700 and over 6,500 reported deaths, severely straining local healthcare and shelter capacity.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "An expanding Ebola outbreak in the Democratic Republic of the Congo has surpassed 6,700 cases and 3,200 deaths, hampered by active armed conflict and high community mortality.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "A severe measles outbreak in Bangladesh has claimed nearly 1,000 lives since March, marking the world's most acute surge of the disease in recent history.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "An estimated 3.7 million Afghan children under five face acute malnutrition in 2026 alongside 3.1 million internally displaced people facing severe poverty and drought.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Two major earthquakes measuring magnitudes 7.2 and 7.5 struck north-central Venezuela, causing widespread damage, thousands of reported deaths, and pushing the country's healthcare system to its limit.",
+    "label": "AMERICAS — Powerful Earthquakes Strike Venezuela Causing Mass Casualties and Health Crisis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza — Israeli airstrike kills family of four in northern Gaza",
+        "score": 7.0,
+        "body": "An Israeli airstrike on a residential home in Beit Lahiya, northern Gaza Strip, killed a father, mother, and their two young daughters. Health officials reported the attack occurred during an escalation in the bombardment of residential houses. Large-scale fighting was previously halted under a U.S.-backed ceasefire, but persistent strikes continue to cause civilian casualties and heighten regional tensions.",
+        "verified_figures": [
+          "4 killed (a father, mother, and two daughters aged 8 and 12)"
+        ],
+        "sources": [
+          {
+            "name": "Global Banking & Finance Review",
+            "url": "https://www.globalbankingandfinance.com/israeli-strike-kills-parents-two-children-gaza-medics-say/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Escalating hostilities cause civilian casualties and widespread displacement",
+        "score": 7.5,
+        "body": "Cross-border hostilities between Israel and Hezbollah have escalated sharply, marking the most violent confrontation in southern Lebanon since June. Lebanon’s Ministry of Public Health reported at least 27 people killed and 69 wounded between 5 and 7 September following intensified Israeli airstrikes on residential areas and civilian infrastructure. The renewed violence has driven a surge in displacement and disrupted returns for conflict-affected families.",
+        "verified_figures": [
+          "27 killed",
+          "69 wounded"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/08/renewed-fighting-southern-lebanon-strains-us-backed-ceasefire/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Airstrike on Al Jawf detention facility leaves 17 dead",
+        "score": 8.0,
+        "body": "An airstrike struck the Central Correctional Facility in Al Hazm, Al Jawf Governorate, on 7 September, causing heavy civilian and detainee casualties. De facto Houthi health authorities reported at least 17 deaths, including a woman and a child, along with seven injured and approximately 20 detainees trapped under collapsed rubble. Rights monitors are urging an urgent, independent investigation into potential war crimes surrounding the attack.",
+        "verified_figures": [
+          "17 killed",
+          "7 injured",
+          "approximately 20 detainees trapped under rubble"
+        ],
+        "sources": [
+          {
+            "name": "Mirage News",
+            "url": "https://www.miragenews.com/probe-al-jawf-prison-airstrike-conflict-risk-1741179/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Mass Casualties and Severe Health Crisis Following Earthquakes",
+        "score": 9.5,
+        "body": "Two powerful earthquakes with magnitudes of 7.2 and 7.5 recently struck north-central Venezuela, causing widespread destruction and a critical humanitarian situation. Reported death tolls range from more than 1,700 to over 6,500, with thousands remaining missing and at least 15,800 people directly affected. Humanitarian organizations report that damaged facilities, staffing shortages, and overcrowding in temporary shelters are pushing the country's fragile healthcare system to its limit. UN agencies warn that displacement and poor sanitation significantly increase the risk of infectious disease outbreaks among vulnerable populations.",
+        "verified_figures": [
+          "1,700 to over 6,500 reported deaths",
+          "at least 15,800 people affected",
+          "magnitudes 7.2 and 7.5 earthquakes"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/venezuela-earthquakes-diaspora-oil-disasters-882eaa9a97b14a3d88d87f710ac35372"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti / United States — UN Calls for Suspension of Deportations Following Custodial Deaths",
+        "score": 5.0,
+        "body": "UN High Commissioner for Human Rights Volker Türk called on the United States to halt deportations to Haiti and conduct thorough investigations into the deaths of at least 23 migrants in U.S. immigration custody since early 2026. Speaking at the opening of the UN Human Rights Council session in Geneva, Türk expressed serious concerns regarding U.S. detention conditions and enforcement practices. He urged authorities to ensure accountability and provide clear findings for each custodial death, emphasizing protection risks facing Haitian migrants.",
+        "verified_figures": [
+          "at least 23 migrant deaths in U.S. immigration custody since early 2026"
+        ],
+        "sources": [
+          {
+            "name": "Caribbean National Weekly",
+            "url": "https://www.caribbeannationalweekly.com/posts/un-rights-chief-urges-us-to-halt-haiti-deportations-investigate-23-migrant-deaths"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Abductions of Public Figures Highlight Expanding Gang Violence",
+        "score": 5.0,
+        "body": "Severe gang violence in Haiti continues to expand, marked by the separate abductions of three public figures across Delmas and the Artibonite region within 24 hours on September 6 and 7. Those kidnapped include a journalist, a lawyer, and a government agency director general, alongside two police officers assigned to security detail. The incidents reflect the growing reach of armed gangs beyond Port-au-Prince into provincial areas, posing severe protection threats to civilians, professionals, and public officials.",
+        "verified_figures": [
+          "3 public figures and 2 police officers kidnapped within 24 hours"
+        ],
+        "sources": [
+          {
+            "name": "The Haitian Times",
+            "url": "https://haitiantimes.com/2026/09/09/haitian-journalist-lawyer-government-official-kidnapped-within-24-hours/"
+          }
+        ]
+      },
+      {
+        "headline": "Americas / United States — Policy Shift Announced on Maritime Counter-Narcotics Operations",
+        "score": 3.5,
+        "body": "United States Secretary of State Marco Rubio announced a shift in counter-narcotics maritime operations in Latin American waters during a visit to Ecuador. Rubio stated that Washington will prioritize alignment with allied nations and regional laws, while maintaining that the U.S. military retains authority to strike suspected trafficking vessels. The statement follows a year of unilateral military strikes against alleged narco-terrorist boats in international waters, including a recent strike that resulted in three deaths.",
+        "verified_figures": [
+          "3 killed in latest boat strike"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak exceeds 6,700 cases amid conflict and severe hunger",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting an intensifying Ebola outbreak that has surpassed 6,700 confirmed cases and 3,200 deaths across six provinces, including Ituri, North Kivu, Haut-Uele, South Kivu, Bas-Uele, and Tshopo. Response operations are severely hampered by active armed conflict, severe food insecurity, mass displacement, and healthcare workforce strains. World Health Organization reporting indicates that community deaths reached 75 percent in early September, signaling widespread unmonitored transmission. In response, the WHO has requested $1.3 billion for a revised six-month plan to expand surveillance, contact tracing, and medical treatment.",
+        "verified_figures": [
+          "6,757 confirmed cases",
+          "3,267 deaths",
+          "48.3 percent fatality rate",
+          "75 percent community death rate (Aug 31–Sept 6)",
+          "US$1.3 billion required for WHO response plan"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/health/398850/ebola-outbreak-spreads-across-six-provinces-in-dr-congo-as-community-deaths-surge"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Displacement surpasses 175,000 in Blue Nile state amid famine risks",
+        "score": 7.0,
+        "body": "Mass displacement in Sudan's Blue Nile region has surpassed 175,000 people according to reports from a local civil group. The surge in forced displacement coincides with growing threats of famine in the area, highlighting an escalating food security crisis and acute humanitarian needs among affected populations.",
+        "verified_figures": [
+          "Over 175,000 displaced in Blue Nile state"
+        ],
+        "sources": [
+          {
+            "name": "Sudan Tribune",
+            "url": "https://sudantribune.com/article/318581"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian drone strikes kill civilians and hit port infrastructure",
+        "score": 7.0,
+        "body": "Russian drone strikes across Ukraine have killed at least nine people and damaged civilian infrastructure. The attacks targeted warehouses, port facilities, and a shopping center in the northern city of Sumy. In Sumy, at least one person was killed and several others were wounded, with regional officials warning the death toll could increase due to ongoing fires. The strikes form part of a wider wave of aerial attacks impacting Ukrainian logistics and population centers, prompting calls from Ukrainian leadership for increased international pressure on Moscow.",
+        "verified_figures": [
+          "At least 9 people killed in Russian strikes",
+          "1 person killed in Sumy shopping center attack"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Ukrainian long-range strikes hit Arctic gas facilities and Caspian port",
+        "score": 4.0,
+        "body": "Ukrainian forces have conducted long-range drone strikes against key energy and transport infrastructure inside Russia. The attacks targeted two major natural gas condensate plants in the Yamal-Nenets region of Siberia, located approximately 3,000 kilometers from the Ukrainian border, as well as a Caspian Sea port facility in Dagestan. Additionally, Ukraine's ongoing long-range drone campaign has disrupted Russian civilian aviation, resulting in a reported record 2,182 temporary airport shutdowns across Russia over the summer, notably affecting major aviation hubs near Moscow and St. Petersburg.",
+        "verified_figures": [
+          "2,182 temporary Russian airport shutdowns over summer"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Bangladesh — World's Worst Measles Outbreak Kills Nearly 1,000",
+        "score": 9.0,
+        "body": "Bangladesh is struggling to contain the world's worst measles outbreak, which has caused 999 suspected and confirmed deaths since March. Health authorities face significant challenges in managing the crisis as the disease spreads rapidly across the country. The outbreak represents the most severe surge of measles reported globally in recent history, posing a major public health emergency.",
+        "verified_figures": [
+          "999 suspected and confirmed deaths"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/bangladesh-measles-outbreak-857dac106377fd49168c39a99b7374c6"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Worsening Child Malnutrition and Internal Displacement",
+        "score": 8.0,
+        "body": "The UN Food and Agriculture Organization warned that 3.7 million children under five in Afghanistan will face acute malnutrition in 2026, stating current programmes focus mainly on emergency treatment rather than addressing root causes. Meanwhile, a REACH report shows 3.1 million people were living in internal displacement in Afghanistan in 2025. Following a drop in active conflict since 2021, displacement is increasingly driven by severe poverty, widespread unemployment, food insecurity, and persistent drought.",
+        "verified_figures": [
+          "3.7 million children facing acute malnutrition",
+          "3.1 million internally displaced people"
+        ],
+        "sources": [
+          {
+            "name": "خبرگزاری اطلس",
+            "url": "https://atlaspress.news/en/2026/09/09/fao-3-7-million-children-afghanistan-acute-malnutrition-2026/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Glacial Flash Floods Cause Mass Disruption and Leave Hundreds Missing",
+        "score": 7.0,
+        "body": "A major flash flood along Nepal's Bhotekoshi and Trishuli rivers, triggered by a glacier collapse near the Nepal-Tibet border on August 26, damaged more than a dozen hydropower projects and left hundreds of workers missing. The flooding severely damaged border infrastructure and access roads, stranding between 500 and 600 cargo containers carrying essential goods from China and raising fears of supply shortages and price increases ahead of upcoming religious festivals.",
+        "verified_figures": [
+          "Over a dozen hydropower projects damaged",
+          "Hundreds of workers missing",
+          "500 to 600 cargo containers stranded"
+        ],
+        "sources": [
+          {
+            "name": "english.mathrubhumi.com",
+            "url": "https://english.mathrubhumi.com/news/world/nepal-flood-exposes-hydropower-risks-india-bq0po94h"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Junta Airstrike Kills Seven Civilians in Sagaing Region",
+        "score": 6.5,
+        "body": "A Myanmar military airstrike killed seven civilians and injured three others in Tinteinyan Village, Ye-U Township, Sagaing Region on September 7. Two gyrocopters accompanied by an Mi-35P attack helicopter targeted a vehicle repair workshop near the local market despite an absence of active ground fighting. The strike killed six men and one woman aged 20 to 50, while destroying the workshop, surrounding market stalls, and at least ten vehicles.",
+        "verified_figures": [
+          "7 civilians killed",
+          "3 civilians injured",
+          "10 vehicles destroyed"
+        ],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/myanmar-juntas-airstrike-kills-seven-civilians-sagaings-ye-u-despite-absence-fighting"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the eastern Democratic Republic of the Congo has caused over 3,200 deaths to date, prompting UN agencies and health authorities to intensify containment efforts. The World Health Organization launched a revised six-month response plan requiring $1.3 billion to strengthen operations in affected communities. The strategy aims to expand disease surveillance, contact tracing, patient treatment, community engagement, and emergency preparedness. UN agencies continue working with national and regional health officials to halt transmission across eastern provinces.",
+        "verified_figures": [
+          "Over 3,200 deaths",
+          "US$1.3 billion response plan required"
+        ],
+        "sources": [
+          {
+            "name": "SKNVibes",
+            "url": "https://www.sknvibes.com/news/newsdetails.cfm/127861"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Severe Floods",
+        "score": 9.5,
+        "body": "Severe flooding in Nepal's Rasuwa district and adjacent regions, including Nuwakot, Dhading, and Chitwan, has killed at least 1,377 people. Search operations continue, but hope of finding survivors is fading, with 5,130 individuals still reported missing 16 days after the disaster struck. Authorities note that identifying recovered bodies has proven difficult due to severe damage, with only 104 victims identified so far. Search efforts remain incomplete in trapped hydropower project tunnels. A total of 333 people have been injured, with 256 discharged after receiving medical care.",
+        "verified_figures": [
+          "1,377 deaths",
+          "5,130 missing",
+          "333 injured",
+          "104 bodies identified",
+          "256 discharged after treatment"
+        ],
+        "sources": [
+          {
+            "name": "Deshsanchar",
+            "url": "https://english.deshsanchar.com/rasuwa-floods-death-toll-rises-to-1377-5130-still-missing/"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — El Niño Flood and Disease Preparedness",
+        "score": 3.0,
+        "body": "County authorities and humanitarian agencies in Lamu, Kenya, have commenced a four-day training program to bolster emergency preparedness, early warning systems, and response capacity ahead of anticipated El Niño weather conditions. Officials warned that forecast weather events could disrupt local livelihoods, food security, and essential public services, while elevating risks of displacement, disease outbreaks, and community conflict. Organized by World Vision, the initiative convenes government officials, civil society groups, religious leaders, and community representatives to mitigate potential disaster impacts.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/coast/398815/lamu-braces-for-el-nino-as-officials-warn-of-floods-disease-and-displacement"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Lebanon",
+      "score": 7.5,
+      "trigger": "Continued acceleration of cross-border Israeli airstrikes and artillery exchanges targeting residential infrastructure in southern Lebanon.",
+      "potential_impact": "Mass civilian casualties, destruction of essential services, and further mass displacement of conflict-affected populations across southern districts.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/09/08/renewed-fighting-southern-lebanon-strains-us-backed-ceasefire/"
+        }
+      ]
+    },
+    {
+      "location": "Sudan (Blue Nile State)",
+      "score": 7.0,
+      "trigger": "Further escalation of active hostilities and severe access blockades in Blue Nile state where displacement has already topped 175,000.",
+      "potential_impact": "Rapid acceleration of famine conditions leading to acute starvation and preventable deaths among vulnerable displaced communities.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Sudan Tribune",
+          "url": "https://sudantribune.com/article/318581"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine (Sumy and Port Infrastructure)",
+      "score": 7.0,
+      "trigger": "Intensification of Russian long-range drone and missile barrages against northern logistics hubs and critical maritime port infrastructure.",
+      "potential_impact": "Additional civilian deaths, major disruption to commercial supply chains, and loss of winter heating capabilities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "Al Jazeera English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Sudan Tribune",
+        "count": 2
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 2
+      },
+      {
+        "name": "Washington Post",
+        "count": 2
+      },
+      {
+        "name": "Burma News International",
+        "count": 1
+      },
+      {
+        "name": "Caribbean National Weekly",
+        "count": 1
+      },
+      {
+        "name": "Deshsanchar",
+        "count": 1
+      },
+      {
+        "name": "Global Banking & Finance Review",
+        "count": 1
+      },
+      {
+        "name": "Mirage News",
+        "count": 1
+      },
+      {
+        "name": "SKNVibes",
+        "count": 1
+      },
+      {
+        "name": "The Haitian Times",
+        "count": 1
+      },
+      {
+        "name": "english.mathrubhumi.com",
+        "count": 1
+      },
+      {
+        "name": "خبرگزاری اطلس",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1179,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
