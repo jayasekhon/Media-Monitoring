@@ -1,0 +1,492 @@
+{
+  "date": "2026-09-11",
+  "printed_time": "10:43 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola epidemic in the Democratic Republic of the Congo has expanded across six provinces, causing 3,310 deaths and over 6,800 confirmed cases amid ongoing conflict and displacement.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Continued airstrikes across the Gaza Strip have killed 1,359 Palestinians since October 11, raising the reported cumulative death toll to 73,670.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "An attack by armed gangs in Kenscoff, Haiti, killed at least 47 civilians and resulted in the kidnapping of over 50 people.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Escalating coastal hostilities in Yemen's Taiz and Hodeidah governorates triggered the mass displacement of 18,500 people in a 72-hour period.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "One month after a magnitude-7.4 earthquake in Colombia, official statistics show 331 fatalities and more than 466,000 affected residents requiring long-term assistance.",
+      "region": "Americas"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A rapidly spreading Ebola epidemic in the Democratic Republic of the Congo has caused over 3,300 deaths across six provinces, severely straining medical response capacities in regions impacted by armed conflict and displacement.",
+    "label": "AFRICA — Record Ebola Outbreak Spreads Across Six Provinces"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Ongoing strikes and rising casualty toll",
+        "score": 9.0,
+        "body": "Widespread destruction and airstrikes continue across the Gaza Strip, intensifying an acute humanitarian crisis. Gaza health authorities reported that 1,359 Palestinians have been killed and 4,571 injured since October 11, bringing the reported cumulative death toll since October 2023 to 73,670 killed and 174,682 wounded. Emergency responders and civil defense crews face severe access restrictions due to ongoing operational conditions, leaving multiple victims trapped beneath debris and along roadways.",
+        "verified_figures": [
+          "1,359 Palestinians killed since October 11",
+          "4,571 injured since October 11",
+          "73,670 total cumulative death toll",
+          "174,682 total cumulative wounded"
+        ],
+        "sources": [
+          {
+            "name": "anews.com.tr",
+            "url": "https://www.anews.com.tr/webtv/world/gaza-devastation-israeli-airstrikes-cause-further-destruction-across-gaza"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Coastal fighting triggers mass displacement in Taiz and Hodeidah",
+        "score": 8.0,
+        "body": "Hostilities have escalated along Yemen’s western coast, displacing approximately 18,500 people within a 72-hour period, according to the International Organization for Migration. The fighting in Taiz and Hodeidah governorates has caused civilian casualties, while fleeing families lack shelter, food, and security updates. The surge in violence follows Houthi claims of Saudi airstrikes in Taiz and attacks on Mokha airport after Houthi forces seized an island near a major maritime strait. Active clashes continue to prevent some civilians from leaving frontline locations.",
+        "verified_figures": [
+          "18,500 people displaced in 72 hours"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/yemen-houthis-iran-mokha-mandeb-shipping-saudi-025d052a14d9481258d51009a76d0bd6"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Health ministry updates conflict casualty figures",
+        "score": 6.0,
+        "body": "The Lebanese Ministry of Health released updated conflict statistics showing the cumulative death toll from Israeli military actions in Lebanon reached 4,383 killed and 12,406 wounded since March 2. The report noted two fatalities and four injuries over a recent three-day reporting window. Officials also cited a broader cumulative total of 8,940 deaths and 30,642 injuries recorded since October 2025.",
+        "verified_figures": [
+          "4,383 killed since March 2",
+          "12,406 wounded since March 2",
+          "8,940 killed since October 2025",
+          "30,642 wounded since October 2025"
+        ],
+        "sources": [
+          {
+            "name": "وكالة سبأ",
+            "url": "https://www.saba.ye/en/news3785203.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Closure of over 200 IDP camps under government plan",
+        "score": 5.5,
+        "body": "Syrian authorities announced the closure of more than 200 displacement camps as part of a national strategy aiming to eliminate camp-based displacement by September 2027. According to the Ministry of Emergency and Disaster Management, approximately 141,000 families remain in camps across Syria. Official estimates indicate that roughly 20 percent of camp residents have returned to their origin areas since a national oversight committee was established. The initiative relies on housing solutions, infrastructure rehabilitation, and facilitated returns.",
+        "verified_figures": [
+          "Over 200 displacement camps closed",
+          "141,000 families remaining in camps"
+        ],
+        "sources": [
+          {
+            "name": "سانا",
+            "url": "https://sana.sy/en/syria/2341939/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang violence and mass kidnapping in Kenscoff",
+        "score": 8.5,
+        "body": "The United Nations confirmed an attack by armed men on Sunday in Kenscoff, near Port-au-Prince, which killed at least 47 people, including five children, and resulted in the kidnapping of over 50 others. A gang leader publicly threatened to murder hostages if law enforcement attempts rescues. Separately, the Committee to Protect Journalists reported that community radio director Joseph Willard Vancol was found dead three weeks after his abduction by armed gangs in Gressier. Armed gangs continue to control key areas near the capital, posing extreme risks to civilians and local media workers.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "at least five children killed",
+          "more than 50 others kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "dw.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Impact and reconstruction efforts one month after magnitude-7.4 earthquake",
+        "score": 8.0,
+        "body": "One month after a magnitude-7.4 earthquake struck Colombia, official figures report 331 deaths, 4,505 injuries, and 111 missing persons. The disaster affected 466,709 people across 296,738 families, inflicting severe damage on homes, health facilities, schools, and roads, particularly in Valle del Cauca, Choco, Risaralda, and Caldas. National reconstruction is projected to require over 30 trillion pesos ($9.7 billion), equivalent to 1.5% of GDP. Thousands of affected residents remain awaiting long-term housing and livelihood support as recovery efforts begin.",
+        "verified_figures": [
+          "331 dead",
+          "4,505 injured",
+          "111 missing",
+          "466,709 people affected",
+          "296,738 families affected",
+          "$9.7 billion estimated reconstruction cost"
+        ],
+        "sources": [
+          {
+            "name": "ColombiaOne.com",
+            "url": "https://colombiaone.com/2026/09/10/one-month-after-colombias-earthquake-331-dead-466000-affected/"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Escalating Ebola outbreak causes high child mortality",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is experiencing an escalating Ebola outbreak on track to become the worst on record, with at least 6,800 confirmed cases and over 3,310 deaths reported since May. In Butembo, eastern DRC, a 30-bed treatment unit operated by Doctors Without Borders reached full capacity, losing eight pediatric patients under the age of five in a single week. The rapid spread of the virus continues to severe stress local health capacity.",
+        "verified_figures": [
+          "at least 6,800 confirmed cases",
+          "more than 3,310 deaths",
+          "eight patients under age 5 died in one unit in a week"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Infrastructure recovery and ongoing health impacts following earthquakes",
+        "score": 5.0,
+        "body": "Operational capacity at Simón Bolívar International Airport in Maiquetía has surpassed 50% of its pre-earthquake level following 35 days of temporary terminal construction. While transportation infrastructure recovery progresses through combined national and international efforts, communities affected by the June earthquakes continue to experience lingering physical, health, and psychological consequences months after the disaster.",
+        "verified_figures": [
+          "over 50% of pre-earthquake operational capacity restored"
+        ],
+        "sources": [
+          {
+            "name": "Orinoco Tribune",
+            "url": "https://orinocotribune.com/maiquetia-airport-surpasses-half-of-pre-earthquake-capacity-as-reconstruction-advances/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Spreads Across Six Provinces Amid Armed Conflict",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has become the country's deadliest on record, reaching 6,843 confirmed cases and 3,310 deaths across 61 health zones in six provinces. Caused by the Bundibugyo strain, transmission is expanding beyond its initial epicentre in Ituri into North Kivu, Haut-Uélé, and Tshopo. Active armed conflict, insecurity, mass population displacement, and poor water and sanitation access are severely hindering contact tracing and public health containment efforts. United Nations officials warned the epidemic is growing exponentially over a vast geographic area, cautioning that transmission risks spilling into neighbouring countries unless emergency aid funding and containment resources are scaled up.",
+        "verified_figures": [
+          "6,843 confirmed cases",
+          "3,310 deaths",
+          "833 patients hospitalised in isolation",
+          "61 health zones affected across 6 provinces"
+        ],
+        "sources": [
+          {
+            "name": "European Centre for Disease Prevention and Control (ECDC)",
+            "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+          },
+          {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20260911/71510404bb2c4292a63333ae77b7cd29/c.html"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Five killed and 67 injured in Russian strike on Pavlohrad shopping centre",
+        "score": 7.5,
+        "body": "A Russian strike on a shopping centre in Pavlohrad killed at least five people and injured 67 others, according to Ukrainian authorities. Ukrainian officials accused Russian forces of rapidly escalating attacks against civilian infrastructure, noting that this incident represents the third strike on a commercial shopping mall in recent days. The attack highlights a growing threat to civilian populations in urban areas.",
+        "verified_figures": [
+          "5 killed",
+          "67 injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian attacks cut power in Odesa and continue bombardment of Kyiv",
+        "score": 6.5,
+        "body": "A Russian air attack cut electrical power across a large section of Ukraine's southern Odesa region, according to Ukrainian officials. Meanwhile, strikes on the capital city of Kyiv entered their seventh consecutive day, injuring at least eight people and causing a fire in a nine-story residential apartment building. In response, Ukrainian President Volodymyr Zelensky warned international airlines and insurers against using Russian airspace due to escalating drone warfare.",
+        "verified_figures": [
+          "8 injured in Kyiv"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/russian-air-strikes-injure-two-cause-fire-9-storey-apartment-building-kyiv-2026-09-11/"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Ukrainian drone strikes kill two and target Saratov logistics hub",
+        "score": 5.0,
+        "body": "Cross-border Ukrainian drone strikes killed two people in Russia, according to news reports. A separate Ukrainian drone attack triggered a fire at an e-commerce logistics hub belonging to the company Ozon in Saratov, Russia. The company confirmed that the incident resulted in no casualties, though independent verification of the attack on the facility remains pending as cross-border strikes persist.",
+        "verified_figures": [
+          "2 killed in Russia",
+          "0 casualties at Ozon facility"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/russian-air-strikes-injure-two-cause-fire-9-storey-apartment-building-kyiv-2026-09-11/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Epidemic Surpasses 3,200 Fatalities",
+        "score": 8.5,
+        "body": "A severe outbreak of the Bundibugyo Ebola virus in the Democratic Republic of the Congo has infected over 6,700 people and caused more than 3,200 deaths by September 2026. Health authorities warn the epidemic could become the largest on record, as no licensed vaccine or approved treatment exists for this specific strain. The compounding crisis coincides with declining engagement from traditional global health donors, straining containment efforts and healthcare delivery in heavily affected mining and rural regions.",
+        "verified_figures": [
+          "more than 6,700 people infected",
+          "more than 3,200 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Diplomat",
+            "url": "https://thediplomat.com/2026/09/why-is-china-less-active-in-the-2026-ebola-epidemic/"
+          }
+        ]
+      },
+      {
+        "headline": "Bangladesh — Measles Outbreak Death Toll Exceeds 1,000",
+        "score": 7.5,
+        "body": "A prolonged measles outbreak in Bangladesh has led to more than 1,000 reported deaths, with infants and young children bearing the brunt of the epidemic. Health facilities, such as the Infectious Diseases Hospital in Dhaka, continue to treat severe pediatric cases. The surging fatality count underscores persistent gaps in routine immunization and public health interventions, exacerbating vulnerability among young populations across urban and rural areas.",
+        "verified_figures": [
+          "more than 1,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Daily Star",
+            "url": "https://www.thedailystar.net/news/bangladesh/news/1000-mothers-mourn-empty-arms-4269246"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Drone Attack Temporarily Closes Mandalay International Airport",
+        "score": 5.5,
+        "body": "Operations at Mandalay's Tada-U International Airport, Myanmar's second-largest aviation hub, were temporarily halted following a suicide drone attack by anti-junta rebels on 10 September. Military officials stated six drones targeted the facility, which functions both as a civilian airport and a base for military jets. Myanmar Airways International cancelled international flights and rerouted domestic services, highlighting increasing rebel capacity to strike key state infrastructure.",
+        "verified_figures": [
+          "6 suicide drones targeting airport area"
+        ],
+        "sources": [
+          {
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk/asia/southeast-asia/myanmar-mandalay-airport-drone-attack-rebels-b3048536.html"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Junta Airstrike Threats and Landmines Imperil Youth",
+        "score": 5.0,
+        "body": "Escalating conflict in Myanmar continues to threaten civilian safety and disrupt essential services. In Karenni State's eastern Demoso Township, schools temporarily suspended classes on 7 September following warnings of imminent military junta airstrikes. Separately, in Kalay Township, Sagaing Region, a 16-year-old student was killed on 6 September after stepping on a landmine, highlighting the severe ongoing hazards of explosive remnants of war on children.",
+        "verified_figures": [
+          "1 teenager killed"
+        ],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/junta-airstrike-threats-force-school-closures-myanmars-karenni-state"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Japan — Record Rainfall Triggers Floods and Displacement in Tokai Region",
+        "score": 5.0,
+        "body": "Record rainfall from a linear rainband caused severe flooding, landslides, and transport disruptions across central Japan's Tokai region. In Nagoya, public transport disruptions left commuters stranded overnight, leading local authorities to provide emergency assistance. Official reports confirm at least one fatality and 41 injuries. Approximately 3,500 people sought shelter in emergency evacuation centers, while around 200 vehicles were inundated by floodwaters.",
+        "verified_figures": [
+          "1 killed",
+          "41 injured",
+          "3,500 people in evacuation centres",
+          "200 vehicles inundated"
+        ],
+        "sources": [
+          {
+            "name": "greenpost.com.pk",
+            "url": "https://greenpost.com.pk/japan-record-rainfall-flooding-tokai-deaths-injuries/"
+          }
+        ]
+      },
+      {
+        "headline": "Global — International Initiative Launched to Expand Access to Mpox Vaccines",
+        "score": 4.5,
+        "body": "A new global initiative has been launched to facilitate faster and more equitable access to mpox vaccines during disease outbreaks. Working alongside the World Health Organization and international partners, the effort centers on the International Coordinating Group on Vaccine Provision mechanism to streamline vaccine supply management. The initiative specifically targets affected nations with limited resources to strengthen outbreak response and preparedness.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "THISDAYLIVE",
+            "url": "https://www.thisdaylive.com/2026/09/03/global-initiative-targets-wider-access-to-mpox-vaccines-in-outbreak-response/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Earthquake Hits Flood-Affected Areas, Raising Disaster Risks",
+        "score": 4.0,
+        "body": "A 5.3 magnitude earthquake at a depth of 143 kilometers struck Nepal, shaking areas already damaged by heavy rains, flooding, and landslides. Surface tremors were felt across the region, heightening anxiety among affected communities. Local concerns have emerged regarding potential secondary hazards, including natural blockages along the Kimrung River that could prompt additional flooding or environmental emergencies.",
+        "verified_figures": [
+          "5.3 magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "RTV English",
+            "url": "https://english.rtvlive.com/fresh-earthquake-hits-flood-ravaged-nepal-raising-fears-of-new-disaster-at-kimrung-river/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Karenni State, Myanmar",
+      "score": 6.0,
+      "trigger": "Warnings of imminent military junta airstrikes following school suspensions in eastern Demoso Township.",
+      "potential_impact": "Increased risk of civilian casualties, destruction of community facilities, and additional population displacement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Burma News International",
+          "url": "https://www.bnionline.net/en/news/junta-airstrike-threats-force-school-closures-myanmars-karenni-state"
+        }
+      ]
+    },
+    {
+      "location": "Kimrung River, Nepal",
+      "score": 5.5,
+      "trigger": "A 5.3 magnitude earthquake hitting flood-damaged terrain and creating potential natural blockages along the river.",
+      "potential_impact": "Flash flooding and secondary landslides threatening downstream communities already impacted by severe seasonal rains.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "RTV English",
+          "url": "https://english.rtvlive.com/fresh-earthquake-hits-flood-ravaged-nepal-raising-fears-of-new-disaster-at-kimrung-river/"
+        }
+      ]
+    },
+    {
+      "location": "Odesa and Kyiv, Ukraine",
+      "score": 6.5,
+      "trigger": "Sustained drone and missile attacks targeting power infrastructure alongside warnings against regional airspace usage.",
+      "potential_impact": "Extended civilian power blackouts, growing civilian injuries, and severe disruptions to international aviation corridors.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/russian-air-strikes-injure-two-cause-fire-9-storey-apartment-building-kyiv-2026-09-11/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "The Guardian",
+      "Xinhua English World"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Burma News International",
+        "count": 2
+      },
+      {
+        "name": "RTV English",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "ColombiaOne.com",
+        "count": 1
+      },
+      {
+        "name": "European Centre for Disease Prevention and Control (ECDC)",
+        "count": 1
+      },
+      {
+        "name": "NPR",
+        "count": 1
+      },
+      {
+        "name": "Orinoco Tribune",
+        "count": 1
+      },
+      {
+        "name": "THISDAYLIVE",
+        "count": 1
+      },
+      {
+        "name": "The Daily Star",
+        "count": 1
+      },
+      {
+        "name": "The Diplomat",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Independent",
+        "count": 1
+      },
+      {
+        "name": "Xinhua",
+        "count": 1
+      },
+      {
+        "name": "anews.com.tr",
+        "count": 1
+      },
+      {
+        "name": "dw.com",
+        "count": 1
+      },
+      {
+        "name": "greenpost.com.pk",
+        "count": 1
+      },
+      {
+        "name": "سانا",
+        "count": 1
+      },
+      {
+        "name": "وكالة سبأ",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1154,
+      "sources_cited": 20
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
