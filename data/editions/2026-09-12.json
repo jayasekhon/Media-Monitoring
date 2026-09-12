@@ -1,0 +1,492 @@
+{
+  "date": "2026-09-12",
+  "printed_time": "10:12 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo's deadliest Ebola outbreak has spread to a seventh province, infecting over 7,000 people and killing nearly 3,400 nationwide.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A catastrophic glacial collapse triggered massive flash floods across Nepal and Tibet, leaving over 1,300 people dead and more than 5,000 missing.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "Twin earthquakes in Venezuela killed more than 6,500 people and injured thousands, forcing survivors into makeshift shelters amid severe infrastructure destruction.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A Houthi missile attack on a displaced convoy killed over 100 civilians in western Yemen as escalating fighting displaced 46,000 residents across two coastal provinces.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "A prolonged measles outbreak in Bangladesh has killed more than 1,000 people, with Dhaka Division suffering the highest toll from symptomatic fatalities.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo's deadliest Ebola outbreak has infected over 7,000 people, killed nearly 3,400, and expanded into a seventh province.",
+    "label": "AFRICA — Record Ebola Outbreak Spreads to Seventh DRC Province"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Mass Civilian Casualties and Displacement in Western Offensive",
+        "score": 9.0,
+        "body": "Medical sources reported that more than 100 civilians were killed when Houthi forces launched a missile targeting a displaced convoy traveling toward Aden in western Yemen. The strike forms part of an escalating Houthi offensive across Taiz and Hodeidah provinces, where militants fired five ballistic missiles toward southern and western coastal areas. The intensified military operations near the Red Sea have reportedly forced approximately 46,000 people to flee their homes as fighting spreads across several districts.",
+        "verified_figures": [
+          "More than 100 civilians killed",
+          "5 ballistic missiles launched",
+          "46,000 people displaced"
+        ],
+        "sources": [
+          {
+            "name": "JINHAGENCY",
+            "url": "https://jinhaagency.com/en/actual/more-than-100-civilians-killed-in-attack-on-displaced-convoy-in-western-yemen-40055"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Thousands Remain Displaced Amid Infrastructure Damage",
+        "score": 5.0,
+        "body": "According to the International Committee of the Red Cross, thousands of Lebanese families remain displaced months after major hostilities. Many families who have attempted to return are living in damaged homes with severely disrupted access to healthcare and lost livelihoods. The organization noted ongoing humanitarian challenges across the country as vulnerable populations struggle to recover basic stability.",
+        "verified_figures": [
+          "Thousands of families displaced"
+        ],
+        "sources": [
+          {
+            "name": "Saba",
+            "url": "https://www.saba.ye/en/news3785665.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Palestine — Fatalities Reported in Attacks Across Gaza and West Bank",
+        "score": 4.5,
+        "body": "At least two Palestinians were killed and numerous others sustained injuries during a new wave of attacks across Gaza and the West Bank. The violence reflects persistent security risks to civilian populations across both territories.",
+        "verified_figures": [
+          "At least 2 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "democrata.es",
+            "url": "https://www.democrata.es/en/international/at-least-two-palestinians-dead-and-numerous-injured-in-a-new-wave-of-attacks-in-gaza-and-the-west-bank/"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Human Rights Concerns and Arbitrary Detentions Persist",
+        "score": 4.0,
+        "body": "Human rights monitoring indicates that arbitrary detention, torture, and deaths in custody persist in Syria following the fall of the Assad government in December 2024. Despite promises of quick accountability and official inquiry committees formed after massacres in the coastal region and As-Suwayda, justice mechanisms remain inadequate while protection risks endure.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Next Century Foundation",
+            "url": "https://www.nextcenturyfoundation.org/arbitrary-detention-in-post-assad-syria-accountability-still-falls-short/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Twin Earthquakes Cause Widespread Destruction and Mass Casualties",
+        "score": 9.0,
+        "body": "Community members and emergency responders in Venezuela's capital region, including La Guaira, continue rescue and recovery efforts following twin earthquakes. According to reports from affected communities, rescuers have pulled 6,462 survivors and 6,509 deceased individuals from the rubble of collapsed homes. Destruction of housing and severe cellular service disruptions have forced survivors into makeshift shelters, where local community networks are organizing assistance efforts amid ongoing search operations.",
+        "verified_figures": [
+          "6,509 dead",
+          "6,462 survivors rescued"
+        ],
+        "sources": [
+          {
+            "name": "CounterPunch.org",
+            "url": "https://www.counterpunch.org/2026/09/11/how-organized-communities-are-rebuilding-in-the-wake-of-venezuelas-twin-earthquakes/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Gang Attack Targets Displaced Civilians Sheltering in Kenscoff Church",
+        "score": 7.5,
+        "body": "Members of the heavily armed Viv Ansanm paramilitary coalition executed a fatal attack in the Kenscoff commune outside Port-au-Prince, Haiti. Attackers targeted displaced survivors of previous violence taking refuge in a local church, as well as residents inside neighboring homes. Community sources reported that women and young people were specifically targeted, estimating that between 40 and more than 70 people were killed in the assault.",
+        "verified_figures": [
+          "40 to over 70 people killed (community estimates)"
+        ],
+        "sources": [
+          {
+            "name": "sfbayview.com",
+            "url": "https://sfbayview.com/2026/09/latest-massacre-in-haiti-reveals-yet-again-the-cruelty-of-revoking-tps-for-haitians/"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Tropical Storm Marie Strengthens Off Pacific Coast",
+        "score": 4.5,
+        "body": "Tropical Storm Marie is intensifying off Mexico's Pacific coast, threatening coastal areas with heavy rainfall, flooding, and dangerous surf. Positioned 670 kilometers south-southwest of Cabo San Lucas, the system is moving northwest at 15 kilometers per hour with maximum sustained winds of 110 kilometers per hour and gusts reaching 140 kilometers per hour. Meteorological officials warn the storm could reach hurricane intensity.",
+        "verified_figures": [
+          "sustained winds of 110 km/h",
+          "wind gusts of 140 km/h",
+          "moving northwest at 15 km/h",
+          "located 670 km south-southwest of Cabo San Lucas"
+        ],
+        "sources": [
+          {
+            "name": "LatinAmerican Post",
+            "url": "https://latinamericanpost.com/americas/mexico-tracks-tropical-storm-marie-as-heat-and-floods-split-the-forecast/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Spreads to Seventh Province",
+        "score": 9.5,
+        "body": "An ongoing Ebola outbreak in the Democratic Republic of the Congo has spread to a seventh region, Sud-Ubangi, following a confirmed death. Driven by the Bundibugyo strain, the epidemic has infected 7,022 people and caused 3,398 deaths nationwide, becoming the deadliest Ebola outbreak in the country's history. The World Health Organization previously designated the outbreak a Public Health Emergency of International Concern. Although case numbers have recently decreased in the former epicenter of Ituri province, infections are rising in North Kivu. Humanitarian and local organizations are working to strengthen infection control measures and health responses.",
+        "verified_figures": [
+          "7,022 confirmed cases",
+          "3,398 deaths",
+          "1 confirmed death in Sud-Ubangi province"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-africa-spread-ituri-58a2b25c752eaa8344ff16564a8e3547"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-infections-top-7000-congo-virus-spreads-new-province-2026-09-11/"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Insecurity and Ebola Endanger Displaced Populations in Ituri",
+        "score": 7.5,
+        "body": "Around 76,000 internally displaced persons living at the Plaine Savo site near Fataki city, Ituri province, face severe living conditions due to surrounding armed violence and movement restrictions. According to Doctors Without Borders, residents are trapped by safety threats outside the camp, leaving them without basic essential services or adequate healthcare. The ongoing Ebola outbreak in the region has further increased risks for families living in the overcrowded site, many of whom were previously displaced after their homes were burned.",
+        "verified_figures": [
+          "76,000 internally displaced persons"
+        ],
+        "sources": [
+          {
+            "name": "Doctors Without Borders",
+            "url": "https://www.doctorswithoutborders.ca/democratic-republic-of-congo-amid-violence-displacement-and-an-ebola-disease-outbreak-the-people-in-plaine-savo-are-struggling-to-survive/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — UN Warns of Severe Winter Energy and Water Risks",
+        "score": 7.0,
+        "body": "A senior United Nations official has warned that Ukraine faces its toughest winter since Russia launched its full-scale invasion. Humanitarian actors and local authorities are in a race against time to safeguard essential power and water services across the country before freezing conditions set in. The warning comes amidst continued damage to critical infrastructure, raising significant concerns for civilian survival and public service access during the upcoming winter months.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian Strikes Target Industrial Sites as Fatalities Reported",
+        "score": 7.0,
+        "body": "Russian military forces have struck major Ukrainian manufacturing facilities, including the Zaporizhstal steel plant in Zaporizhzhia and the Interpipe Steel complex, according to Russia's Ministry of Defence. Recent Russian strikes have reportedly killed 15 people in Ukraine. In response to the wave of attacks, Ukrainian President Volodymyr Zelensky urged US President Donald Trump to immediately enact new sanctions against Russia, as diplomatic efforts to halt the conflict remain stalled.",
+        "verified_figures": [
+          "15 killed in Russian strikes"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — UK Defense Chief Estimates Heavy Russian Troop Casualties",
+        "score": 5.0,
+        "body": "The United Kingdom's defense chief stated that more than 500,000 Russian soldiers have been killed in Ukraine since the onset of the war. The casualty figure highlights the massive human toll of the ongoing conflict as intense fighting, drone operations, and strikes on logistical targets continue across the war zone.",
+        "verified_figures": [
+          "More than 500,000 Russian troops killed (UK defense chief claim)"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-gas-stations-drones-090b61e66dbde88598a1b1bfe42ad85d"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Bangladesh — Measles Outbreak Death Toll Surpasses 1,000",
+        "score": 8.0,
+        "body": "A prolonged measles outbreak in Bangladesh has killed over 1,000 people, according to data from the Directorate General of Health Services. Health authorities reported three additional deaths and 34 new positive cases in a 24-hour monitoring period. Cumulative fatalities have reached 1,012, comprising 100 confirmed measles deaths and 912 deaths among individuals exhibiting measles symptoms. Dhaka Division has recorded the highest impact from symptomatic deaths with 408 fatalities, followed by Sylhet Division with 157 deaths.",
+        "verified_figures": [
+          "1,012 total deaths",
+          "100 confirmed measles deaths",
+          "912 deaths from measles symptoms",
+          "34 new positive cases in 24 hours",
+          "3 new deaths in 24 hours"
+        ],
+        "sources": [
+          {
+            "name": "The Financial Express",
+            "url": "https://thefinancialexpress.com.bd/home/3-measles-deaths-34-new-cases-reported-in-24-hours"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Flash Floods Cause Over 1,000 Fatalities as Relief Efforts Expand",
+        "score": 8.5,
+        "body": "Devastating flash floods in Nepal have killed more than 1,000 people and left thousands of others missing across affected mountain regions. In response to the widespread destruction, emergency relief operations were initiated following direct communications between Indian and Nepalese leaders. The international response has entered its fifth major phase, delivering essential relief supplies directly to severely impacted communities.",
+        "verified_figures": [
+          "Over 1,000 deaths",
+          "Thousands missing"
+        ],
+        "sources": [
+          {
+            "name": "geosirius.ifz.ru",
+            "url": "https://geosirius.ifz.ru/indias-ongoing-aid-flood-hit-nepal-matters-right"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Nearly 180,000 Displaced in Chin State Cut Off from Humanitarian Aid",
+        "score": 7.5,
+        "body": "Nearly 180,000 people displaced by armed conflict in western Myanmar's Chin State urgently require food, medicine, and shelter, according to local resistance officials. The Chinland Council reported that its aid operations currently reach only about 40,000 displaced individuals, leaving more than 135,000 people without regular humanitarian assistance. Local officials highlighted critical shortages of livelihood support, tarpaulin sheets for temporary shelter, and protective mosquito netting.",
+        "verified_figures": [
+          "Nearly 180,000 displaced people",
+          "More than 135,000 people cut off from consistent aid",
+          "40,000 people receiving direct aid access"
+        ],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/nearly-180000-displaced-people-myanmars-chin-state-urgently-need-aid-officials-say"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Drone Attack Forces Closure of Mandalay International Airport",
+        "score": 4.5,
+        "body": "Flight operations at Mandalay’s Tada-U International Airport were halted following a drone attack claimed by the People’s Defence Forces rebel group. The resistance group stated it launched six suicide drones targeting military fighter jets positioned at the facility. Authorities confirmed international flights were cancelled on September 11 and 12 due to the raid, though no casualties were reported.",
+        "verified_figures": [
+          "No casualties",
+          "6 suicide drones launched"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal & Tibet — Catastrophic Glacial Collapse Triggers Mass Flooding",
+        "score": 9.5,
+        "body": "A massive glacier and rock-ice collapse in the Langtang Lirung region triggered severe flash floods and debris flows along the Lhende Khola, Bhote Koshi, and Trishuli river systems across Nepal and Tibet. Official and police reports indicate that over 1,300 people have died, more than 5,000 remain missing, and 157 bodies have been recovered. The flooding destroyed homes, bridges, roads, and hydropower projects, crippling cross-border trade routes. Nepal's government is seeking an initial $20 million from the UN Loss and Damage Fund to support emergency rescue, shelter, and relief efforts.",
+        "verified_figures": [
+          "Over 1,300 dead",
+          "5,000+ missing",
+          "157 bodies recovered",
+          "$20 million UN compensation claim"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Ebola Outbreak Surpasses 7,000 Cases Across Seven Provinces",
+        "score": 9.0,
+        "body": "An expanding Ebola outbreak in the Democratic Republic of the Congo has reported between 6,843 and over 7,000 cases, alongside at least 3,310 deaths. While case numbers have slowed in the epicenter of Ituri province—which accounts for over 5,400 cases—infections are rising rapidly in neighboring North Kivu (over 1,000 cases) and Haut-Uele. Sud Ubangi recently became the seventh province affected. Health authorities and researchers warn that widespread multi-province transmission is severely stretching containment capabilities and shaping discussions on international aid responses.",
+        "verified_figures": [
+          "6,843 to 7,000+ cases",
+          "3,310 deaths",
+          "5,400+ cases in Ituri",
+          "1,000+ cases in North Kivu",
+          "7 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Outbreak News Today",
+            "url": "https://outbreaknewstoday.substack.com/p/ebola-outbreak-tops-7000-cases-sud"
+          }
+        ]
+      },
+      {
+        "headline": "Madagascar — Tropical Cyclone Gezani Causes Severe Destruction in Toamasina",
+        "score": 7.5,
+        "body": "Tropical Cyclone Gezani struck Madagascar's port city of Toamasina with wind speeds exceeding 195 kilometers per hour, killing 20 people, injuring 33, and leaving 15 missing. The storm destroyed 75 percent of infrastructure in Toamasina, a city of 300,000, while toppling homes and disrupting power grids across the region. Authorities evacuated more than 2,700 residents and issued red alerts for severe flooding and landslides as the storm moved inland. The strike comes less than two weeks after Cyclone Fytia hit the country.",
+        "verified_figures": [
+          "20 killed",
+          "33 injured",
+          "15 missing",
+          "2,700+ evacuations",
+          "75% infrastructure destroyed in Toamasina"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/another-cyclone-gezani-hits-madagascar-9-killed-19-injured/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Mexico",
+      "score": 4.5,
+      "trigger": "Tropical Storm Marie could strengthen into a hurricane off Mexico's Pacific coast within the next 72 hours.",
+      "potential_impact": "Heavy rainfall, storm surges, and localized flooding could cause severe property damage and displace coastal residents.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "LatinAmerican Post",
+          "url": "https://latinamericanpost.com/americas/mexico-tracks-tropical-storm-marie-as-heat-and-floods-split-the-forecast/"
+        }
+      ]
+    },
+    {
+      "location": "Madagascar",
+      "score": 7.5,
+      "trigger": "Tropical Cyclone Gezani tracking inland over the next 72 hours could cause severe landslides and widespread river flooding.",
+      "potential_impact": "Compounded destruction of vital port infrastructure, prolonged utility disruptions, and expanded displacement across eastern districts.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "url": "https://newsonair.gov.in/another-cyclone-gezani-hits-madagascar-9-killed-19-injured/"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.0,
+      "trigger": "Ongoing Russian strikes targeting power and industrial facilities coinciding with the onset of winter conditions in the coming days.",
+      "potential_impact": "Widespread failure of essential heating, power, and water services could create acute winter survival risks for civilian populations.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "LatinAmerican Post",
+        "count": 2
+      },
+      {
+        "name": "News On AIR",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Burma News International",
+        "count": 1
+      },
+      {
+        "name": "CounterPunch.org",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Doctors Without Borders",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "JINHAGENCY",
+        "count": 1
+      },
+      {
+        "name": "Next Century Foundation",
+        "count": 1
+      },
+      {
+        "name": "Outbreak News Today",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "Saba",
+        "count": 1
+      },
+      {
+        "name": "The Financial Express",
+        "count": 1
+      },
+      {
+        "name": "democrata.es",
+        "count": 1
+      },
+      {
+        "name": "geosirius.ifz.ru",
+        "count": 1
+      },
+      {
+        "name": "sfbayview.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1242,
+      "sources_cited": 20
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
