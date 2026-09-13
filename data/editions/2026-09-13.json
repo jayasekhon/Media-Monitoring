@@ -1,0 +1,454 @@
+{
+  "date": "2026-09-13",
+  "printed_time": "11:11 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Catastrophic flash floods triggered by a rock and ice collapse near Langtang Lirung peak in Nepal have left over 1,100 people dead and thousands missing.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 2,
+      "text": "The Democratic Republic of the Congo faces its deadliest Ebola epidemic on record, with 3,398 deaths and over 7,020 cases reported across seven provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A Houthi offensive targeting the Bab el-Mandeb Strait in southwestern Yemen has displaced over 70,000 civilians toward Aden and neighboring Djibouti.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Two major offshore earthquakes measuring 7.1 and 7.5 magnitude struck Venezuela in rapid succession, collapsing buildings in Caracas.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Russian drone and missile attacks across Ukraine killed up to ten civilians and injured dozens, damaging residential buildings and industrial sites.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "Catastrophic flash floods triggered by a massive rock and ice collapse in northern Nepal have left over 1,100 people confirmed dead and thousands missing, causing widespread destruction of infrastructure and hydropower facilities.",
+    "label": "ASIA-PACIFIC — Nepal Flash Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Houthi offensive triggers mass displacement across southwestern regions",
+        "score": 8.0,
+        "body": "An offensive by Houthi forces targeting the Bab el-Mandeb Strait in southwestern Yemen has displaced more than 70,000 people, exacerbating an already acute humanitarian crisis. United Nations agencies and the International Organization for Migration report that displaced civilians are fleeing toward Aden, while approximately 1,400 people have crossed into neighboring Djibouti. Active fighting continues between Houthi rebels and Yemeni government forces, supported by Saudi air strikes. Additionally, Houthi forces claimed responsibility for drone and missile attacks targeting a Saudi military base in Sharurah.",
+        "verified_figures": [
+          "Over 70,000 displaced",
+          "Around 1,400 crossed into Djibouti"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Civilian casualties reported in Gaza and West Bank operations",
+        "score": 5.5,
+        "body": "Israeli military actions across the Gaza Strip and the West Bank resulted in Palestinian casualties. In southern Gaza, a pregnant Palestinian woman died from wounds caused by Israeli gunfire south of Khan Younis, while four people were injured during an airstrike on a tent in Al-Mawasi. Naval shelling was reported off Gaza's port alongside artillery bombardment east of Deir al-Balah. In the West Bank, military raids injured several people and led to the detention of eight Palestinians.",
+        "verified_figures": [
+          "1 killed (pregnant woman)",
+          "4 injured in Al-Mawasi airstrike",
+          "8 detained in West Bank"
+        ],
+        "sources": [
+          {
+            "name": "sana.sy",
+            "url": "https://sana.sy/en/middle-east/2342190/"
+          }
+        ]
+      },
+      {
+        "headline": "Strait of Hormuz — One killed in attack on merchant vessel",
+        "score": 4.0,
+        "body": "A strike on a merchant vessel navigating the Strait of Hormuz killed one person and injured three others, according to news reports. The attack occurs amid escalating regional tensions affecting maritime safety and commercial navigation along critical energy shipping routes in the Middle East.",
+        "verified_figures": [
+          "1 killed",
+          "3 injured"
+        ],
+        "sources": [
+          {
+            "name": "NDTV",
+            "url": "https://www.ndtv.com/world-news/1-killed-3-injured-after-merchant-ship-struck-in-hormuz-iran-12039936"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Back-to-back major earthquakes collapse buildings",
+        "score": 7.5,
+        "body": "Two powerful back-to-back earthquakes struck off the coast of Venezuela, causing buildings to collapse in Caracas and shaking residents across the region. According to the US Geological Survey, the first 7.1-magnitude quake occurred at a depth of 22 kilometers west of Morón. Just one minute later, a second 7.5-magnitude quake struck at a depth of 10 kilometers, 16 kilometers southwest of Morón. The tremors were also felt in neighboring Trinidad and Tobago.",
+        "verified_figures": [
+          "7.1-magnitude earthquake",
+          "7.5-magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "Trinidad Guardian",
+            "url": "https://www.guardian.co.tt/article/buildings-collapse-as-2-earthquakes-slam-venezuela-6.2.2613373.e1b2bd8da9"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Severe displacement and gang violence persist amid US deportations",
+        "score": 7.0,
+        "body": "Ongoing gang violence and political instability have internally displaced nearly 1.5 million people across Haiti. Amid deteriorating essential services, the United Arab Emirates announced $10 million in emergency assistance for food, shelter, health, and sanitation. The security situation remains dangerous, highlighted by the recent abduction of veteran news presenter Wesly Renaud Jean in Port-au-Prince. Despite severe insecurity, the United States deported 82 Haitians on a fourth flight since Temporary Protected Status ended, bringing total forced returns to 401. Human rights advocates and United Nations officials continue advocating against forced deportations.",
+        "verified_figures": [
+          "nearly 1.5 million people internally displaced",
+          "$10 million in humanitarian aid",
+          "82 Haitians deported on fourth flight",
+          "401 total Haitians returned"
+        ],
+        "sources": [
+          {
+            "name": "thenationalnews.com",
+            "url": "https://www.thenationalnews.com/news/uae/2026/09/12/uae-to-provide-10-million-in-aid-to-haiti-as-humanitarian-crisis-grows/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Surpasses 7,000 Cases",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting its deadliest Ebola epidemic on record, with total cases surpassing 7,022 and at least 3,398 deaths across seven provinces. The outbreak is caused by the rare Bundibugyo strain, for which no approved vaccine or treatment exists. While Congolese authorities claim the epidemic is under control and past its peak, the World Health Organization warned that transmission remains uncontrolled. Currently, 837 patients remain in isolation or under treatment, while 1,671 people have recovered. The virus was first detected in Ituri Province in mid-May.",
+        "verified_figures": [
+          "7,022 total cases",
+          "3,398 deaths",
+          "837 people in isolation or receiving treatment",
+          "1,671 patient recoveries",
+          "7 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Mid-Day",
+            "url": "https://www.mid-day.com/news/world-news/article/congo-says-ebola-outbreak-under-control-despite-persistent-risks-23649775"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes cause casualties and damage across multiple regions",
+        "score": 7.0,
+        "body": "Russian strikes across Ukraine have caused civilian casualties and infrastructure damage. Reuters reported that Russian attacks killed 10 people and injured dozens, while Moscow claimed hitting ships and industrial plants. Associated Press separately reported eight people killed in Russian strikes. In Odesa, local officials stated a Russian drone attack injured five people, while a missile strike directly hit a residential apartment.",
+        "verified_figures": [
+          "10 killed",
+          "dozens injured",
+          "8 killed",
+          "five injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-attacks-kill-six-injure-dozens-ukraine-moscow-says-it-hits-ships-plants-2026-09-12/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-putin-europe-839f5b0fc5217afc4cb34e15b01b6eff"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian official claims attack on fuel trucks endangered Zaporizhzhia nuclear plant",
+        "score": 5.0,
+        "body": "The head of Russia's state nuclear corporation stated that Ukrainian forces attacked fuel trucks, endangering the Zaporizhzhia Nuclear Power Plant. Further verified details regarding the impact of the reported attack or physical damage to the facility were not immediately available.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/russian-nuclear-head-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-2026-09-13/"
+          }
+        ]
+      },
+      {
+        "headline": "Russia/Ukraine — Over 300 civilians missing following 2024 Kursk offensive",
+        "score": 4.0,
+        "body": "Russian officials report that more than 300 individuals remain missing following Ukraine's 2024 cross-border offensive in the Kursk region. Relatives of the missing continue to seek answers, though authorities state that the exact total number of unaccounted people remains uncertain.",
+        "verified_figures": [
+          "more than 300 Russians remain missing"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal — Catastrophic Flash Floods",
+        "score": 9.0,
+        "body": "Catastrophic flash floods triggered by a collapse of rock and ice near Langtang Lirung mountain peak on August 26 destroyed infrastructure, roads, and hydropower facilities across northern and central Nepal. As of September 2, over 1,100 people were confirmed dead, with thousands reported missing. The flooding severely impacted areas including Rasuwa and Nuwakot, where hundreds of displaced families require urgent relief assistance. Operational challenges remain acute, though emergency rescues continued days after the event, including the extraction of a tunnel worker stranded for ten days.",
+        "verified_figures": [
+          "Over 1,100 people confirmed dead",
+          "Thousands missing"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/asia-pacific/20260913-second-life-nepal-hydropower-tunnel-survivor-recalls-ordeal"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Internal Displacement Forecast",
+        "score": 7.0,
+        "body": "A report by the Rich Organization projects that approximately 3.1 million people in Afghanistan will face internal displacement by 2025. Driven primarily by ongoing economic pressures, severe food insecurity, and recurring natural disasters, internal displacement continues to strain local resources. Displaced populations in provinces such as Baghlan and Paktika are experiencing severe hardships, including critical shortages of clean water, severe poverty, and lack of access to essential humanitarian services.",
+        "verified_figures": [
+          "Projected 3.1 million internally displaced people by 2025"
+        ],
+        "sources": [
+          {
+            "name": "ariananews.co",
+            "url": "https://ariananews.co/en/afghanistan/social/projected-internal-displacement-of-3-1-million-afghans-by-2025-amidst-rising-challenges/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Civilian Casualties in Military Airstrike",
+        "score": 5.0,
+        "body": "A military airstrike near a historic pagoda in Ponnagyun reportedly killed two people and injured three others. The attack highlights ongoing protection risks to civilian populations and localized infrastructure amid military operations in the region.",
+        "verified_figures": [
+          "2 killed",
+          "3 injured"
+        ],
+        "sources": [
+          {
+            "name": "Narinjara News",
+            "url": "https://www.narinjara.com/news/detail/6aa67afe83d74604632c3f3a"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Deep Magnitude 6.6 Earthquake",
+        "score": 2.0,
+        "body": "A magnitude 6.6 earthquake struck off the Java region of Indonesia at a depth of 358.6 kilometers early Friday, located approximately 115 kilometers north-northeast of Teluknaga. The US Geological Survey issued a green alert, noting that the earthquake's significant depth is expected to limit surface destruction and humanitarian impact.",
+        "verified_figures": [
+          "Magnitude 6.6",
+          "Depth of 358.6 kilometres"
+        ],
+        "sources": [
+          {
+            "name": "Views Bangladesh",
+            "url": "https://viewsbangladesh.com/strong-earthquake-of-66-magnitude-in-indonesia-depth-358-kilometres/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Exceeds 7,000 Cases",
+        "score": 8.0,
+        "body": "The Democratic Republic of the Congo is confronting an escalating Ebola outbreak, with official government figures indicating cases have exceeded 7,000. The viral disease has spread into the country's northwestern province, prompting heightened public health alarms. Additionally, fear surrounding the outbreak is reportedly keeping community members away from hospitals, complicating health service delivery and medical access in affected areas.",
+        "verified_figures": [
+          "over 7,000 cases"
+        ],
+        "sources": [
+          {
+            "name": "devdiscourse.com",
+            "url": "https://www.devdiscourse.com/article/health/3976488-global-health-news-from-ebola-outbreaks-to-food-safety-and-legal-challenges"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Mpox Outbreak Spreads Across 40 Counties",
+        "score": 6.0,
+        "body": "Mpox has spread across 40 counties in Kenya, with population movement along major transport corridors and international border points accelerating transmission into low-risk areas. According to the Ministry of Health, 1,298 cases and 19 deaths have been confirmed. Officials have designated seven counties as high-risk zones due to their location near major transit routes and border crossings.",
+        "verified_figures": [
+          "1,298 confirmed cases",
+          "19 deaths",
+          "40 counties affected"
+        ],
+        "sources": [
+          {
+            "name": "K24 Digital",
+            "url": "https://k24.digital/lifestyle/health-and-fitness/virus-on-the-move-mpox-spreads-to-40-counties-over-1200-confirmed-cases-19-deaths/amp"
+          }
+        ]
+      },
+      {
+        "headline": "Vietnam — Flooding Triggers Evacuations in Quang Tri",
+        "score": 4.5,
+        "body": "Heavy rainfall associated with a tropical depression caused severe flooding across Lao Bao Commune in Quang Tri province on 13 September. Local authorities, military units, and police evacuated 142 households comprising nearly 500 residents to safe locations. Floodwaters inundated 72 homes and raised river levels, cutting off access along several local roads and submerging key transit spillways.",
+        "verified_figures": [
+          "nearly 500 residents evacuated",
+          "142 households evacuated",
+          "72 homes flooded"
+        ],
+        "sources": [
+          {
+            "name": "DTiNews",
+            "url": "https://dtinews.dantri.com.vn/vietnam-today/quang-tri-evacuates-500-residents-as-floods-inundate-communities-20260913131703600.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Cholera Outbreak Contained in Plateau State",
+        "score": 3.0,
+        "body": "Government officials in Nigeria's Plateau State announced that a cholera outbreak active since July across the Jos North and Mangu local government areas has been contained. Health teams are completing an oral vaccination drive in impacted communities, including Kabong, to safeguard residents against potential resurgence and eliminate remaining transmission chains.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "AIT LIVE",
+            "url": "https://ait.live/plateau-state-govt-contains-cholera-outbreak-within-2-months/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Southwestern Yemen and Bab el-Mandeb Strait",
+      "score": 8.0,
+      "trigger": "Continued Houthi attacks on military bases and maritime infrastructure could prompt intensified Saudi airstrikes and escalating ground battles.",
+      "potential_impact": "Heightened fighting could cause severe additional civilian displacement toward Aden and Djibouti while cutting off vital aid access routes.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+        }
+      ]
+    },
+    {
+      "location": "Zaporizhzhia Nuclear Power Plant, Ukraine",
+      "score": 7.0,
+      "trigger": "Direct attacks targeting fuel transport or critical support systems could compromise safety protocols at the nuclear facility.",
+      "potential_impact": "A disruption in plant power or cooling operations could precipitate a major radiological containment failure affecting large civilian populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/russian-nuclear-head-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-2026-09-13/"
+        }
+      ]
+    },
+    {
+      "location": "Kenya Border Counties and Transit Corridors",
+      "score": 6.5,
+      "trigger": "Increased movement of infected populations along key international transport corridors could drive rapid transmission into low-risk regions.",
+      "potential_impact": "Uncontrolled multi-county mpox transmission risks overwhelming local healthcare facilities and accelerating regional cross-border outbreaks.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "K24 Digital",
+          "url": "https://k24.digital/lifestyle/health-and-fitness/virus-on-the-move-mpox-spreads-to-40-counties-over-1200-confirmed-cases-19-deaths/amp"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "K24 Digital",
+        "count": 2
+      },
+      {
+        "name": "AIT LIVE",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "DTiNews",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "Mid-Day",
+        "count": 1
+      },
+      {
+        "name": "NDTV",
+        "count": 1
+      },
+      {
+        "name": "Narinjara News",
+        "count": 1
+      },
+      {
+        "name": "Trinidad Guardian",
+        "count": 1
+      },
+      {
+        "name": "Views Bangladesh",
+        "count": 1
+      },
+      {
+        "name": "ariananews.co",
+        "count": 1
+      },
+      {
+        "name": "devdiscourse.com",
+        "count": 1
+      },
+      {
+        "name": "sana.sy",
+        "count": 1
+      },
+      {
+        "name": "thenationalnews.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 993,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
