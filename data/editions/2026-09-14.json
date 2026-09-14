@@ -1,0 +1,508 @@
+{
+  "date": "2026-09-14",
+  "printed_time": "11:56 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo's deadliest Ebola outbreak on record has killed more than 3,400 people, with cases expanding to seven provinces and reaching an overcrowded displaced persons camp.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Flash floods and an ice-rock avalanche along the Nepal-Tibet border have left nearly 1,400 people dead and over 5,000 missing while severely damaging critical infrastructure.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 3,
+      "text": "A severe measles epidemic in Bangladesh has claimed 1,000 lives despite health authorities administering 20 million vaccines since April.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Escalating gang violence in Haiti has caused over 16,000 deaths since 2021 as hundreds of armed groups maintain extensive territorial control and political collusion fears grow.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Advancing Houthi rebel forces along Yemen's Red Sea coast have displaced more than 86,000 people since July, trapping civilians in active conflict zones.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The Democratic Republic of the Congo's 17th Ebola outbreak has become the deadliest in the country's history, causing over 3,400 deaths across seven provinces and threatening 70,000 displaced people in an Ituri camp.",
+    "label": "AFRICA — Historic Ebola Epidemic Peaks After Claiming Over 3,400 Lives"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli strikes kill at least 10 civilians",
+        "score": 7.0,
+        "body": "Israeli military strikes across the Gaza Strip have killed at least 10 people in a 48-hour period. According to medical workers and family members, a 27-year-old woman, who was nearly eight months pregnant, died after being shot in the head by Israeli gunfire while inside her family's tent in the al-Mawasi area, south of Khan Younis.",
+        "verified_figures": [
+          "at least 10 killed in 48 hours"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Over 86,000 displaced amid Houthi Red Sea offensive",
+        "score": 7.5,
+        "body": "According to the UN, more than 86,000 people have been displaced in Yemen since July due to escalated fighting between Iran-backed Houthi rebels and government forces. As Houthi militants advanced along the Red Sea coastline, thousands fled toward makeshift camps in government-controlled Aden, Taiz province, or neighboring Djibouti. Active fighting along coastal corridors has trapped civilians inside homes and separated families.",
+        "verified_figures": [
+          "more than 86,000 displaced since July"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260914-they-drove-us-from-our-land-thousands-displaced-by-yemen-conflict"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://kfgo.com/2026/09/14/yemens-displaced-long-for-loved-ones-stability-as-houthis-advance/"
+          }
+        ]
+      },
+      {
+        "headline": "Saudi Arabia/Iraq — Drone attacks force closure of East-West pipeline",
+        "score": 5.5,
+        "body": "A series of drone attacks launched from Iraqi territory forced Saudi Arabia to temporarily close its 745-mile East-West crude pipeline, impacting a route used to bypass the Strait of Hormuz. Iraqi authorities confirmed the strikes originated from their territory and launched an investigation. Simultaneously, Houthi forces in Yemen launched attacks against Saudi Arabia and captured the strategic island of Perim in the Bab al-Mandab strait.",
+        "verified_figures": [
+          "4m barrels a day rerouted via pipeline"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/sep/14/first-thing-oil-prices-surge-houthi-attack-saudi-arabia-supply-fears"
+          }
+        ]
+      },
+      {
+        "headline": "Strait of Hormuz — Projectile strikes Iranian commercial vessel",
+        "score": 4.5,
+        "body": "An unidentified projectile struck an Iranian commercial container vessel in the Strait of Hormuz early Sunday, killing one crew member and injuring four others. Iranian state media reported that the attack occurred near Hengam Island. The UK Maritime Trade Operations confirmed receiving a report of a vessel hit by a projectile while transiting the strait amid escalating regional maritime tension.",
+        "verified_figures": [
+          "1 killed",
+          "4 injured"
+        ],
+        "sources": [
+          {
+            "name": "Shipping Telegraph",
+            "url": "https://shippingtelegraph.com/shipping-reports/one-killed-4-injured-after-iranian-commercial-vessel-hit-in-hormuz/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Private Security Deployment and Gang Collusion Concerns Amid Ongoing Violence",
+        "score": 8.0,
+        "body": "Ongoing gang violence in Haiti has resulted in over 16,000 fatalities since 2021, including more than 8,200 deaths between January 2025 and March 2026. Approximately 300 armed groups currently control significant territory, possessing an estimated 270,000 to 500,000 illegal firearms. A private American security contractor, Vectus Global, is actively conducting air strikes, raids, and intelligence gathering under a undisclosed government contract. Simultaneously, the Organization of American States has warned that alleged political collusion with criminal gangs poses a serious threat to the integrity of presidential and legislative elections scheduled for December 13.",
+        "verified_figures": [
+          "Over 16,000 people killed since 2021",
+          "Over 8,200 people killed between January 2025 and March 2026",
+          "Approximately 300 armed groups operating",
+          "270,000 to 500,000 illegal firearms in circulation"
+        ],
+        "sources": [
+          {
+            "name": "USRESIST NEWS",
+            "url": "https://www.usresistnews.org/2026/09/13/a-private-mercenary-force-takes-over-in-haiti-foreign-policy-brief-234/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Air Relief Operations Support Isolated Communities Following Major Earthquake",
+        "score": 6.5,
+        "body": "Humanitarian relief operations are providing essential medical assistance across western Colombia following a 7.4-magnitude earthquake on August 10. Major structural damage at the regional airport in Pereira halted commercial flights, obstructing standard transport routes to affected urban and remote populations. In response, volunteer pilots from the Patrulla Aérea Civil Colombiana mobilized light aircraft to transport medical specialists, blood supplies, and critical pharmaceuticals directly into the disaster zone to maintain healthcare access for isolated communities.",
+        "verified_figures": [
+          "7.4-magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "medangel.org",
+            "url": "https://www.medangel.org/colombia-earthquake-relief-volunteer-pilots/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Over 86,000 Students Reassigned as Schools Reopen After Earthquake Damage",
+        "score": 4.5,
+        "body": "More than six million students across Venezuela are resuming classes following severe earthquakes on June 24 that heavily impacted Caracas and La Guaira state. Dozens of educational facilities were utilized for weeks as emergency temporary shelters and humanitarian relief distribution hubs. Following repair and refurbishment efforts by national authorities and the relocation of displaced families to transitional shelter camps, 86,031 students impacted by structural damage have been reassigned or integrated back into refurbished schools.",
+        "verified_figures": [
+          "More than 6 million students returning to class",
+          "86,031 students reassigned due to damaged school facilities"
+        ],
+        "sources": [
+          {
+            "name": "Orinoco Tribune",
+            "url": "https://orinocotribune.com/venezuela-over-6-million-students-head-back-to-class-as-earthquake-recovery-continues/"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Tropical Storm Marie Strengthens Off Pacific Coast Bringing Heavy Rainfall",
+        "score": 3.0,
+        "body": "Tropical Storm Marie is intensifying off Mexico's Pacific coast, positioned 670 kilometers south-southwest of Cabo San Lucas and moving northwest at 15 kilometers per hour. The system carries sustained winds of 110 kilometers per hour with gusts reaching 140 kilometers per hour, with meteorologists projecting potential hurricane-force development. Although the storm's center is expected to remain offshore, forecasters warn of heavy rainfall, high surf, and localized flooding, impacting regions already experiencing extreme weather conditions.",
+        "verified_figures": [
+          "Sustained winds of 110 km/h with gusts up to 140 km/h",
+          "Storm center located 670 km south-southwest of Cabo San Lucas",
+          "Moving northwest at 15 km/h"
+        ],
+        "sources": [
+          {
+            "name": "LatinAmerican Post",
+            "url": "https://latinamericanpost.com/americas/mexico-tracks-tropical-storm-marie-as-heat-and-floods-split-the-forecast/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Ebola outbreak peaks after causing over 3,400 deaths across seven provinces",
+        "score": 9.0,
+        "body": "Government officials in the Democratic Republic of the Congo reported that the country's 17th Ebola outbreak has passed its peak, despite expanding to a seventh province. Since detection in mid-May 2026, authorities have confirmed over 7,200 cases and 3,475 deaths, making it the deadliest Ebola epidemic in DRC history. Driven by the Bundibugyo strain—for which no licensed vaccine or approved treatment exists—the virus has spread to 62 health zones, including new cases in South Ubangi province and three confirmed infections in an Ituri displaced persons camp housing 70,000 people. Although 1,712 patients have been discharged and overall indicators reflect declining transmission, authorities warn persistent risks remain.",
+        "verified_figures": [
+          "7,200 confirmed cases",
+          "3,475 deaths",
+          "7 provinces affected",
+          "62 health zones affected",
+          "1,712 patients discharged",
+          "3 confirmed cases in an IDP camp housing 70,000 people"
+        ],
+        "sources": [
+          {
+            "name": "The Independent Uganda",
+            "url": "https://www.independent.co.ug/drc-says-ebola-outbreak-under-control-despite-persistent-risks/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Poland — Russian drone strikes hit civilian rail infrastructure near border",
+        "score": 6.5,
+        "body": "Russia launched an overnight barrage of 453 drones across Ukraine, including a strike on a passenger train near the Polish border shortly after a train transporting Western officials passed through. No casualties were reported from the train strike, but Ukrainian Railways warned that increasing attacks on rail networks and border crossings pose growing risks to civilian transit. Additionally, one drone struck within 800 meters of a Polish border crossing, prompting the Polish military to scramble fighter jets and helicopters.",
+        "verified_figures": [
+          "453 drones launched overnight",
+          "no casualties reported from train strike",
+          "impact 800 metres from border crossing"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260914-russia-strikes-ukraine-with-drones-as-poland-warns-of-escalation"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Defense budget deficit and air defense shortages heighten vulnerability",
+        "score": 5.5,
+        "body": "Ukraine is confronting severe operational challenges driven by critical shortages of air defense interceptors and an unexpected $27 billion defense budget deficit. The shortfalls coincide with continuous Russian missile and drone bombardments targeting cities and critical infrastructure across the country, raising significant concerns regarding Kyiv's capacity to protect civilian populations and essential facilities from sustained aerial attacks.",
+        "verified_figures": [
+          "$27 billion defense budget gap"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/14/ukraines-war-outlook-worsens-kyiv-confronts-budget-weapons-shortfalls/"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Border sanitary monitoring strengthened over Ebola concerns",
+        "score": 2.0,
+        "body": "Russian authorities have reinforced sanitary controls across national borders and transit hubs to mitigate the risk of Ebola entering the country. Health officials from Rospotrebnadzor and border personnel are screening passengers arriving from regions experiencing unfavorable epidemiological conditions, following an Ebola outbreak declared in the Democratic Republic of the Congo in May. Travellers presenting symptoms are subject to immediate hospitalization.",
+        "verified_figures": [
+          "Ebola outbreak declared in May in DRC"
+        ],
+        "sources": [
+          {
+            "name": "open.kg",
+            "url": "https://open.kg/en/news/in-the-world/121938-na-granice-rossii-usilili-sanitarnyj-kontrol-iz-za-jeboly.html"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal — Severe infrastructure damage and international relief following fatal flash floods",
+        "score": 8.0,
+        "body": "Flash floods and an ice-rock avalanche along the Nepal-Tibet border killed nearly 1,400 people and left over 5,000 missing, while severely damaging energy and transport infrastructure. To address acute power shortages caused by damaged hydropower facilities, India approved exporting up to 654 megawatts of electricity to Nepal for 18 hours daily through December. India also delivered prefabricated Bailey bridge components to restore critical road connectivity in the Betrawati area. Additionally, Nepal requested Chinese assistance to rebuild the Syaphrubesi-Rasuwagadhi trade route and border point, vital for local settlements and commerce.",
+        "verified_figures": [
+          "nearly 1,400 people killed",
+          "more than 5,000 missing",
+          "up to 654 MW of power approved for export",
+          "70-metre Bailey bridge components sent"
+        ],
+        "sources": [
+          {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/amp/world/story/nepal-seeks-china-help-to-rebuild-flood-hit-rasuwagadhi-border-road-ptag-2994214-2026-09-14"
+          }
+        ]
+      },
+      {
+        "headline": "Bangladesh — Measles epidemic causes 1,000 deaths despite mass vaccination campaign",
+        "score": 8.0,
+        "body": "A deadly measles epidemic in Bangladesh has claimed 1,000 lives, despite public health authorities administering 20 million vaccines since April. Health analysts attribute the high mortality toll to historical gaps in vaccination coverage and systemic immunization lapses. The high fatality rate underscores severe ongoing risks to vulnerable populations, highlighting ongoing challenges in achieving sufficient protection across affected communities.",
+        "verified_figures": [
+          "1,000 lives lost to measles",
+          "20mn vaccines administered since April"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "India — Monsoon flooding and riverbank collapse force evacuations in West Bengal",
+        "score": 5.0,
+        "body": "Severe flooding along the Ganges River in West Bengal's Malda district has caused three deaths and affected numerous rural settlements, including the Bhutni region. The river rose approximately 75 centimeters above its extreme danger threshold following heavy rainfall. Riverbank erosion disrupted local water flow, while the collapse of a 20-foot embankment in East Basudevpur significantly narrowed the channel, heightening the risk of further inundation. Authorities deployed more than 100 boats to facilitate emergency evacuations in affected villages.",
+        "verified_figures": [
+          "3 deaths recorded",
+          "Ganges River rose about 75cm above extreme danger level",
+          "20ft embankment collapsed",
+          "channel reduced from 550ft to under 150ft",
+          "more than 100 boats sent out for evacuation"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/sep/14/weather-tracker-floods-eastern-india-hurricane-damage-california"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Local mpox transmission identified in Karachi",
+        "score": 3.0,
+        "body": "Health officials in Karachi confirmed two locally transmitted mpox cases within two days, raising the city's total reported cases for 2026 to 15. Neither patient had a history of foreign travel, indicating active community transmission within the urban center. Health experts warned that local spread is increasing and noted that the virus can cause severe symptoms in humans, underscoring the need for heightened disease surveillance.",
+        "verified_figures": [
+          "2 mpox cases reported this week",
+          "2026 tally increased to 15 cases"
+        ],
+        "sources": [
+          {
+            "name": "Arab News PK",
+            "url": "https://www.arabnews.pk/pakistan/pakistans-karachi-reports-two-mpox-cases-this-week-taking-2026-tally-to-15-3001122"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Confirmed Ebola Cases in Overcrowded Ituri Displaced Persons Camp",
+        "score": 8.0,
+        "body": "At least three cases of Ebola have been confirmed in a displaced persons camp located in Ituri province, Democratic Republic of the Congo. The camp currently houses approximately 70,000 displaced individuals living in extremely crowded conditions. The confirmation of the highly contagious virus within a densely populated humanitarian displacement site raises urgent public health and protection concerns regarding potential rapid transmission among vulnerable populations.",
+        "verified_figures": [
+          "3 confirmed Ebola cases",
+          "70,000 displaced people in camp"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/three-cases-of-ebola-confirmed-in-a-displaced-persons-camp-in-ituri-with-70-000-people-crowded/"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Mpox and Dengue Outbreaks Prompt Heightened Surveillance and Ebola Prep",
+        "score": 5.5,
+        "body": "Health authorities in Kenya have reported Mpox infections spreading across 40 counties, with Mombasa, Nairobi, and Busia recording the highest infection rates. Simultaneously, Dengue fever outbreaks are affecting Garissa and Wajir counties, where officials are investigating suspected fatalities. While no Ebola cases have been confirmed nationwide, the government has activated its National Ebola Incident Management System and designated four specialized testing laboratories to enhance emergency preparedness.",
+        "verified_figures": [
+          "Mpox recorded in 40 counties",
+          "4 laboratories designated for Ebola testing"
+        ],
+        "sources": [
+          {
+            "name": "the-star.co.ke",
+            "url": "https://www.the-star.co.ke/news/2026-09-14-government-sets-up-4-labs-for-ebola-testing"
+          }
+        ]
+      },
+      {
+        "headline": "Fiji — Cyclone Vaianu Triggers Nationwide Flood Warnings",
+        "score": 5.0,
+        "body": "Severe Tropical Cyclone Vaianu, currently a Category 3 system moving southeast at 10 kilometers per hour, is threatening Fiji with severe weather. Located about 380 kilometers west of Yasawa-i-Rara, the cyclone is forecast to pass southwest of the country. The Fiji Meteorological Service has placed the entire nation under a heavy rain warning and flash flood alert, warning that persistent rain and thunderstorms could cause severe flooding in low-lying areas.",
+        "verified_figures": [
+          "Category 3 cyclone system",
+          "System moving southeast at 10 km/h"
+        ],
+        "sources": [
+          {
+            "name": "FBC News",
+            "url": "https://www.fbcnews.com.fj/news/cyclone-vaianu-triggers-heavy-rain-and-flood-warnings-across-fiji/"
+          }
+        ]
+      },
+      {
+        "headline": "Vietnam — Flooding Forces 700 Evacuations in Central Region",
+        "score": 4.5,
+        "body": "Extreme rainfall and severe flooding across Hue and central Vietnam have forced the evacuation of at least 700 people. Heavy precipitation has inundated low-lying areas, prompting emergency operations to move affected residents to safety. Local authorities continue to manage emergency responses as intense rain threatens further flooding in central provinces.",
+        "verified_figures": [
+          "700 people evacuated"
+        ],
+        "sources": [
+          {
+            "name": "Rus Tourism News",
+            "url": "https://www.rustourismnews.com/2026/09/14/700-evacuated-as-extreme-rain-floods-hue-and-central-vietnam/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ukraine / Polish Border",
+      "score": 6.5,
+      "trigger": "Continued Russian drone barrages against Ukrainian rail infrastructure and border areas near Poland could hit active transit hubs or cross-border facilities.",
+      "potential_impact": "Further destruction of critical civilian evacuation routes and heightened risk of direct military incidents along NATO's eastern frontier.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/video/20260914-russia-strikes-ukraine-with-drones-as-poland-warns-of-escalation"
+        }
+      ]
+    },
+    {
+      "location": "Fiji",
+      "score": 5.0,
+      "trigger": "Category 3 Cyclone Vaianu passing southwest of Fiji could bring sustained severe rainfall and extreme weather across the island country.",
+      "potential_impact": "Widespread flash flooding and inundation in low-lying areas, causing civilian displacement and damage to essential infrastructure.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "FBC News",
+          "url": "https://www.fbcnews.com.fj/news/cyclone-vaianu-triggers-heavy-rain-and-flood-warnings-across-fiji/"
+        }
+      ]
+    },
+    {
+      "location": "Pacific Coast of Mexico",
+      "score": 4.5,
+      "trigger": "Tropical Storm Marie strengthening into a hurricane as it tracks northwest off the western coast.",
+      "potential_impact": "Severe rainfall, destructive high surf, and river flooding in coastal zones already impacted by extreme weather.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "LatinAmerican Post",
+          "url": "https://latinamericanpost.com/americas/mexico-tracks-tropical-storm-marie-as-heat-and-floods-split-the-forecast/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "FBC News",
+        "count": 2
+      },
+      {
+        "name": "LatinAmerican Post",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Arab News PK",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "India Today",
+        "count": 1
+      },
+      {
+        "name": "Orinoco Tribune",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "Rus Tourism News",
+        "count": 1
+      },
+      {
+        "name": "Shipping Telegraph",
+        "count": 1
+      },
+      {
+        "name": "The Independent Uganda",
+        "count": 1
+      },
+      {
+        "name": "USRESIST NEWS",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "medangel.org",
+        "count": 1
+      },
+      {
+        "name": "open.kg",
+        "count": 1
+      },
+      {
+        "name": "the-star.co.ke",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1102,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
