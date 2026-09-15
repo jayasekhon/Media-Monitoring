@@ -1,0 +1,460 @@
+{
+  "date": "2026-09-15",
+  "printed_time": "11:13 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo's Ebola outbreak has expanded to 7,200 confirmed cases and 3,475 deaths, with ongoing violence in eastern conflict zones severely impeding containment efforts.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Successive major floods in Pakistan have uprooted 40 million people from their communities and caused approximately 7,000 deaths, escalating a protracted humanitarian displacement crisis.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 3,
+      "text": "Severe flooding across Nepal has left over 1,385 people confirmed dead and 5,130 missing while destroying critical hydropower infrastructure, prompting emergency electricity exports from India.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "A renewed Houthi offensive along Yemen's Red Sea coast has displaced over 82,000 people in a single month, as independent reports document 576 civilian casualties from recent US airstrikes.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Israeli airstrikes in Gaza killed six UN agency staff at a shelter for displaced families and injured at least 21 Palestinians, further disrupting essential aid delivery and civil services.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo's Ebola outbreak has surpassed 3,475 deaths and 7,200 confirmed cases, as response operations face persistent security challenges and sub-optimal contact tracing in eastern conflict zones.",
+    "label": "AFRICA — DR Congo Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Report Details 500+ Yemeni Civilian Casualties From 2023-25 US Airstrikes",
+        "score": 10.0,
+        "body": "A report released Thursday examines the more than 500 Yemeni civilians its authors said were killed or wounded by US airstrikes in the Middle East nation during a recent 17-month period amid the open-ended so-called “War on Terror” that has left nearly one million people dead in around half a dozen nations over the past 25 years. The report – authored by the Yemen-based group Mwatana for Human Rights and published by the Costs of War Project at Brown University’s Watson Institute for International and Public Affairs – documents 46 US airstrikes that took place between December 2023 and May 2025 that caused at least 576 civilian casualties, including 213 deaths and 363 injuries. Among the cas",
+        "verified_figures": [
+          "213 deaths"
+        ],
+        "sources": [
+          {
+            "name": "antiwar.com",
+            "url": "https://www.antiwar.com/blog/2026/09/14/report-details-500-yemeni-civilian-casualties-from-2023-25-us-airstrikes/"
+          }
+        ]
+      },
+      {
+        "headline": "Rising Tide of Displacement: Yemen's Houthi Offensive Escalates Crisis",
+        "score": 8.5,
+        "body": "Rising Tide of Displacement: Yemen's Houthi Offensive Escalates Crisis The Houthi militants' advance on Yemen's Red Sea coast has triggered a mass displacement crisis, with over 82,000 people uprooted in just a month. The fighting isolates families and heightens tensions between regional powers Iran and the U.S., further entrenching Yemen's entrenched humanitarian woes. The ongoing conflict in Yemen has exacerbated a dire humanitarian situation as Houthi militants continue their march along the Red Sea coastline. Thousands are fleeing their homes, creating an ever-growing number of internally displaced people seeking shelter in makeshift camps. Aisha Muhammad is among many who have had to le",
+        "verified_figures": [
+          "82,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/law-order/3976998-rising-tide-of-displacement-yemens-houthi-offensive-escalates-crisis"
+          }
+        ]
+      },
+      {
+        "headline": "21 Palestinians injured as Israeli strikes continue in Gaza despite ceasefire",
+        "score": 8.5,
+        "body": "A Palestinian man carries a child following an Israeli attack in the Mawasi area in Khan Younis, Gaza Strip, September 14, 2026. /VCG At least 21 Palestinians were injured in Israeli airstrikes across the Gaza Strip on Monday, according to Palestinian sources, as strikes continued despite a ceasefire, with Gaza's already devastated education system facing further collapse. In the latest reported strike, an Israeli drone fired two missiles at the roof of a residential building near al-Shifa Medical Complex in Gaza City, eyewitnesses said. Mahmoud Basal, spokesperson for Gaza's civil defense service, said one person was seriously injured and taken to hospital. Earlier, an Israeli drone struck",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "news.cgtn.com",
+            "url": "https://news.cgtn.com/news/2026-09-15/21-Palestinians-injured-as-Israeli-strikes-continue-in-Gaza-1Qs3nEy6VSo/share_amp.html"
+          }
+        ]
+      },
+      {
+        "headline": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
+        "score": 8.5,
+        "body": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA. At least 220 agency staff have been killed in Gaza since the Hamas-Israel war began in October 2023. UNRWA Acting Commissioner-General Christian Saunders said the safety of humanitarian staff, premises and operations had been blatantly disregarded since the beginning of the war. More To Read “The longer impunity prevails, the more international humanitarian law and the Geneva Conventions will become irrelevant,” he said. Thousands killed and injured Since the fragile October 10, 2025 ceasefire agreement, local authoriti",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/middle-east/400477/six-un-staff-killed-in-gaza-school-strike-lebanon-violations-mount?amp=1"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haitian bishop: ‘Enough is enough’ following Aug. 23 massacre",
+        "score": 7.5,
+        "body": "MIAMI | A shocking gang-related attack on a Haitian farming community drew a sharp reaction from a Haitian bishop currently living in South Florida following an act of mass murder and kidnapping. The Aug. 23 attack south of Haiti’s capital reportedly left as many as 47 people dead and some 50 more kidnapped, although the numbers, first reported by the United Nations, have not been fully verified. The attack began when armed members of the Viv Ansanm gang coalition descended on Kenscoff, setting homes ablaze, killing residents and abducting dozens, according to The Associated Press. Kenscoff Mayor Jean Massillon blamed members of Viv Ansanm for the attack. One of the armed group’s leaders in",
+        "verified_figures": [
+          "47 people"
+        ],
+        "sources": [
+          {
+            "name": "Florida Catholic Media",
+            "url": "https://www.thefloridacatholic.org/dioceses/miami/haitian-bishop-enough-is-enough-following-aug-23-massacre/article_4952b448-7ce4-4d5c-adc1-3a6295479f0b.html"
+          }
+        ]
+      },
+      {
+        "headline": "Veteran Haitian journalist Wesly Renaud Jean abducted, ransom requested",
+        "score": 6.5,
+        "body": "Veteran Haitian journalist Wesly Renaud Jean abducted, ransom requested.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "IFEX",
+            "url": "https://ifex.org/veteran-haitian-journalist-wesly-renaud-jean-abducted-ransom-requested/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia’s Earthquake History Teaches Property Buyers to Check the Building Code First",
+        "score": 6.5,
+        "body": "After the Earthquake: Investing in Colombia with Knowledge and Confidence Every time we feel an earthquake—even one that lasts only a few seconds—we are reminded of something we often take for granted: the safety of the place we call home. For anyone considering a real estate investment in Colombia, this concern is entirely understandable. Buying property is an important financial decision, but it also means choosing a place to live, build wealth or welcome other people. That is why investors should look beyond location, price and potential returns and also consider how and when the property was built. Colombia has developed its earthquake-resistant building regulations over several decades.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Finance Colombia",
+            "url": "https://www.financecolombia.com/colombias-earthquake-history-teaches-property-buyers-to-check-the-building-code-first/"
+          }
+        ]
+      },
+      {
+        "headline": "Strong mag. 5.2 earthquake - Departamento del Choco, 82 km north of Buenaventura, Colom...",
+        "score": 6.5,
+        "body": "Strong mag. 5.2 earthquake - Departamento del Choco, 82 km north of Buenaventura, Colombia, on Monday, Sep 14, 2026, at 03:02 pm (Bogota time).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23363302/quake-felt-Sep-14-2026-Near-Cali-Valle-del-Cauca-Department-Colombia.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Surpasses 3,400 Deaths as Officials Claim Infection Peak",
+        "score": 9.5,
+        "body": "Government data from the Democratic Republic of the Congo indicates that the country's Ebola outbreak has grown to 7,200 confirmed cases and at least 3,475 deaths across seven provinces. More than 60 health zones are currently affected, with nearly 1,000 patients receiving treatment in isolation facilities. Official surveillance reports indicate that virus transmission peaked in mid-August as infection growth began to slow. However, public health experts emphasize that contact tracing remains at 88%, falling short of the threshold required to halt transmission, while response efforts remain constrained in eastern conflict-affected zones.",
+        "verified_figures": [
+          "7,200 confirmed cases",
+          "3,475 deaths",
+          "62 health zones affected",
+          "923 patients hospitalised in isolation"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — National Ebola High Alert Activated Amid Regional Outbreak",
+        "score": 3.5,
+        "body": "The Kenyan Ministry of Interior and National Administration has placed the country on high alert and activated the National Ebola Incident Management System as a precautionary measure against the ongoing outbreak in the Democratic Republic of the Congo. Officials confirmed that all suspected Ebola cases tested nationwide have returned negative results. Preparedness measures have been heightened across national and county levels, with four laboratories officially designated for diagnostic testing. The heightened surveillance measures coincide with ongoing efforts to contain local outbreaks of mpox, dengue, and measles.",
+        "verified_figures": [
+          "0 confirmed Ebola cases in Kenya",
+          "4 designated testing laboratories"
+        ],
+        "sources": [
+          {
+            "name": "radio47.fm",
+            "url": "https://www.radio47.fm/news/kenya-on-high-alert-for-ebola-as-mpox-dengue-and-measles-outbreaks-persist-39262/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Zelensky says Ukraine ready to de-escalate if Russia halts strikes",
+        "score": 7.5,
+        "body": "Ukraine is ready to halt attacks on Russian energy infrastructure if Moscow does the same, President Volodymyr Zelensky said Monday, after US President Donald Trump announced an apparent agreement between the two sides. Kyiv also warned that intensifying Russian strikes on Ukraine’s rail network are worsening each week.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/zelensky-says-ukraine-ready-de-escalatory-steps"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine races to counter Russia's jet-powered drone attacks",
+        "score": 7.5,
+        "body": "Ukraine races to counter Russia's jet-powered drone attacks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/aerospace-defense/ukraine-races-counter-russias-jet-powered-drone-attacks-2026-09-15/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls",
+        "score": 6.0,
+        "body": "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls. Amid constant Russian drone and missile attacks, two shortfalls are raising the greatest alarm: a lack of air defense interceptors and an unexpected $27 billion defense budget gap.",
+        "verified_figures": [
+          "27 billion defense budget gap"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/14/ukraines-war-outlook-worsens-kyiv-confronts-budget-weapons-shortfalls/"
+          }
+        ]
+      },
+      {
+        "headline": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastr...",
+        "score": 6.0,
+        "body": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-poland-nato-drones-dbba56f09562f337aa731f7d4bbd1235"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Climate minister says repeated floods have displaced 40 million people in Pakistan",
+        "score": 9.0,
+        "body": "- Musadik Malik says last five major floods killed around 7,000 people, injured or disabled 17,000 - PM orders disaster agencies to prepare for heavy rains, possible flooding during ongoing monsoon ISLAMABAD: Repeated floods have displaced around 40 million people in Pakistan, Climate Change Minister Musadik Malik said on Tuesday, describing how successive deluges were uprooting families from communities where they had lived for generations. Pakistan is highly vulnerable to extreme weather despite contributing less than one percent of global greenhouse gas emissions, with floods, droughts and heat waves increasingly threatening lives and livelihoods. The catastrophic 2022 floods alone affect",
+        "verified_figures": [
+          "40 million people in Pakistan",
+          "7,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Arab News PK",
+            "url": "https://www.arabnews.pk/pakistan/climate-minister-says-repeated-floods-have-displaced-40-million-people-in-pakistan-3001290"
+          }
+        ]
+      },
+      {
+        "headline": "UNICEF expands aid to millions of Afghan children after flash floods",
+        "score": 6.5,
+        "body": "Flash floods affected more than 1,100 families across 14 provinces of Afghanistan in July, damaging or destroying over 1,100 homes, according to UNICEF’s latest humanitarian situation report covering July 1–31. UNICEF said 1,168 families were affected by the floods, while 1,164 homes were damaged or destroyed. In Parun, the capital of Nuristan province, 23 people were killed in flooding, while water services for around 1,000 families were disrupted. Despite the ongoing humanitarian challenges, UNICEF said it continued supporting essential health services across the country through 2,393 static health facilities and 16 mobile facilities. The UN agency also responded to 245 disease outbreaks d",
+        "verified_figures": [
+          "23 people"
+        ],
+        "sources": [
+          {
+            "name": "ariananews.af",
+            "url": "https://www.ariananews.af/unicef-expands-aid-to-millions-of-afghan-children-after-flash-floods/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "FEMA to provide temporary housing assistance for some Indiana flooding victims",
+        "score": 6.5,
+        "body": "FEMA to provide temporary housing assistance for some Indiana flooding victims.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "WTHR",
+            "url": "https://www.wthr.com/article/weather/indiana-flooding/fema-to-provide-temporary-housing-assistance-for-some-indiana-flooding-victims-high-waters-financial-help/531-4d6266ad-cc12-46a8-9ab1-26ac1f66fea3"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal Lost Its Power Plants To Floods: How India's 654 MW Lifeline Will Keep The Lights...",
+        "score": 6.5,
+        "body": "Nepal Lost Its Power Plants To Floods: How India's 654 MW Lifeline Will Keep The Lights On The Indian Ministry of Power has approved the supply of power to Nepal from September 13 to December 31. India has stepped in with a major electricity lifeline for flood-ravaged Nepal, approving the export of up to 654 MW of power for 18 hours every day until December 31, after the catastrophic flood severely damaged the Himalayan country’s hydropower infrastructure and sharply reduced its ability to generate electricity domestically. The decision comes as Nepal continues to deal with the enormous human cost of the disaster. Over 1,385 people have been confirmed dead in Nepal, while 5,130 remained miss",
+        "verified_figures": [
+          "1,385 people"
+        ],
+        "sources": [
+          {
+            "name": "News18",
+            "url": "https://www.news18.com/amp/explainers/nepal-lost-its-power-plants-to-floods-how-indias-654-mw-lifeline-will-keep-the-lights-on-ws-l-10330113.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola epidemic expands as health agencies adapt tracking strategies",
+        "score": 8.5,
+        "body": "United Nations officials warned that the Ebola epidemic in the eastern Democratic Republic of the Congo remains massive and continues to grow in several areas, despite localized progress. According to UN and World Health Organization representatives, controlling the second most lethal Ebola outbreak on record will take months. To predict high-risk areas, health authorities are utilizing anonymized mobile phone data to monitor population movements, though telecom partnership constraints present challenges. Surveillance reporting indicates the outbreak has reached 7,200 confirmed cases and 3,475 deaths, with over 6,250 people affected since May.",
+        "verified_figures": [
+          "7,200 confirmed cases",
+          "3,475 deaths",
+          "More than 6,250 affected since May"
+        ],
+        "sources": [
+          {
+            "name": "CNBC Africa",
+            "url": "https://www.cnbcafrica.com/2026/un-says-ebola-epidemic-still-huge-and-growing"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ukraine",
+      "score": 7.5,
+      "trigger": "Intensified Russian missile and drone strikes against Ukraine's railway system and power infrastructure ahead of winter could halt critical civil logistics.",
+      "potential_impact": "A collapse of transit and utility services would cut off vulnerable civilian populations from essential supplies and accelerate widespread humanitarian distress.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes"
+        },
+        {
+          "name": "AFP",
+          "url": "https://www.afp.com/en/zelensky-says-ukraine-ready-de-escalatory-steps"
+        }
+      ]
+    },
+    {
+      "location": "Haiti (Kenscoff / West Department)",
+      "score": 7.5,
+      "trigger": "Further coordinated assaults by the Viv Ansanm gang alliance targeting rural communities south of Port-au-Prince could replicate recent mass-casualty raids.",
+      "potential_impact": "Expanded gang control would drive further mass displacement, destroy local agricultural supply chains, and exacerbate acute protection risks for civilians.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Florida Catholic Media",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDVUQllsZ2twNW5rTXJNUEpDTFFpaFBVSGZnLW5obmdBdUo0NkFMQ3NpdVIxY2hCSTBLRXB1TS1IVDRQQ3hWeTJiR2dMYmJhajBzdktpOGlHY0Rvemhka3FLd0hiOXNUX255cFEwRnUzWDNUQUhoZk1PWGdHb2gzSVI4OUFEZzJiNENZSWstZHU3R3FzdTlMTHdFUnNvZnFFcU1xeUh0X2ZZdFIxc1JSVVdDaTYwT19DR3Vrd2poOG5BV3ZWTVM3RU1kc3BCN1VwcXR3ZnRGdmRRbWNlNkloSzJCWVhrbklSalBfdzVB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "location": "Kenya",
+      "score": 6.0,
+      "trigger": "Cross-border disease importation from the expanding outbreak in the Democratic Republic of the Congo could lead to localized Ebola transmission.",
+      "potential_impact": "Secondary transmission in urban centers would severely strain national health systems already battling active outbreaks of mpox, dengue, and measles.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "radio47.fm",
+          "url": "https://www.radio47.fm/news/kenya-on-high-alert-for-ebola-as-mpox-dengue-and-measles-outbreaks-persist-39262/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "AFP",
+        "count": 2
+      },
+      {
+        "name": "Florida Catholic Media",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "radio47.fm",
+        "count": 2
+      },
+      {
+        "name": "Arab News PK",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "CNBC Africa",
+        "count": 1
+      },
+      {
+        "name": "Devdiscourse",
+        "count": 1
+      },
+      {
+        "name": "Finance Colombia",
+        "count": 1
+      },
+      {
+        "name": "IFEX",
+        "count": 1
+      },
+      {
+        "name": "News18",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "Volcano Discovery",
+        "count": 1
+      },
+      {
+        "name": "WTHR",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "antiwar.com",
+        "count": 1
+      },
+      {
+        "name": "ariananews.af",
+        "count": 1
+      },
+      {
+        "name": "news.cgtn.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "9 item(s) had no extractable figures in available reporting.",
+      "6 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 17/17 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 2/6 region(s) with candidate material generated via Gemini (LLM), 4 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1216,
+      "sources_cited": 20
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
