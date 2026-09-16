@@ -1,0 +1,421 @@
+{
+  "date": "2026-09-16",
+  "printed_time": "10:57 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An expanding Ebola epidemic in the Democratic Republic of the Congo has killed over 3,500 people across seven provinces as health agencies warn the outbreak has yet to reach its peak.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "An Israeli strike on a Gaza school sheltering displaced families killed six UNRWA staff members, bringing total agency fatalities since October 2023 to at least 220 amid rising overall casualties.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Back-to-back earthquakes of 7.1 and 7.5 magnitude struck Venezuela's Caribbean coast, collapsing buildings in Caracas and prompting emergency assessments across impacted communities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Renewed hostilities along Yemen's western coast ended a multi-year ceasefire and displaced up to 125,000 people, straining humanitarian operations and driving refugees across the Red Sea.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Drought, declining aid, and the influx of nearly three million returning citizens have exacerbated severe malnutrition among five million mothers and children in Afghanistan.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An ongoing Ebola epidemic in the Democratic Republic of the Congo has caused more than 3,500 deaths across seven provinces, as health authorities warn that transmission continues to expand to new geographic areas.",
+    "label": "AFRICA — Massive Ebola Outbreak Escalates in DRC"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Hostilities on western coast end ceasefire and displace over 100,000",
+        "score": 8.0,
+        "body": "Intensifying combat between Houthi rebels and Saudi-backed forces along Yemen's western coast and Taiz province has ended a ceasefire in place since 2022. UN humanitarian agencies report that between 100,000 and 125,000 people have been newly displaced since early September, with thousands crossing the Red Sea into Djibouti. Fleeing families in makeshift camps face severe shortages of shelter and basic necessities, while UN Emergency Relief Coordinator Tom Fletcher announced emergency funding to support relief operations hampered by access and infrastructure constraints.",
+        "verified_figures": [
+          "At least 125,000 people newly displaced across Yemen",
+          "More than 100,000 displaced along western coast",
+          "93,864 newly displaced according to IOM"
+        ],
+        "sources": [
+          {
+            "name": "africanews.com",
+            "url": "https://www.africanews.com/amp/2026/09/16/surge-in-yemen-violence-ends-ceasefire-and-drives-mass-displacement/"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Israeli school strike kills UN staff as Gaza casualties mount",
+        "score": 8.5,
+        "body": "An Israeli airstrike targeting a Gaza school sheltering displaced families killed six UNRWA staff members and multiple civilians, bringing the total number of agency personnel killed since October 2023 to at least 220. UN officials condemned the repeated disregard for humanitarian personnel and facilities. Separately, Palestinian health authorities reported that total casualties in Gaza have reached 73,789 killed and 174,798 injured, noting that rubble clearing and body recovery remain severely hampered by a lack of heavy machinery.",
+        "verified_figures": [
+          "6 UN staff killed in school strike",
+          "At least 220 UNRWA staff killed since October 2023",
+          "73,789 martyrs reported in Gaza",
+          "174,798 injured in Gaza"
+        ],
+        "sources": [
+          {
+            "name": "The European Sting",
+            "url": "https://europeansting.com/2026/09/15/six-un-staff-killed-in-gaza-school-strike-lebanon-violations-mount/"
+          }
+        ]
+      },
+      {
+        "headline": "Iran — UN panel calls for halt to hostilities following civilian casualties from US strikes",
+        "score": 7.0,
+        "body": "Independent UN human rights investigators called for an immediate cessation of hostilities following US airstrikes in Iran that resulted in civilian deaths. Sara Hossain, chair of the Independent Fact-Finding Mission on Iran, highlighted the severe human cost of the ongoing regional conflict involving the United States, Israel, and Iran. The mission noted that civilian fatalities have occurred regularly since US-Israeli attacks began in February, including an earlier strike on a school that killed over 160 children.",
+        "verified_figures": [
+          "Over 160 children killed in school strike"
+        ],
+        "sources": [
+          {
+            "name": "The European Sting",
+            "url": "https://europeansting.com/2026/09/15/civilians-bear-the-brunt-with-deadly-us-strikes-in-iran-and-thousands-displaced-in-yemen/"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Settler violence and military blockades impact West Bank school",
+        "score": 5.0,
+        "body": "Escalating attacks by Israeli settlers and military movement restrictions surrounding the West Bank village of Al Mughayyir have severely impacted local civilians and education. Over the past year, at least five pupils at the village boys' school have been killed by settlers and soldiers. Military road closures and checkpoints now restrict access to the village, frequently preventing teachers from neighboring communities from reaching their classes.",
+        "verified_figures": [
+          "At least 5 pupils killed in the last year"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/news/audio/2026/sep/16/palestinian-school-al-mughayyir-under-siege-podcast"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Twin earthquakes cause building collapses in Caracas and coastal areas",
+        "score": 8.5,
+        "body": "Two powerful back-to-back earthquakes struck Venezuela's Caribbean coast, collapsing buildings in Caracas and causing tremors felt in neighboring Trinidad and Tobago. According to the United States Geological Survey, a 7.1-magnitude earthquake occurred at a depth of 22 kilometers, located 168 kilometers west of Caracas near Morón. Just one minute later, a second 7.5-magnitude earthquake struck at a depth of 10 kilometers, centered 16 kilometers southwest of Morón. The severe shaking triggered structural collapses in the capital and prompted emergency assessments across affected areas.",
+        "verified_figures": [
+          "7.1-magnitude earthquake",
+          "7.5-magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "Trinidad Guardian",
+            "url": "https://www.guardian.co.tt/article/buildings-collapse-as-2-earthquakes-slam-venezuela-6.2.2613373.e1b2bd8da9"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Internal displacement approaches 1.5 million amid persistent insecurity",
+        "score": 8.0,
+        "body": "Internal displacement in Haiti has reached unprecedented levels, with 1,466,862 people currently displaced across the country according to the International Organization for Migration. Persistent gang violence, including recent disruptions in Kenscoff and Port-au-Prince, continues to drive new population movements, strain host communities, and severely impair children's access to education. IOM reports providing assistance to 93,878 individuals in health, housing, water, protection, and psychosocial support. Additionally, 28,104 Haitian migrants have been forcibly returned to the country amidst the ongoing crisis.",
+        "verified_figures": [
+          "1,466,862 internally displaced persons",
+          "93,878 people assisted by IOM",
+          "28,104 Haitian migrants forcibly returned"
+        ],
+        "sources": [
+          {
+            "name": "lenouvelliste.com",
+            "url": "https://lenouvelliste.com/en/article/271950/nearly-15-million-internally-displaced-persons-recorded-in-haiti-by-iom"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Ongoing seismic swarm impacts Chocó during earthquake recovery",
+        "score": 4.5,
+        "body": "Persistent seismic activity continues to shake the Chocó department in Colombia more than a month after a magnitude 7.4 earthquake hit the Pacific coast. The Servicio Geológico Colombiano reported an ongoing seismic swarm centered around the municipalities of Sipí and Istmina in the middle San Juan region. Geologists identified two distinct patterns of seismic activity rather than standard aftershocks. The continuous tremors complicate local recovery and oversight of reconstruction efforts in affected communities.",
+        "verified_figures": [
+          "7.4-magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "thecitypaperbogota.com",
+            "url": "https://thecitypaperbogota.com/news/choco-is-still-moving-more-than-a-month-after-colombias-7-4-earthquake/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Surpasses 3,500 Deaths",
+        "score": 9.5,
+        "body": "United Nations and World Health Organization officials warned that the ongoing Ebola outbreak in the Democratic Republic of the Congo remains a massive crisis that may not have passed its peak. Officials reported that the epidemic, caused by the Bundibugyo ebolavirus, has killed at least 3,510 people out of more than 7,258 confirmed cases across 62 health zones in seven provinces, including Ituri and conflict-affected North Kivu. While daily reported cases have declined in some areas from 120 in mid-August to roughly 80, transmission continues to expand into new geographic areas. UN representatives emphasized the urgent need for increased international funding, personnel deployments, and humanitarian support to contain the virus.",
+        "verified_figures": [
+          "At least 3,510 deaths",
+          "7,258 confirmed cases",
+          "62 health zones affected across seven provinces"
+        ],
+        "sources": [
+          {
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk/bulletin/news/ebola-dr-congo-outbreak-united-nations-b3050733.html"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian drone strike on passenger bus kills five in Dnipropetrovsk region",
+        "score": 7.0,
+        "body": "Five people were killed and at least seven others injured in a Russian drone attack on a passenger bus near Nikopol in southeastern Ukraine, according to the regional governor. The strike occurred near the front line in Dnipropetrovsk governorate. Emergency services responded to the scene following the strike on civilian transport.",
+        "verified_figures": [
+          "5 people killed",
+          "at least 7 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "http://www.france24.com/en/europe/20260916-russian-drone-attack-on-bus-kills-five-in-ukraine-s-southeast"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Kyiv proposes international agreement to halt strikes on energy and food infrastructure",
+        "score": 5.5,
+        "body": "Ukrainian officials have urged international partners to negotiate an agreement with Russia to halt attacks on critical infrastructure, including energy grids and food supply systems. Foreign Minister Dmytro Kuleba affirmed Kyiv's readiness for a targeted energy truce, while President Volodymyr Zelenskyy stated Ukraine would accept the arrangement only if Western allies guarantee that Moscow will not breach the agreement.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "112.ua",
+            "url": "https://112.ua/en/ukraina-zaproponuvala-miznarodnim-partneram-domovitis-pro-pripinenna-atak-na-kriticnu-infrastrukturu-185384"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Child injured after strike damages residential area in Sumy region",
+        "score": 4.5,
+        "body": "A Russian attack on a residential area in the northeastern Sumy region ignited fires in a residential building and an auxiliary structure. Ukrainian emergency personnel and firefighters deployed to control the flames and carry out rescue operations. Local authorities reported that a child was injured during the strike, highlighting ongoing risks to civilians near active conflict zones.",
+        "verified_figures": [
+          "1 child injured"
+        ],
+        "sources": [
+          {
+            "name": "sundayguardianlive.com",
+            "url": "https://sundayguardianlive.com/world/russia-ukraine-war-latest-news-child-injured-as-firefighters-battle-fires-after-russian-attack-in-sumy-rescue-operation-underway-check-latest-update-285549/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Escalating Malnutrition and Poverty Crisis",
+        "score": 8.0,
+        "body": "United Nations agencies warn of a worsening humanitarian crisis in Afghanistan driven by declining aid, persistent drought, and mass population returns. According to the World Food Programme, nearly five million mothers and children are suffering from severe malnutrition, with conditions approaching record levels. Simultaneously, a report by the United Nations Development Programme indicates that 28 million people were living in poverty in 2025. The influx of approximately 2.9 million returning Afghans during the year pushed an additional 1.4 million people into economic hardship, placing immense pressure on struggling aid operations.",
+        "verified_figures": [
+          "nearly 5 million mothers and children with severe malnutrition",
+          "28 million people in poverty in 2025",
+          "2.9 million Afghan returnees in 2025",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008717"
+          }
+        ]
+      },
+      {
+        "headline": "India — Ongoing Ethnic Strife in Manipur",
+        "score": 5.0,
+        "body": "Two women were killed near their home in Tamenglong district, Manipur, bringing the state's civilian death toll from recent ethnic violence to 10 over the past three weeks. The killings have triggered local shutdowns in the area. Ongoing conflict between the majority Meitei and minority Kuki communities, which has drawn in Naga groups, has resulted in over 250 fatalities since 2023. Disputes over land ownership and political representation continue to drive the unrest across the northeastern state.",
+        "verified_figures": [
+          "2 women killed",
+          "10 civilian casualties in the last three weeks",
+          "more than 250 lives claimed since 2023"
+        ],
+        "sources": [
+          {
+            "name": "Punch Newspapers",
+            "url": "https://punchng.com/two-killed-in-latest-attack-in-indias-restive-northeast/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Unexploded Ordnance Incident Kills Child",
+        "score": 3.0,
+        "body": "A 15-year-old boy was killed and two girls were injured when unexploded ordnance detonated in Khost province, southeastern Afghanistan. Local authorities stated the explosion occurred around midday in the Numarah-e Dawlati area of Ali Sher and Terezai district, leaving one of the injured children in serious condition. Unexploded landmines and munitions remaining from decades of armed conflict continue to pose a persistent threat to civilian populations across the country, particularly affecting children.",
+        "verified_figures": [
+          "1 15-year-old boy killed",
+          "2 girls injured"
+        ],
+        "sources": [
+          {
+            "name": "KabulNow",
+            "url": "https://kabulnow.com/2026/09/15-year-old-boy-killed-two-girls-injured-in-explosion-in-southeastern-afghanistan/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC / Regional — Ebola Outbreak Surpasses Previous Record as Transmission Continues",
+        "score": 9.0,
+        "body": "An ongoing Bundibugyo ebolavirus outbreak in the Democratic Republic of the Congo has become the largest in the country's history, with cases also reported in neighboring Uganda. As of 12 September, health authorities recorded 7,200 confirmed cases and 3,475 deaths in the DRC, with 923 patients hospitalised in isolation. The epidemic has spread across 60 health zones in six provinces. United Nations officials warned that while containment efforts have shown positive results in some areas, the overall crisis remains critical and has not yet reached its peak, requiring months of sustained intervention to control.",
+        "verified_figures": [
+          "7,200 confirmed cases in the DRC",
+          "3,475 deaths in the DRC",
+          "923 patients hospitalised in isolation"
+        ],
+        "sources": [
+          {
+            "name": "The South African",
+            "url": "https://www.thesouthafrican.com/travel/drc-ebola-outbreak-record-travel-2026/"
+          }
+        ]
+      },
+      {
+        "headline": "Global / Latin America — Murders of Land and Environmental Defenders Spike",
+        "score": 5.0,
+        "body": "At least 124 land and nature defenders were murdered in 2025, equivalent to one killing every three days, according to an annual report by Global Witness. Latin America accounted for 85 percent of all documented fatalities. Organised crime groups and professional killers were linked to more than a third of the homicides, driven by the overlap of drug trafficking, illegal logging, wildcat gold mining, and intrusions into indigenous territories. In response to persistent violence and death threats, several affected communities have established local self-defence units to safeguard their lands.",
+        "verified_figures": [
+          "124 land and nature defenders killed in 2025",
+          "85% of defender deaths occurred in Latin America"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Yemen (Western Coast and Taiz Governorate)",
+      "score": 7.5,
+      "trigger": "Further intensification of ground combat between Houthi rebels and Saudi-backed forces along the Red Sea coast could trigger wider clashes.",
+      "potential_impact": "Accelerated population displacement across the Red Sea and heightened humanitarian access restrictions for fleeing families.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "africanews.com",
+          "url": "https://www.africanews.com/amp/2026/09/16/surge-in-yemen-violence-ends-ceasefire-and-drives-mass-displacement/"
+        }
+      ]
+    },
+    {
+      "location": "Venezuela (Caracas and Coastal Regions)",
+      "score": 7.0,
+      "trigger": "Strong aftershocks following the 7.1 and 7.5 magnitude earthquakes could cause secondary collapses of compromised structures.",
+      "potential_impact": "Additional civilian casualties, increased urban displacement, and disruptions to essential urban emergency operations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Trinidad Guardian",
+          "url": "https://www.guardian.co.tt/article/buildings-collapse-as-2-earthquakes-slam-venezuela-6.2.2613373.e1b2bd8da9"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine (Dnipropetrovsk Front-line Area)",
+      "score": 6.5,
+      "trigger": "Continued targeting of civilian transport and infrastructure near Nikopol could lead to complete transit disruption.",
+      "potential_impact": "Heightened mortality among commuting civilians and severe restrictions on localized humanitarian relief distribution.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss"
+        },
+        {
+          "name": "France 24 English",
+          "url": "http://www.france24.com/en/europe/20260916-russian-drone-attack-on-bus-kills-five-in-ukraine-s-southeast"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "The European Sting",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "Trinidad Guardian",
+        "count": 2
+      },
+      {
+        "name": "africanews.com",
+        "count": 2
+      },
+      {
+        "name": "112.ua",
+        "count": 1
+      },
+      {
+        "name": "KabulNow",
+        "count": 1
+      },
+      {
+        "name": "Punch Newspapers",
+        "count": 1
+      },
+      {
+        "name": "The Independent",
+        "count": 1
+      },
+      {
+        "name": "The South African",
+        "count": 1
+      },
+      {
+        "name": "lenouvelliste.com",
+        "count": 1
+      },
+      {
+        "name": "sundayguardianlive.com",
+        "count": 1
+      },
+      {
+        "name": "thecitypaperbogota.com",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1242,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
