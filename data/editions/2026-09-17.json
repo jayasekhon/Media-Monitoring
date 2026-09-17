@@ -1,0 +1,377 @@
+{
+  "date": "2026-09-17",
+  "printed_time": "11:05 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An armed gang attack in Kenscoff, Haiti, killed at least 47 people, including five children, and resulted in the abduction of more than 50 individuals.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "The collapse of a war-damaged building housing displaced families in Gaza City killed at least 21 people and left dozens trapped beneath debris.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "A climate-linked glacial collapse and flash flooding across Nepal and Tibet killed more than 1,300 people, with over 5,000 remaining missing.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 4,
+      "text": "An ongoing Ebola outbreak in the Democratic Republic of the Congo continues spreading across remote conflict-affected zones, having claimed over 3,200 lives.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Escalating clashes and airstrikes along Yemen's western coast displaced more than 100,000 people and killed at least nine children.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An armed gang attack in Kenscoff, Haiti, resulted in at least 47 civilian deaths and the kidnapping of over 50 people, marking one of the country's largest mass abductions in recent years.",
+    "label": "AMERICAS — Mass Gang Attack and Abductions in Haiti"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — War-Damaged Gaza Building Collapse Kills at Least 21 Displaced Civilians",
+        "score": 8.5,
+        "body": "A war-damaged building housing approximately 100 displaced Palestinian families collapsed in Gaza City, killing at least 21 people in their sleep, including children. Gaza civil defence workers transported 25 injured individuals to hospitals while attempting to rescue dozens of people believed trapped beneath the debris. Search and rescue efforts remain severely constrained by a critical lack of heavy machinery, forcing emergency personnel to clear rubble by hand.",
+        "verified_figures": [
+          "at least 21 people killed",
+          "25 injured people taken to hospital",
+          "about 100 displaced Palestinian families housed in building"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/yemen-gaza-houthi-saudi-warplanes-september-16-2026-567498d0aa85a32e9c294759bd943501"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Clashes and Airstrikes Force Over 100,000 to Flee Western Coast",
+        "score": 8.0,
+        "body": "Escalating fighting along Yemen's western coast has forced more than 100,000 people from their homes, with thousands fleeing across the Bab al-Mandeb Strait to Djibouti. UNICEF reported that renewed hostilities over a two-week period killed at least nine children and displaced 57,000 children, severely disrupting access to basic healthcare and education. The United Nations announced emergency humanitarian funding allocations to support emergency response efforts.",
+        "verified_figures": [
+          "more than 100,000 people displaced",
+          "at least 9 children killed",
+          "57,000 children displaced"
+        ],
+        "sources": [
+          {
+            "name": "Awani International",
+            "url": "https://international.astroawani.com/global-news/over-100000-displaced-amid-escalating-clashes-along-yemens-western-coast-un"
+          }
+        ]
+      },
+      {
+        "headline": "Israel/USA — US Administration Plans $2.8 Billion Arms Package for Israel",
+        "score": 5.5,
+        "body": "The United States administration is reportedly preparing a $2.8 billion arms package for Israel containing 40,000 bombs. The proposed transfer includes the resumption of 2,000-pound bomb shipments, which had previously been paused over concerns regarding civilian casualties. The package comes as military strikes persist in Gaza, raising concerns among international observers regarding civilian protection and further regional escalation.",
+        "verified_figures": [
+          "$2.8 billion arms package",
+          "40,000 bombs"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/washington-set-to-approve-2-8-bn-arms-package-for-israel"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Attack Kills 47 and Leaves Over 50 Kidnapped near Port-au-Prince",
+        "score": 9.5,
+        "body": "Armed men launched a violent attack in Kenscoff, on the outskirts of Port-au-Prince, killing at least 47 people, including at least five children, according to United Nations confirmation. The assailants also abducted more than 50 individuals in one of the country's largest mass kidnappings in recent years. Following the raid, a gang leader issued social media threats to murder all hostages if police attempt rescue operations that harm his fighters. The UN Secretary-General condemned the attack amidst escalating violence in the capital region.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "at least 5 children killed",
+          "more than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — UN Report Details Severe Torture and Repression of Political Detainees",
+        "score": 7.5,
+        "body": "An independent UN Fact-Finding Mission reported that Venezuelan state institutions continue widespread repression and severe human rights violations against political detainees following the foreign military rendition of former President Nicolás Maduro. According to the report, detainees face torture and degrading treatment, including forced intubation, food deprivation, and prolonged confinement in sealed underground cisterns and subterranean pit cells at facilities such as the El Rodeo maximum security prison and the Fuerte Guaicaipuro military site.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The European Sting",
+            "url": "https://europeansting.com/2026/09/17/repression-continues-in-venezuela-in-the-face-of-appalling-human-rights-violations/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Assessment Shows Most Buildings Lack Modern Earthquake Resistance",
+        "score": 3.0,
+        "body": "Data from the Global Earthquake Model Foundation indicates that 74.9% of buildings in Colombia do not meet current earthquake-resistant design standards. The evaluation analyzed 9.84 million structures across the country, identifying widespread gaps in updated structural compliance despite Colombia possessing strict seismic legislation. Analysts note that while non-compliance does not mean structures will automatically collapse, it underlines significant structural vulnerability across urban areas in the event of major earthquakes.",
+        "verified_figures": [
+          "74.9% of buildings lack up-to-date earthquake resistance",
+          "9.84 million buildings analyzed"
+        ],
+        "sources": [
+          {
+            "name": "colombiaone.com",
+            "url": "https://colombiaone.com/2026/09/16/colombia-three-in-four-buildings-are-not-earthquake-resistant/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola outbreak response shows progress despite early detection delays",
+        "score": 8.0,
+        "body": "The World Health Organization and United Nations reported signs of progress in containing an Ebola outbreak in the Democratic Republic of the Congo, noting declining transmission rates in Ituri province. However, officials warned the epidemic remains deadly and widespread, with cases rising in newly affected areas. Genetic analysis and early reports suggest the virus circulated undetected from as early as February, prior to its official declaration in May. Response operations in remote, conflict-affected communities face obstacles from fragile health systems, high population movement, and reduced international funding following US aid cuts. UN leadership emphasized the need for urgent international support to sustain response efforts.",
+        "verified_figures": [
+          "Virus circulated undetected from as early as February",
+          "Outbreak officially declared on 15 May"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-response-making-progress-congo-outbreak-far-over-who-says-2026-09-16/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian drone and missile strikes cause civilian casualties",
+        "score": 7.0,
+        "body": "Russian drone and missile attacks across Ukraine have caused multiple civilian casualties. A Russian drone strike hit a passenger bus, killing five people and wounding at least seven others. In separate attacks, missile and drone strikes targeted the capital, Kyiv, as well as the Zaporizhzhia and Odesa regions, injuring at least 19 people.",
+        "verified_figures": [
+          "5 people killed",
+          "At least 7 people wounded",
+          "At least 19 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-drone-strike-passenger-bus-6c85022eda557416995d0c26a55fdda0"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russia withholds approval for civilian evacuation from Oleshky",
+        "score": 6.0,
+        "body": "Russian authorities have withheld approval for a civilian evacuation mission from Oleshky, Ukraine, despite critical humanitarian conditions in the area. The denial of authorization restricts humanitarian access and prevents vulnerable residents from being safely evacuated, exacerbating protection concerns for civilians remaining in the location.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "inkorr.com",
+            "url": "https://inkorr.com/en/amp/rosia-ne-pidtverdzue-gumanitarnu-misiu-z-evakuacii-civilnih-z-olesok-na-tli-kriticnoi-situacii-346998"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — UN Warns 13.8 Million Face Worsening Food Insecurity",
+        "score": 7.5,
+        "body": "UN Secretary-General António Guterres reported that humanitarian conditions in Afghanistan continue on a downward trajectory, warning that 13.8 million people face food insecurity. Key drivers intensifying the emergency include large-scale migrant returns, critical funding shortages, trade disruptions, and climate change impacts. Human rights violations, systematic restrictions on women and girls, and an exclusive political system further threaten national stability. The UN humanitarian response plan for 2026 requires $1.71 billion but is severely underfunded, receiving only 31.2 percent of necessary funding to date.",
+        "verified_figures": [
+          "13.8 million people expected to face food insecurity",
+          "31.2% of $1.71 billion humanitarian response plan funded"
+        ],
+        "sources": [
+          {
+            "name": "خبرگزاری اطلس",
+            "url": "https://atlaspress.news/en/2026/09/16/un-warns-13-8-million-afghanistan-food-insecurity-humanitarian-crisis/"
+          }
+        ]
+      },
+      {
+        "headline": "Malaysia / Myanmar — Prime Minister Offers Host Visit to Push Rohingya Repatriation",
+        "score": 4.5,
+        "body": "Malaysian Prime Minister Anwar Ibrahim has offered to host Myanmar’s military-appointed president, Min Aung Hlaing, for an official visit on the condition that Myanmar accepts the return of thousands of Rohingya refugees currently residing in Malaysia. The proposal aims to accelerate refugee repatriation. If accepted, Malaysia would become the fifth member state of the Association of Southeast Asian Nations to host the junta leader since he took office.",
+        "verified_figures": [
+          "thousands of Rohingya refugees in Malaysia"
+        ],
+        "sources": [
+          {
+            "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+            "url": "https://thediplomat.com/2026/09/malaysian-pm-offers-to-host-myanmars-president-in-refugee-repatriation-push/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Glacier Collapse and Secondary Flooding Destroy Infrastructure",
+        "score": 4.5,
+        "body": "A glacier collapse in the Nepal-Tibet Himalayan region triggered a cascade of landslides, avalanches, and river blockages that created temporary reservoirs. The eventual failure of these natural barriers released destructive flash floods downstream through narrow, densely populated Himalayan valleys. The floodwaters destroyed critical infrastructure, including roads, bridges, and hydropower facilities, underscoring severe local vulnerability to compounded geological hazards.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NatStrat",
+            "url": "https://www.natstrat.org/articledetail/publications/when-the-mountain-falls-the-river-remembers-warnings-for-india-from-the-nepal-floods-288.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of Congo — Ebola Outbreak Spreads Amid Health System Fragility",
+        "score": 8.0,
+        "body": "The Democratic Republic of Congo is battling a resurgence of Ebola in remote, conflict-affected communities, including Bunia, where health systems remain fragile. UN Special Ebola Coordinator Julien Harneis warned that the outbreak remains deadly and massive, noting that while some locations report progress, cases continue to rise in other areas. The World Health Organization is intensifying surveillance, testing, and containment efforts. Response operations face growing challenges due to funding uncertainties following US aid cuts, raising concerns over vaccine delivery and community trust in high-risk zones.",
+        "verified_figures": [
+          "3,267 Ebola deaths reported by WHO"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/ebola-outbreak-can-africa-hold-the-line-after-usaid-cuts/audio-77247442"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal and Tibet — Climate Study Links Glacial Collapse Floods to Global Heating",
+        "score": 8.0,
+        "body": "A study by World Weather Attribution has found that climate change likely destabilized the glacier whose collapse triggered catastrophic floods across Nepal and Tibet in August. The disaster resulted in more than 1,300 deaths, with over 5,000 people remaining missing. Researchers from Imperial College London and climate scientists globally concluded that global heat exacerbated the flood event. The findings highlight extreme humanitarian risks from climate-driven hazards in high-altitude regions where vulnerable populations face compounding environmental threats.",
+        "verified_figures": [
+          "More than 1,300 people killed",
+          "Over 5,000 remain missing"
+        ],
+        "sources": [
+          {
+            "name": "News9live",
+            "url": "https://www.news9live.com/world/first-major-study-post-disaster-says-climate-crisis-likely-worsened-nepal-tibet-floods-that-killed-1300-3008327"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Oleshky, Ukraine",
+      "score": 6.0,
+      "trigger": "Continued withholding of clearance by Russian forces for civilian humanitarian evacuation missions.",
+      "potential_impact": "Trapped populations could face deteriorating survival conditions, lack of emergency care, and heightened risk of direct civilian casualties.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "inkorr.com",
+          "url": "https://inkorr.com/en/amp/rosia-ne-pidtverdzue-gumanitarnu-misiu-z-evakuacii-civilnih-z-olesok-na-tli-kriticnoi-situacii-346998"
+        }
+      ]
+    },
+    {
+      "location": "Gaza, Occupied Palestinian Territory",
+      "score": 6.0,
+      "trigger": "The resumption of 2,000-pound bomb shipments under a proposed $2.8 billion United States arms transfer.",
+      "potential_impact": "Expanded use of high-yield munitions in densely populated urban zones risks significant additional civilian casualties and structural damage.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "DW.com",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "inkorr.com",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Awani International",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "NatStrat",
+        "count": 1
+      },
+      {
+        "name": "News9live",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "count": 1
+      },
+      {
+        "name": "The European Sting",
+        "count": 1
+      },
+      {
+        "name": "colombiaone.com",
+        "count": 1
+      },
+      {
+        "name": "خبرگزاری اطلس",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 2 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1292,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
