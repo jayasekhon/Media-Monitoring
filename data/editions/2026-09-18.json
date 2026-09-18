@@ -1,0 +1,509 @@
+{
+  "date": "2026-09-18",
+  "printed_time": "10:43 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An estimated 125,000 people, including more than 57,000 children, have fled since hostilities erupted in July between the Iran-backed Houthi rebels, the Yemeni government and its ally Saudi Arabia, with the UN calling it one of the most rapid and volatile waves of displacement in Yemen in years.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "As eastern DR Congo is battling Ebola, cholera is spreading fast.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "The deaths from the Ebola outbreak in the DRC approach 3,600 and the confirmed cases exceed 7,400.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Kinshasa, Geneva, 18 September 2026 - \"I have just returned from Bunia, the epicentre of the Democratic Republic of the Congo's 17th Ebola outbreak - and what is now the fastest-growing outbreak on record.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Sudan faces a growing risk of severe food insecurity and famine-like conditions in parts of Darfur and Kordofan as poor rainfall, war, displacement and rising prices squeeze access to food, according to a new early-warning report by conflict analyst and researcher Dr Adeeb Yousif.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "An estimated 125,000 people, including more than 57,000 children, have fled since hostilities erupted in July between the Iran-backed Houthi rebels, the Yemeni government and its ally Saudi Arabia, with the UN calling it one of the most rapid and volatile waves of displacement in Yemen in years.",
+    "label": "MIDDLE EAST — ‘We cried the whole way’: Refugees flee Yemen fighting"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Hostilities Drive Mass Displacement and Escalating Disease Risks",
+        "score": 8.0,
+        "body": "An estimated 125,000 people, including over 57,000 children, have been displaced in Yemen following escalated fighting since July between Houthi rebels, the Yemeni government, and Saudi Arabia. Rapid displacement has forced thousands to flee across the Bab el-Mandeb strait to Djibouti under extreme heat. Aid agencies and WHO warn that overcrowded conditions, combined with severe shortages of clean water and sanitation in Taiz, Lahj, and Aden, significantly heighten the risk of cholera, dengue fever, and malnutrition, while placing severe strain on a fragile healthcare system.",
+        "verified_figures": [
+          "125,000 people displaced",
+          "more than 57,000 children displaced"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260918-we-cried-the-whole-way-refugees-flee-yemen-fighting"
+          }
+        ]
+      },
+      {
+        "headline": "Iran — UN Mission Implicates US in Deadly Primary School Strike",
+        "score": 9.0,
+        "body": "A UN fact-finding mission reported reasonable grounds to believe the United States conducted a February military strike on a primary school and sports facility in Minab, Hormozgan province, Iran. The attack, involving a Tomahawk missile that collapsed the roof of the clearly identifiable Shajareh Tayyebeh primary school, killed 156 civilians, including 120 children. The UN mission concluded that the strike constitutes a war crime.",
+        "verified_figures": [
+          "156 civilians killed",
+          "120 children killed"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza Strip — Damaged Building Collapse Kills 21 Civilians",
+        "score": 7.0,
+        "body": "A building collapse in the Gaza Strip killed 21 people who were sheltering inside, highlighting severe safety risks driven by acute housing shortages. The structure had been heavily damaged three years prior by an Israeli airstrike. The lack of viable shelter options across Gaza has forced displaced families to reside in structurally unstable and compromised buildings, posing severe protection hazards to civilians.",
+        "verified_figures": [
+          "21 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/18/families-gaza-lived-damaged-building-it-collapsed-killing-21/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Moderate magnitude 4.2 earthquake strikes near Cranbrook, Regional District of East Koo...",
+        "score": 8.0,
+        "body": "Moderate magnitude 4.2 earthquake strikes near Cranbrook, Regional District of East Kootenay, British Columbia, Canada.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/news/357046/Moderate-magnitude-42-earthquake-strikes-near-Cranbrook-Regional-District-of-East-Kootenay-British-C.html"
+          }
+        ]
+      },
+      {
+        "headline": "New human rights report unveils details and blames police for recent massacre in Haiti",
+        "score": 7.5,
+        "body": "New human rights report unveils details, blames police for recent massacre in Haiti A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs in the Caribbean country SAN JUAN, Puerto Rico -- A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs. The National Human Rights Defense Network said its report is backed by interviews with judges, police officials, armed civilians, the f",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "abcnews.com",
+            "url": "https://abcnews.com/International/wireStory/new-human-rights-report-unveils-details-blames-police-136543889"
+          }
+        ]
+      },
+      {
+        "headline": "Sexual and gender-based violence as a tool of criminal governance in Haiti",
+        "score": 7.0,
+        "body": "Posted on 18 Sep 2026 Women and girls are on the front line of Haiti’s security crisis. Across gang-controlled areas, the threat of rape, sexual exploitation and abuse by armed groups has become an everyday reality, making sexual and gender-based violence one of the most devastating consequences of the conflict. The erosion of state authority in Haiti has led to unprecedented levels of violence. Between 2024 and 2025, over 11 000 people were killed and more than 4 900 injured in gang conflicts. By May 2026, more than 1.4 million people had been displaced, representing 11% of the country’s population, with children making up over half of the total. But these figures obscure the alarming level",
+        "verified_figures": [
+          "1.4 million people had been",
+          "000 people",
+          "900 injured"
+        ],
+        "sources": [
+          {
+            "name": "Global Initiative against Transnational Organized Crime (GI-TOC)",
+            "url": "https://globalinitiative.net/analysis/sexual-and-gender-based-violence-as-a-tool-of-criminal-governance-in-haiti/"
+          }
+        ]
+      },
+      {
+        "headline": "Over a quarter of a million children facing acute malnutrition in Haiti amid ongoing vi...",
+        "score": 6.5,
+        "body": "Over a quarter of a million children facing acute malnutrition in Haiti amid ongoing violence.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Unicef",
+            "url": "https://www.unicef.org/haiti/en/press-releases/over-quarter-million-children-facing-acute-malnutrition-haiti-amid-ongoing-violence"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Cholera taking toll in eastern DR Congo amid Ebola outbreak",
+        "score": 10.0,
+        "body": "As eastern DR Congo is battling Ebola, cholera is spreading fast. More than 39,400 suspected cholera cases and 1,173 deaths were recorded in the first eight months of the year, further straining the already stretched medical system. #DRC #Cholera #Ebola",
+        "verified_figures": [
+          "1,173 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20260917/e8a46dfd88bd47398d79c9678d6c7231/c.html"
+          }
+        ]
+      },
+      {
+        "headline": "The deaths from the Ebola outbreak in the DRC approach 3,600 and the confirmed cases ex...",
+        "score": 10.0,
+        "body": "The deaths from the Ebola outbreak in the DRC approach 3,600 and the confirmed cases exceed 7,400.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "democrata.es",
+            "url": "https://www.democrata.es/en/international/the-deaths-from-the-ebola-outbreak-in-the-drc-approach-3-600-and-the-confirmed-cases-exceed-7-400/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Care Work Drives Deaths in Record Ebola Outbreak",
+        "score": 10.0,
+        "body": "Kinshasa, Geneva, 18 September 2026 - \"I have just returned from Bunia, the epicentre of the Democratic Republic of the Congo's 17th Ebola outbreak - and what is now the fastest-growing outbreak on record. What I saw there was a bleak picture of what this outbreak does to women and girls. Women are on the front line - in health centres, in homes and in their communities. And they are paying the price, sometimes with their lives. Women and girls caring for the sick - young and old - as health workers in health centres, and as carers at home. Women and girls washing and burying the dead. Women and girls collecting water and food.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Mirage News",
+            "url": "https://www.miragenews.com/care-work-drives-deaths-in-record-ebola-outbreak-1746934/"
+          }
+        ]
+      },
+      {
+        "headline": "Urgent report underlines Sudan famine risk as food insecurity worsens - Dabanga Radio T...",
+        "score": 10.0,
+        "body": "Sudan faces a growing risk of severe food insecurity and famine-like conditions in parts of Darfur and Kordofan as poor rainfall, war, displacement and rising prices squeeze access to food, according to a new early-warning report by conflict analyst and researcher Dr Adeeb Yousif. The report warns that the situation is deteriorating particularly sharply in areas including El Malha in North Darfur, Jebel Marra, Buram in South Darfur and Tawila in North Darfur. It says declining agricultural production, livestock losses, disrupted markets and restricted humanitarian access are leaving vulnerable communities increasingly unable to meet their basic needs. Yousif stresses that authorities and hum",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "dabangasudan.org",
+            "url": "https://www.dabangasudan.org/en/all-news/article/urgent-report-underlines-sudan-famine-risk-as-food-insecurity-worsens"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Live: At least five injured in Russian drone strikes in Kyiv region",
+        "score": 9.0,
+        "body": "At least five people were injured on Friday after Russian drone strikes struck the Kyiv region, including three children, local officials said. The attack came as polling stations in Russia opened for the country's first parliamentary election since the start of the war in Ukraine. Follow our liveblog for all the latest updates.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260918-live-voting-begins-in-russia-s-parliamentary-elections"
+          }
+        ]
+      },
+      {
+        "headline": "Russian missile and drone attacks injure at least 19, including children, in Ukraine",
+        "score": 7.5,
+        "body": "Russian missile and drone attacks injure at least 19, including children, in Ukraine.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-608408f47bcc9cce30b93f764d18b96b"
+          }
+        ]
+      },
+      {
+        "headline": "2026 Atlantic Hurricane Season Sets Record for Longest Wait for First Storm | Ukraine n...",
+        "score": 6.5,
+        "body": "2026 Atlantic Hurricane Season Sets Record for Longest Wait for First Storm | Ukraine news - #Mezha.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Межа. Новини України.",
+            "url": "https://mezha.net/eng/news/2f26b531_2026_atlantic_hurricane/"
+          }
+        ]
+      },
+      {
+        "headline": "US Delegation Secures Release of American Detained in Myanmar After 97 Days | Ukraine n...",
+        "score": 6.0,
+        "body": "US Delegation Secures Release of American Detained in Myanmar After 97 Days | Ukraine news - #Mezha.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Межа. Новини України.",
+            "url": "https://mezha.net/eng/news/54cc895c_us_delegation_secures/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Bangladesh vaccinates against cholera to stop future outbreaks",
+        "score": 9.0,
+        "body": "Bangladesh vaccinates against cholera to stop future outbreaks Bangladesh bears one of the highest cholera burdens in the world, but a new vaccination strategy is putting its public health system on the front foot. - 17 September 2026 - 5 min read - by Mohammad Al Amin At a glance - In a milestone moment for cholera management, Bangladesh is rolling out more than 5 million doses of oral cholera vaccine as part of a data-driven, anticipatory strategy. - Most of the tens of millions of doses shipped each year are used reactively, to fight ongoing outbreaks. This year, improved global supply has for the first time in years freed up enough doses for planned preventive campaigns, allowing some en",
+        "verified_figures": [
+          "5 million doses of oral"
+        ],
+        "sources": [
+          {
+            "name": "Gavi, the Vaccine Alliance",
+            "url": "https://www.gavi.org/vaccineswork/bangladesh-vaccinates-against-cholera-bid-head-approaching-outbreaks"
+          }
+        ]
+      },
+      {
+        "headline": "Airstrike Kills Three Family Members in Western Myanmar's Sagaing Region",
+        "score": 8.0,
+        "body": "A Myanmar military regime airstrike killed three family members and injured four others in Sagaing Region’s Pale Township on Sept. 15, despite no active ground fighting in the area, according to residents and monitoring groups. Two junta gyrocopters deployed from the Northwestern Military Command dropped bombs twice on Kan Bauk (East) village, located about five miles from Pale town, at around noon. The victims—a mother, her son, and her daughter-in-law—were killed during one of the two bombing runs. Local sources confirmed that all three were cremated Wednesday evening. Junta troops remain stationed at the police station and administrative offices in Pale town and in surrounding villages. T",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Burma News International",
+            "url": "https://www.bnionline.net/en/news/airstrike-kills-three-family-members-western-myanmars-sagaing-region"
+          }
+        ]
+      },
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "ASIA/MYANMAR - Bishop Bernardino Ne Ne: “We listen to the people and stand alongside th...",
+        "score": 7.0,
+        "body": "Columban Mission Myanmar Taungngu (Fides News Agency) – “We are experiencing widespread displacement, but pastoral ministry continues despite the difficulties. Priests remain in the parishes and care for families; they listen to them and offer comfort.” This is the testimony given to Fides by Bishop Bernardino Ne Ne, Coadjutor Bishop of Taungngu, in central-southern Myanmar, as the country continues to face a severe crisis marked by conflict, displacement and the collapse of social and economic conditions. Taungngu is located in the Bago Region, in a strategic area of Myanmar linking the central parts of the country with the predominantly Karen eastern regions, where conflict between the Mya",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Agenzia Fides",
+            "url": "https://www.fides.org/en/news/78171-ASIA_MYANMAR_Bishop_Bernardino_Ne_Ne_We_listen_to_the_people_and_stand_alongside_the_displaced_Peace_is_imperative"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Ebola Outbreak Kills Over 3,500 Across Seven Provinces",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo is facing its 17th Ebola outbreak, originating in Ituri province and expanding across seven northern and eastern provinces. More than 3,500 deaths have been recorded among over 7,200 cases. Despite a recent plateau in case numbers, the Africa Centres for Disease Control and Prevention and Médecins Sans Frontières warned the outbreak remains out of control, with cases spreading into underprepared areas lacking basic response measures. Women and girls face disproportionate exposure and mortality due to their roles as primary caregivers in households and healthcare facilities, as well as during burial preparations.",
+        "verified_figures": [
+          "Over 3,500 deaths",
+          "More than 7,200 cases",
+          "7 northern and eastern provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Courthouse News",
+            "url": "https://www.courthousenews.com/africa-cdc-warns-ebola-outbreak-not-under-control/"
+          }
+        ]
+      },
+      {
+        "headline": "Spain — Severe Flooding Causes Fatality and Disruption in East",
+        "score": 4.0,
+        "body": "Slow-moving thunderstorms brought torrential rainfall, strong winds, and hail across eastern Spain, triggering severe flooding in Barcelona and Valencia. At least one person died during the storms. Weather stations west of Barcelona recorded over 100mm of rain in a few hours, including 70mm within 30 minutes in localized areas. The floodwaters submerged roads and vehicles and led to widespread flight cancellations.",
+        "verified_figures": [
+          "At least 1 person dead",
+          "Over 100mm of rain recorded west of Barcelona",
+          "70mm of rain in 30 minutes"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
+          }
+        ]
+      },
+      {
+        "headline": "South Africa — Rapid Increase in Mpox Infections Concentrated in Western Cape",
+        "score": 3.0,
+        "body": "South Africa's Department of Health reported a rapid rise in laboratory-confirmed mpox cases, reaching 18 confirmed infections and one probable case nationwide. The outbreak is concentrated primarily in Cape Town and the surrounding Western Cape province, which accounts for 15 of the confirmed cases. With support from the World Health Organization, health authorities secured limited supplies of the antiviral treatment Tecovirimat and called on the public to remain vigilant for symptoms.",
+        "verified_figures": [
+          "18 confirmed mpox cases",
+          "1 probable mpox case",
+          "15 cases in Western Cape"
+        ],
+        "sources": [
+          {
+            "name": "The Citizen",
+            "url": "https://www.citizen.co.za/news/mpox-outbreak-worsens-in-south-africa-what-you-need-to-know-about-symptoms-and-spread/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Weather tracker: Thunderstorms hit Spain as Japan braces for",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
+        }
+      ]
+    },
+    {
+      "location": "Africa CDC warns Ebola outbreak not 'under control'",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Courthouse News",
+          "url": "https://www.courthousenews.com/africa-cdc-warns-ebola-outbreak-not-under-control/"
+        }
+      ]
+    },
+    {
+      "location": "The race to contain the Ebola outbreak is far from over",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "NZDoctor",
+          "url": "https://www.nzdoctor.co.nz/article/undoctored/race-contain-ebola-outbreak-far-over"
+        }
+      ]
+    },
+    {
+      "location": "Yemen: Growing fears of cholera outbreak as fleeing civilian",
+      "score": 9.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Islamic Relief Worldwide",
+          "url": "https://islamic-relief.org/news/yemen-growing-fears-of-cholera-outbreak-as-fleeing-civilians-face-appalling-conditions/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post",
+      "Xinhua English World",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Courthouse News",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Межа. Новини України.",
+        "count": 2
+      },
+      {
+        "name": "Agenzia Fides",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Burma News International",
+        "count": 1
+      },
+      {
+        "name": "Gavi, the Vaccine Alliance",
+        "count": 1
+      },
+      {
+        "name": "Global Initiative against Transnational Organized Crime (GI-TOC)",
+        "count": 1
+      },
+      {
+        "name": "Islamic Relief Worldwide",
+        "count": 1
+      },
+      {
+        "name": "Mirage News",
+        "count": 1
+      },
+      {
+        "name": "NZDoctor",
+        "count": 1
+      },
+      {
+        "name": "The Citizen",
+        "count": 1
+      },
+      {
+        "name": "Unicef",
+        "count": 1
+      },
+      {
+        "name": "Volcano Discovery",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "Xinhua",
+        "count": 1
+      },
+      {
+        "name": "abcnews.com",
+        "count": 1
+      },
+      {
+        "name": "dabangasudan.org",
+        "count": 1
+      },
+      {
+        "name": "democrata.es",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "12 item(s) had no extractable figures in available reporting.",
+      "6 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 18/18 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 2/6 region(s) with candidate material generated via Gemini (LLM), 4 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1225,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
