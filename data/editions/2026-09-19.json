@@ -1,0 +1,405 @@
+{
+  "date": "2026-09-19",
+  "printed_time": "10:25 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A catastrophic flood caused by a glacier collapse in Nepal has killed over 1,500 people and left 6,150 missing, driving emergency interventions to prevent disease outbreaks among 32,000 displaced residents.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "The Ebola epidemic in the Democratic Republic of the Congo has claimed over 3,600 lives and spread into new underprepared regions despite signs of slowing in select areas.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "Building collapses and airstrikes in Gaza City killed at least 21 people and wounded several others as severe protection risks persist across the territory.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Gang attacks in Kenscoff, Haiti, left at least 164 people dead, 23 injured, and 71 abducted amid extreme violence and police failure to protect local communities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "A vehicle suicide bombing and shooting at a police compound mosque in Kohat, Pakistan, killed at least 31 people and injured more than 100 during Friday prayers.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A glacier collapse in Nepal triggered devastating flooding that killed more than 1,500 people, left thousands missing, and displaced tens of thousands while raising severe risks of secondary disease outbreaks.",
+    "label": "GLOBAL / CROSS-CUTTING — Nepal Glacial Flood"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza Strip — Structural Collapse and Strikes Cause Mass Casualties",
+        "score": 9.0,
+        "body": "At least 21 people were killed, including a mother and brother, when a building collapsed in Gaza City, leaving a six-year-old boy as a survivor rescued from the rubble. Separately, the Israeli military confirmed airstrikes in Gaza City that killed a senior Al-Qassam Brigades Nukhba commander and a Hamas naval officer. In central Gaza, an Israeli drone strike injured three people at the Bureij refugee camp.",
+        "verified_figures": [
+          "At least 21 people killed in Gaza City building collapse",
+          "3 people injured in Bureij camp drone strike"
+        ],
+        "sources": [
+          {
+            "name": "facebook.com",
+            "url": "https://www.facebook.com/nytimes/videos/a-building-collapse-destroyed-a-family-in-gaza-this-boy-survived/1088826640277753/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Intensified Hostilities Displace Over 112,000 People",
+        "score": 7.5,
+        "body": "Renewed fighting and expanded territorial control by Houthi forces along Yemen's Red Sea coast have resulted in severe civilian displacement. More than 112,000 people have been internally displaced during the latest escalation, while nearly 3,000 individuals have crossed the sea to Djibouti. Houthi officials reported that Saudi Arabia conducted 26 airstrikes against Houthi-controlled targets within a 24-hour period, part of roughly 300 attacks reported over the past week.",
+        "verified_figures": [
+          "More than 112,000 people internally displaced",
+          "Nearly 3,000 people fled to Djibouti",
+          "26 airstrikes reported in 24 hours"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-houthis-say-saudi-arabia-launches-26-strikes-in-yemen-in-24-hours-300-attacks-reported-in-a-week-check-red-sea-bab-el-mandeb-latest-update-287778/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Shelling and Troop Movements Reported in South",
+        "score": 5.0,
+        "body": "Israeli artillery shelling injured two people in Chaqra, located in the Bint Jbeil district of southern Lebanon's Nabatieh governorate, with both casualties transported to Tebnin hospital. The strikes coincided with Israeli military advances toward border towns, where troops clashed with Lebanese soldiers. Shelling was also reported in Wadi Nahla on the outskirts of southern border areas.",
+        "verified_figures": [
+          "2 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Injuries and Detentions in West Bank",
+        "score": 4.0,
+        "body": "Six Palestinians were injured and several farmers were detained during attacks across the occupied West Bank. The incidents reflect ongoing protection risks faced by Palestinian agricultural workers and local communities across the territory.",
+        "verified_figures": [
+          "6 Palestinians injured"
+        ],
+        "sources": [
+          {
+            "name": "Middle East Monitor",
+            "url": "https://www.middleeastmonitor.com/20260918-6-palestinians-injured-farmers-detained-in-israeli-occupier-attacks-across-west-bank/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang massacres in Kenscoff leave over 160 dead",
+        "score": 8.5,
+        "body": "A report by Haiti's National Human Rights Defense Network reveals that brutal gang attacks in the farming community of Kenscoff, near Port-au-Prince, killed at least 164 people and injured 23 others during July and August. The violence involved the kidnapping of 71 people, including women and children who were sexually assaulted, while dozens of homes and vehicles were torched. The report underscores severe security gaps and police failure to protect residents from expanding gang operations in previously calm regions.",
+        "verified_figures": [
+          "164 people killed",
+          "23 people injured",
+          "71 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "Jamaica Gleaner",
+            "url": "https://jamaica-gleaner.com/article/world-news/20260918/new-human-rights-report-unveils-details-and-blames-police-recent"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Over 250,000 young children face acute malnutrition",
+        "score": 7.5,
+        "body": "A UN-backed assessment published by Haiti’s Ministry of Public Health and Population projects that 253,725 children aged 6 to 59 months will suffer from acute malnutrition between June 2026 and May 2027 due to escalating violence. The total includes 93,873 children expected to experience life-threatening severe acute malnutrition requiring urgent care, and 159,852 suffering from moderate acute malnutrition. An estimated 25,750 pregnant and breastfeeding women will also require critical nutritional intervention.",
+        "verified_figures": [
+          "253,725 children projected to suffer acute malnutrition",
+          "93,873 children facing severe acute malnutrition",
+          "25,750 pregnant and breastfeeding women needing nutritional support"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/09/1168366"
+          }
+        ]
+      },
+      {
+        "headline": "Peru/Ecuador — Moderate earthquake recorded in border region",
+        "score": 2.0,
+        "body": "A preliminary magnitude 5.5 earthquake struck the Peru-Ecuador border area at a depth of approximately 101 kilometers on Saturday morning. Although the depth of the tremor meant shaking was likely felt over a wide geographic zone, no immediate casualties or structural damage were reported. Seismic monitoring agencies are reviewing preliminary data to confirm exact measurements.",
+        "verified_figures": [
+          "5.5 magnitude earthquake",
+          "101 kilometers depth"
+        ],
+        "sources": [
+          {
+            "name": "cedarnews.net",
+            "url": "https://cedarnews.net/newstasks/994936/earthquake-m5-5-strikes-peru-ecuador-border/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Rapidly Spreading Ebola Outbreak Reaches New Regions",
+        "score": 8.5,
+        "body": "Health responders and medical experts warn that the Ebola outbreak in the Democratic Republic of the Congo is moving into new, underprepared areas, contradicting government reports of slowing transmission. Officially declared in mid-May, genetic analysis indicates the virus may have circulated undetected in Ituri province since February. Responders describe it as the largest outbreak in national history and the fastest-spreading on record. Women and girls in Bunia are facing heightened risks due to caregiving roles and burial practices. Humanitarian organizations, including MSF with around 1,700 staff in the country, are expanding care facilities and isolation units, while UN OCHA provides rapid response funding.",
+        "verified_figures": [
+          "1,700 MSF staff in DRC"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/ebola-outbreak-reaches-new-areas-in-democratic-republic-of-congo"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian airstrike damages apartment building in Sumy",
+        "score": 7.0,
+        "body": "At least two people were killed and seven others were injured after a Russian aerial bomb struck a residential apartment building in the eastern Ukrainian city of Sumy late Friday, according to Ukrainian President Volodymyr Zelensky and local officials. Sumy has faced repeated bombardment as Russian forces seek to establish a buffer zone in the border region. The strike highlights continuing protection risks for civilians in eastern Ukraine, where aerial attacks continue to destroy residential infrastructure and cause civilian casualties.",
+        "verified_figures": [
+          "at least 2 killed",
+          "7 injured"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260919-ukraine-live-russian-strike-on-apartment-building-in-ukraine-s-sumy-kills-at-least-two"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Pakistan — Dozens killed in vehicle bombing and shooting at police compound mosque",
+        "score": 8.0,
+        "body": "A suicide bombing and gun attack targeted a mosque inside the Old Police Lines complex in Kohat, Khyber Pakhtunkhwa province, during Friday prayers. Attackers drove an explosives-laden vehicle into the compound before opening fire, killing at least 31 people and injuring more than 100 others. Local police reported that at least 16 police officers and a four-year-old child were among those killed in the assault.",
+        "verified_figures": [
+          "At least 31 killed",
+          "More than 100 injured",
+          "At least 16 police officers killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/death-toll-31-pakistan-police-compound-attack-afp-reports-2026-09-19/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Philippines — High school shooting in South Cotabato leaves three dead",
+        "score": 4.5,
+        "body": "A shooting at a high school in South Cotabato resulted in three fatalities, including two students and the gunman, while eight other people were injured. The event marks the third school shooting recorded in the Philippines since June, raising severe protection concerns for educational institutions.",
+        "verified_figures": [
+          "3 killed",
+          "8 injured"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/philippines-school-shooting-south-cotabato-0fb2a2443f64829985e0aab1368d2ee8"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar / Bangladesh — Persistent conflict drives internal displacement and blocks Rohingya return",
+        "score": 6.5,
+        "body": "More than one million Rohingya refugees remain in Cox's Bazar, Bangladesh, nine years after over 700,000 fled violence in Myanmar. United Nations experts warn that repatriation remains unsafe due to deepening humanitarian crises, airstrikes, and economic hardship in Myanmar. Internally, persistent conflict between military forces and People's Defense Forces continues to drive widespread displacement across regions including Magway and Taungngu.",
+        "verified_figures": [
+          "More than 1 million Rohingya refugees in Cox's Bazar",
+          "700,000 Rohingya fled Myanmar nine years ago"
+        ],
+        "sources": [
+          {
+            "name": "sbs.com.au",
+            "url": "https://www.sbs.com.au/news/podcast-episode/nine-years-without-a-home-are-rohingya-refugees-ready-to-go-back-to-war-torn-myanmar/itforbwhl"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of Congo — Ebola Outbreak",
+        "score": 9.0,
+        "body": "The Democratic Republic of Congo continues to battle a major Ebola outbreak, with over 3,600 deaths and nearly 7,500 recorded infections across seven northern and eastern provinces. The epidemic, caused by the Bundibugyo Ebola species, remains active in conflict-affected areas. While the World Health Organization reported signs of declining transmission in parts of Ituri province, Doctors Without Borders warned the virus is expanding into new regions. Additionally, the Africa Centres for Disease Control and Prevention cautioned that the outbreak is far from under control despite a recent plateau in case numbers.",
+        "verified_figures": [
+          "more than 3,600 deaths",
+          "over 7,200 recorded infections",
+          "7 northern and eastern provinces"
+        ],
+        "sources": [
+          {
+            "name": "TRT Afrika",
+            "url": "https://www.trtafrika.com:443/english/article/30fb9ad1e2f0?utm_source=f76d084d04e7&utm_medium=internal&utm_campaign=recommended&utm_content=inline"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Glacial Flood and Disease Risk",
+        "score": 9.0,
+        "body": "A catastrophic flood triggered by a glacier collapse in Nepal has killed more than 1,500 people, with 6,150 others remaining unaccounted for. An estimated 32,000 people have been displaced, and over 80,000 individuals require urgent humanitarian assistance. Search-and-rescue operations continue alongside public health interventions aimed at preventing infectious disease outbreaks in affected areas. Health authorities and aid organizations are conducting vaccination campaigns and disease-control measures to protect displaced populations.",
+        "verified_figures": [
+          "more than 1,500 people killed",
+          "6,150 people still unaccounted for",
+          "32,000 people displaced",
+          "more than 80,000 in need of aid"
+        ],
+        "sources": [
+          {
+            "name": "Gavi, the Vaccine Alliance",
+            "url": "https://www.gavi.org/vaccineswork/after-flood-nepal-braces-against-disease-outbreaks"
+          }
+        ]
+      },
+      {
+        "headline": "Vietnam — Severe Flooding",
+        "score": 4.5,
+        "body": "Severe flooding in Vietnam has inundated more than 16,000 homes and caused at least four fatalities. Heavy floodwaters have impacted residential infrastructure and heightened displacement risks across affected communities, prompting local authorities to initiate emergency response and damage assessment operations.",
+        "verified_figures": [
+          "at least 4 killed",
+          "more than 16,000 homes inundated"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/vietnam-floods-deaths-9e3f3d0af82b62c50b475c88bce3be79"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Red Sea Coast, Yemen",
+      "score": 7.5,
+      "trigger": "Continued Houthi offensive movements and reported coalition airstrikes over the next 72 hours could spark deeper frontline clashes.",
+      "potential_impact": "Further combat risks driving additional displacement beyond the 112,000 already displaced and expanding cross-border displacement into Djibouti.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Sunday Guardian",
+          "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-houthis-say-saudi-arabia-launches-26-strikes-in-yemen-in-24-hours-300-attacks-reported-in-a-week-check-red-sea-bab-el-mandeb-latest-update-287778/amp/"
+        }
+      ]
+    },
+    {
+      "location": "Sumy Oblast, Ukraine",
+      "score": 7.0,
+      "trigger": "Intensified Russian aerial bombardment aimed at establishing a border buffer zone could increasingly hit high-density residential sites.",
+      "potential_impact": "Sustained aerial attacks threaten further destruction of housing infrastructure and increased civilian casualties in border cities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/europe/20260919-ukraine-live-russian-strike-on-apartment-building-in-ukraine-s-sumy-kills-at-least-two"
+        }
+      ]
+    },
+    {
+      "location": "Southern Lebanon border area",
+      "score": 5.0,
+      "trigger": "Further advances by Israeli forces into border settlements could trigger expanded ground combat with local security forces.",
+      "potential_impact": "Expanded ground clashes would increase civilian protection risks and force additional evacuations from Nabatieh governorate.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "The Sunday Guardian",
+        "count": 2
+      },
+      {
+        "name": "Gavi, the Vaccine Alliance",
+        "count": 1
+      },
+      {
+        "name": "Jamaica Gleaner",
+        "count": 1
+      },
+      {
+        "name": "Middle East Monitor",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "TRT Afrika",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "cedarnews.net",
+        "count": 1
+      },
+      {
+        "name": "facebook.com",
+        "count": 1
+      },
+      {
+        "name": "sbs.com.au",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1111,
+      "sources_cited": 14
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
