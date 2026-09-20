@@ -1,0 +1,437 @@
+{
+  "date": "2026-09-20",
+  "printed_time": "10:45 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An expanding Ebola outbreak in the Democratic Republic of the Congo has caused over 3,600 deaths among more than 7,500 confirmed cases, with health authorities warning the epidemic remains uncontrolled across seven provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Twin earthquakes in north-central Venezuela have killed more than 160 people and injured nearly 1,000, prompting emergency search and rescue operations supported by international teams.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Widespread military strikes between the United States, Israel, and Iran have entered their eighth day following the death of top Iranian leadership, significantly increasing regional instability.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Internal displacement in Myanmar has escalated to nearly 3.8 million people, leaving an estimated 16.2 million individuals in urgent need of humanitarian aid.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Renewed fighting and Houthi offensives in Yemen have displaced more than 112,000 people over two weeks and caused thousands to cross the Red Sea into neighboring Djibouti.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An expanding Ebola outbreak in the Democratic Republic of the Congo has resulted in over 3,600 deaths across seven provinces as health officials warn the epidemic is far from being contained.",
+    "label": "AFRICA — Expanding Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Middle East — Regional conflict escalates as US, Israel, and Iran trade airstrikes",
+        "score": 9.0,
+        "body": "A major regional military conflict involving the United States, Israel, and Iran has entered its eighth day following a joint US-Israeli strike on Iran that killed Supreme Leader Ayatollah Ali Khamenei and military commanders. Tehran launched retaliatory attacks, while fresh airstrikes targeted the Iranian capital. Amid the escalating hostilities, the US administration approved a 151 million USD arms sale to Israel as drone and missile attacks continue across the region.",
+        "verified_figures": [
+          "151 million US dollar arms sale approved"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/west-asia-conflict-enters-eighth-day-as-united-states-israel-and-iran-launch-fresh-airstrikes/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen / Saudi Arabia — Houthi offensive triggers mass displacement and cross-border attacks",
+        "score": 8.0,
+        "body": "Fighting between Houthi rebels and government forces in Yemen has displaced over 112,000 people in two weeks, according to the UN, straining humanitarian capacity near Aden. Houthi forces seized control of Yemen's Red Sea coast and the Hanish Islands, while recent clashes killed 48 people. Missile and drone attacks directed at Saudi Arabia caused explosions near Riyadh airport and flight disruptions, leading the US to evaluate strike options against Houthi targets. Additionally, IOM reported that thousands of displaced individuals have crossed into Djibouti.",
+        "verified_figures": [
+          "48 people killed",
+          "more than 112,000 people displaced in the past two weeks",
+          "2,776 people crossed to Djibouti"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza — Israeli airstrikes kill four Palestinians including a child",
+        "score": 7.0,
+        "body": "Israeli military strikes in Gaza killed at least four Palestinians on Saturday, including a child and the son of Gaza's health ministry director-general. The casualties occurred amidst an ongoing severe humanitarian crisis in Gaza, while demonstrations in Tunisia called for the release of detained Gaza Flotilla activists.",
+        "verified_figures": [
+          "at least 4 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "WION",
+            "url": "https://www.wionews.com/videos/gaza-under-attack-health-chief-s-son-killed-in-idf-strikes-1789873517818/amp"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Deadly twin earthquakes cause major casualties in north-central region",
+        "score": 9.0,
+        "body": "A pair of powerful earthquakes struck north-central Venezuela on Wednesday evening, causing extensive casualties and structural damage. As of Thursday morning, more than 160 people have been killed and nearly 1,000 others injured. Emergency responders are carrying out intensive search and rescue operations to locate individuals trapped under rubble. Acting President Delcy Rodriguez stated that rescue operations are underway, while the United States confirmed it is sending search and rescue teams to assist local authorities with ongoing relief efforts.",
+        "verified_figures": [
+          "More than 160 people killed",
+          "Almost 1,000 people injured"
+        ],
+        "sources": [
+          {
+            "name": "ABC News",
+            "url": "https://abcnews.com/International/victims-deadly-venezuela-earthquakes/story?id=134202867"
+          }
+        ]
+      },
+      {
+        "headline": "United States/Haiti — Termination of Temporary Protected Status leaves 330,000 Haitians facing deportation",
+        "score": 5.0,
+        "body": "The revocation of Temporary Protected Status in the United States has placed approximately 330,000 Haitians at risk of deportation, alongside several thousand nationals from Syria, Somalia, Ethiopia, and Sudan following policy decisions made in February. The removal of legal protections raises protection concerns for vulnerable migrants. The decision also directly impacts essential workforces across multiple U.S. states, particularly in healthcare, nursing homes, remediation centers, agriculture, and local service industries.",
+        "verified_figures": [
+          "Approximately 330,000 Haitians facing deportation"
+        ],
+        "sources": [
+          {
+            "name": "International Action Center",
+            "url": "https://iacenter.org/2026/09/19/deportations-mean-disaster-for-haiti-haitians-and-u-s-workers/amp/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak expands across provinces as test vaccination program launches",
+        "score": 9.0,
+        "body": "Doctors Without Borders has warned that the Ebola outbreak in the Democratic Republic of the Congo continues to spread to new areas, including North Kivu province, despite reduced transmission in the initial epicenter of Ituri. Official figures report 3,639 deaths among 7,541 confirmed cases across seven provinces. UN Women highlighted that women and girls face disproportionate risk due to traditional caregiving roles in homes and health facilities. In response, health authorities, supported by WHO and MSF, have launched a test vaccination drive among frontline health personnel to evaluate whether a vaccine designed for a different strain can effectively contain the virus.",
+        "verified_figures": [
+          "3,639 deaths",
+          "7,541 confirmed cases",
+          "50,000 frontline staff targeted for vaccination",
+          "20,000 health personnel enrolled in one-year clinical trial"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/ebola-vaccine-congo-bundibugyo-ervebo-3f28becb36c401084cb3b19183edb940"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Russia/Ukraine — Major drone attack targets Moscow region, killing two",
+        "score": 5.5,
+        "body": "Russian authorities reported a large-scale Ukrainian drone attack targeting Moscow and the surrounding region, resulting in at least two deaths and damage to a major oil refinery. According to local officials, air defense systems intercepted more than 1,600 drones in total, including 450 aimed directly at the Russian capital. Moscow's mayor characterized the strike as the largest drone attack on the capital to date. The strikes coincided with the final day of voting in Russia's parliamentary election.",
+        "verified_figures": [
+          "at least 2 people killed",
+          "450 drones aimed at Moscow",
+          "1,600 drones intercepted in total"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Recruitment of minors by Russian forces highlights child protection concerns",
+        "score": 5.0,
+        "body": "At least 13 Ukrainian minors are currently imprisoned in Ukraine after being recruited and paid by Russian entities to conduct attacks inside their own country. The recruitment and exploitation of children by combatants highlights growing protection risks faced by vulnerable youth during the conflict.",
+        "verified_figures": [
+          "at least 13 minors imprisoned"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/sep/20/russia-recruited-ukrainian-kids-carry-out-attacks-they-got-caught/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Internal displacement reaches nearly 3.8 million",
+        "score": 8.0,
+        "body": "According to a mid-year report released by UNICEF citing UNHCR figures, nearly 3.8 million people were internally displaced across Myanmar by the end of June. The total of 3,793,800 internally displaced persons represents an increase of 154,400 compared to the end of 2025. In total, an estimated 16.2 million people across the country, including 4.9 million children, require humanitarian assistance due to ongoing conflict and widespread instability.",
+        "verified_figures": [
+          "3,793,800 internally displaced persons",
+          "154,400 increase in displaced persons since end-2025",
+          "16.2 million people in need of humanitarian assistance",
+          "4.9 million children needing humanitarian assistance"
+        ],
+        "sources": [
+          {
+            "name": "migrantimes.com",
+            "url": "https://migrantimes.com/crisis-displacement/19-09-2026/unicef-says-nearly-38-million-internally-displaced-in-myanmar-by-end-june"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Dozens killed and injured in northwestern armed attack",
+        "score": 7.0,
+        "body": "Dozens of people were killed and injured following an attack by an armed group in a northwestern city in Pakistan. The violence highlights the continuing threat posed by recurrent bombings and insurgent activities in the region, creating severe protection concerns and volatile security conditions for local civilian populations.",
+        "verified_figures": [
+          "dozens killed and injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-much-of-a-challenge-recurrent-bombings-to-pakistan?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "India — Rohingya families rendered homeless following Jammu eviction drive",
+        "score": 5.0,
+        "body": "An eviction drive in the Karyani Talab area of Narwal in Jammu has left hundreds of Rohingya refugee families homeless. Local authorities instructed landowners to vacate plots rented to refugee families, leading to the removal of 30 to 40 shops and the dismantling of makeshift shelters. An estimated 350 to 500 families living in 80 to 90 huts were affected, with many having resided in the area for up to 16 years.",
+        "verified_figures": [
+          "350 to 500 families affected",
+          "80 to 90 huts affected",
+          "30 to 40 shops removed"
+        ],
+        "sources": [
+          {
+            "name": "kmsnews.org",
+            "url": "https://kmsnews.org/kms/2026/09/20/rohingya-families-displaced-after-eviction-drive-in-jammu.html"
+          }
+        ]
+      },
+      {
+        "headline": "India — Study warns of rapid Himalayan glacier melt in Uttarakhand",
+        "score": 3.0,
+        "body": "A study conducted by scientists at the Wadia Institute of Himalayan Geology and published in Discover Geoscience found that 23 major glaciers in Uttarakhand are melting rapidly. Researchers attributed the accelerated melting directly to rising temperatures driven by climate change and global warming, warning that the loss of glacial ice increases long-term regional flood risks.",
+        "verified_figures": [
+          "23 major glaciers melting rapidly"
+        ],
+        "sources": [
+          {
+            "name": "Kerala Kaumudi",
+            "url": "https://keralakaumudi.com/en/india/general/23-himalayan-glaciers-melting-rapidly-1805262"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Health: Ebola outbreak not yet under control, CDC warns",
+        "score": 9.5,
+        "body": "________________ An Ebola outbreak in DR Congo was far from being \"under control\", Africa's top health body said Thursday, a day after the WHO said it was gaining ground against the virus. The outbreak, which began in the conflict-scarred northeastern province of Ituri, has seen more than 3,500 deaths from over 7,200 cases to date across seven northern and eastern provinces. The Africa Centrer for Disease Control and Prevention (CDC) director general Jean Kaseya acknowledged there had been a \"plateau\" in cases, adding they were seeing \"a slight decrease\". \"And no one can come and say the outbreak is under control. No one,\" he said. Kaseya's remarks follow the head of the World Health Organiz",
+        "verified_figures": [
+          "3,500 deaths",
+          "7,200 cases"
+        ],
+        "sources": [
+          {
+            "name": "NewVision.co.ug",
+            "url": "https://www.newvision.co.ug/category/health/ebola-outbreak-not-yet-under-control-cdc-warn-NV_240806_092026"
+          }
+        ]
+      },
+      {
+        "headline": "A deadly ebola relative is surging after years in the shadows",
+        "score": 9.0,
+        "body": "A deadly ebola relative is surging after years in the shadows - Date: - September 19, 2026 - Source: - Boston University - Summary: - A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for familiar pathogens could leave the world vulnerable when rare but deadly viruses suddenly reemerge. - Share: A growing outbreak of the rare Bundibugyo virus in the Democratic Republic of Congo is drawing attention to a broader problem in global health: how to prepare for dangerous diseases that appear only rarely but can still cause deadly outbreaks. In a review arti",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm"
+          }
+        ]
+      },
+      {
+        "headline": "South Africa Sounds Alarm as MPox Outbreak Spreads",
+        "score": 9.0,
+        "body": "South Africa Sounds Alarm as MPox Outbreak Spreads.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Kenyan Wallstreet",
+            "url": "https://kenyanwallstreet.com/south-africa-m-pox-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal: Cholera Risk Rises in Nuwakot After Floods, Oral Vaccines to Be Administered to ...",
+        "score": 8.5,
+        "body": "Kathmandu, 20 September (H.S.): The threat of a cholera outbreak has increased in Nepal’s Nuwakot district following the recent floods, prompting the launch of an oral cholera vaccination campaign. Under the campaign, more than 50,000 people have already been vaccinated. The authorities have set a target of vaccinating more than 77,000 people in the affected areas. The campaign has been launched by the District Public Health Office, Nuwakot, in coordination with the Epidemiology and Disease Control Division. Its objective is to prevent the spread of cholera and other waterborne diseases following the Bhotekoshi flood on August 26, which severely affected drinking water supplies and sanitatio",
+        "verified_figures": [
+          "77,000 People",
+          "50,000 people",
+          "77,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Hindusthan Samachar English",
+            "url": "https://english.hindusthansamachar.in/Encyc/2026/9/20/Nepal-Flood-Nuwakot-Oral-Vacci.php"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Yemen and Red Sea Region",
+      "score": 8.0,
+      "trigger": "Potential military strikes by the United States against Houthi forces following cross-border missile attacks near Riyadh.",
+      "potential_impact": "Direct military intervention could intensify cross-border hostilities, worsen civilian displacement near Aden, and further restrict critical maritime humanitarian supply routes.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
+        }
+      ]
+    },
+    {
+      "location": "Nuwakot District, Nepal",
+      "score": 7.5,
+      "trigger": "Severe damage to local drinking water infrastructure and public sanitation following recent flooding.",
+      "potential_impact": "Failure to rapidly vaccinate over 77,000 vulnerable residents could lead to a widespread outbreak of cholera and other waterborne diseases across flood-affected communities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Hindusthan Samachar English",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUVhZlc5R0tHWm1taldxeXFKaGhPdWJweDMzbTdHaDI4bmo4YXhMazN6VWw2b1A2VGpYNGdmdTFiVFF5aHNfTVRqTHhTdTlYTlhMMFlmMnZTSDhSbnlnUXZlLTNUWFVVWjJFLVIyTVZscE5JZm1jTFQyNmdJR21hby1CS2g2NUdia0ZuN3hXOXk2QQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "location": "Moscow Region, Russia",
+      "score": 6.0,
+      "trigger": "Continued large-scale Ukrainian drone strikes aimed at major Russian energy infrastructure and urban centers.",
+      "potential_impact": "Severe damage to energy infrastructure could trigger localized power disruptions and civilian casualties amid ongoing security operations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "Hindusthan Samachar English",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "ABC News",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "International Action Center",
+        "count": 1
+      },
+      {
+        "name": "Kerala Kaumudi",
+        "count": 1
+      },
+      {
+        "name": "NewVision.co.ug",
+        "count": 1
+      },
+      {
+        "name": "News On AIR",
+        "count": 1
+      },
+      {
+        "name": "ScienceDaily",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Kenyan Wallstreet",
+        "count": 1
+      },
+      {
+        "name": "WION",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "kmsnews.org",
+        "count": 1
+      },
+      {
+        "name": "migrantimes.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "1 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 6/6 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1030,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
