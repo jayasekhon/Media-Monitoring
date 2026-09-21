@@ -1,0 +1,521 @@
+{
+  "date": "2026-09-21",
+  "printed_time": "12:13 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Health officials in the Gaza Strip reported on Saturday that at least four Palestinians, including a 10-year-old child and the son of a senior government official, were killed in a series of Israeli military strikes across the enclave.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Ebola outbreak update: Cases and deaths; Dungu health zone, Haut-Uélé province now affected.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "The Ebola outbreak in the DRC approaches 3,700 deaths and adds nearly 7,700 confirmed infections.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Sudan is hurtling toward a catastrophic man-made famine engineered deliberately by warring military factions, a regional human rights organisation has warned, as collapsing agricultural conditions and blocked aid routes compound the suffering of millions.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul says 3 killed.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Health officials in the Gaza Strip reported on Saturday that at least four Palestinians, including a 10-year-old child and the son of a senior government official, were killed in a series of Israeli military strikes across the enclave.",
+    "label": "MIDDLE EAST — Gaza Health Officials Report Four Killed in Israeli Strikes Amid Ongoing Offensi"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza Health Officials Report Four Killed in Israeli Strikes Amid Ongoing Offensive",
+        "score": 10.0,
+        "body": "Health officials in the Gaza Strip reported on Saturday that at least four Palestinians, including a 10-year-old child and the son of a senior government official, were killed in a series of Israeli military strikes across the enclave. The casualties occurred despite an ongoing, albeit fragile, ceasefire framework that was brokered by the United States late last year, highlighting the persistent volatility and lethal risks that continue to define the daily reality for civilians in the territory. According to a formal statement released by the Gaza Ministry of Health, which operates under the administrative authority of Hamas, a 10-year-old girl succumbed to severe wounds sustained earlier in",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/gaza-health-officials-report-four-killed-in-israeli-strikes-amid-ongoing-offensive"
+          }
+        ]
+      },
+      {
+        "headline": "At least 80 Houthis killed as Yemen army repels fierce attacks on Marib",
+        "score": 8.5,
+        "body": "Yemeni government forces repelled fierce Houthi attacks outside Marib, killing at least 80 fighters and destroying nine military vehicles in 24 hours of intense combat. The clashes erupted in areas south of the strategically important city, including Hareb, Mala'a and Um Raish, as Iran-backed forces intensified their push to seize the energy-rich province. Brigadier General Yahya Al-Hatemi, director of the Yemeni army's military media department, confirmed that government troops, backed by warplanes and drones, forced Houthi fighters to retreat from their positions. Air strikes also targeted Houthi gatherings, reinforcements and fortified positions across multiple front lines in Marib provin",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Swarajya",
+            "url": "https://swarajyamag.com/news-brief/at-least-80-houthis-killed-as-yemen-army-repels-fierce-attacks-on-marib"
+          }
+        ]
+      },
+      {
+        "headline": "News: #Sudan gold mine collapse near #Egypt border kills 10, injures 21 At least 10 peo...",
+        "score": 8.5,
+        "body": "News: #Sudan gold mine collapse near #Egypt border kills 10, injures 21 At least 10 people were killed and 21 others injured after a #gold_mine collapsed in northern Sudan near the border with Egypt, with rescue efforts continuing to search for survivors, acc. Explore the things you love.",
+        "verified_figures": [
+          "10 people"
+        ],
+        "sources": [
+          {
+            "name": "facebook.com",
+            "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FAddisstandardEng%2Fphotos%2Fnews-sudan-gold-mine-collapse-near-egypt-border-kills-10-injures-21at-least-10-p%2F1518564403642124%2F"
+          }
+        ]
+      },
+      {
+        "headline": "Houthi Accuse Saudi Arabia of 28 Airstrikes in Yemen Within 24 Hours: 10 outlets compared",
+        "score": 8.0,
+        "body": "Houthi Accuse Saudi Arabia of 28 Airstrikes in Yemen Within 24 Hours: 10 outlets compared.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NewsCord",
+            "url": "https://newscord.org/article/houthi-accuse-saudi-arabia-of-28-airstrikes-in-yemen-within-24-hours--Story_20260920_0ae4ae75"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "World leaders express solidarity with Venezuela after deadly earthquakes",
+        "score": 8.5,
+        "body": "World leaders express solidarity with Venezuela after deadly earthquakes.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "DD News",
+            "url": "https://ddnews.gov.in/en/world-leaders-express-solidarity-with-venezuela-after-deadly-earthquakes/"
+          }
+        ]
+      },
+      {
+        "headline": "Magnitude 3.9 Earthquake Strikes Near Chignik Lagoon, Lake and Peninsula, Alaska, USA",
+        "score": 8.0,
+        "body": "Magnitude 3.9 Earthquake Strikes Near Chignik Lagoon, Lake and Peninsula, Alaska, USA.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/news/361054/Magnitude-39-earthquake-strikes-near-Chignik-Lagoon-Lake-and-Peninsula-Alaska-USA.html"
+          }
+        ]
+      },
+      {
+        "headline": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+        "score": 8.0,
+        "body": "Jovenel Moïse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials. Moïse, 53, was shot dead on 7 July 2021 at his private residence by a hired group of about 20 military-trained Colombian mercenaries. His security detail did not intervene to protect him. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president"
+          }
+        ]
+      },
+      {
+        "headline": "UAE sends aid to Colombia under $10 million earthquake relief campaign",
+        "score": 6.5,
+        "body": "The UAE on Sunday delivered critical aid to Colombia under a $10 million relief package set up last month in response to a powerful earthquake which killed more than 300 people and injured thousands more. The essential supplies flown into the South American country - including food, hygiene kits and cleaning equipment - will support communities still reeling from the natural disaster. The 7.4-magnitude quake struck near the town of San Jose del Palmar in Choco province on August 10, with its impact felt across large parts of western Colombia. The earthquake was one of the largest to hit Colombia in years, destroying thousands of homes and buildings and prompting the government to declare a s",
+        "verified_figures": [
+          "10 million earthquake relief campaign",
+          "10 million relief package set",
+          "300 people"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://yemenonline.info/gulf-news/13807"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Ebola outbreak update: Cases and deaths; Dungu health zone, Haut-Uélé province now affe...",
+        "score": 10.0,
+        "body": "Ebola outbreak update: Cases and deaths; Dungu health zone, Haut-Uélé province now affected.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "outbreaknewstoday.substack.com",
+            "url": "https://outbreaknewstoday.substack.com/p/ebola-outbreak-update-cases-and-deaths"
+          }
+        ]
+      },
+      {
+        "headline": "The Ebola outbreak in the DRC approaches 3,700 deaths and adds nearly 7,700 confirmed i...",
+        "score": 10.0,
+        "body": "The Ebola outbreak in the DRC approaches 3,700 deaths and adds nearly 7,700 confirmed infections.",
+        "verified_figures": [
+          "3,700 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/the-ebola-outbreak-in-the-drc-approaches-3-700-deaths-and-adds-nearly-7-700-confirmed-infections/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Deliberate Starvation Tactics Drive Sudan Toward Man-Made Famine, Rights Group Warns",
+        "score": 10.0,
+        "body": "Sudan is hurtling toward a catastrophic man-made famine engineered deliberately by warring military factions, a regional human rights organisation has warned, as collapsing agricultural conditions and blocked aid routes compound the suffering of millions. In a stark statement issued on September 19, 2026, Justice Africa Sudan alerted the international community that starvation is being used systematically as a weapon of war. With more than 10 million people displaced and 25 million facing acute food shortages, the organisation painted a grim picture of a nation pushed to the brink of mass starvation by the relentless conflict between the Sudanese Armed Forces and the Rapid Support Forces. Th",
+        "verified_figures": [
+          "10 million people displaced and",
+          "25 million facing acute food"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/deliberate-starvation-tactics-drive-sudan-toward-man-made-famine-rights-group-warns"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola death toll rises to 3,699 in DR Congo as response continues",
+        "score": 9.5,
+        "body": "The toll from an Ebola outbreak in the Democratic Republic of the Congo has climbed to 3,699 as health authorities work to contain the disease, which is spreading rapidly. The outbreak, caused by the Bundibugyo virus, has spread to several provinces and Ituri remains the main epicentre. As part of efforts to strengthen the response, the Congo started vaccinating frontline health workers in Ituri on Saturday. The vaccination campaign is employing the Ervebo vaccine, approved for a different strain of Ebola virus, under a compassionate-use programme. The Associated Press reported that clinical trials are under way to see if it can protect against the Bundibugyo virus, for which there is curren",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Free Press Kashmir",
+            "url": "https://freepresskashmir.news/2026/09/21/ebola-death-toll-rises-to-3699-in-dr-congo-as-response-continues/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Moscow: Ukraine launches huge drone attack as election wraps up",
+        "score": 7.5,
+        "body": "Ukraine launched more than 1,000 drones at Russia, including hundreds at the capital Moscow, in its largest attack of the war so far, officials said Sunday. The attack came as Russia wrapped up the final day of voting in tightly controlled parliamentary elections that President Vladimir Putin has cast as a test of support for the war in Ukraine.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260921-moscow-ukraine-launches-huge-drone-attack-as-election-wraps-up"
+          }
+        ]
+      },
+      {
+        "headline": "Putin party retains majority in first vote since 2022 invasion of Ukraine",
+        "score": 7.5,
+        "body": "Russian President Vladimir Putin’s United Russia party won a large majority in parliamentary elections, according to preliminary results published by state media Monday, in a vote held amid Ukrainian drone strikes, cyberattacks and a crackdown on anti-war opposition. The election was the first since Russia’s full-scale invasion of Ukraine in 2022. France 24 International affairs editor, Oliver Farry, shares further insights from this election.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/putin-party-retains-majority-in-first-vote-since-2022-invasion-of-ukraine"
+          }
+        ]
+      },
+      {
+        "headline": "Significant Magnitude 5.2 Earthquake Hits Near Shikotan, Sakhalin Oblast, Russia",
+        "score": 6.5,
+        "body": "Significant Magnitude 5.2 Earthquake Hits Near Shikotan, Sakhalin Oblast, Russia.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/news/361282/Significant-magnitude-52-earthquake-hits-near-Shikotan-Sakhalin-Oblast-Russia.html"
+          }
+        ]
+      },
+      {
+        "headline": "Russia: Kremlin party dominates controlled vote",
+        "score": 6.0,
+        "body": "In Russia, early results from the parliamentary election show the Kremlin-backed United Russia party leading in the tightly controlled vote. The election, the country’s first parliamentary ballot held during wartime, began on Friday and concluded on Sunday, with around 111 million people eligible to vote. Moscow’s mayor said voting went ahead as planned despite Ukrainian drone attacks. Charlotte Hughes reports.",
+        "verified_figures": [
+          "111 million people eligible to"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/russia-kremlin-party-dominates-controlled-vote"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul say...",
+        "score": 10.0,
+        "body": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul says 3 killed.",
+        "verified_figures": [
+          "3 killed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/pakistan-carried-out-strikes-inside-afghanistan-95178c5833c7a6a621c9bb0f06a78915"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan: Upper Dir faces doctor shortage, cholera outbreak and rising patient referrals",
+        "score": 9.0,
+        "body": "Pakistan: Upper Dir faces doctor shortage, cholera outbreak and rising patient referrals.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "aninews.in",
+            "url": "https://www.aninews.in/news/world/asia/pakistan-upper-dir-faces-doctor-shortage-cholera-outbreak-and-rising-patient-referrals20260921170553"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan says Pakistani airstrikes kill at least three",
+        "score": 8.0,
+        "body": "Afghanistan says Pakistani airstrikes kill at least three. Three members of one family killed in air raid on house in Kunar province, Afghan Taliban deputy spokesperson says.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/least-three-killed-pakistani-airstrike-afghanistan-tolo-news-reports-2026-09-21/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/21/afghanistan-says-three-killed-in-pakistani-air-attacks?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Ebola outbreak update: Cases and deaths; Dungu health zone, Haut-Uélé province now affe...",
+        "score": 10.0,
+        "body": "Ebola outbreak update: Cases and deaths; Dungu health zone, Haut-Uélé province now affected.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "outbreaknewstoday.substack.com",
+            "url": "https://outbreaknewstoday.substack.com/p/ebola-outbreak-update-cases-and-deaths"
+          }
+        ]
+      },
+      {
+        "headline": "Heavy Rain Triggers Landslides, Flash Floods Across Kerala; Families Evacuated in Idukk...",
+        "score": 10.0,
+        "body": "One house was destroyed in the incident. A major tragedy was averted as the residents had already shifted to another house. Fire and Rescue Services personnel, along with local residents, are working to clear debris and restore vehicular movement in the affected area. Idukki: Heavy rains continued to batter parts of Keralam on Monday, triggering landslides and flash floods across several districts, with Idukki and Malappuram among the worst affected. Following a landslide in the Munnar-Vattavada region on Sunday, another major landslide struck Pazhampallichal in Adimali, where five families had a narrow escape after they moved to another house just before the debris and floodwaters hit the a",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "republicworld.com",
+            "url": "https://www.republicworld.com/india/heavy-rain-triggers-landslides-flash-floods-across-kerala-families-evacuated-in-idukki-death-toll-reaches-5-2026-09-21-137405"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Response Shows Progress, but Outbreak Remains a Continental Emergency, African Sc...",
+        "score": 9.5,
+        "body": "Ebola Response Shows Progress, but Outbreak Remains a Continental Emergency, African Scientists Say.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ReliefWeb",
+            "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-response-shows-progress-outbreak-remains-continental-emergency-african-scientists-say"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal flood death toll crosses 1,450; over 6,000 people still missing",
+        "score": 9.0,
+        "body": "Nepal flood death toll crosses 1,450; over 6,000 people still missing.",
+        "verified_figures": [
+          "6,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com/amp/world-news/nepal-flood-death-toll-crosses-1-450-over-6-000-people-still-missing-126092000557_1.html?isa=yes"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Heavy Rain Triggers Landslides, Flash Floods Across Kerala; ",
+      "score": 10.0,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "republicworld.com",
+          "url": "https://www.republicworld.com/india/heavy-rain-triggers-landslides-flash-floods-across-kerala-families-evacuated-in-idukki-death-toll-reaches-5-2026-09-21-137405"
+        }
+      ]
+    },
+    {
+      "location": "Ebola death toll rises to 3,699 in DR Congo as response cont",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Free Press Kashmir",
+          "url": "https://freepresskashmir.news/2026/09/21/ebola-death-toll-rises-to-3699-in-dr-congo-as-response-continues/"
+        }
+      ]
+    },
+    {
+      "location": "Ebola Response Shows Progress, but Outbreak Remains a Contin",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "ReliefWeb",
+          "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-response-shows-progress-outbreak-remains-continental-emergency-african-scientists-say"
+        }
+      ]
+    },
+    {
+      "location": "Pakistan: Upper Dir faces doctor shortage, cholera outbreak ",
+      "score": 9.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "aninews.in",
+          "url": "https://www.aninews.in/news/world/asia/pakistan-upper-dir-faces-doctor-shortage-cholera-outbreak-and-rising-patient-referrals20260921170553"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "Free Press Kashmir",
+        "count": 2
+      },
+      {
+        "name": "ReliefWeb",
+        "count": 2
+      },
+      {
+        "name": "Volcano Discovery",
+        "count": 2
+      },
+      {
+        "name": "aninews.in",
+        "count": 2
+      },
+      {
+        "name": "outbreaknewstoday.substack.com",
+        "count": 2
+      },
+      {
+        "name": "republicworld.com",
+        "count": 2
+      },
+      {
+        "name": "streamlinefeed.co.ke",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Business Standard",
+        "count": 1
+      },
+      {
+        "name": "DD News",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "NewsCord",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "Swarajya",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      },
+      {
+        "name": "facebook.com",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "16 item(s) had no extractable figures in available reporting.",
+      "12 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 19/19 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1113,
+      "sources_cited": 20
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
