@@ -1,0 +1,457 @@
+{
+  "date": "2026-09-22",
+  "printed_time": "11:08 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Clashes Escalate Between Yemeni Rebels and Government Forces: At Least 154 Dead, Nearly 130,000 Displaced in Two Days Saudi South Issues Danger Alert Amid Major Houthi Offensive International Organization for Migration: \"Humanitarian Crisis Deepening\" In Yemen's southern highlands, armed clashes between the Iran-backed Houthi rebels and the Saudi Arabia-led coalition-supported Yemeni government forces have intensified, leaving at least 154 people dead and causing a surge in casualties and large-scale displacement over the past two days.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "As fighting intensifies between the Iran-backed Houthi rebels and Yemeni government forces over the southern highlands of Yemen, casualties are surging again and the number of displaced people continues to grow.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance as bombs were being loaded Houthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas held ​by Saudi-backed forces after Donald Trump called off US strikes on the group at the last minute, reportedly as bombs were being loaded on to aircraft.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "ECOWAS has warned that climate change is putting growing pressure on livelihoods, infrastructure and regional stability across West Africa, with particular implications for Nigeria.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "In today’s newsletter: Intelligence chiefs warn that Russia’s appetite for risk is growing, as sabotage and other covert attacks target countries supporting Ukraine Good morning.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Clashes Escalate Between Yemeni Rebels and Government Forces: At Least 154 Dead, Nearly 130,000 Displaced in Two Days Saudi South Issues Danger Alert Amid Major Houthi Offensive International Organization for Migration: \"Humanitarian Crisis Deepening\" In Yemen's southern highlands, armed clashes between the Iran-backed Houthi rebels and the Saudi Arabia-led coalition-supported Yemeni government forces have intensified, leaving at least 154 people dead and causing a surge in casualties and large-scale displacement over the past two days.",
+    "label": "MIDDLE EAST — Clashes Escalate Between Yemeni Rebels and Government Forces: At Least 154 Dead,"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Intensified Fighting Triggers Mass Displacement and Heavy Casualties",
+        "score": 8.5,
+        "body": "Armed clashes and Saudi-led coalition airstrikes against Houthi rebels in Yemen's southern highlands and strategic regions have left at least 154 people dead over two days, including 118 Houthi fighters. Rapidly escalating fighting across seven governorates has forced nearly 130,000 people from their homes, with over 73,400 displaced in Taiz Governorate alone. The United Nations warned that internal displacement could rise to over 230,000, while cross-border refugee flows to Djibouti could reach 10,000. Houthi forces also launched cross-border attacks against Saudi Arabia, including an attempted strike on Riyadh, following reports that planned United States airstrikes were called off at the last minute.",
+        "verified_figures": [
+          "at least 154 people dead",
+          "118 Houthi rebels killed",
+          "nearly 130,000 people displaced",
+          "73,494 displaced in Taiz Governorate",
+          "over 230,000 potential internally displaced",
+          "10,000 potential refugees to Djibouti"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/21/houthis-seize-strategic-terrain-yemen-trump-calls-off-airstrikes-last-minute"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Food and Fuel Shortages Drive Use of Communal Ovens in Gaza",
+        "score": 6.5,
+        "body": "Amid an ongoing food crisis in Gaza, displaced families are relying on communal ovens to bake bread as severe fuel shortages and high prices make individual cooking unsustainable. Bread remains a primary staple for displaced populations coping with worsening living conditions and severe supply constraints across the enclave.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Hurricane Polo to Rapidly Intensify, Enhancing Flood Threat in U.S. Southwest",
+        "score": 8.5,
+        "body": "Tropical Storm Polo, which formed late Sunday off the southwestern coast of Mexico, has rapidly intensified into Hurricane Polo by Monday afternoon. The storm is anticipated to escalate further into a major hurricane, with its moisture projected to significantly enhance flood risks across the U.S. Southwest starting Tuesday. The National Hurricane Center (NHC) is currently monitoring Polo alongside three other tropical systems in the Pacific. At present, Hurricane Polo is categorized as a Category 1 storm, located approximately 270 miles from the southwestern Mexican coast, and is advancing eastward at 5 mph with sustained winds reaching 80 mph. Although it is not expected to make landfall i",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "SSBCrack",
+            "url": "https://news.ssbcrack.com/hurricane-polo-to-rapidly-intensify-enhancing-flood-threat-in-u-s-southwest/"
+          }
+        ]
+      },
+      {
+        "headline": "Huge earthquake fear for Canada after 600-mile 'dead' fault line found to be alive",
+        "score": 8.5,
+        "body": "Canada could be hit by devastating earthquakes after scientists discovered that a fault line thought to have been inactive for millions of years is very much alive. The Tintina Fault in northwestern Canada stretches for more than 600 miles across the Yukan territory and has always been presumed to have been dormant for more than 40 million years. However, new research has found evidence of recent activity, raising fears that the region could be hit by quakes exceeding magnitude 7.5 on the Richter scale. This would be a major quake, capable of destroying tall buildings and bridges, damaging highways and mining operations, and triggering massive landslides, Popular Mechanics reports. Research",
+        "verified_figures": [
+          "40 million years"
+        ],
+        "sources": [
+          {
+            "name": "AOL.com",
+            "url": "https://www.aol.com/articles/huge-earthquake-fear-canada-600-133600000.html"
+          }
+        ]
+      },
+      {
+        "headline": "US strikes on alleged drug boats may constitute ‘crimes against humanity’, UN expert says",
+        "score": 8.5,
+        "body": "Dozens of US attacks on boats in the Pacific and Caribbean have killed more than 230 people since September 2025 A special rapporteur for the UN human rights council has concluded that there are “reasonable grounds to believe” that the United States attacks on boats allegedly carrying drugs in the Pacific and Caribbean “constituted crimes against humanity”. The boat strikes, carried out since September 2025 on the stated grounds of stopping drugs being trafficked by sea to the US, have killed more than 230 people. The latest, on Saturday, killed four people in the Caribbean. Continue reading...",
+        "verified_figures": [
+          "230 people"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity"
+          }
+        ]
+      },
+      {
+        "headline": "More than 250,000 children in Haiti projected to face acute malnutrition",
+        "score": 6.5,
+        "body": "More than 250,000 children in Haiti projected to face acute malnutrition Key Points(5) - More than a quarter-million young children in Haiti are projected to suffer from acute malnutrition over the next year as violence, displacement and food insecurity continue to deepen the country’s humanitarian crisis. - An estimated 253,725 children between 6 months and 5 years old are expected to experience acute malnutrition between June 2026 and May 2027, according to a new UN-backed assessment. - Of those, 93,873 children are projected to suffer from severe acute malnutrition, a potentially life-threatening condition requiring urgent treatment. - Another 159,852 are expected to experience moderate a",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Caribbean National Weekly",
+            "url": "https://www.caribbeannationalweekly.com/posts/more-than-250000-children-in-haiti-projected-to-face-acute-malnutrition"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Surpasses 3,600 Deaths as Vaccine Trials Begin",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting its largest and deadliest Ebola epidemic on record, with 7,672 confirmed cases and 3,699 deaths reported across 63 health zones in seven provinces. Driven by the Bundibugyo species, for which no approved vaccine exists, the outbreak carries a case fatality rate of 48.2 percent. In response, health authorities have launched clinical trials in Ituri province using 20,000 doses of the Ervebo vaccine to assess potential cross-protection. The European Centre for Disease Prevention and Control is deploying epidemiologists to support response efforts, while UN officials note that women and girls face heightened exposure due to caregiving and funeral responsibilities.",
+        "verified_figures": [
+          "7,672 confirmed cases",
+          "3,699 deaths",
+          "48.2% case fatality rate",
+          "20,000 vaccine doses allocated for trials",
+          "63 health zones affected across 7 provinces"
+        ],
+        "sources": [
+          {
+            "name": "Euronews.com",
+            "url": "https://www.euronews.com/health/2026/09/21/eu-sends-experts-to-congo-as-ebola-outbreak-continues-congo-receives-vaccines-for-clinical"
+          }
+        ]
+      },
+      {
+        "headline": "West Africa — ECOWAS Warns Climate Impacts Are Driving Regional Displacement and Insecurity",
+        "score": 3.5,
+        "body": "The Economic Community of West African States has warned that worsening climate conditions, including rising temperatures, severe droughts, unpredictable rainfall, and flooding, are accelerating environmental degradation and population displacement across West Africa. Speaking at a parliamentary session in Ghana, regional representatives emphasized that these environmental shocks are placing heavy pressure on infrastructure, undermining local livelihoods, and intensifying security vulnerabilities, particularly in Nigeria.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian Nigeria News",
+            "url": "https://guardian.ng/news/ecowas-raises-alarm-over-floods-drought-displacement-in-nigeria-others/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Tuesday briefing: Europe thinks Russia is preparing to test Nato’s limits",
+        "score": 10.0,
+        "body": "In today’s newsletter: Intelligence chiefs warn that Russia’s appetite for risk is growing, as sabotage and other covert attacks target countries supporting Ukraine Good morning. As the UN general assembly kicks off in New York later today, we anticipate a heavy focus on the ongoing conflicts in Iran, Ukraine and the Gulf – as well as the inevitable body language analysis of Andy Burnham’s first in-person meeting with Donald Trump.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/22/tuesday-briefing-europe-thinks-russia-is-preparing-to-test-natos-limits"
+          }
+        ]
+      },
+      {
+        "headline": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Eu...",
+        "score": 9.0,
+        "body": "Without an agreement sanctions on nearly 3,000 entities accused of supporting the war on Ukraine will lapse at the end of the day Lithuanian prime minister Mindaugas Sinkevičius has warned that citizens in his country are increasingly affected by concerns about potential Russian aggression. Speaking on BBC Newsnight last night , he described the emotional toll on the population, highlighting overnight air raid alarms triggered by drone activity in Lithuanian airspace. “There are plans prepared for evacuation. Of course there would be groups of people, handicapped, elderly people, that will be priority groups of citizens that will be needed to be assisted and evacuated.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
+          }
+        ]
+      },
+      {
+        "headline": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
+        "score": 8.0,
+        "body": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump. Overnight missile and drone attacks hit several Ukrainian regions as world leaders gather in New York, US.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-united-nations-zelenskyy-trump-us-9c3d38e7e97132884f915e157dbf9ef1"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine marks Putin’s scripted election win with assault on Moscow refinery",
+        "score": 7.5,
+        "body": "Ukraine marks Putin’s scripted election win with assault on Moscow refinery. The air attack hit an oil refinery in Moscow, contradicting President Donald Trump's claim that Ukraine and Russia had agreed to halt strikes on energy targets.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/21/putin-wins-parliamentary-election-ukraine-hits-moscow-area/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan/Pakistan — Cross-border airstrikes cause civilian casualties and spark escalation warnings",
+        "score": 7.0,
+        "body": "Pakistani fighter jets carried out airstrikes inside Afghanistan, leading to conflicting casualty reports and heightened regional tensions. Pakistani authorities claimed the strikes killed 28 militants. However, Taliban officials in Kabul reported civilian casualties, including at least three civilians killed and women and children wounded. A Taliban official condemned the strikes as an attack on Afghan territory and warned that the military action would not go unanswered, raising concerns over potential escalation along the border.",
+        "verified_figures": [
+          "28 militants claimed killed by Pakistan",
+          "3 civilians reported killed by Kabul authorities"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/pakistan-carried-out-strikes-inside-afghanistan-95178c5833c7a6a621c9bb0f06a78915"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Mass returns and drought push 28 million into poverty",
+        "score": 7.5,
+        "body": "According to a new United Nations Development Programme report, Afghanistan's severe humanitarian crisis deepened in 2025, leaving an estimated 28 million people living in poverty. The crisis has been compounded by prolonged drought, declining international financial assistance, and the return of approximately 2.9 million Afghans over the year. This large population influx pushed an additional 1.4 million people into economic hardship, severely straining local resources and basic services.",
+        "verified_figures": [
+          "28 million people in poverty in 2025",
+          "2.9 million Afghan returnees",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "The Kabul Tribune",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Medical shortages compound cholera outbreak in Upper Dir",
+        "score": 5.0,
+        "body": "Upper Dir district in Pakistan is experiencing an outbreak of cholera alongside severe shortages of medical doctors. The lack of adequate healthcare staff in local facilities has forced a rising number of patient referrals to external medical centers, threatening to overwhelm regional health systems and delay critical care for affected communities.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ANI News",
+            "url": "https://www.aninews.in/news/world/asia/pakistan-upper-dir-faces-doctor-shortage-cholera-outbreak-and-rising-patient-referrals20260921170553"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Flash floods displace dozens and destroy homes in West Sumatra",
+        "score": 4.0,
+        "body": "Intense overnight rainfall triggered a flash flood in Solok Regency, West Sumatra, on September 21. Water mixed with debris, timber, and mud swept through residential areas in Arosuka, leaving at least one person dead, injuring four others, and forcing dozens of families to evacuate. Transport routes have been severed while joint search and rescue teams search riverbanks and affected villages.",
+        "verified_figures": [
+          "1 person dead",
+          "4 people injured",
+          "dozens of families displaced"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/flash-floods-in-indonesias-solok-regency-leave-one-dead-and-displace-dozens"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Severe Flash Floods",
+        "score": 8.5,
+        "body": "Massive flash flooding in Nepal has left at least 1,450 people confirmed dead and approximately 6,000 others missing, according to police figures. Government officials warn the ultimate mortality toll could approach the human losses of the country's 2015 earthquake. Protection concerns are rising for vulnerable populations, with more than 500 children placed in shelters after being orphaned or having their parents declared missing following the August 26 floods. Relief and support operations are underway as local authorities assess the scale of damage.",
+        "verified_figures": [
+          "1,450 dead",
+          "6,000 missing",
+          "More than 500 children in shelters"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/22/orphaned-by-floods-more-than-500-nepali-children-face-uncertain-future?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Japan — Typhoon Dujuan",
+        "score": 4.5,
+        "body": "Typhoon Dujuan brought severe rainfall and winds of up to 144 km/h to eastern Japan and the Tokyo region, triggering floods and landslides. According to local authorities, at least four people were killed and 22 injured, while rescue teams continue searching for missing individuals. The storm cut electricity to tens of thousands of homes and disrupted travel infrastructure. Heavy rain and landslide warnings were downgraded as the typhoon moved away from the coast on Tuesday, allowing emergency services and residents to begin clearing debris.",
+        "verified_figures": [
+          "4 dead",
+          "22 injured",
+          "Tens of thousands of houses without power"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Pakistan says airstrikes in Afghanistan kill 28 militants; K",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/pakistan-carried-out-strikes-inside-afghanistan-95178c5833c7a6a621c9bb0f06a78915"
+        }
+      ]
+    },
+    {
+      "location": "Typhoon Dujuan batters Japan: 2 dead, 4 missing as floods, l",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "news9live.com",
+          "url": "https://www.news9live.com/world/typhoon-dujuan-batters-japan-2-dead-4-missing-as-floods-landslides-disrupt-tokyo-region-3009670/amp"
+        }
+      ]
+    },
+    {
+      "location": "At least four people killed in Japan as typhoon Dujuan trigg",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo"
+        }
+      ]
+    },
+    {
+      "location": "DRC begins Ebola vaccine trial as outbreak spreads",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Channel Africa",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/drc-begins-ebola-vaccine-trial-as-outbreak-spreads/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 6
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "ANI News",
+        "count": 1
+      },
+      {
+        "name": "AOL.com",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Caribbean National Weekly",
+        "count": 1
+      },
+      {
+        "name": "Channel Africa",
+        "count": 1
+      },
+      {
+        "name": "Euronews.com",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "SSBCrack",
+        "count": 1
+      },
+      {
+        "name": "The Guardian Nigeria News",
+        "count": 1
+      },
+      {
+        "name": "The Kabul Tribune",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "news9live.com",
+        "count": 1
+      },
+      {
+        "name": "streamlinefeed.co.ke",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "9 item(s) had no extractable figures in available reporting.",
+      "2 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 7/7 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 4/6 region(s) with candidate material generated via Gemini (LLM), 2 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1250,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
