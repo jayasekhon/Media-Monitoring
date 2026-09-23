@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-23",
+  "printed_time": "10:54 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola epidemic in the Democratic Republic of the Congo has become the largest in the country's history, exceeding 7,700 confirmed cases and 3,700 deaths across 63 health zones.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Escalating Houthi advances and heavy fighting along Yemen's western coast have displaced over 130,000 people and caused over 110 civilian casualties since early September.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Widespread monsoon flooding affecting more than 470,000 people in Myanmar is exacerbating an ongoing humanitarian emergency driven by conflict and four million internally displaced persons.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Humanitarian conditions in Afghanistan continue to deteriorate, with 28 million people living in poverty as mass population returns and drought strain reduced international assistance.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Renewed intercommunal violence and active fighting across Sudan's Darfur and Kordofan regions have killed at least 13 people and displaced several thousand more.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo is facing its largest Ebola epidemic on record, with confirmed cases surpassing 7,700 and deaths exceeding 3,700 amidst uncontrolled spread across multiple provinces.",
+    "label": "AFRICA — DRC Ebola Epidemic"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Mass Displacement and Civilian Casualties Mount Amid Red Sea Offensive",
+        "score": 8.0,
+        "body": "Escalating hostilities across multiple front lines in Yemen have driven more than 130,000 people from their homes since early September. The UN Refugee Agency warned that internal displacement could reach 230,000, with up to 10,000 refugees fleeing across the Red Sea to Djibouti. The surge follows a rapid Houthi advance along the western coast toward the Bab el-Mandeb Strait and clashes with Saudi-backed government forces. Fighting has caused hundreds of deaths, including at least 110 civilian casualties. In Mocha, a Saudi-led airstrike reportedly killed six civilians and wounded eight others, while over 150 people were killed in recent two-day clashes.",
+        "verified_figures": [
+          "Over 130,000 people displaced since early September",
+          "Potential internal displacement of over 230,000 people",
+          "Up to 10,000 refugees expected to flee to Djibouti",
+          "At least 110 civilian casualties reported",
+          "Six civilians killed and eight wounded in Mocha airstrike",
+          "Over 150 people killed in two days of fighting"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti"
+          },
+          {
+            "name": "UNHCR",
+            "url": "https://www.unhcr.ca/news/escalating-conflict-in-yemen-could-fuel-more-displacement-refugee-movement/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Reps. Mfume, Jackson Introduce House Bill Requiring the U.S. to Rejoin the WHO and Help...",
+        "score": 9.5,
+        "body": "WASHINGTON, DC – This month, Congressman Kweisi Mfume (D-MD-07) and Congressman Jonathan L. Jackson (D-IL-01) introduced the Epidemic Barrier and Outbreak Leadership Act, or the EBOLA Act (H.R.10345), which would require the President to rejoin the World Health Organization within 30 days of enactment and direct the United States to begin working with the WHO immediately on the Ebola outbreak in Central and Eastern Africa. The bill is the House companion to legislation introduced by Senator Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee. Per the World Health Organization's September 6 Situation Report, the Democratic Republic of the Congo has passed 6,500 con",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Representative Kweisi Mfume | (.gov)",
+            "url": "https://mfume.house.gov/media/press-releases/reps-mfume-jackson-introduce-house-bill-requiring-the-us-to-rejoin-the-who-and-help-contain-the-fastest-growing-ebola-outbreak-on-record"
+          }
+        ]
+      },
+      {
+        "headline": "Couple fears parents will miss wedding due to Canada's Ebola border measures",
+        "score": 7.0,
+        "body": "Couple fears parents will miss wedding due to Canada's Ebola border measures.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "thecanadianpressnews.ca",
+            "url": "https://www.thecanadianpressnews.ca/couple-fears-parents-will-miss-wedding-due-to-canadas-ebola-border-measures/video_e8f15cc2-6769-5532-b606-04815244cf70.html"
+          }
+        ]
+      },
+      {
+        "headline": "Over a quarter of a million children facing acute malnutrition in Haiti amid ongoing vi...",
+        "score": 6.5,
+        "body": "This was originally posted on wfp.org UNICEF, FAO and WFP call for urgent action to prevent worsening child malnutrition across Haiti, with Cité Soleil and Cabaret projected to face Critical conditions between December 2026 and May 2027. PORT-AU-PRINCE, 17 September 2026 – An estimated 253,725 children aged 6 to 59 months in Haiti are expected to suffer from acute malnutrition between June 2026 and May 2027, including nearly 94,000 with severe acute malnutrition while unrelenting violence by armed groups threatens to worsen conditions. Severe acute malnutrition can become life-threatening without timely treatment. A further 159,852 children are expected to suffer from moderate acute malnutri",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "wfpusa.org",
+            "url": "https://wfpusa.org/news/over-quarter-million-children-facing-acute-malnutrition-haiti/"
+          }
+        ]
+      },
+      {
+        "headline": "New Mexico activates emergency center, plan for flooding",
+        "score": 6.5,
+        "body": "New Mexico activates emergency center, plan for flooding.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "KTSM 9 News",
+            "url": "https://www.ktsm.com/news/new-mexico-activates-emergency-center-plan-for-flooding/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Record Ebola outbreak surpasses 7,700 cases amid regional spread",
+        "score": 9.5,
+        "body": "The World Health Organization and national authorities report that the Ebola epidemic in the Democratic Republic of the Congo has surpassed 7,700 confirmed cases and 3,700 deaths, making it the largest in the country's history. The outbreak remains uncontrolled as transmission expands across 63 health zones in provinces including Ituri, North Kivu, South Kivu, Tshopo, Bas-Uele, Haut-Uele, and Sud-Ubangi. Exacerbated by ongoing conflict and displacement, response efforts face treatment shortages and community trust gaps. Humanitarian partners, including MSF and IOM, are establishing new treatment centers in Kisangani and expanding border surveillance. In response to the regional risk, countries including Nigeria have activated heightened health monitoring.",
+        "verified_figures": [
+          "7,733 confirmed cases",
+          "3,732 deaths",
+          "1,879 recoveries",
+          "63 health zones affected"
+        ],
+        "sources": [
+          {
+            "name": "thepeninsulaqatar.com",
+            "url": "https://thepeninsulaqatar.com/article/23/09/2026/dr-congo-ebola-outbreak-remains-uncontrolled-who"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Escalating clashes drive casualties and displacement across Darfur and Kordofan",
+        "score": 7.5,
+        "body": "Escalating violence across Sudan is driving fresh displacement and worsening food insecurity, according to humanitarians. On 19 September, armed intercommunal fighting at Abuja Market in Gereida, South Darfur, left 13 people dead and displaced over 400 individuals. Clashes the same day at Al Borsa Market in El Daein, East Darfur, caused casualties and a partial market closure, alongside reports of fighting in Nyala. Continuous conflict across North and South Kordofan, Blue Nile, and North Darfur has displaced several thousand additional people. The ongoing insecurity severely impacts local commerce and compounds access constraints for vulnerable communities.",
+        "verified_figures": [
+          "13 people dead",
+          "more than 400 people displaced",
+          "several thousand newly displaced"
+        ],
+        "sources": [
+          {
+            "name": "Zawya",
+            "url": "https://www.zawya.com/en/press-release/africa-press-releases/sudan-displacement-food-insecurity-increase-as-violence-escalates-1136248"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Zelensky proposes energy ceasefire at UNGA amid warnings of new Russian strikes",
+        "score": 6.5,
+        "body": "On the sidelines of the UN General Assembly in New York, Ukrainian President Volodymyr Zelensky expressed readiness for a mutual halt to energy infrastructure strikes, while warning that Russia is preparing a new mass attack against Ukraine. Zelensky emphasized the urgent need to end the war before winter as civilian conditions deteriorate across the country. Discussions with former US President Donald Trump covered peace negotiation pathways, winter readiness, Patriot missile systems, and potential safeguards for Black Sea grain shipments. French President Emmanuel Macron also called for a moratorium on targeting civilian and energy infrastructure.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/aerospace-defense/zelenskiy-says-russia-planning-new-mass-attack-ukraine-2026-09-22/"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Ukrainian drone attack targets Kuibyshev oil refinery in Samara",
+        "score": 4.5,
+        "body": "Ukrainian forces launched an overnight drone strike against the Kuibyshev oil refinery in Samara, Russia, approximately 765 kilometers from the Ukrainian border. The attack caused a major fire with heavy smoke at the facility, which has a design capacity of around 7 million tonnes of oil annually. Explosions were also reported in nearby Tolyatti. The strike demonstrates Ukraine's continued capability to target strategic Russian energy infrastructure deep inside Russian territory, even as international diplomatic discussions focus on a potential mutual moratorium on energy sector attacks.",
+        "verified_figures": [
+          "765 kilometers from Ukrainian border",
+          "7 million tonnes annual oil design capacity"
+        ],
+        "sources": [
+          {
+            "name": "Daily Express US",
+            "url": "https://www.the-express.com/news/world-news/216504/kuibyshev-oil-refinery-fire-after-ukraine-drone-attack-trump-slams-samara-strikes/amp"
+          }
+        ]
+      },
+      {
+        "headline": "Lithuania — Government prepares civil evacuation plans amid Russian security concerns",
+        "score": 2.5,
+        "body": "Lithuanian officials stated that the country maintains active civil evacuation plans while remaining prepared to defend its territory against potential military threats from Moscow. Officials indicated that the population feels under constant threat from Russia, prompting heightened defense readiness and contingency planning. The announcement underscores persistent security anxieties among Baltic nations bordering Russia, despite the absence of immediate military hostilities on Lithuanian soil.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "India Condemns Pakistani Airstrikes on Afghanistan Over Civilian Casualties",
+        "score": 10.0,
+        "body": "India Condemns Pakistani Airstrikes on Afghanistan Over Civilian Casualties.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "indianewsnetwork.com",
+            "url": "https://www.indianewsnetwork.com/en/india-condemns-pakistani-airstrikes-afghanistan-over-civilian-casualties-20260923"
+          }
+        ]
+      },
+      {
+        "headline": "Floods, Hunger and Disease Pile on Myanmar’s Civil War Misery",
+        "score": 8.0,
+        "body": "Wednesday, September 23, 2026 - Isolated and at constant war with itself, Myanmar’s humanitarian crisis is deepening as global challenges far exceed the capacity to respond of a military regime increasingly focused on its own survival. The climate crisis, soaring commodity prices triggered by wars in Europe and the Middle East, plus worldwide cuts in donor aid are all hitting Myanmar hard. The regime’s inability to govern a fragmented and restive country with nearly four million internally displaced people has been exposed to the full since it seized power over five years ago. Widespread floods caused by heavy monsoon rains since July have affected over 470,000 people, according to an assess",
+        "verified_figures": [
+          "470,000 people"
+        ],
+        "sources": [
+          {
+            "name": "ipsnews.net",
+            "url": "https://www.ipsnews.net/2026/09/floods-hunger-and-disease-pile-on-myanmars-civil-war-misery/"
+          }
+        ]
+      },
+      {
+        "headline": "Sri Lanka Easter bombings: 15 sentenced to hundreds of years in prison each over deadly...",
+        "score": 8.0,
+        "body": "Islamic State-inspired bombings of churches and hotels in 2019 was one of the country’s worst ever attacks A court in Sri Lanka has convicted 15 men on terrorist charges for their involvement in the deadly 2019 Easter bombings and sentenced them each to at least 220 years in prison. The terror attacks, which targeted luxury hotels and churches as they held Easter services, left 267 people dead and wounded almost 6000. The bombings, which were inspired by Islamic State (IS), were among the deadliest terror attacks in Sri Lanka’s history and sent shockwaves through the country. Continue reading...",
+        "verified_figures": [
+          "267 people"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/23/sri-lanka-easter-bombings-15-sentenced-prison-terror-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Ebola Outbreak Expands Across Multiple Provinces",
+        "score": 8.0,
+        "body": "Médecins Sans Frontières (MSF) is scaling up emergency capacity in the Democratic Republic of the Congo as an Ebola outbreak spreads across several provinces. MSF established a new 22-bed treatment centre in Kisangani, Tshopo province, to manage cases spreading from Ituri province. Separately, Sud-Ubangi province recorded its first confirmed Ebola case, involving a Bundibugyo virus patient who died after traveling from South Kivu. Response operations face difficulties due to logistical shortages, strained facilities, and gaps in community trust. In response to the regional health threat, Nigeria's public health agency has activated precautionary monitoring and enhanced travel surveillance.",
+        "verified_figures": [
+          "22-bed treatment centre in Kisangani",
+          "1st recorded Ebola case in Sud-Ubangi province"
+        ],
+        "sources": [
+          {
+            "name": "MSF",
+            "url": "https://www.msf.org/msf-expands-response-ebola-disease-new-treatment-centres"
+          }
+        ]
+      },
+      {
+        "headline": "South Africa — Confirmed Mpox Cases Rise to 22",
+        "score": 4.0,
+        "body": "South Africa’s Department of Health announced that laboratory-confirmed mpox cases in the country have increased from 18 to 22. The additional cases include a 47-year-old male from Cape Town who had traveled to Spain earlier in the month, whose status was reclassified to confirmed following laboratory verification from Spanish health authorities. Health officials have renewed calls for public vigilance and are maintaining surveillance measures to monitor potential ongoing transmission.",
+        "verified_figures": [
+          "22 laboratory-confirmed mpox cases"
+        ],
+        "sources": [
+          {
+            "name": "The Bulrushes",
+            "url": "https://thebulrushes.com/2026/09/23/mpox-outbreak-lab-confirmed-cases-rise-to-22-renewed-calls-for-vigilance/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Yemen (Western Coast and Bab el-Mandeb)",
+      "score": 8.0,
+      "trigger": "Continued military advances by Houthi forces toward strategic coastal positions and intensifying clashes with government forces.",
+      "potential_impact": "Total displacement could rise to 230,000 people internally while driving up to 10,000 refugees across the Red Sea to Djibouti.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "UNHCR",
+          "url": "https://www.unhcr.ca/news/escalating-conflict-in-yemen-could-fuel-more-displacement-refugee-movement/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti"
+        }
+      ]
+    },
+    {
+      "location": "Democratic Republic of the Congo",
+      "score": 8.5,
+      "trigger": "Continued spread of Ebola into unmanaged health zones alongside treatment shortages and community resistance.",
+      "potential_impact": "Further rapid geographical expansion of the epidemic could overwhelm regional healthcare capacity and heighten cross-border outbreak risks.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "thepeninsulaqatar.com",
+          "url": "https://thepeninsulaqatar.com/article/23/09/2026/dr-congo-ebola-outbreak-remains-uncontrolled-who"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.0,
+      "trigger": "A renewed mass Russian missile and drone strike targeting national energy infrastructure.",
+      "potential_impact": "Severe disruption to electricity, water, and heating systems ahead of winter could trigger severe civilian hardship and fresh internal displacement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/zelenskiy-says-russia-planning-new-mass-attack-ukraine-2026-09-22/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "UNHCR"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "UNHCR",
+        "count": 2
+      },
+      {
+        "name": "thepeninsulaqatar.com",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Daily Express US",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "KTSM 9 News",
+        "count": 1
+      },
+      {
+        "name": "MSF",
+        "count": 1
+      },
+      {
+        "name": "Representative Kweisi Mfume | (.gov)",
+        "count": 1
+      },
+      {
+        "name": "The Bulrushes",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "Zawya",
+        "count": 1
+      },
+      {
+        "name": "indianewsnetwork.com",
+        "count": 1
+      },
+      {
+        "name": "ipsnews.net",
+        "count": 1
+      },
+      {
+        "name": "thecanadianpressnews.ca",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      },
+      {
+        "name": "wfpusa.org",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "7 item(s) had no extractable figures in available reporting.",
+      "3 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 7/7 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 4/6 region(s) with candidate material generated via Gemini (LLM), 2 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1220,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
