@@ -1,0 +1,482 @@
+{
+  "date": "2026-09-24",
+  "printed_time": "11:15 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "U.S. hurricane strike odds fall to 20% in Atlantic as Pacific typhoons roar.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations MOGADISHU, 23 September 2026 – Millions of people across Somalia continue to face high levels of hunger, while acute malnutrition among children is set to worsen over the coming months as heavy flooding associated with the anticipated El Niño is expected to worsen the situation during October to December 2026, the Federal Government of Somalia and the United Nations (UN) warned today.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "DR Congo Ebola outbreak toll exceeds 3,700 deaths More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "The Nigeria Centre for Disease Control and Prevention (NCDC) has raised the alarm over the ongoing Ebola Virus Disease (EVD) outbreak in the Democratic Republic of the Congo (DRC), placing Nigeria on heightened alert.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Nearly 3800 people are dead as Congo struggles to contain a fast-growing Ebola outbreak.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "U.S.",
+    "label": "AMERICAS — U.S. hurricane strike odds fall to 20% in Atlantic as Pacific typhoons roar"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Fact-checking Trump's speech at the United Nations General Assembly",
+        "score": 9.5,
+        "body": "Donald Trump's UN address was packed with claims that are misleading, false or exaggerated. He said the US has more munitions than it could ever use, despite reports of depleting stocks. He also claimed the US and Venezuela hold 60 percent of the world's oil, despite the numbers not adding up, and he said he had ended the war in Gaza despite ongoing Israeli strikes and deaths since last year's ceasefire. Vedika Bahl fact-checks the speech in Truth or Fake.",
+        "verified_figures": [
+          "60 percent"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1"
+          }
+        ]
+      },
+      {
+        "headline": "Oman: One dead, 27 evacuated in ship attack near Hormuz",
+        "score": 8.5,
+        "body": "Crew member killed as ship targeted near Strait of Hormuz: Oman , ThursdayU: Update: 02:09, 24/09/2026, Thursday 01:52, 24/09/2026AA File photo Omani authorities said Wednesday that one crew member was killed and 27 others were evacuated after the Antigua and Barbuda-flagged vessel CAPE DAO was targeted near the Strait of Hormuz, marking the latest attack on commercial shipping in the strategic waterway since war broke out between Iran and the US-Israeli alliance in late February. Oman's Maritime Security Center announced Wednesday that one crew member died and 27 were evacuated after the Antigua and Barbuda-flagged commercial vessel CAPE DAO was targeted off the country's Musandam Governora",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Yeni Şafak English",
+            "url": "https://en.yenisafak.com/world/oman-one-dead-27-evacuated-in-ship-attack-near-hormuz-3723656"
+          }
+        ]
+      },
+      {
+        "headline": "Seafarer Killed in Hormuz Attack as Trump Pushes Iran Deal at UN",
+        "score": 8.5,
+        "body": "An Indian seafarer has been killed after the Antigua and Barbuda-flagged bulk carrier Cape Dao was attacked and abandoned near the Strait of Hormuz, adding to a mounting casualty toll as the United States and Iran reopen diplomatic contacts at the United Nations. The Cape Dao was targeted about 2.5 nautical miles from Oman’s Musandam Governorate on Wednesday, according to Oman’s Maritime Security Center. The attack sparked a fire in the engine room, and a Royal Navy of Oman vessel evacuated 27 surviving crew members and provided medical care. One crew member was killed. UK Maritime Trade Operations had earlier reported that the cargo vessel was struck by an unknown projectile at around 0630",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "gCaptain",
+            "url": "https://gcaptain.com/seafarer-killed-in-hormuz-attack-as-trump-pushes-iran-deal-at-un/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemeni forces say they repel Houthi attacks in Taiz as fighting rages",
+        "score": 8.5,
+        "body": "Yemeni forces say they repel Houthi attacks in Taiz as fighting rages. Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Mexico — Hurricane Polo threatens southwestern coast",
+        "score": 6.5,
+        "body": "Residents along Mexico's southwestern Pacific coast are preparing for heavy rain, dangerous surf, severe flooding, and mudslides as Hurricane Polo tracks northwestward offshore. The Category 4 storm is churning near coastal beach towns, presenting significant hazards to southwestern communities. Elsewhere in the Pacific basin, another storm system, Nolo, is approaching Hawaii.",
+        "verified_figures": [
+          "Category 4 hurricane"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/hurricane-polo-mexico-fe846bf4bc35ec5bdfa2e9014b7fe3e8"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260924-fears-of-flooding-landslides-as-hurricane-polo-churns-off-mexico-coast"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/ckddvlrlr5qeo"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — UN address highlights recovery from twin earthquakes and crisis",
+        "score": 6.0,
+        "body": "Addressing the United Nations General Assembly, Acting President Delcy Rodríguez declared that Venezuela is working to rebuild following severe political crisis and natural disasters. Rodríguez cited a diplomatic dispute with the United States and a devastating twin earthquake that struck on 24 June 2026 as major national trials, while emphasizing ongoing recovery efforts across the country.",
+        "verified_figures": [
+          "Twin earthquakes on 24 June 2026"
+        ],
+        "sources": [
+          {
+            "name": "news.un.org",
+            "url": "https://news.un.org/en/story/2026/09/1168420"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Hunger and malnutrition crises persist in Somalia as projected floods and funding short...",
+        "score": 10.0,
+        "body": "Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations MOGADISHU, 23 September 2026 – Millions of people across Somalia continue to face high levels of hunger, while acute malnutrition among children is set to worsen over the coming months as heavy flooding associated with the anticipated El Niño is expected to worsen the situation during October to December 2026, the Federal Government of Somalia and the United Nations (UN) warned today. The latest Integrated Food Security Phase Classification (IPC)",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/hunger-and-malnutrition-crises-persist-somalia-projected-floods-and-funding"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
+        "score": 10.0,
+        "body": "DR Congo Ebola outbreak toll exceeds 3,700 deaths More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen. In an update, the UN World Health Organization (WHO) said that in the last 21 days, cases of infection fell by approximately 26 per cent in province of Ituri and by 15 per cent in the province of Haut Uele. However, over the same period, North Kivu province recorded a 73 per cent increase, clearly indicating that the Ebola Bundibugyo outbreak has a different transmission profile in the seven aff",
+        "verified_figures": [
+          "26 per cent",
+          "15 per cent",
+          "73 per cent"
+        ],
+        "sources": [
+          {
+            "name": "news.un.org",
+            "url": "https://news.un.org/en/story/2026/09/1168407"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria Raises Ebola Alert as Deadly Outbreak Spreads Massively in DR Congo",
+        "score": 10.0,
+        "body": "The Nigeria Centre for Disease Control and Prevention (NCDC) has raised the alarm over the ongoing Ebola Virus Disease (EVD) outbreak in the Democratic Republic of the Congo (DRC), placing Nigeria on heightened alert. In a health advisory signed by its Director-General, Jide Idris, the agency said it had begun precautionary measures to strengthen the country’s preparedness and ensure a swift response should the disease pose a threat to Nigeria. The NCDC said the measures would be regularly reviewed as the situation develops and as new public health risks emerge. As part of the enhanced surveillance efforts, travellers arriving from countries with active or relevant Ebola transmission are req",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Gistmania",
+            "url": "https://www.gistmania.com/talk/topic,653180.0.html"
+          }
+        ]
+      },
+      {
+        "headline": "Nearly 3800 people are dead as Congo struggles to contain a fast-growing Ebola outbreak",
+        "score": 10.0,
+        "body": "Nearly 3800 people are dead as Congo struggles to contain a fast-growing Ebola outbreak.",
+        "verified_figures": [
+          "3800 people"
+        ],
+        "sources": [
+          {
+            "name": "Stuff",
+            "url": "https://www.stuff.co.nz/world-news/361037822/nearly-3800-people-are-dead-congo-struggles-contain-fast-growing-ebola-outbreak"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Strikes Kill Eight, Target Civilian Infrastructure",
+        "score": 7.0,
+        "body": "Recent Russian ballistic missile and drone attacks killed eight people across Ukraine, according to official reports. Strikes killed two individuals in Kyiv and six at an agricultural facility in the Kharkiv region, while a maternity clinic was also damaged. The strikes come as Ukrainian civilians prepare for winter amidst escalating Russian bombardment targeting critical energy infrastructure across the country.",
+        "verified_figures": [
+          "8 people killed",
+          "2 people killed in Kyiv",
+          "6 people killed in Kharkiv region"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/kyiv-under-missile-attack-emergency-crews-dispatched-two-districts-mayor-says-2026-09-23/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260924-as-moscow-steps-up-attacks-kyiv-residents-brace-for-harsh-winter"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — UN Officials and Coalition of 50 States Call for Ceasefire",
+        "score": 4.0,
+        "body": "UN Under-Secretary-General Rosemary DiCarlo called for an immediate, full, and unconditional ceasefire in Ukraine during a Security Council briefing on rising civilian risks. Additionally, a coalition of over 50 UN member states delivered a joint statement urging Moscow to accept an immediate ceasefire and return to peace negotiations. Moscow rejected the appeal. Concurrently, the United States and Russia engaged in talks during the UN General Assembly focused on reducing the conflict's impact on global energy.",
+        "verified_figures": [
+          "over 50 UN member states"
+        ],
+        "sources": [
+          {
+            "name": "People's Daily Online",
+            "url": "http://en.people.cn/n3/2026/0924/c90000-20503321.html"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks",
+        "score": 10.0,
+        "body": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/pakistan-afghanistan-border-fighting-66402ffe6fc48608ea4c32a099774c4c"
+          }
+        ]
+      },
+      {
+        "headline": "Floods, Hunger and Disease Pile on Myanmar’s Civil War Misery",
+        "score": 8.0,
+        "body": "Floods, Hunger and Disease Pile on Myanmar’s Civil War Misery YANGON, Myanmar, September 23 (IPS) - Isolated and at constant war with itself, Myanmar’s humanitarian crisis is deepening as global challenges far exceed the capacity to respond of a military regime increasingly focused on its own survival. The climate crisis, soaring commodity prices triggered by wars in Europe and the Middle East, plus worldwide cuts in donor aid are all hitting Myanmar hard. The regime’s inability to govern a fragmented and restive country with nearly four million internally displaced people has been exposed to the full since it seized power over five years ago. Widespread floods caused by heavy monsoon rains",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Global Issues.Org",
+            "url": "https://www.globalissues.org/news/2026/09/23/44125"
+          }
+        ]
+      },
+      {
+        "headline": "Human Rights Watch urges Myanmar to free women political prisoners after torture, abuse...",
+        "score": 7.0,
+        "body": "Human Rights Watch urges Myanmar to free women political prisoners after torture, abuse allegations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/myanmar-women-torture-prisons-sexual-abuse-military-5c7d2c4f37e27c0228cebb773b1653e6"
+          }
+        ]
+      },
+      {
+        "headline": "Rohingya refugees deserve a future beyond survival, not endless displacement",
+        "score": 7.0,
+        "body": "This article is published in association with United Nations. Nine years after the mass displacement of the Rohingya from Myanmar, their situation remains one of the world’s most protracted and complex refugee crises, marked by years of persecution and uncertainty over the prospect of returning home. Against this backdrop, senior UN officials on Wednesday renewed calls for a durable solution that would enable Rohingya refugees to return home safely and with dignity, while ensuring justice and accountability. UN High Commissioner for Refugees Barham Salih, a keynote speaker at a high-level event held on the sidelines of the 81st session of the General Assembly, reminded participants that near",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The European Sting",
+            "url": "https://europeansting.com/2026/09/24/rohingya-refugees-deserve-a-future-beyond-survival-not-endless-displacement/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "David Miliband: Aid cuts to blame for Ebola outbreak that has killed thousands",
+        "score": 10.0,
+        "body": "Former foreign secretary David Miliband has denounced \"bloody frustrating\" cuts in overseas aid by the Labour government. Claims that such aid spending is a waste of money makes him want to \"scratch my fingernails on the chalk board\" in exasperation, he says. In an exclusive interview with The Independent, Mr Miliband, who runs the US based International Rescue Committee aid organisation, also fiercely criticises cuts in aid by Donald Trump. In a wide ranging discussion with The Independent Editor-in-Chief Geordie Greig, he said the cuts are to blame for the outbreak of the deadly Ebola disease in Africa which has claimed more than 3,000 lives since May. Mr Miliband, a cabinet minister in th",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Yahoo News UK",
+            "url": "https://uk.news.yahoo.com/david-miliband-trump-blame-ebola-050000487.html"
+          }
+        ]
+      },
+      {
+        "headline": "US releases additional US$267mil to combat Ebola outbreak",
+        "score": 9.5,
+        "body": "“To date, the United States government has provided US$887 million in direct health and humanitarian assistance to combat the Ebola outbreak,” the US state department said in a statement, adding that Washington was the largest aid provider for the latest outbreak. The aid announcement, made on the sidelines of the UN General Assembly, also seeks to “call on capable nations to increase burden sharing to meet the urgency of the moment,” the statement said. Outgoing UN secretary-general Antonio Guterres last month issued an appeal to raise an additional $1.1 billion in aid against the epidemic, which continues to spread to new parts of the DRC, according to the NGO Doctors Without Borders (MSF)",
+        "verified_figures": [
+          "887 million in direct health",
+          "1.1 billion in aid against"
+        ],
+        "sources": [
+          {
+            "name": "Free Malaysia Today",
+            "url": "https://www.freemalaysiatoday.com/category/world/2026/09/24/us-releases-additional-us-267mil-to-combat-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Therapeutics for the 2026 Bundibugyo Ebola disease outbreak: Access gaps and recommenda...",
+        "score": 9.5,
+        "body": "Therapeutics for the 2026 Bundibugyo Ebola disease outbreak: Access gaps and recommendations The 2026 Ebola disease outbreak in the Democratic Republic of Congo (DRC) and Uganda, caused by the Bundibugyo Ebola virus (BDBV), has highlighted persistent challenges in prioritising research and development (R&D) for emerging pathogens before they become public health emergencies and in ensuring that resulting medical tools are accessible to those who need them most. There are currently no approved treatments for Ebola disease caused by BDBV, and three therapeutic candidates have been prioritised for clinical trials: the pan-ebolavirus antibody cocktail MBP134 and the antivirals remdesivir and obe",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "MSF Access",
+            "url": "https://msfaccess.org/therapeutics-2026-bundibugyo-ebola-disease-outbreak-access-gaps-and-recommendations"
+          }
+        ]
+      },
+      {
+        "headline": "RDC adds almost 7,800 cases and more than 3,750 deaths from Ebola",
+        "score": 9.5,
+        "body": "RDC adds almost 7,800 cases and more than 3,750 deaths from Ebola.",
+        "verified_figures": [
+          "7,800 cases",
+          "3,750 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/the-ebola-outbreak-approaches-7-800-cases-and-surpasses-3-750-deaths-in-the-democratic-republic-of-the-congo/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Pakistani airstrikes target Afghanistan after Islamabad accu",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/pakistan-afghanistan-border-fighting-66402ffe6fc48608ea4c32a099774c4c"
+        }
+      ]
+    },
+    {
+      "location": "David Miliband: Aid cuts to blame for Ebola outbreak that ha",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/david-miliband-trump-blame-ebola-050000487.html"
+        }
+      ]
+    },
+    {
+      "location": "Fact-checking Trump's speech at the United Nations General A",
+      "score": 9.5,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1"
+        }
+      ]
+    },
+    {
+      "location": "US releases additional US$267mil to combat Ebola outbreak",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Free Malaysia Today",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/09/24/us-releases-additional-us-267mil-to-combat-ebola-outbreak"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "France 24 English",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Free Malaysia Today",
+        "count": 2
+      },
+      {
+        "name": "Yahoo News UK",
+        "count": 2
+      },
+      {
+        "name": "news.un.org",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "Gistmania",
+        "count": 1
+      },
+      {
+        "name": "Global Issues.Org",
+        "count": 1
+      },
+      {
+        "name": "MSF Access",
+        "count": 1
+      },
+      {
+        "name": "People's Daily Online",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "Stuff",
+        "count": 1
+      },
+      {
+        "name": "The European Sting",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "Yeni Şafak English",
+        "count": 1
+      },
+      {
+        "name": "gCaptain",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "11 item(s) had no extractable figures in available reporting.",
+      "5 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 15/15 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 2/6 region(s) with candidate material generated via Gemini (LLM), 4 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1276,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
