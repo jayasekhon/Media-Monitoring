@@ -1,0 +1,495 @@
+{
+  "date": "2026-09-25",
+  "printed_time": "11:17 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Saudi Arabia intercepted Houthi ballistic missiles on Thursday after warning several regions, including Mecca, of possible attacks.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "A young doctor has died from Ebola in the Democratic Republic of Congo as the outbreak spreads beyond its original epicentre, driven by a mismatch between the circulating virus strain and available vaccines, alongside severe insecurity and community mistrust.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "El Niño Flooding: UN, Somalia warn of worsening hunger, malnutrition The United Nations and Somalia have warned that millions of people across the country would face worsened levels of hunger alongside acute malnutrition among children amid the anticipated El Niño flood threat between October and December.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Hunger And Malnutrition Crises Persist In Somalia As Projected Floods And Funding Shortfalls Threaten Vulnerable Populations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Saudi Arabia intercepted Houthi ballistic missiles on Thursday after warning several regions, including Mecca, of possible attacks.",
+    "label": "MIDDLE EAST — Saudi reports fresh Houthi attacks as France pledges to defend key oil port"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen / Saudi Arabia — Cross-border missile attacks and escalating domestic fighting",
+        "score": 7.0,
+        "body": "Saudi Arabia intercepted six Houthi ballistic missiles targeting several domestic regions, including Mecca, prompting France to pledge military assets to protect the Yanbu oil terminal. The cross-border escalation coincides with renewed fighting in Yemen that has killed dozens of people. UNICEF reported that the intensifying conflict is driving fresh displacement and worsening severe hunger and child malnutrition, placing heavy pressure on emergency displacement facilities such as Aden's Al Firdous center.",
+        "verified_figures": [
+          "6 ballistic missiles intercepted",
+          "dozens killed"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20260924-saudi-houthi-attacks-france-oil-port"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/sep/25/first-thing-netanyahu-lambast-israel-critics-un"
+          },
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/hunger-and-malnutrition-stalking-yemens-children-violence-escalates"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Vehicle attack critically injures Israeli reservist in West Bank",
+        "score": 4.0,
+        "body": "An Israeli military reservist was critically injured in a car-ramming attack at a security checkpoint near the Beit Horon settlement in the occupied West Bank. Israeli forces present at the scene opened fire on the Palestinian driver following the incident.",
+        "verified_figures": [
+          "1 military reservist critically injured"
+        ],
+        "sources": [
+          {
+            "name": "PBS",
+            "url": "https://www.pbs.org/newshour/amp/world/son-of-israels-ambassador-to-u-s-critically-injured-in-attack-in-occupied-west-bank"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza Strip / Israel — Rights group alleges systematic blockade of basic supplies",
+        "score": 6.0,
+        "body": "A human rights organization published an investigation alleging that senior commanders of Israel's COGAT military unit directed a government-sanctioned blockade restricting food, water, fuel, and medical supplies from entering the Gaza Strip between October 2023 and mid-2026. The report asserts that administrative restrictions on humanitarian aid created severe food insecurity and extreme physical suffering across the enclave.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "dawnmena.org",
+            "url": "https://dawnmena.org/israel-maj-gens-ghassan-alian-and-yoram-halevy-administered-campaign-of-starvation-in-gaza/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Mexico / United States — Category 5 Hurricane Polo threatens southwestern coast as Hurricane Nolo targets Hawaii",
+        "score": 8.0,
+        "body": "Hurricane Polo has intensified back into a Category 5 storm off southwestern Mexico, bringing severe rainfall and flood risks to coastal regions. The U.S. National Hurricane Center reported maximum sustained winds of 160 mph, with the core positioned about 250 miles south-southwest of Cabo Corrientes. Fluctuations in intensity are expected over 12 to 24 hours before weakening begins. Concurrently, Hurricane Nolo is tracking toward Hawaii's Big Island, representing the state's third hurricane threat of the year.",
+        "verified_figures": [
+          "maximum sustained winds of 160 mph",
+          "storm core located 250 miles south-southwest of Cabo Corrientes",
+          "third hurricane threat of the year for Hawaii"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREVtVnNQTENPVGtPZU03Y2R5TVZyNEFUZ3lVNlhnQkxZeHlGcmttZHJNQll0b2p1a0IwbjJjSWRpLTZzSlliMnpIVWtKZHdldkJUaXBGczkyLVdpUWxMRG5EMUM4dGc2UnkwVmlSaFZQNnFkVmFhOWxBOU9XTVZEVTBBalE5Q2N1LW5vZUpDTlBTMTVwSDRqVg?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Government pledges $267 million in additional health assistance to combat Ebola outbreak",
+        "score": 7.0,
+        "body": "The United States State Department has pledged an additional $267 million in funding to help contain a fast-spreading Ebola outbreak. The allocation supplements $887 million previously provided by the U.S. government. According to official statements, the new funding will support the construction of treatment units, safe burial practices, and expanded containment programs aimed at stopping further transmission.",
+        "verified_figures": [
+          "$267 million in additional aid pledged",
+          "$887 million previously provided"
+        ],
+        "sources": [
+          {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/24/us-pledges-an-additional-267-million-contain-fast-spreading-ebola/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Protection, education, and health risks persist three months after major earthquakes",
+        "score": 6.0,
+        "body": "Humanitarian organisations report sustained risks to child protection, education, and health services three months after destructive earthquakes hit Venezuela in June. Lingering physical and psychological impacts continue to affect local populations. Aid workers operating between Valencia and Caracas note that lingering infrastructural damage and quiet aftershocks present long-term challenges for displaced communities struggling to rebuild.",
+        "verified_figures": [
+          "three months elapsed since June earthquakes"
+        ],
+        "sources": [
+          {
+            "name": "World Vision International (WVI)",
+            "url": "https://www.wvi.org/newsroom/venezuela-crisis-humanitarian-response/three-months-after-earthquake-venezuela-risks-child"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Ebola Outbreak Surges Amid Strain Mismatch and Insecurity",
+        "score": 8.0,
+        "body": "An Ebola outbreak in the Democratic Republic of the Congo is spreading beyond its epicentre, driven by a strain-vaccine mismatch, insecurity, and community mistrust. While infections decreased in Ituri province, North Kivu registered a 73 percent surge in cases over three weeks, and a doctor died in Kisangani. The World Health Organization warned the outbreak could become the deadliest on record. To support response efforts, the United States pledged an additional $267 million in humanitarian assistance, bringing its total contribution for this outbreak to $887 million.",
+        "verified_figures": [
+          "73 per cent surge in infections in North Kivu over three weeks",
+          "$267 million in additional US aid",
+          "$887 million total US aid provided for current outbreak"
+        ],
+        "sources": [
+          {
+            "name": "Channels Television",
+            "url": "https://www.channelstv.com/2026/09/24/ebola-us-supports-dr-congo-with-additional-267m-to-combat-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Anticipated El Niño Floods Threaten Millions with Acute Hunger",
+        "score": 7.0,
+        "body": "The United Nations and Somali authorities warned that anticipated El Niño flooding between October and December will severely aggravate hunger and child malnutrition. Latest Integrated Food Security Phase Classification data projects that 5.4 million people will face crisis levels of food insecurity or worse, with 1.5 million reaching emergency levels. Additionally, 1.92 million children under five will require treatment for malnutrition, including 433,000 children affected by severe acute malnutrition.",
+        "verified_figures": [
+          "5.4 million people facing crisis levels of hunger or worse",
+          "1.5 million facing emergency levels of hunger or worse",
+          "1.92 million children under five requiring malnutrition treatment",
+          "433,000 children with severe acute malnutrition"
+        ],
+        "sources": [
+          {
+            "name": "Peoples Gazette Nigeria",
+            "url": "https://gazettengr.com/el-nino-flooding-un-somalia-warn-of-worsening-hunger-malnutrition/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Priest killed and four injured in knife attack at Polish abbey",
+        "score": 10.0,
+        "body": "Priest killed and four injured in knife attack at Polish abbey. A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Multiple regions in Russia come under Ukrainian drone attacks",
+        "score": 7.5,
+        "body": "Multiple regions in Russia come under Ukrainian drone attacks. Ukraine has targeted an industrial plant in Russia's Perm region with a massive drone swarm.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine kills two in drone attacks on Russia, hits oil refinery and train, officials say",
+        "score": 7.5,
+        "body": "Ukraine kills two in drone attacks on Russia, hits oil refinery and train, officials say.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/eight-injured-drone-attack-russias-ulyanovsk-region-one-killed-belgorod-region-2026-09-25/"
+          }
+        ]
+      },
+      {
+        "headline": "Stabbing at Catholic convent in Poland leaves 1 person dead and 4 wounded",
+        "score": 6.5,
+        "body": "Stabbing at Catholic convent in Poland leaves 1 person dead and 4 wounded.",
+        "verified_figures": [
+          "4 wounded"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/poland-stabbing-convent-jaroslaw-9592a9fc8b97b815d9ee647c0fa7c15f"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks",
+        "score": 10.0,
+        "body": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/pakistan-afghanistan-border-fighting-66402ffe6fc48608ea4c32a099774c4c"
+          }
+        ]
+      },
+      {
+        "headline": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "score": 8.5,
+        "body": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says. Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "ASIA/MYANMAR — Bishop among displaced people in Kachin State: “You are not forgotten”",
+        "score": 7.0,
+        "body": "RVA Myitkyina (Fides News Agency) — They brought hope and spiritual consolation to more than 1,000 internally displaced people living in the St. Teresa refugee camp, described as “the most vulnerable faithful of the Diocese of Myitkyina,” in Myanmar’s Kachin State, a region gripped by civil conflict. Bishop John Mung Ngawn La Sam, at the head of the Diocese of Myitkyina, together with several priests and consecrated lay Catholics, visited the camp, where the Bishop celebrated Sunday Mass and administered the Sacrament of Confirmation to seven adult faithful. “It was a moment of grace amid the continuing hardships faced by the displaced families,” said the local parish priest, Father Peter La",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "fides.org",
+            "url": "https://www.fides.org/en/news/78210-ASIA_MYANMAR_Bishop_among_displaced_people_in_Kachin_State_You_are_not_forgotten"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "This 8% Yield Bond ETF Bets Against Hurricanes, Earthquakes and Wildfires",
+        "score": 10.0,
+        "body": "This 8% Yield Bond ETF Bets Against Hurricanes, Earthquakes and Wildfires Most bond investors bet on interest rates or corporate survival. A small corner of the fixed-income market takes a completely different wager, one where the Federal Reserve is irrelevant and the real question is whether a hurricane makes landfall. This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them. Bond investors generally get paid for accepting one of two major risks: credit, duration, or some combination of both. Buy high-yield corporate bonds and you’re compensated for lending to companies with a greater chance of default. Buy",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "24/7 Wall St.",
+            "url": "https://247wallst.com/investing/etf/2026/09/24/this-8-yield-bond-etf-bets-against-hurricanes-earthquakes-and-wildfires/"
+          }
+        ]
+      },
+      {
+        "headline": "GT Exclusive: Chinese medical experts share frontline experience in tackling Africa’s s...",
+        "score": 9.5,
+        "body": "A staff member hangs up gloves to dry after washing them at the Ebola Treatment Center (ETC) in Munigi, in the Democratic Republic of the Congo on June 2, 2026. Photo: VCG Since arriving in the Democratic Republic of the Congo (DRC), Wang Ji, a member of China's third medical expert team for the Ebola response and an expert with the Chinese Center for Disease Control and Prevention's National Institute for Viral Disease Control and Prevention, has been grappling with one question: As the Ebola outbreak intensifies, how can China's experience be better adapted to the realities of local primary healthcare systems? In April, a nurse from Ituri Province in northeastern DRC died after developing",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "globaltimes.cn",
+            "url": "https://www.globaltimes.cn/page/202609/1371272.shtml"
+          }
+        ]
+      },
+      {
+        "headline": "US releases additional US$267mil to combat Ebola outbreak",
+        "score": 9.5,
+        "body": "“To date, the United States government has provided US$887 million in direct health and humanitarian assistance to combat the Ebola outbreak,” the US state department said in a statement, adding that Washington was the largest aid provider for the latest outbreak. The aid announcement, made on the sidelines of the UN General Assembly, also seeks to “call on capable nations to increase burden sharing to meet the urgency of the moment,” the statement said. Outgoing UN secretary-general Antonio Guterres last month issued an appeal to raise an additional $1.1 billion in aid against the epidemic, which continues to spread to new parts of the DRC, according to the NGO Doctors Without Borders (MSF)",
+        "verified_figures": [
+          "887 million in direct health",
+          "1.1 billion in aid against"
+        ],
+        "sources": [
+          {
+            "name": "Free Malaysia Today",
+            "url": "https://www.freemalaysiatoday.com/category/world/2026/09/24/us-releases-additional-us-267mil-to-combat-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Why Has The Fastest-growing Ebola Outbreak Ever Been So Difficult To Contain?",
+        "score": 9.5,
+        "body": "Why Has The Fastest-growing Ebola Outbreak Ever Been So Difficult To Contain? Advertisement Advertisement Why Has The Fastest-growing Ebola Outbreak Ever Been So Difficult To Contain?",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Yahoo News UK",
+            "url": "https://uk.news.yahoo.com/why-fastest-growing-ebola-outbreak-120242249.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Pakistani airstrikes target Afghanistan after Islamabad accu",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/pakistan-afghanistan-border-fighting-66402ffe6fc48608ea4c32a099774c4c"
+        }
+      ]
+    },
+    {
+      "location": "This 8% Yield Bond ETF Bets Against Hurricanes, Earthquakes ",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/etf/2026/09/24/this-8-yield-bond-etf-bets-against-hurricanes-earthquakes-and-wildfires/"
+        }
+      ]
+    },
+    {
+      "location": "United States: United States Pledges Additional Life-Saving ",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The St Kitts Nevis Observer",
+          "url": "https://www.thestkittsnevisobserver.com/united-states-united-states-pledges-additional-life-saving-health-assistance-in-response-to-ebola-outbreak/"
+        }
+      ]
+    },
+    {
+      "location": "Almost $3 Billion Raised For DRC’s Ebola Outbreak, As Focus ",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "healthpolicy-watch.news",
+          "url": "https://healthpolicy-watch.news/almost-3-billion-raised-for-drcs-ebola-outbreak-as-focus-shifts-to-nord-kivu/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "24/7 Wall St.",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Channels Television",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Free Malaysia Today",
+        "count": 1
+      },
+      {
+        "name": "PBS",
+        "count": 1
+      },
+      {
+        "name": "Peoples Gazette Nigeria",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The St Kitts Nevis Observer",
+        "count": 1
+      },
+      {
+        "name": "The Washington Post",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "World Vision International (WVI)",
+        "count": 1
+      },
+      {
+        "name": "Yahoo News UK",
+        "count": 1
+      },
+      {
+        "name": "dawnmena.org",
+        "count": 1
+      },
+      {
+        "name": "fides.org",
+        "count": 1
+      },
+      {
+        "name": "globaltimes.cn",
+        "count": 1
+      },
+      {
+        "name": "healthpolicy-watch.news",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "10 item(s) had no extractable figures in available reporting.",
+      "7 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 13/13 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 3/6 region(s) with candidate material generated via Gemini (LLM), 3 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1257,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
