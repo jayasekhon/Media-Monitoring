@@ -1,0 +1,406 @@
+{
+  "date": "2026-09-26",
+  "printed_time": "10:55 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola Bundibugyo outbreak in the Democratic Republic of the Congo has expanded into two new health zones, pushing total infections to 7,890 and deaths to 3,799 across seven provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Spreading gang violence across Haiti has displaced nearly 1.5 million people, with armed groups expanding outside the capital into Artibonite and Kenscoff.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Intensified fighting in Yemen following the Houthi capture of Mokha has left 15 children dead and threatens to displace up to 230,000 people amid acute resource shortages.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Category 5 Hurricane Polo off western Mexico and Hurricane Nolo approaching Hawaii threaten vulnerable coastal communities with destructive winds and severe flooding.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Russian missile strikes on Kyiv killed at least seven people and damaged digital infrastructure as the European Union agreed to release €6.6 billion in military assistance.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The expansion of the Ebola virus into two additional health zones in the Democratic Republic of the Congo has driven total cases to nearly 7,900 and deaths past 3,700, threatening to overwhelm regional health systems.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Houthi advances and escalating conflict drive child casualties and displacement",
+        "score": 7.5,
+        "body": "Intensifying conflict in Yemen, including the Houthi capture of the port town of Mokha, has triggered a new exodus toward Aden and across the Red Sea. Displaced families fleeing the violence face severe water shortages, inadequate shelter, and worsening child malnutrition, particularly in Taiz and Aden displacement centers. UNICEF reports that at least 15 children have been killed and 14 injured since the escalation began. Additionally, UN refugee officials warn that displacement is rapidly outpacing humanitarian solutions, leaving up to 230,000 Yemenis at risk of being forced from their homes as violence worsens.",
+        "verified_figures": [
+          "15 children killed",
+          "14 children injured",
+          "230,000 Yemenis at risk of displacement"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/yemen/press-releases/hunger-and-malnutrition-stalking-yemens-children-violence-escalates"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East — IRGC launches missile strikes on US base in Jordan and Strait of Hormuz shipping",
+        "score": 6.5,
+        "body": "Iran’s Islamic Revolutionary Guard Corps has executed ballistic missile attacks targeting a US military base in Jordan alongside repeated strikes against maritime traffic in the Strait of Hormuz. Tankers in the strategic waterway are reportedly being targeted at an average rate of two to three per day. The offensive represents a major escalation in regional tensions, directly impacting commercial shipping lanes and military installations across the Middle East, while claims surface regarding undisclosed casualties and operational damage.",
+        "verified_figures": [
+          "average of two to three tankers targeted daily in the Strait of Hormuz"
+        ],
+        "sources": [
+          {
+            "name": "Orinoco Tribune",
+            "url": "https://orinocotribune.com/iran-launches-surprise-attacks-on-us-bases-as-trump-covers-up-soldier-casualties/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang violence drives countrywide displacement to nearly 1.5 million",
+        "score": 8.0,
+        "body": "Worsening gang violence across Haiti has displaced nearly 1.5 million people nationwide, according to a report by the International Organization for Migration. Security conditions have degraded significantly as armed groups expand control beyond Port-au-Prince into rural regions, with nearly 80 percent of all internally displaced persons now residing outside the capital. Recent gang offensives in the Artibonite department and Kenscoff—where violence, arson, kidnappings, and killings displaced over 4,000 residents—have severely affected formerly stable communities, further compounding protection risks and escalating humanitarian needs across the country.",
+        "verified_figures": [
+          "nearly 1.5 million people uprooted",
+          "nearly 80 percent of internally displaced population located outside Port-au-Prince",
+          "over 4,000 people displaced in Kenscoff"
+        ],
+        "sources": [
+          {
+            "name": "dailycountrytodaybd.com",
+            "url": "https://dailycountrytodaybd.com/story/nearly-1.5m-displaced-in-haiti-as-gang-violence-spreads:-un"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico & United States — Category 5 Hurricane Polo and Hurricane Nolo bring severe storm threats",
+        "score": 6.5,
+        "body": "Pacific storms are threatening coastal communities in Mexico and Hawaii with severe flooding and storm damage. Hurricane Polo regained Category 5 intensity off Mexico's western coast, drenching shoreline communities, damaging coastal infrastructure near Lazaro Cardenas, and forcing precautionary evacuations. Simultaneously, Hurricane Nolo is moving toward Hawaii. Forecasters warn that the Big Island could receive between 15 and 30 inches of rainfall, raising significant risks of life-threatening flooding and landslips across both the Big Island and Maui.",
+        "verified_figures": [
+          "15 to 30 inches of rainfall"
+        ],
+        "sources": [
+          {
+            "name": "reuters.com",
+            "url": "https://www.reuters.com/business/environment/hurricane-polo-regains-category-5-strength-off-mexico-new-cyclone-threat-brews-2026-09-25/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/hurricane-nolo-hawaii-polo-mexico-e92145be4b564484025132cdf3d0de90"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak expands to new health zones as death toll nears 3,800",
+        "score": 9.0,
+        "body": "An outbreak of the Bundibugyo Ebola virus in the Democratic Republic of the Congo has expanded into two additional health zones, Bulu in Sud Ubangi and Dunghu in Haut Uele. According to health monitoring data, transmission has affected 63 health zones across seven provinces, with 49 zones actively reporting cases. Total recorded infections have reached 7,890, while the death toll has risen to 3,799, representing a crude case-fatality rate of 48.1%. Fragile health systems and ongoing conflict in remote communities continue to impede response efforts, while G20+ leaders have pledged $2.9 billion to aid containment operations.",
+        "verified_figures": [
+          "7,890 total cases",
+          "3,799 deaths",
+          "48.1% case-fatality rate",
+          "63 affected health zones",
+          "7 affected provinces",
+          "$2.9 billion pledged by G20+ leaders"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-congo-ebola-outbreak-spreads-two-new-health-zones-2026-09-25/"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Confirmed mpox case reported in Ebola epicenter",
+        "score": 5.0,
+        "body": "A case of mpox has been confirmed in a northeastern city in the Democratic Republic of the Congo that serves as a central location for the ongoing Ebola response. The presence of mpox alongside the widespread Ebola outbreak presents added health risks to local populations and heightens operational strain on surveillance and health infrastructure in conflict-affected regions.",
+        "verified_figures": [
+          "1 confirmed mpox case"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mpox-case-confirmed-northeastern-congolese-city-center-ebola-outbreak-2026-09-25/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Drone attack targets displacement shelter in El Obeid",
+        "score": 5.0,
+        "body": "A drone strike carried out by the Rapid Support Forces hit a shelter for displaced persons in El Obeid, Sudan, killing two people, according to local authorities. The incident highlights the persistent security and protection threats facing internally displaced populations as civilian sites continue to be caught in conflict across the country.",
+        "verified_figures": [
+          "2 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Sudan Tribune",
+            "url": "https://sudantribune.com/article/319268"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes kill seven in Kyiv amid attacks on digital infrastructure",
+        "score": 6.5,
+        "body": "At least seven people were killed in Russian strikes on Kyiv, according to local authorities. Ukrainian President Volodymyr Zelenskyy reported that Russian forces are also attacking data centres to disrupt civilian connectivity, education, and employment. In response to ongoing hostilities, European Union foreign policy chief Kaja Kallas announced that EU countries agreed to release €6.6 billion to reimburse member states supplying arms to Ukraine.",
+        "verified_figures": [
+          "at least 7 killed",
+          "€6.6 billion released by EU"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260925-eu-releases-%E2%82%AC6-6-billion-for-members-arming-ukraine-as-five-killed-in-kyiv"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/fr/node/3843635"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Australia commits US$42 million for humanitarian, energy, and defense aid",
+        "score": 3.5,
+        "body": "Following a meeting at the UN General Assembly, Australian Prime Minister Anthony Albanese and Ukrainian President Volodymyr Zelenskyy signed a bilateral security agreement unlocking US$42 million in new assistance. The package will be distributed among Australian Defense Force equipment, Ukraine’s Energy Support Fund, and direct humanitarian aid. This contribution brings Australia’s total financial and military commitment to Ukraine to nearly US$1.4 billion since the conflict began.",
+        "verified_figures": [
+          "US$42 million in new assistance",
+          "US$1.4 billion total contribution"
+        ],
+        "sources": [
+          {
+            "name": "thediplomat.com",
+            "url": "https://thediplomat.com/2026/09/whats-behind-australias-new-42-million-in-assistance-to-ukraine/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar/Bangladesh — UN and Dhaka Demand Safe Conditions and Rights for Rohingya Return",
+        "score": 6.5,
+        "body": "Senior United Nations officials and Bangladeshi authorities have called for comprehensive political and security guarantees in Myanmar's Rakhine State to enable the safe return of Rohingya refugees. Bangladesh's State Minister for Foreign Affairs emphasized the need for legal recognition, citizenship rights, freedom of movement, and access to basic services before repatriation can occur. Over 742,000 Rohingya fled to Bangladesh following military persecution in 2017, where hundreds of thousands remain displaced without formal legal identity. UN officials warned that sustainable solutions require addressing statelessness and ensuring justice and accountability in Myanmar.",
+        "verified_figures": [
+          "742,000 ethnic Rohingya fled Myanmar to Bangladesh in 2017"
+        ],
+        "sources": [
+          {
+            "name": "Jurist.org",
+            "url": "https://www.jurist.org/news/2026/09/myanmar-refugee-crisis-requires-longstanding-solutions-un-says/"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan/Afghanistan — Border Clash Reported as Hostilities Impact Civilians",
+        "score": 5.5,
+        "body": "Pakistan reported killing 13 Afghan Taliban personnel during an overnight border clash, a claim disputed by officials in Kabul. The incident reflects escalating cross-border friction, which continues to impose severe humanitarian hardship on Afghan civilians. Recent enforcement measures and military operations by Pakistani authorities have reportedly caused casualties, mass detentions, forced return of journalists, and student expulsions. The ongoing tensions aggravate displacement challenges and security risks for Afghans living in border areas and neighboring communities.",
+        "verified_figures": [
+          "13 Afghan Taliban personnel reported killed by Pakistan"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/pakistan-afghanistan-overnight-border-fighting-southwest-787f857b24c3737c1cdfbabc2086657e"
+          }
+        ]
+      },
+      {
+        "headline": "India/Myanmar — Four Killed Near Border Amid Regional Violence Spillover",
+        "score": 4.5,
+        "body": "Four Nagas were killed near the Indo-Myanmar border in Manipur, India, with local authorities suspecting involvement by the Kuki National Front (Burma). Local leadership noted that the attack highlights rising spillover risks from ongoing armed conflict between the Myanmar military and resistance forces. State officials urged the Indian government to give greater attention and security oversight to the border area as instability along the frontier continues to endanger local civilian populations.",
+        "verified_figures": [
+          "4 Nagas killed near border"
+        ],
+        "sources": [
+          {
+            "name": "Deccan Herald",
+            "url": "https://www.deccanherald.com/india/manipur/four-nagas-killed-near-myanmar-border-in-manipur-knfb-suspected-4159949"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Mpox confirmed in Bunia amidst ongoing Ebola outbreak",
+        "score": 8.0,
+        "body": "Health authorities in the Democratic Republic of Congo have confirmed a laboratory-verified mpox case in a 21-year-old woman in Bunia, with a second woman isolated as a suspected case. The development comes as the country battles an outbreak of the Ebola Bundibugyo virus now in its fourth month. Response efforts are concentrated in remote, conflict-affected areas with fragile health systems. The resurgence of Ebola poses severe operational challenges, exacerbated by recent funding cuts to USAID, which threaten vaccine distribution, surveillance, and health response capacity in high-risk zones.",
+        "verified_figures": [
+          "1 confirmed mpox case",
+          "1 suspected mpox case",
+          "nearly 7,900 Ebola infections reported since May",
+          "3,800 Ebola deaths reported since May"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/ebola-outbreak-can-africa-hold-the-line-after-usaid-cuts/audio-77247442"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — UNICEF and local agencies bolster flood and cholera preparedness",
+        "score": 4.0,
+        "body": "UNICEF and the Rivers State Primary Healthcare Management Board have organized a three-day capacity-building workshop in Port Harcourt to strengthen multisectoral preparedness for impending floods and potential cholera outbreaks. The initiative brings together key government ministries, departments, and agencies to build a coordinated action plan. The strategy aims to mitigate public health emergencies and environmental impacts across approximately ten states in the region.",
+        "verified_figures": [
+          "about 10 states targeted for coordinated action plan"
+        ],
+        "sources": [
+          {
+            "name": "AIT LIVE",
+            "url": "https://ait.live/unicef-rivers-state-mdas-move-to-strengthen-multisectoral-preparedness-to-flood-cholera-outbreak/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Strait of Hormuz and Jordan",
+      "score": 6.5,
+      "trigger": "Continued missile strikes on military facilities in Jordan or escalating daily attacks against commercial shipping in the Strait of Hormuz could provoke direct international military intervention.",
+      "potential_impact": "Widespread military escalation would disrupt strategic trade routes and severely restrict regional humanitarian operations and supply chains.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Orinoco Tribune",
+          "url": "https://orinocotribune.com/iran-launches-surprise-attacks-on-us-bases-as-trump-covers-up-soldier-casualties/"
+        }
+      ]
+    },
+    {
+      "location": "Pakistan-Afghanistan Border",
+      "score": 5.5,
+      "trigger": "Further retaliatory military strikes following overnight clashes that killed 13 Taliban personnel could trigger wider cross-border warfare.",
+      "potential_impact": "Expanded border fighting risks causing civilian casualties, forced returns, and mass displacement among vulnerable border communities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/pakistan-afghanistan-overnight-border-fighting-southwest-787f857b24c3737c1cdfbabc2086657e"
+        }
+      ]
+    },
+    {
+      "location": "El Obeid, Sudan",
+      "score": 5.0,
+      "trigger": "Repeated drone attacks targeting displacement centers in El Obeid could spark intensified urban ground fighting between warring factions.",
+      "potential_impact": "Direct strikes on temporary shelters endanger displaced civilians and force vulnerable populations into secondary displacement without access to basic aid.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Sudan Tribune",
+          "url": "https://sudantribune.com/article/319268"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "Orinoco Tribune",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "Sudan Tribune",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AIT LIVE",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Deccan Herald",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Jurist.org",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "dailycountrytodaybd.com",
+        "count": 1
+      },
+      {
+        "name": "reuters.com",
+        "count": 1
+      },
+      {
+        "name": "thediplomat.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1157,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
