@@ -1,0 +1,446 @@
+{
+  "date": "2026-09-27",
+  "printed_time": "11:32 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A laboratory-confirmed case of mpox was identified in the northeastern Congolese city of Bunia, the director of a local hospital and two health officials said, raising concerns about a resurgence of the disease as the country battles its worst Ebola outbreak on record.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations MOGADISHU, 23 September 2026 – Millions of people across Somalia continue to face high levels of hunger, while acute malnutrition among children is set to worsen over the coming months as heavy flooding associated with the anticipated El Niño is expected to worsen the situation during October to December 2026, the Federal Government of Somalia and the United Nations (UN) warned today.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "At least 16 people were killed over the past 24 hours as Russia and Ukraine traded deadly drone and missile strikes, authorities from both countries said Saturday.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "Two Injured, Monastery Burned, and Livestock Killed in Junta Airstrikes on Gwa Township.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "The Nigerian Correctional Service (NCoS), through its Public Relations Officer, Chief Superintendent of Corrections JN Osuji, has confirmed the death of two inmates following a cholera outbreak at the Kurmawa Medium Security Custodial Centre in Kano State.",
+      "region": "Global / Cross-Cutting"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "A laboratory-confirmed case of mpox was identified in the northeastern Congolese city of Bunia, the director of a local hospital and two health officials said, raising concerns about a resurgence of the disease as the country battles its worst Ebola outbreak on record.",
+    "label": "AFRICA — Mpox case confirmed in northeastern Congolese city at center of Ebola outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza death toll rises to 74,016 as Israeli attacks continue despite ceasefire",
+        "score": 9.5,
+        "body": "Gaza death toll rises to 74,016 as Israeli attacks continue despite ceasefire.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "İlke Haber Ajansı",
+            "url": "https://ilkha.com/english/world/gaza-death-toll-rises-to-74016-as-israeli-attacks-continue-despite-ceasefire-565161"
+          }
+        ]
+      },
+      {
+        "headline": "West Asia Conflict Enters Eighth Day as United States, Israel and Iran Launch Fresh Air...",
+        "score": 8.0,
+        "body": "The intense military conflict in West Asia has entered its eighth day today, escalating into a wider regional confrontation as the United States, Israel, and Iran continue with a new wave of airstrikes and drone attacks. Tensions escalated in the region after a joint US-Israel military strike on Iran on the 28th of last month, killing Iran’s Supreme Leader Ayatollah Ali Khamenei and other military commanders, prompting a fierce retaliatory attack by Tehran. Amid the escalating tensions, US President Donald Trump’s administration approved a new 151 million US dollar arms sale to Israel. Airstrikes hit the Iranian capital in the early hours today. A video circulating on social media showed Teh",
+        "verified_figures": [
+          "151 million US dollar arms"
+        ],
+        "sources": [
+          {
+            "name": "newsonair.gov.in",
+            "url": "https://newsonair.gov.in/west-asia-conflict-enters-eighth-day-as-united-states-israel-and-iran-launch-fresh-airstrikes/"
+          }
+        ]
+      },
+      {
+        "headline": "UK police make arrests, evacuate homes in ‘major incident’ near air base used by US for...",
+        "score": 8.0,
+        "body": "British police said they had evacuated homes Sunday near the air base of Fairford in southwest England used by US air forces and arrested several men over suspected explosives offenses. Fairford, in ⁠Gloucestershire, has been used by the US to launch operations against Iran.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260927-uk-police-evacuate-homes-near-air-base-used-by-us-arrest-men-on-suspected-explosives-offenses"
+          }
+        ]
+      },
+      {
+        "headline": "Massive Attack singer arrested over pro-Palestine protest in UK",
+        "score": 7.5,
+        "body": "Massive Attack singer arrested over pro-Palestine protest in UK A singer from English band Massive Attack, Robert Del Naja, was arrested in Liverpool while protesting genocide in Gaza and denouncing the UK’s ban on Palestine Action. Demonstrators had gathered to demand the UK stops arming Israel ahead of the first Labour Party conference under new Prime Minister Andy Burnham.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Mexico/United States — Major Hurricane Polo threatens Pacific coast and southwestern US",
+        "score": 7.0,
+        "body": "Hurricane Polo, a major Pacific cyclone with maximum sustained winds of 120 mph, is threatening northwestern and southwestern Mexico ahead of expected landfall in Baja California on Monday. The National Hurricane Center issued hurricane warnings spanning from Baja California Sur to Santa Fe, New Mexico. The storm is forecast to submerge coastal areas in Guerrero state with 4 to 6 inches (10 to 15 centimeters) of rainfall, fueling risks of mudslides and flooding. As Polo moves inland, it is expected to track over New Mexico as a tropical depression, bringing monsoonal moisture, heavy rain, and flash flooding risks to the state.",
+        "verified_figures": [
+          "maximum sustained winds of 120 mph",
+          "4 to 6 inches (10 to 15 centimeters) of rain"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/category-5-hurricane-polo-threatens-mexicos-coast-landfall-expected-monday-2026-09-26/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://theparisnews.com/ap/international/hurricane-polo-fuels-fears-of-landslides-in-mexicos-southwest-as-nolo-closes-in-on-hawaii/article_92ca7aa9-209c-5b79-9df3-df89dd2fd23d.html"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Hurricane Nolo threatens Hawaii with heavy rainfall and flooding",
+        "score": 6.5,
+        "body": "Hurricane Nolo passed approximately 210 miles south of Hawaii's Big Island, threatening southern and eastern areas with severe rain and potential catastrophic flooding. The U.S. National Hurricane Center warned that tropical storm conditions would begin impacting land, bringing forecasted rainfall totals of 10 to 15 inches, with isolated maximums reaching up to 25 inches. Local communities prepared for life-threatening flash floods as the system moved northeastward across the Pacific Ocean.",
+        "verified_figures": [
+          "210 miles south of the Big Island",
+          "10 to 15 inches of rain",
+          "maximum of 25 inches of rain"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://www.adn.com/nation-world/2026/09/25/hurricane-nolo-threatening-hawaii-with-heavy-rain-as-polo-churns-near-mexico/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Escalating Ebola Epidemic and Mpox Co-Infection Risks",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo is facing its largest Ebola outbreak on record, driven by the Bundibugyo species for which no approved vaccine exists. Ministry of Health figures through 24 September 2026 document 7,946 confirmed cases and 3,833 deaths across seven provinces, reflecting a 48.2 percent fatality rate. Ituri province remains the epicentre. Response measures are lagging significantly, with Africa CDC reporting that contact tracers have identified roughly 30,000 individuals out of an estimated 420,000 required contacts. Concerns have further escalated after health officials confirmed a case of mpox in Bunia, the city at the heart of the Ebola outbreak.",
+        "verified_figures": [
+          "7,946 confirmed Ebola cases",
+          "3,833 Ebola deaths",
+          "48.2 percent case fatality rate",
+          "30,000 contacts identified of ~420,000 required"
+        ],
+        "sources": [
+          {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/sci-tech/health/mpox-case-confirmed-in-northeastern-congolese-city-at-center-of-ebola-outbreak/article71515372.ece"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Acute Hunger and Malnutrition Threatened by Projected El Niño Floods",
+        "score": 7.0,
+        "body": "Millions of people across Somalia continue to experience acute hunger, with child malnutrition expected to worsen between October and December 2026. The Federal Government of Somalia and the United Nations warned that heavy flooding driven by anticipated El Niño conditions will likely aggravate food insecurity and health risks across affected regions. Relief operations face substantial challenges in meeting rising needs due to ongoing severe funding shortfalls.",
+        "verified_figures": [
+          "millions facing high levels of hunger"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/hunger-and-malnutrition-crises-persist-somalia-projected-floods-and-funding"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Reciprocal air strikes cause civilian fatalities and hit infrastructure",
+        "score": 7.0,
+        "body": "Reciprocal long-range drone and missile strikes between Russia and Ukraine have killed at least 16 people over a 24-hour period, according to official statements from both nations. The United Nations cautioned against escalating civilian fatalities as both sides expanded strikes on critical infrastructure. Russian drone strikes caused fires and fatalities in urban areas, including Kyiv, as long-range attacks intensified across the region.",
+        "verified_figures": [
+          "At least 16 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-germany-drones-strikes-f91ac88ee287bad2a3c99d2608975f53"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260926-at-least-16-people-killed-as-russia-and-ukraine-trade-deadly-air-strikes"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Severe food shortages and risk to life in Russian-occupied Oleshky",
+        "score": 7.5,
+        "body": "Civilians remaining in the Russian-occupied Ukrainian city of Oleshky are experiencing severe food shortages after supply lines were completely severed. Approximately 2,000 residents in Oleshky and surrounding villages have exhausted food supplies, with reports indicating some residents are consuming weeds to survive. Severe risks from pervasive drone strikes have prevented safe evacuations and disrupted the retrieval of deceased individuals, creating critical protection and survival concerns for the isolated population.",
+        "verified_figures": [
+          "2,000 civilians remaining"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Coalition of over 50 UN member states demands unconditional ceasefire",
+        "score": 4.0,
+        "body": "More than 50 United Nations member states issued a joint statement demanding that Russia accept an immediate and unconditional ceasefire in Ukraine and return to peace negotiations. Delivered by the Danish Foreign Minister on behalf of a coalition including Canada, France, Germany, Japan, the United Kingdom, and Ukraine, the demand coincided with the 35th anniversary of Ukraine's independence declaration. Moscow rejected the call for an immediate cessation of hostilities.",
+        "verified_figures": [
+          "Over 50 UN member states"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/russia-ukraine-war-latest-live-news-over-50-un-member-states-issue-unified-demand-for-full-unconditional-ceasefire-moscow-rejects-coalitions-call-for-immediate-peace-putin-zelensky-291256/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "India & Nepal — Severe floods and landslides leave 70 dead",
+        "score": 9.0,
+        "body": "Heavy rainfall triggering severe floods and landslides has resulted in at least 56 deaths in India and 14 fatalities in Nepal as river levels rise. The ongoing disaster poses severe protection and humanitarian risks to vulnerable communities in affected areas, threatening displacement and straining local response capabilities amidst continued inundation and land instability across the region.",
+        "verified_figures": [
+          "56 killed in India",
+          "14 killed in Nepal"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/floods-landslides-kill-15-india-four-nepal-rivers-rise-2026-09-27/"
+          }
+        ]
+      },
+      {
+        "headline": "Bangladesh — Health authorities launch mass vaccination campaign following measles outbreak",
+        "score": 7.0,
+        "body": "Bangladesh has initiated a mass measles vaccination drive to combat a deadly outbreak of the disease. The campaign aims to curb transmission rates and prevent further child mortality as public health authorities work to contain the spread across affected areas and mitigate broader public health risks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-launches-measles-vaccination-drive-amid-deadly-outbreak-2026-09-26/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Soaring food prices and trade obstacles worsen severe economic crisis",
+        "score": 7.0,
+        "body": "Surging food prices and obstructed trade routes are compounding severe economic distress across Afghanistan, impairing the ability of vulnerable families to meet basic needs. A report presented to the United Nations Security Council by the Secretary-General indicated that national inflation reached 7.8 percent during the month of Sawr, driven significantly by escalating food costs that continue to erode household purchasing power.",
+        "verified_figures": [
+          "7.8 percent inflation rate in the month of Sawr"
+        ],
+        "sources": [
+          {
+            "name": "ariananews.co",
+            "url": "https://ariananews.co/en/afghanistan/economic/economic-crisis-deepens-in-afghanistan-as-food-prices-soar/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military airstrikes in Gwa Township injure civilians and burn monastery",
+        "score": 5.0,
+        "body": "Myanmar junta airstrikes targeting Gwa Township resulted in two civilian injuries, destroyed a local monastery by fire, and killed livestock. The aerial attack highlights persistent physical safety threats, destruction of civilian infrastructure, and ongoing disruption to local livelihoods caused by armed conflict in the region.",
+        "verified_figures": [
+          "2 injured"
+        ],
+        "sources": [
+          {
+            "name": "Narinjara News",
+            "url": "https://www.narinjara.com/news/detail/6ab808bcde0ddb0a2e739b3c"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Cases Surge in North Kivu",
+        "score": 8.0,
+        "body": "Ebola cases in eastern Democratic Republic of the Congo have surged by 73 percent in North Kivu province over the past month, even as cases fell by 26 percent in neighboring Ituri province. Treatment facilities in rural areas, including Mabalako General Hospital, report operating at full capacity. The World Health Organization recently visited the facility to help enhance response capacity. Separately, the United Arab Emirates announced a 10 million US dollar allocation to support international efforts to contain the African Ebola outbreak, having already dispatched over 150 tonnes of medical supplies, food, and shelter items to affected regions.",
+        "verified_figures": [
+          "73% increase in North Kivu cases",
+          "26% decrease in Ituri cases",
+          "$10 million allocated by UAE",
+          "over 150 tonnes of aid dispatched"
+        ],
+        "sources": [
+          {
+            "name": "Africanews",
+            "url": "https://www.africanews.com/2026/09/27/ebola-sharp-jump-in-cases-in-north-kivu-while-outbreak-slows-in-ituri/"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Cholera Outbreak Reported at Kano Custodial Centre",
+        "score": 6.0,
+        "body": "A cholera outbreak at the Kurmawa Medium Security Custodial Centre in Kano State, Nigeria, has resulted in inmate fatalities. The Nigerian Correctional Service confirmed two deaths following laboratory confirmation on 23 September 2026, stating that emergency health measures were deployed and the outbreak has been contained. Conversely, Amnesty International reported that at least six inmates died within a week, warning that the death toll could be higher due to ongoing spread among prisoners. Rights advocates have urged authorities to declare an emergency at the facility and transfer critically ill inmates to external hospitals for medical treatment.",
+        "verified_figures": [
+          "2 deaths confirmed by NCoS",
+          "at least 6 deaths reported by Amnesty International"
+        ],
+        "sources": [
+          {
+            "name": "Channels Television",
+            "url": "https://www.channelstv.com/2026/09/26/cholera-outbreak-at-kano-custodial-centre-contained-ncos/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Amnesty Announces Cholera Outbreak In Kano Prison … Deaths R",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "thesourceng.com",
+          "url": "https://thesourceng.com/amnesty-announces-cholera-outbreak-in-kano-prison-deaths-recorded/"
+        }
+      ]
+    },
+    {
+      "location": "Gaza death toll rises to 74,016 as Israeli attacks continue ",
+      "score": 9.5,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "İlke Haber Ajansı",
+          "url": "https://ilkha.com/english/world/gaza-death-toll-rises-to-74016-as-israeli-attacks-continue-despite-ceasefire-565161"
+        }
+      ]
+    },
+    {
+      "location": "Congo’s Ebola outbreak expands to 63 health zones: WHO",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Daily Observer",
+          "url": "https://observerbd.com/news/595902"
+        }
+      ]
+    },
+    {
+      "location": "'When fear takes over': Responding to the DRC's largest Ebol",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-09-27/ebola-outbreak-drc-largest/107174086"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "İlke Haber Ajansı",
+        "count": 2
+      },
+      {
+        "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+        "count": 1
+      },
+      {
+        "name": "Africanews",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Channels Television",
+        "count": 1
+      },
+      {
+        "name": "Daily Observer",
+        "count": 1
+      },
+      {
+        "name": "Narinjara News",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Hindu",
+        "count": 1
+      },
+      {
+        "name": "The Sunday Guardian",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "ariananews.co",
+        "count": 1
+      },
+      {
+        "name": "newsonair.gov.in",
+        "count": 1
+      },
+      {
+        "name": "thesourceng.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "1 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 6/6 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1120,
+      "sources_cited": 17
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
