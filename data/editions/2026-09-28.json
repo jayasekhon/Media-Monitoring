@@ -1,0 +1,539 @@
+{
+  "date": "2026-09-28",
+  "printed_time": "1:03 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "7 killed, 40 injured in Yemen strike at Taiz market, govt says Houthi military site was hit.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Please wait a moment while we perform a brief security verification.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "US-Israel-Iran War Latest Live News: Iran says it captured a US underwater vehicle in the Strait of Hormuz as 7 are killed and 40 injured in a Yemen market strike.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations MOGADISHU, 23 September 2026 – Millions of people across Somalia continue to face high levels of hunger, while acute malnutrition among children is set to worsen over the coming months as heavy flooding associated with the anticipated El Niño is expected to worsen the situation during October to December 2026, the Federal Government of Somalia and the United Nations (UN) warned today.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Democratic Republic of the Congo surpasses 8,000 cases and 3,900 deaths from the current Ebola outbreak.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "7 killed, 40 injured in Yemen strike at Taiz market, govt says Houthi military site was hit.",
+    "label": "MIDDLE EAST — 7 killed, 40 injured in Yemen strike at Taiz market, govt says Houthi military s"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "7 killed, 40 injured in Yemen strike at Taiz market, govt says Houthi military site was...",
+        "score": 10.0,
+        "body": "7 killed, 40 injured in Yemen strike at Taiz market, govt says Houthi military site was hit.",
+        "verified_figures": [
+          "7 killed",
+          "40 injured"
+        ],
+        "sources": [
+          {
+            "name": "Firstpost",
+            "url": "https://www.firstpost.com/world/7-killed-40-injured-in-yemen-strike-at-taiz-market-govt-says-houthi-military-site-was-hit-14048668.html"
+          }
+        ]
+      },
+      {
+        "headline": "Seven Yemenis killed, 40 wounded in Taiz market airstrike",
+        "score": 10.0,
+        "body": "Seven Yemenis killed, 40 wounded in Taiz market airstrike. Please wait a moment while we perform a brief security verification.",
+        "verified_figures": [
+          "40 wounded"
+        ],
+        "sources": [
+          {
+            "name": "albawaba.com",
+            "url": "https://www.albawaba.com/news/seven-yemenis-killed-40-wounded-taiz-1637910"
+          }
+        ]
+      },
+      {
+        "headline": "US-Israel-Iran War Latest Live News: 7 Killed, 40 Injured In Yemen Market Strike In Tai...",
+        "score": 10.0,
+        "body": "US-Israel-Iran War Latest Live News: Iran says it captured a US underwater vehicle in the Strait of Hormuz as 7 are killed and 40 injured in a Yemen market strike. US-Israel-Iran War Latest Live News: The conflict involving the US, Israel and Iran remained in focus on Sunday, September 27, with fresh developments reported from the Strait of Hormuz, Yemen, Iran and a US-used military base in England. Iran’s Revolutionary Guards said it had captured a US autonomous underwater vehicle in the Strait of Hormuz, while Iranian military officials warned that the conflict with Washington was not over. In Yemen, the Houthi-run health ministry reported seven deaths and 40 injuries in a strike on shops",
+        "verified_figures": [
+          "7 Killed",
+          "40 Injured",
+          "40 injured"
+        ],
+        "sources": [
+          {
+            "name": "The Sunday Guardian",
+            "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-7-killed-40-injured-in-yemen-market-strike-in-taiz-province-children-among-injured-houthi-officials-say-293970/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "'The last thing you expect': Locals near UK airbase react to 'terrorist act' arrests",
+        "score": 9.5,
+        "body": "British police were questioning five men on Monday on suspicion of explosives and terrorism offences after they were detained near an air base that has been used by the US to strike Iran. Residents of a village that's situated under a mile away from the base were ordered to evacuate on Sunday as the investigation continues, with many left taken aback by the developments.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260928-the-last-thing-you-expect-locals-near-uk-airbase-react-to-terrorist-act-arrests"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Hurricane Polo could cause life-threatening flooding in Mexico’s Baja California",
+        "score": 8.5,
+        "body": "Hurricane Polo could cause life-threatening flooding in Mexico’s Baja California.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/hurricane-polo-nolo-mexico-hawaii-baja-california-6b5958cfb0e5f5c7ebbd14065a863d90"
+          },
+          {
+            "name": "AP News",
+            "url": "https://apnews.com/article/hurricane-polo-nolo-mexico-hawaii-baja-california-6b5958cfb0e5f5c7ebbd14065a863d90"
+          }
+        ]
+      },
+      {
+        "headline": "Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have bee...",
+        "score": 7.0,
+        "body": "Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’ Newly released memos reveal Dr. Anthony Fauci’s private alarm over Army biodefense experiments with Ebola and their results, which he worried would erode public trust in vaccines. His concern predated the COVID lockdown by almost four years. Ebola is not only deadly, but reports show a death rate 50 times that of COVID. Dr. Anthony Fauci privately sounded the alarm when he learned the U.S. Army had conducted an experiment a decade ago that aerosolized the lethal Ebola virus, which is not normally transmitted by air, and then shared the results publicly amid an ongoing outbreak in Africa, according",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Just The News",
+            "url": "https://justthenews.com/government/congress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and"
+          }
+        ]
+      },
+      {
+        "headline": "Hurricane Polo threatens Mexico’s Pacific coast, landfall expected Monday",
+        "score": 6.5,
+        "body": "Hurricane Polo threatens Mexico’s Pacific coast, landfall expected Monday. The category-four storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/category-3-hurricane-polo-threatens-mexicos-coast-landfall-expected-monday-2026-09-27/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico's Baja California braces for major Hurricane Polo as Hurricane Nolo still threat...",
+        "score": 6.5,
+        "body": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and strong winds persisted in areas of the island chain still recovering from previous storms. Nolo was about 365 miles (585km) south-south-west of Honolulu and moving away from the Big Island at about 12mph (19km/h). But the Hawaii county civil defense agency said a high wind warning, wind advisory and high surf advisory remained in effect for parts of the island through Sunday evening as Nolo’s maximum sustained winds rose to 115mph. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/hurricane-nolo-hawaii-polo-mexico-d73e0ef1c833228af48a3e45d863162c"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Ebola outbreak surpasses 8,000 cases amid regional spread and mpox detection",
+        "score": 9.5,
+        "body": "The ongoing Ebola outbreak in the Democratic Republic of the Congo has surpassed 8,000 confirmed cases and 3,901 deaths, establishing it as the largest and deadliest epidemic in the country's history. Caused by the Bundibugyo strain, transmission has expanded to 63 health zones across seven provinces, including new cases in Bulu and Dungu near the South Sudan border. Humanitarian response efforts, contact tracing, and containment remain heavily constrained by persistent conflict and civilian displacement. Furthermore, the detection of an mpox case in Ituri province threatens to further overburden the country's healthcare system.",
+        "verified_figures": [
+          "8,067 cases",
+          "3,901 deaths",
+          "63 health zones affected across 7 provinces"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-outbreak-virus-3e3b17dca67b96371a4a3629c4814543"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Acute hunger and child malnutrition risk worsening due to projected El Niño floods",
+        "score": 7.5,
+        "body": "Millions of people in Somalia continue to endure high levels of food insecurity as acute malnutrition among children is projected to deteriorate further. According to warnings from the Federal Government of Somalia and the United Nations, anticipated El Niño-driven heavy flooding between October and December 2026 threatens to exacerbate humanitarian conditions. The deteriorating outlook is compounded by severe funding shortfalls, risking widespread operational disruptions in aid delivery across affected regions.",
+        "verified_figures": [
+          "Millions facing high levels of hunger"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/hunger-and-malnutrition-crises-persist-somalia-projected-floods-and-funding"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Russian airstrikes in Sumy kill civilians, sparking outrage",
+        "score": 6.5,
+        "body": "Russian airstrikes in Sumy kill civilians, sparking outrage.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "finway.com.ua",
+            "url": "https://finway.com.ua/en/russian-airstrikes-sumy-elderly-woman/"
+          }
+        ]
+      },
+      {
+        "headline": "Russia kills two, including Azerbaijani national, in fresh Ukraine attacks: Zelenskyy",
+        "score": 6.0,
+        "body": "A Russian attack on Ukraine's Kiev region killed at least two people, including an Azerbaijani citizen, President Volodymyr Zelenskyy said on Monday. Further east, 28 people were injured in the Kharkiv region, including nine children, Zelenskyy added in the same Telegram statement. Separately, a Ukrainian drone attack on Russia's Voronezh region injured four people, including three children, regional Governor Alexander Gusev said. “About 20 drones were intercepted over the region overnight and in the morning. A woman was hospitalised in moderate condition, two children were in serious condition and a teenager received medical treatment at the scene,” he said. Fire damaged a country house and",
+        "verified_figures": [
+          "28 people"
+        ],
+        "sources": [
+          {
+            "name": "TRT World",
+            "url": "https://www.trtworld.com/article/405217004c3e"
+          }
+        ]
+      },
+      {
+        "headline": "Over 20 Injured and a Nine-Story Building Destroyed in Russian Strike on Kharkiv; Rescu...",
+        "score": 6.0,
+        "body": "Over 20 Injured and a Nine-Story Building Destroyed in Russian Strike on Kharkiv; Rescue Operations Ongoing.",
+        "verified_figures": [
+          "20 Injured"
+        ],
+        "sources": [
+          {
+            "name": "inkorr.com",
+            "url": "https://inkorr.com/en/amp/rosijska-ataka-u-harkovi-ponad-20-postrazdalih-zrujnovano-9-poverhovij-budinok-trivaut-ratuvalni-roboti-348497"
+          }
+        ]
+      },
+      {
+        "headline": "Russian strikes on Ukraine kill 8",
+        "score": 6.0,
+        "body": "Russian strikes on Ukraine kill 8. Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/russian-strikes-ukraine-kill-8"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "At least 33 people killed in western Myanmar airstrike, rebel group and aid worker say",
+        "score": 10.0,
+        "body": "Sept 28 (Reuters) - Dozens of people were killed in a Myanmar military airstrike on Monday near a market in the country’s war-torn Rakhine state, which borders Bangladesh, according to a rebel group that controls the area and a local aid worker. • At least 33 people have died and 36 were injured in the airstrike in the town of Kyauktaw in Rakhine state, according to the Arakan Army, a rebel group fighting the military. • The number of victims was confirmed by aid worker Wai Hun Aung, who has a team operating in the area.",
+        "verified_figures": [
+          "33 people"
+        ],
+        "sources": [
+          {
+            "name": "Internazionale",
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say"
+          }
+        ]
+      },
+      {
+        "headline": "33 killed, 36 injured after Myanmar military airstrike in war-torn Rakhine",
+        "score": 10.0,
+        "body": "33 killed, 36 injured after Myanmar military airstrike in war-torn Rakhine A military airstrike near a market in Kyauktaw killed at least 33 people and injured 36 others. The strike hit an area said to be far from the frontline as fighting and air raids intensify across Myanmar. A military airstrike near a market in Myanmar's war-torn Rakhine state killed at least 33 people and left 36 others injured, according to the Arakan Army and a local aid worker cited by Reuters. The strike took place on Monday in Kyauktaw, a riverside town in northern Rakhine that is controlled by the Arakan Army, an ethnic armed group fighting Myanmar's military. The area is near the border with Bangladesh. The casu",
+        "verified_figures": [
+          "33 killed",
+          "36 injured",
+          "33 people"
+        ],
+        "sources": [
+          {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/amp/world/story/myanmar-military-airstrike-in-rakhine-kills-33-near-kyauktaw-market-36-injured-3004931-2026-09-28"
+          }
+        ]
+      },
+      {
+        "headline": "At least 33 killed in airstrike on Myanmar's Rakhine state",
+        "score": 10.0,
+        "body": "At least 33 killed in airstrike on Myanmar's Rakhine state email:online@newsofbahrain.com Kyauktaw, Myanmar: At least 33 people were killed and 36 injured in an airstrike on the town of Kyauktaw in Myanmar's Rakhine state, according to the Arakan Army and an aid worker operating in the area. The Arakan Army, which is fighting Myanmar's military, said the strike hit the riverside town in northern Rakhine. Aid worker Wai Hun Aung also confirmed the reported casualties. Wai Hun Aung said Kyauktaw was far from active fighting and had no direct connection to the conflict. Reuters could not independently verify the reports. Myanmar's military has been fighting armed groups across the country since",
+        "verified_figures": [
+          "33 killed",
+          "33 people",
+          "36 injured"
+        ],
+        "sources": [
+          {
+            "name": "News of Bahrain",
+            "url": "https://www.newsofbahrain.com/world/141997.html"
+          }
+        ]
+      },
+      {
+        "headline": "Death toll rises as floods hit Thailand and Myanmar",
+        "score": 9.0,
+        "body": "BANGKOK: Heavy rain has killed eight people in Thailand since mid-September, the government said on Monday, as Bangkok battled flooding for a fourth straight day. At least eight more people have been confirmed dead in neighboring Myanmar. According to Thailand's Department of Disaster Prevention and Mitigation, the deaths occurred in three eastern provinces since Sept 16, with none reported in the capital. More than 500,000 households and 1.7 million people in 27 provinces are currently affected by floods after an intense weather system hit the region, the department said. In hard-hit Bangkok, schools were closed and authorities urged people to work from home where possible. Many did, and ro",
+        "verified_figures": [
+          "1.7 million people in 27"
+        ],
+        "sources": [
+          {
+            "name": "Kuwait Times",
+            "url": "https://kuwaittimes.com/article/50562/world/death-toll-rises-as-floods-hit-thailand-and-myanmar/amp/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Ebola outbreak tops 8,000 confirmed cases as disease remains out of control",
+        "score": 9.5,
+        "body": "The number of confirmed cases of Ebola virus in The Democratic Republic of the Congo has surged past 8,000, as the country runs out of health workers to contain the deadly disease. Advertisement From The Irish Examiner The number of confirmed cases of Ebola virus in The Democratic Republic of the Congo has surged past 8,000, as the country runs out of health workers to contain the deadly disease.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BreakingNews.ie",
+            "url": "https://www.breakingnews.ie/world/ebola-outbreak-tops-8000-confirmed-cases-as-disease-remains-out-of-control-1951161.html"
+          }
+        ]
+      },
+      {
+        "headline": "NCoS Contains Cholera Outbreak at Kano Custodial Centre",
+        "score": 9.0,
+        "body": "The Nigerian Correctional Service (NCoS) says it has brought a recent cholera outbreak at the Kurmawa Medium Security Custodial Centre in Kano State under control. The service said the outbreak was confirmed through laboratory investigations conducted on Sept. 23 by its medical team in collaboration with Kano State public health authorities. In a statement, the Service Public Relations Officer, Jane Osuji, said the Controller-General of Corrections, Sylvester Nwakuche, was immediately briefed and directed that necessary measures be sustained to protect the health and welfare of inmates and personnel. The NCoS, however, said two inmates died during the outbreak, with one death occurring at th",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Voice of Nigeria",
+            "url": "https://von.gov.ng/ncos-contains-cholera-outbreak-at-kano-custodial-centre/"
+          }
+        ]
+      },
+      {
+        "headline": "Thailand floods: At least 8 die, thousands move to shelters",
+        "score": 9.0,
+        "body": "Thailand floods: At least 8 die, thousands move to shelters. Rain eased in Thailand ’s capital on Sunday, but flooding persisted in several low-lying areas, with thousands forced to move into temporary shelters. At least eight people were reported killed in the past 10 days nationwide.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20260928-thailand-floods-at-least-8-die-thousands-move-to-shelters"
+          }
+        ]
+      },
+      {
+        "headline": "Hurricane Polo’s moisture could lead to major flooding in the Southwest",
+        "score": 8.5,
+        "body": "Hurricane Polo will bring a flood threat, damaging winds and high seas to Baja California and parts of Mexico Monday, and then the tropical moisture from Polo will carry into the southwestern U.S. and could trigger major flooding across the region. Where is Polo now? Right now, Polo is located about than 125 miles west of Cabo San Lazaro, Mexico, and has sustained winds of 115 mph. The storm will make landfall Monday afternoon along the Baja California coast, producing as much as a foot of rainfall and triggering flash flooding and mudslides across the region. Polo's moisture will draw into the Southwest The deep tropical moisture that Polo carries will funnel into the southwestern U.S. duri",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Yahoo",
+            "url": "https://www.yahoo.com/news/weather-news/articles/hurricane-polo-moisture-could-lead-165926249.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Mpox Case Detected In Congo’s Ituri Amid Ebola Outbreak: Why",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "url": "https://www.healthandme.com/health-news/mpox-case-detected-in-congos-ituri-amid-ebola-outbreak-why-are-health-officials-concerned-article-156235757"
+        }
+      ]
+    },
+    {
+      "location": "At least 33 people killed in western Myanmar airstrike, rebe",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Internazionale",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say"
+        }
+      ]
+    },
+    {
+      "location": "33 killed, 36 injured after Myanmar military airstrike in wa",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/amp/world/story/myanmar-military-airstrike-in-rakhine-kills-33-near-kyauktaw-market-36-injured-3004931-2026-09-28"
+        }
+      ]
+    },
+    {
+      "location": "At least 33 killed in airstrike on Myanmar's Rakhine state",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "News of Bahrain",
+          "url": "https://www.newsofbahrain.com/world/141997.html"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "AP News",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "India Today",
+        "count": 2
+      },
+      {
+        "name": "Internazionale",
+        "count": 2
+      },
+      {
+        "name": "News of Bahrain",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AP News",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "BreakingNews.ie",
+        "count": 1
+      },
+      {
+        "name": "Firstpost",
+        "count": 1
+      },
+      {
+        "name": "Health and Me",
+        "count": 1
+      },
+      {
+        "name": "Just The News",
+        "count": 1
+      },
+      {
+        "name": "Kuwait Times",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "TRT World",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Sunday Guardian",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "Voice of Nigeria",
+        "count": 1
+      },
+      {
+        "name": "Yahoo",
+        "count": 1
+      },
+      {
+        "name": "albawaba.com",
+        "count": 1
+      },
+      {
+        "name": "finway.com.ua",
+        "count": 1
+      },
+      {
+        "name": "inkorr.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "11 item(s) had no extractable figures in available reporting.",
+      "7 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 19/19 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 1/6 region(s) with candidate material generated via Gemini (LLM), 5 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1133,
+      "sources_cited": 24
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
