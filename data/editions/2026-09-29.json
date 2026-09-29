@@ -1,0 +1,543 @@
+{
+  "date": "2026-09-29",
+  "printed_time": "12:15 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The WHO warns of a complex emergency in Yemen with 838 dead and a strong threat of epidemic outbreaks.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Power was cut to part of Mexico's Baja California peninsula on Monday as Hurricane Polo prepared to roar ashore on the Pacific Coast, causing flooding as the sea breached coastal defenses.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Ebola outbreak in DRC reaches 8,067 cases and 3,901 deaths.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Death toll from Myanmar airstrike in Rakhine state rises to 50.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Myanmar airstrike: At least 49 killed near market in Arakan Army-held area of Rakhine.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The WHO warns of a complex emergency in Yemen with 838 dead and a strong threat of epidemic outbreaks.",
+    "label": "MIDDLE EAST — The WHO warns of a complex emergency in Yemen with 838 dead and a strong threat "
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "The WHO warns of a complex emergency in Yemen with 838 dead and a strong threat of epid...",
+        "score": 10.0,
+        "body": "The WHO warns of a complex emergency in Yemen with 838 dead and a strong threat of epidemic outbreaks.",
+        "verified_figures": [
+          "838 dead"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/the-who-warns-of-a-complex-emergency-in-yemen-with-838-dead-and-a-strong-threat-of-epidemic-outbreaks/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "WHO Reports 4,481 Casualties and 181,000 Displaced in Yemen Since August",
+        "score": 9.0,
+        "body": "The World Health Organization has reported a severe deterioration in Yemen’s humanitarian and health conditions, citing 4,481 casualties and over 181,000 displaced persons since the beginning of August due to escalating military conflicts in Lahj, Marib, and Taiz. According to the fifth field report issued by the Health Cluster in coordination with the WHO, the death toll has reached 838, with the total number of casualties climbing by 800 in just one week. This surge represents an average of nearly 100 new injuries reported daily. The majority of these casualties were documented along the coastal regions of Bab al-Mandab and Ras al-Ara in Lahj province, followed by the active frontlines in",
+        "verified_figures": [
+          "181,000 Displaced",
+          "181,000 displaced"
+        ],
+        "sources": [
+          {
+            "name": "وكالة خبر للأنباء",
+            "url": "https://www.khabaragency.net/news253560.html"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen escalation fuels fears of further cholera, measles spread",
+        "score": 8.0,
+        "body": "Yemen escalation fuels fears of further cholera, measles spread Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open. “We know that comprehensive emergency obstetric and newborn care has been suspended in two hospitals, in Marib and Ras Al-Arah, because staff and operating capacities have been redirected to trauma care to care for the incoming wounded,” said Dr Annette Heinzelmann, UN World Health Organization (WHO) Regional Emergency Director for the Eastern Mediterranean. Speaking from Cairo via video link, Dr Heinzelmann noted tha",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/09/1168480"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen fighting leaves 838 dead as Houthi offensive intensifies",
+        "score": 8.0,
+        "body": "Yemen fighting leaves 838 dead as Houthi offensive intensifies.",
+        "verified_figures": [
+          "838 dead"
+        ],
+        "sources": [
+          {
+            "name": "Caliber.Az",
+            "url": "https://caliber.az/en/post/yemen-fighting-leaves-838-dead-as-houthi-offensive-intensifies"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Flooding, power cuts and evacuations as Hurricane Polo slams Mexico",
+        "score": 10.0,
+        "body": "Power was cut to part of Mexico's Baja California peninsula on Monday as Hurricane Polo prepared to roar ashore on the Pacific Coast, causing flooding as the sea breached coastal defenses. The Category 3 storm is the first hurricane of this year's season that will make landfall, turbo-charged by the El Nino weather phenomenon which has caused unprecedented warming in the equatorial Pacific. Polo was on the cusp of tearing across the south of Baja California with heavy rain and hurricane-force winds, the US National Hurricane Center (NHC) said. Mexican authorities ordered residents to take shelter. Strong winds churned the sea and waves off Puerto San Carlos, a small fishing port of nearly 6,",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/flooding-power-cuts-and-evacuations-hurricane-polo-slams-mexico"
+          }
+        ]
+      },
+      {
+        "headline": "Canada extends travel restrictions linked to Ebola outbreak for 60 days",
+        "score": 9.5,
+        "body": "Canada extends travel restrictions linked to Ebola outbreak for 60 days Posted September 28, 2026 3:06 pm. Last Updated September 28, 2026 4:16 pm. OTTAWA — Canada has extended its travel and immigration restrictions related to the Ebola outbreak for another 60 days, and the health ministry in the Democratic Republic of Congo has released new data showing there have been more than 8,000 cases of the virus. People from Uganda, South Sudan and the Democratic Republic of Congo have been barred from travelling to Canada since May. The measures were set to expire on Monday at midnight but have been extended to Nov. 27. Immigration documents, including valid visas and travel authorizations, remain",
+        "verified_figures": [
+          "8,000 cases"
+        ],
+        "sources": [
+          {
+            "name": "CityNews Toronto",
+            "url": "https://toronto.citynews.ca/2026/09/28/canada-extends-travel-restrictions-linked-to-ebola-outbreak-for-60-days/"
+          }
+        ]
+      },
+      {
+        "headline": "At least once civilians killed in an attack by \"a group of armed bandits\" in Crépin (Ha...",
+        "score": 8.5,
+        "body": "At least once civilians killed in an attack by \"a group of armed bandits\" in Crépin (Haiti).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/at-least-once-civilians-killed-in-an-attack-by-a-group-of-armed-bandits-in-crepin-haiti/"
+          }
+        ]
+      },
+      {
+        "headline": "Hurricane Polo could cause life-threatening flooding in Mexico's Baja California penins...",
+        "score": 8.5,
+        "body": "Hurricane Polo could cause life-threatening flooding in Mexico's Baja California peninsula.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "PBS",
+            "url": "https://www.pbs.org/newshour/world/hurricane-polo-could-cause-life-threatening-flooding-in-mexicos-baja-california-peninsula"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo Ebola Outbreak Reaches 8,067 Cases and 3,901 Deaths: how 13 outlets framed it",
+        "score": 10.0,
+        "body": "Ebola outbreak in DRC reaches 8,067 cases and 3,901 deaths. Case-fatality rate stands at 48.4 percent. Whether health worker strikes are the key constraint. 4 of 5 outlets skipped it: a party member was beaten to death after promoting awareness. 13outlets compared Same story, two versions tap a side to read it in full NBC emphasises strike and pay problems among health workers; CIDRAP emphasises case-detection delays and access to early care. 8,067 Cases, 3,901 Deaths The Democratic Republic of the Congo recorded 8,067 Ebola cases and 3,901 deaths, a fatality rate of 48.4 percent, as the outbreak reached the worst point in the country’s history, according to government data. The DRC’s public",
+        "verified_figures": [
+          "48.4 percent",
+          "8,067 Cases",
+          "3,901 Deaths"
+        ],
+        "sources": [
+          {
+            "name": "NewsCord",
+            "url": "https://newscord.org/article/dr-congo-ebola-outbreak-reaches-8067-cases-and-3901-deaths--Story_20260928_390036831e70"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo (DRC) has recorded over 8,000 cases of Ebola, including almost 4,000 deaths, amid the worst outbreak in the country’s history, according to government data. The latest report, published on Monday by the DRC’s public health institute, put the number of cases at 8,067 and deaths at 3,901, representing a fatality rate of 48.4 percent.",
+        "verified_figures": [
+          "48.4 percent",
+          "8,000 cases",
+          "4,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Conflict-driven displacement threatens DRC Ebola response",
+        "score": 9.5,
+        "body": "Security incidents have been reported at Kigonze displacement camp in Bunia, Ituri province, since September 20. Reports indicate that soldiers entered the site to search for weapons and people suspected of belonging to non-state armed groups. Gunfire was also heard. The United Nations (UN) Office for the Coordination of Humanitarian Affairs said residents had faced armed violence, threats, intimidation, arrests, forced displacement and destruction of shelters. Kigonze hosted nearly 19 000 displaced people. Many families have since sought refuge with host communities, making it difficult for humanitarian teams to assess needs, distribute assistance and maintain protection services. UN Humani",
+        "verified_figures": [
+          "000 displaced"
+        ],
+        "sources": [
+          {
+            "name": "Channel Africa",
+            "url": "https://www.channelafrica.co.za/channelafrica/news/conflict-driven-displacement-threatens-drc-ebola-response/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak: WHO Seeks 5,000 More Health Workers In DR Congo",
+        "score": 9.5,
+        "body": "Ebola Outbreak: WHO Seeks 5,000 More Health Workers In DR Congo. Oyindamola Olawuyi is a Digital Journalist with Leadership Media Group, specialising in content writing, news reporting, research, and feature writing. With over three years of experience, she is committed to delivering accurate, balanced, and compelling stories.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "LEADERSHIP Newspapers",
+            "url": "https://leadership.ng/ebola-outbreak-who-seeks-5000-more-health-workers-in-dr-congo/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Kyiv Science Academy hit, 10 dead as Russian jet-drones strike across Ukraine",
+        "score": 8.0,
+        "body": "Kyiv Science Academy hit, 10 dead as Russian jet-drones strike across Ukraine.",
+        "verified_figures": [
+          "10 dead"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/kyiv-science-academy-hit-russian-jet-drones-strike-across-ukraine-2026-09-28/"
+          }
+        ]
+      },
+      {
+        "headline": "‘This is terrorism’: daytime Russian strike hits science academy in Kyiv",
+        "score": 7.5,
+        "body": "Jet-powered drones are increasingly targeting Ukraine’s capital, with medical centre also hit A Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack on Ukraine’s capital. Flames tore through the historic building as people clambered out of first- and second-floor windows to escape, in dramatic scenes increasingly familiar in the heavily bombarded city. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
+          }
+        ]
+      },
+      {
+        "headline": "Photos of fires, injuries and fear after deadly Russian attacks on Kyiv",
+        "score": 6.5,
+        "body": "Photos of fires, injuries and fear after deadly Russian attacks on Kyiv.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/photo-gallery/kyiv-russia-ukraine-war-8d422c38c8d391e9388a77535e18a70c"
+          }
+        ]
+      },
+      {
+        "headline": "People escape historic Kyiv building hit by Russian drone",
+        "score": 6.0,
+        "body": "People escape historic Kyiv building hit by Russian drone. The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Death toll from Myanmar airstrike in Rakhine state rises to 50",
+        "score": 10.0,
+        "body": "Death toll from Myanmar airstrike in Rakhine state rises to 50.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/death-toll-myanmar-airstrike-rakhine-state-rises-50-2026-09-29/"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/live-news/20260929-myanmar-airstrike-toll-hits-50-as-families-gather-dead"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar airstrike: At least 49 killed near market in Arakan Army-held area of Rakhine",
+        "score": 10.0,
+        "body": "Myanmar airstrike: At least 49 killed near market in Arakan Army-held area of Rakhine.",
+        "verified_figures": [
+          "49 killed"
+        ],
+        "sources": [
+          {
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com/article/world/myanmar-market-airstrike-deaths-arakan-army-10898361/"
+          }
+        ]
+      },
+      {
+        "headline": "24 Dead, 14 Missing In Nepal Floods; Why Is The Rising Water Flow A Concern For India N...",
+        "score": 8.5,
+        "body": "Just a few days ago, major floods and landslides hit Nepal, destroying homes and claiming lives. Now, heavy rainfall has once again caused rising rivers, damaged roads and landslides across the country. The situation has also raised concerns in India. Scroll down for the details! Fresh Wave Of Floods And Landslides In Nepal The recent floods and landslides in Nepal have caused major damage. As per a News18 report, around 24 people have died and 14 remain missing. The natural disaster has affected 747 families, while 1,500 people had to leave their homes in Gandaki province. The floods and landslides have damaged at least 143 houses, several bridges and parts of hydropower projects. A large p",
+        "verified_figures": [
+          "24 Dead",
+          "24 people",
+          "1,500 people"
+        ],
+        "sources": [
+          {
+            "name": "curlytales.com",
+            "url": "https://curlytales.com/trending/dead-missing-in-nepal-floods-why-is-the-rising-water-flow-a-concern-for-india-now/"
+          }
+        ]
+      },
+      {
+        "headline": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people",
+        "score": 8.0,
+        "body": "Airstrike near a market in Myanmar’s Rakhine state kills 49 people.",
+        "verified_figures": [
+          "49 people"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/myanmar-market-airstrike-deaths-0ef9bf26ce3998693ea6c86450392e11"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Protecting women and girls against sexual abuse, exploitation during the Ebola outbreak",
+        "score": 9.5,
+        "body": "Bunia, Democratic Republic of the Congo—Every few days, Esperance Ayikoro walks through the bustling Cinquantenaire Market in Bunia, the capital of the Democratic Republic of Congo’s eastern Ituri Province, stopping to speak with women selling food and household items. The conversations are not about bargaining over prices, but about dignity, safety and their right to be protected from or to report abuse during the ongoing Ebola response. “The reason we are on the ground today discussing with women and girls is because of the inappropriate behaviour that aid workers sometimes display within the community,” says Ayikoro, the coordinator of a local women’s organization, COSCES. “We have a larg",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "WHO | Regional Office for Africa",
+            "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/protecting-women-and-girls-against-sexual-abuse-exploitation-during-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak tops 8,000 confirmed cases as disease remains out of control",
+        "score": 9.5,
+        "body": "The number of confirmed cases of Ebola virus in The Democratic Republic of the Congo has surged past 8,000, as the country runs out of health workers to contain the deadly disease. DR Congo announced an outbreak on May 15, caused by the rare Bundibugyo virus, which has no known treatment or vaccine, and has struggled to contain it. Latest data from DR Congo’s health ministry showed that 8,067 cases have been confirmed, with 3,901 deaths as of September 26 across 63 health zones in seven of the country’s 26 provinces, with a fatality rate of more than 48%. In its latest report, the World Health Organisation (WHO) said: “The continuously high crude case fatality ratio, and especially the conti",
+        "verified_figures": [
+          "8,067 cases",
+          "3,901 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The National Scot",
+            "url": "https://www.thenational.scot/news/national/26586586.ebola-outbreak-tops-8-000-confirmed-cases-disease-remains-control/"
+          }
+        ]
+      },
+      {
+        "headline": "NCoS Contains Cholera Outbreak At Kano Custodial Centre",
+        "score": 9.0,
+        "body": "The Nigerian Correctional Service (NCoS) has confirmed that a recent cholera outbreak at the Kurmawa Medium Security Custodial Centre in Kano has been contained, although two people died from the disease. The outbreak was confirmed through laboratory investigations on September 23, 2026, by the NCoS medical team at the facility in collaboration with Kano State public health authorities. In a statement by the Service Public Relations Officer, Jane Osuji, the Controller-General of Corrections, Sylvester Ndidi Nwakuche, who was immediately briefed, directed that all necessary measures be sustained to protect the lives, health and welfare of inmates and personnel. Osuji said one of the two victi",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Voice of Nigeria",
+            "url": "https://von.gov.ng/ncos-contains-cholera-outbreak-at-kano-custodial-centre-2/"
+          }
+        ]
+      },
+      {
+        "headline": "Nor'easter threatens NYC with flooding, wind damage; 1 person killed by falling tree",
+        "score": 9.0,
+        "body": "Stay with the Eyewitness News AccuWeather team for continuing updates. NEW YORK CITY (WABC) -- A powerful nor'easter brought flooding, strong winds and dangerous ocean conditions to parts of New York City on Saturday, toppling trees and leaving residents in waterfront communities cleaning up damage while officials warned that worsening conditions could be on the way. The strong winds caused havoc in Glendale, Queens, where a tree came down at 76-12 88th St. between 77th and 76th avenues around 5:40 p.m., leaving the roadway blocked off because of downed power lines. The FDNY had to evacuate the building nearby as a precaution, but no injuries were reported. However, in East New York, Brookly",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ABC7 New York",
+            "url": "https://abc7ny.com/post/noreaster-threatens-nyc-flooding-wind-damage/19876728/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Canada extends travel restrictions linked to Ebola outbreak ",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "CityNews Toronto",
+          "url": "https://toronto.citynews.ca/2026/09/28/canada-extends-travel-restrictions-linked-to-ebola-outbreak-for-60-days/"
+        }
+      ]
+    },
+    {
+      "location": "Ebola cases surpass 8,000 as DRC struggles to control outbre",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak"
+        }
+      ]
+    },
+    {
+      "location": "Conflict-driven displacement threatens DRC Ebola response",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Channel Africa",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/conflict-driven-displacement-threatens-drc-ebola-response/"
+        }
+      ]
+    },
+    {
+      "location": "Ebola Outbreak: WHO Seeks 5,000 More Health Workers In DR Co",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "LEADERSHIP Newspapers",
+          "url": "https://leadership.ng/ebola-outbreak-who-seeks-5000-more-health-workers-in-dr-congo/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "WHO"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Channel Africa",
+        "count": 2
+      },
+      {
+        "name": "CityNews Toronto",
+        "count": 2
+      },
+      {
+        "name": "Demócrata",
+        "count": 2
+      },
+      {
+        "name": "LEADERSHIP Newspapers",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "ABC7 New York",
+        "count": 1
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Caliber.Az",
+        "count": 1
+      },
+      {
+        "name": "France 24",
+        "count": 1
+      },
+      {
+        "name": "NewsCord",
+        "count": 1
+      },
+      {
+        "name": "PBS",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Indian Express",
+        "count": 1
+      },
+      {
+        "name": "The National Scot",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "Voice of Nigeria",
+        "count": 1
+      },
+      {
+        "name": "WHO | Regional Office for Africa",
+        "count": 1
+      },
+      {
+        "name": "curlytales.com",
+        "count": 1
+      },
+      {
+        "name": "وكالة خبر للأنباء",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "12 item(s) had no extractable figures in available reporting.",
+      "10 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 23/23 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1352,
+      "sources_cited": 22
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
