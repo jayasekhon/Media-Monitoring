@@ -1,0 +1,480 @@
+{
+  "date": "2026-09-30",
+  "printed_time": "12:02 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An active Ebola outbreak in eastern Democratic Republic of the Congo has recorded at least 136 suspected deaths and 30 confirmed cases, extending into major urban hubs like Goma.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Somalia faces worsening acute malnutrition and food insecurity compounded by anticipated El Niño heavy flooding from October to December.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A military airstrike targeted a crowded commercial market in Myanmar's Rakhine State, killing at least 50 civilians and injuring 58 others.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Global cholera fatalities surged by 30 percent in 2025 to 7,870 deaths across 47 reporting countries, marking the highest toll since 1999.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 5,
+      "text": "Escalating combat across Yemen has forcibly displaced 128,000 people and forced hospitals in Marib and Ras Al-Arah to suspend essential care.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "An escalating Ebola outbreak in eastern Democratic Republic of the Congo has led to at least 136 suspected fatalities and spread into major urban hubs including Goma, straining regional health systems.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Escalated fighting drives mass displacement, hunger, and health emergency",
+        "score": 8.0,
+        "body": "Heavy fighting across Yemen has displaced 128,000 people nationwide, with Taiz governorate most severely impacted. Five of ten Norwegian Refugee Council displacement sites in Taiz emptied as front lines shifted, while 15,000 newly displaced people arrived at sites in Taiz, Lahj, and Abyan. The escalation is worsening food insecurity and elevating risks of cholera and measles in overcrowded shelters. According to the World Health Organization, emergency obstetric and newborn care has been suspended at two hospitals in Marib and Ras Al-Arah to redirect resources to incoming trauma casualties.",
+        "verified_figures": [
+          "128,000 people displaced countrywide",
+          "15,000 people arrived at NRC-supported displacement sites in Taiz, Lahj, and Abyan",
+          "78 per cent increase in arrivals at NRC sites in southern governorates",
+          "5 of 10 NRC displacement sites in Taiz emptied",
+          "Emergency obstetric and newborn care suspended at 2 hospitals"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza/OPT — Helicopter strike hits displacement tent",
+        "score": 5.5,
+        "body": "A strike attributed by witnesses to an Israeli helicopter hit a displacement tent in Gaza, leaving a young girl requiring multiple surgeries to control severe infections. The Israeli military stated that it has no record of the reported attack. The incident highlights ongoing protection concerns and risks facing displaced civilians seeking shelter in informal camps.",
+        "verified_figures": [
+          "1 child injured requiring multiple surgeries"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Drone strike and shelling injure three soldiers in south",
+        "score": 5.0,
+        "body": "An Israeli drone strike wounded three Lebanese Army personnel at a military post in Nabatieh al-Fawqa, southern Lebanon. The strike was accompanied by artillery and tank shelling targeting several southern towns, including Baraachit, Hadatha, Kfar Tebnit, Zoutar al-Sharqiya, and Wadi al-Salouqi. A house in the Al-Deir area of Baraachit was hit by tank shells during overnight military activity.",
+        "verified_figures": [
+          "3 Lebanese soldiers wounded"
+        ],
+        "sources": [
+          {
+            "name": "saba.ye",
+            "url": "https://www.saba.ye/en/news3799368.htm?cid=15"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang shooting spree kills 11 civilians in Artibonite",
+        "score": 7.0,
+        "body": "In Haiti’s Artibonite department, members of the Kokorat San Ras gang carried out a retaliatory shooting spree in the commune of Gros-Morne, killing at least 11 civilians. The attack followed a crackdown by the Gang Suppression Force in Dosni that left three suspected gang members dead, bringing the total fatalities to 14. Local officials confirmed the casualties. Armed gangs have maintained control over parts of the Artibonite region in recent years, escalating protection concerns and insecurity for local residents.",
+        "verified_figures": [
+          "at least 11 civilians killed",
+          "3 suspected gang members killed",
+          "14 total fatalities"
+        ],
+        "sources": [
+          {
+            "name": "The Haitian Times",
+            "url": "https://haitiantimes.com/2026/09/29/11-civilians-killed-insecurity-grosmorne-artibonite/"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico & United States — Remnants of Tropical Storm Polo trigger flood threats and dam risk",
+        "score": 5.5,
+        "body": "Remnants of Tropical Storm Polo brought severe weather and street flooding to northern Mexico before moving toward the southwestern United States. The storm dissipated over northwest Mexico after bringing heavy rains that flooded roads in southern New Mexico and trapped drivers. Weather authorities warned that more than 30 million people from Arizona to Iowa face flash flood risks, while heavy rainfall placed the McLeod Dam in New Mexico's Doña Ana County on the verge of failure.",
+        "verified_figures": [
+          "more than 30 million people at risk for flash floods"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/hurricane-polo-nolo-mexico-hawaii-baja-california-6b5958cfb0e5f5c7ebbd14065a863d90"
+          }
+        ]
+      },
+      {
+        "headline": "United States — CDC indicates sustained domestic transmission of Clade Ib mpox",
+        "score": 5.0,
+        "body": "The U.S. Centers for Disease Control and Prevention reported evidence of likely sustained domestic transmission of the Clade Ib mpox subclade within the United States. Health authorities have confirmed over 60 laboratory-confirmed Clade I cases across at least 20 states. An increasing proportion of recent cases involve individuals with no recent international travel or known contact with travelers, with presumed domestic transmission documented in more than 10 jurisdictions.",
+        "verified_figures": [
+          "more than 60 laboratory-confirmed Clade I mpox cases",
+          "cases across at least 20 states",
+          "presumed domestic transmission in more than 10 jurisdictions"
+        ],
+        "sources": [
+          {
+            "name": "citybuzz -",
+            "url": "https://www.citybuzz.co/2026/09/29/cdc-reports-likely-sustained-clade-ib-mpox-transmission-in-us-geovax-calls-for-vaccine-preparedness/"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Ebola-related travel and immigration restrictions extended",
+        "score": 2.0,
+        "body": "Canada extended travel and immigration restrictions linked to the Ebola outbreak in Central Africa. The extended policy maintains suspensions on immigration documents and prohibits entry or transit for foreign nationals who reside in or have traveled through the Democratic Republic of the Congo, Uganda, or South Sudan within the preceding 21 days. The federal government extended these border measures to remain in effect through late November 2026.",
+        "verified_figures": [
+          "21-day travel window"
+        ],
+        "sources": [
+          {
+            "name": "CIC News",
+            "url": "https://www.cicnews.com/2026/09/canada-extends-ebola-related-immigration-and-travel-bans-0980887.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Ebola outbreak sees 136 suspected deaths in DRC, officials say - ABC News",
+        "score": 10.0,
+        "body": "Ebola outbreak sees 136 suspected deaths in DRC, officials say More than 40 health experts were deployed to the field on Sunday. At least 543 suspected cases and 136 suspected deaths have been recorded in the ongoing Ebola outbreak in the eastern Democratic Republic of the Congo, officials said Tuesday. Congolese Minister of Public Health Samuel Roger Kamba said during a press briefing that authorities will determine which of these deaths \"are actually linked to the disease.\" At least 30 cases of Ebola have been confirmed in Congo, officials said. Cases have been reported in urban areas, including one of Congo's largest cities, Goma, the rebel-held capital of the eastern province of North Ki",
+        "verified_figures": [
+          "30 cases"
+        ],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/ebola-outbreak-sees-131-suspected-deaths-drc-officials/story?id=133099345"
+          }
+        ]
+      },
+      {
+        "headline": "Hunger and malnutrition crises persist in Somalia as projected floods and funding short...",
+        "score": 10.0,
+        "body": "Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations MOGADISHU, 23 September 2026 – Millions of people across Somalia continue to face high levels of hunger, while acute malnutrition among children is set to worsen over the coming months as heavy flooding associated with the anticipated El Niño is expected to worsen the situation during October to December 2026, the Federal Government of Somalia and the United Nations (UN) warned today. The latest Integrated Food Security Phase Classification (IPC)",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/hunger-and-malnutrition-crises-persist-somalia-projected-floods-and-funding"
+          }
+        ]
+      },
+      {
+        "headline": "American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC...",
+        "score": 9.5,
+        "body": "American doctor tests positive for Ebola in Democratic Republic of Congo outbreak The patient developed symptoms over the weekend and tested positive late Sunday. An American doctor working in the Democratic Republic of the Congo has tested positive for Ebola amid the outbreak, according to an international Christian missions organization. Dr. Peter Stafford, a medical missionary with the missions organization Serge, was exposed while treating patients at Nyankunde Hospital, the group said Monday. He sought testing \"after presenting symptoms consistent with the virus,\" Serge said in a statement. Stafford has served at Nyankunde Hospital with Serge since 2023, according to the organization. T",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/drc-ebola-outbreak-affecting-small-number-americans-cdc/story?id=133061121"
+          },
+          {
+            "name": "WHO | Regional Office for Africa",
+            "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/surveillance-strengthens-ebola-response-democratic-republic-congo"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola cases, deaths decline in DR Congo, but transmission remains high: WHO",
+        "score": 9.5,
+        "body": "Ebola cases, deaths decline in DR Congo, but transmission remains high: WHO Outbreak has killed 3,901 people among 8,067 confirmed cases as of Sept. 26 Beyza Binnur Donmez 29 September 2026•Update: 29 September 2026 GENEVA The Ebola outbreak in the Democratic Republic of Congo is showing sustained signs of improvement, with both new cases and deaths declining, but transmission remains elevated in parts of Ituri province, the World Health Organization (WHO) said Tuesday. Janet Diaz, unit head for Safe Scalable Care at the WHO Health Emergencies Programme, told journalists in Geneva that incident cases fell by 20.3% and deaths dropped by 24.2% over the past two 14-day periods. As of Sept. 26,",
+        "verified_figures": [
+          "3,901 people"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/africa/ebola-cases-deaths-decline-in-dr-congo-but-transmission-remains-high-who/4072591"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes target energy infrastructure and Kyiv, causing casualties",
+        "score": 7.5,
+        "body": "Russia executed a widespread attack on Ukraine’s energy infrastructure overnight, marking the largest such assault since spring. At least six people were killed and 33 others injured nationwide, according to local authorities. In Kyiv and surrounding areas, officials confirmed at least five deaths, including a 14-year-old child, alongside multiple injuries. Heavy smoke and soot from the strikes combined with atmospheric moisture to create a dense smog over the capital. During the bombardment, military aviation activity prompted the brief closure of Lublin and Rzeszow airports in neighboring Poland.",
+        "verified_figures": [
+          "At least 6 people killed across the country",
+          "33 people injured across the country",
+          "At least 5 people killed in Kyiv and surrounding regions",
+          "1 14-year-old child killed"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv"
+          },
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/09/30/kyiv-wakes-up-fog-war-strikes-set-off-unusual-meteorological-effect/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian bombardment halts steel production and severely disrupts economy",
+        "score": 5.5,
+        "body": "Relentless Russian attacks have forced Ukraine's remaining steelworks to halt production, severely damaging a vital economic sector. According to Ukraine's economy minister, Russian strikes are systematically targeting industrial facilities, warehouses, logistics hubs, and data centers. The minister reported that air raid alarms cost the national economy an estimated $45 million for every hour businesses are forced into shelters. The destruction of industrial infrastructure threatens civilian livelihoods and basic economic stability across the country.",
+        "verified_figures": [
+          "$45m cost for every hour missile alerts halt businesses"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Systemic removal and forced adoption of children into Russia",
+        "score": 6.0,
+        "body": "Thousands of Ukrainian children have been forcibly taken to Russia since the conflict began, with many listed on Russian adoption websites. Undercover rescue networks are working to trace and retrieve affected minors amid urgent protection concerns. The systemic removal and displacement of Ukrainian children raise critical human rights and child protection challenges as efforts continue to locate and return missing minors to their families.",
+        "verified_figures": [
+          "Thousands of Ukrainian children transferred to Russia"
+        ],
+        "sources": [
+          {
+            "name": "ABC iview",
+            "url": "https://iview.abc.net.au/show/foreign-correspondent/series/2026/video/NC2604H022S00"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Military airstrike kills 50 at Rakhine State market",
+        "score": 9.0,
+        "body": "A military airstrike hit a busy market and nearby bridge in Kyauktaw town, Rakhine State, killing at least 50 people and injuring at least 58 others, according to local sources and the Arakan Army. The attack struck a riverside commercial hub while vendors, shoppers, and cargo workers were gathered. United Nations officials expressed grave concern over the strike, warning that escalating conflict in Rakhine State poses extreme dangers to civilians and makes the safe return of refugees impossible under current conditions.",
+        "verified_figures": [
+          "At least 50 people killed",
+          "At least 58 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/un-alarmed-by-reports-that-myanmar-air-strike-killed-50-2026-09-29/"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/es/node/3844274"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Response Escalated for Ebola Outbreak in Bunia",
+        "score": 7.5,
+        "body": "Health authorities and international partners are expanding response operations against an Ebola outbreak caused by the Bundibugyo virus in Bunia and surrounding areas in the Democratic Republic of the Congo. Led by the Ministry of Public Health with support from the World Health Organization, response teams are scaling up key interventions, including case management, infection prevention, safe and dignified burials, disease surveillance, diagnostics, and community engagement. Priorities include slowing intense transmission in active hotspots while intervening early in newly affected areas to prevent further spread.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "WHO | Regional Office for Africa",
+            "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/scaling-stay-ahead-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Global — Cholera Mortality Rises 30 Percent to Highest Level Since 1999",
+        "score": 8.5,
+        "body": "Global deaths from cholera increased by 30 percent in 2025, reaching the highest annual death toll reported to the World Health Organization since 1999. Official surveillance data submitted to the WHO from 47 countries recorded 451,499 cholera cases and 7,870 deaths, with just seven countries accounting for 91 percent of all reported fatalities. Health officials emphasized that official surveillance figures reflect reported data only, and that the true global burden of the acute diarrhoeal disease remains substantially higher.",
+        "verified_figures": [
+          "451,499 cholera cases reported in 2025",
+          "7,870 cholera deaths reported in 2025",
+          "30% increase in cholera deaths in 2025",
+          "7 countries account for 91% of deaths"
+        ],
+        "sources": [
+          {
+            "name": "Down To Earth",
+            "url": "https://www.downtoearth.org.in/health/cholera-remains-a-challenge-deaths-increased-by-30-in-2025-who"
+          }
+        ]
+      },
+      {
+        "headline": "Thailand — Flooding Kills at Least 23 and Displaces Resources Across 42 Provinces",
+        "score": 7.0,
+        "body": "Heavy seasonal rainfall and flooding across 42 provinces in Thailand since mid-September have killed at least 23 people and affected more than 2.6 million residents. Downpours dropped approximately 320 mm of rain on Bangkok over three days, causing widespread urban flooding and severe transport disruptions at Suvarnabhumi, the capital's main airport. In response, the Thai government approved 4.1 billion baht ($122 million) in emergency relief funds to compensate impacted households nationwide as floodwaters slowly recede.",
+        "verified_figures": [
+          "at least 23 people killed",
+          "more than 2.6 million people affected",
+          "42 provinces affected",
+          "$122 million in emergency funds approved"
+        ],
+        "sources": [
+          {
+            "name": "UA.NEWS",
+            "url": "https://ua.news/en/world/u-tayilandi-cherez-poveni-zaginuli-shchonaimenshe-23-liudini-timeslive"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Gros-Morne, Artibonite, Haiti",
+      "score": 7.0,
+      "trigger": "Subsequent security operations by the Gang Suppression Force could trigger further retaliatory sprees by the Kokorat San Ras gang.",
+      "potential_impact": "Renewed armed attacks against civilians would drive up casualties and exacerbate insecurity in Artibonite.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Haitian Times",
+          "url": "https://haitiantimes.com/2026/09/29/11-civilians-killed-insecurity-grosmorne-artibonite/"
+        }
+      ]
+    },
+    {
+      "location": "Kyiv and nationwide, Ukraine",
+      "score": 7.5,
+      "trigger": "Continued targeting of energy grid assets and industrial hubs could trigger extended, systemic power failures across major Ukrainian urban areas.",
+      "potential_impact": "Widespread loss of electricity, heating, and water during severe weather conditions would acutely destabilize urban civilian populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "location": "Doña Ana County, New Mexico, United States",
+      "score": 5.5,
+      "trigger": "Sustained rainfall from the remnants of Tropical Storm Polo could breach the vulnerable McLeod Dam.",
+      "potential_impact": "A failure of the dam would produce catastrophic flash flooding, threatening lives and infrastructure downstream.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/hurricane-polo-nolo-mexico-hawaii-baja-california-6b5958cfb0e5f5c7ebbd14065a863d90"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post",
+      "UNICEF",
+      "WHO"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 4
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 2
+      },
+      {
+        "name": "The Haitian Times",
+        "count": 2
+      },
+      {
+        "name": "WHO | Regional Office for Africa",
+        "count": 2
+      },
+      {
+        "name": "ABC iview",
+        "count": 1
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 1
+      },
+      {
+        "name": "CIC News",
+        "count": 1
+      },
+      {
+        "name": "Down To Earth",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "UA.NEWS",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "citybuzz -",
+        "count": 1
+      },
+      {
+        "name": "saba.ye",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 5/5 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1328,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
