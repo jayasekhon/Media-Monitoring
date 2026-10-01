@@ -1,0 +1,513 @@
+{
+  "date": "2026-10-01",
+  "printed_time": "12:33 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Seven people have been killed and four others injured after a bus came under \"gunfire\" in the countryside of Syria's western Homs province, the Syrian Arab News Agency reported.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Jordan’s Q2 2026 GDP Expands 3.0%, Outperforming Regional Headwinds, International Forecasts ENV-KUWAIT-SUSTAINABLITYKuwait strengthens environmental sustainability through strategic initiativesBy Zahra Al-Kadhmi HLT-KUWAIT-SURGERYKuwait advances health sector with robotic, remote surgeryBy Mohammad Al-Moseb Saudi Arabia’s Voluntary Carbon Market Fuels the Shift to a Low-Carbon Amman, Sept.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "On Sunday, September 27, according to a brief report by Reuters, Marie-Celestin Karondwa was beaten by residents of his own neighborhood in Butembo, in the eastern Congolese province of North Kivu.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Myanmar Regime Has Killed 383 Civilians in 21 Rakhine Massacres: Irrawaddy Tally.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Deadly airstrike near market in Rakhine State – Myanmar Mechanism calls for information [EN/MY].",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Seven people have been killed and four others injured after a bus came under \"gunfire\" in the countryside of Syria's western Homs province, the Syrian Arab News Agency reported.",
+    "label": "MIDDLE EAST — Seven killed, four wounded in gunfire attack on bus in Syria's Homs"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Seven killed, four wounded in gunfire attack on bus in Syria's Homs",
+        "score": 10.0,
+        "body": "Seven people have been killed and four others injured after a bus came under \"gunfire\" in the countryside of Syria's western Homs province, the Syrian Arab News Agency reported. The bus was targeted near Masyaf Bridge, the agency said, citing a provincial health directorate source. Earlier, Syrian Alikhbaria TV reported that the attack was carried out by an \"unidentified group.\" Civil defence teams were assisting the injured, while security forces secured and cordoned off the area, according to the broadcaster. Separately, a gas pipeline exploded on Wednesday near the Tishreen power station in Syria's Eastern Ghouta area in the Damascus countryside, Alikhbariah TV reported. It said a loud bl",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "TRT World",
+            "url": "https://www.trtworld.com/article/913b836defe0"
+          }
+        ]
+      },
+      {
+        "headline": "Palestinian killed, child injured in Israeli strike south of Gaza",
+        "score": 10.0,
+        "body": "Jordan’s Q2 2026 GDP Expands 3.0%, Outperforming Regional Headwinds, International Forecasts ENV-KUWAIT-SUSTAINABLITYKuwait strengthens environmental sustainability through strategic initiativesBy Zahra Al-Kadhmi HLT-KUWAIT-SURGERYKuwait advances health sector with robotic, remote surgeryBy Mohammad Al-Moseb Saudi Arabia’s Voluntary Carbon Market Fuels the Shift to a Low-Carbon Amman, Sept. 30 (Petra) – A Palestinian was killed and another injured Wednesday as a result of a raid by Israeli occupation forces targeting southern Gaza Strip. According to the Palestinian News and Information Agency (WAFA), medical sources in the Strip reported the killing of a Palestinian and the injury of a girl",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Fana News -",
+            "url": "https://www.fananews.com/language/en/palestinian-killed-child-injured-in-israeli-strike-south-of-gaza/"
+          }
+        ]
+      },
+      {
+        "headline": "UNICEF: 1,317 children killed or injured in Lebanon",
+        "score": 8.5,
+        "body": "UNICEF: 1,317 children killed or injured in Lebanon.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Middle East Monitor",
+            "url": "https://www.middleeastmonitor.com/20261001-unicef-1317-children-killed-or-injured-in-lebanon/"
+          }
+        ]
+      },
+      {
+        "headline": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
+        "score": 8.5,
+        "body": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza. Coffins containing the remains of those killed will be carried in a funeral procession involving family members.",
+        "verified_figures": [
+          "105 people"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Mexico/United States — Hurricane Polo Causes Damage and Threatens Flash Floods Across US Midwest",
+        "score": 6.5,
+        "body": "Hurricane Polo struck Mexico’s Pacific coast and Baja California peninsula as a Category 3 storm with sustained winds of 125 mph, tearing roofs from homes, felling trees, and flooding roads before dissipating over northwest Mexico. The storm's remnants are tracking inland into the United States, posing a flash flood risk to roughly 100 million people from Arizona to Iowa. Forecasters expect between 4 and 6 inches of rainfall across parts of the Southern Plains and Midwest, with flash flood warnings issued in states including Texas and Oklahoma.",
+        "verified_figures": [
+          "125 mph top sustained winds",
+          "roughly 100 million people at risk for flash flooding",
+          "between 4 and 6 inches of rainfall forecast"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://www.wfmz.com/news/ap/ap-national/hurricane-nolo-gains-speed-as-it-moves-away-from-hawaii-but-high-winds-flash-floods-are-still-risk/article_2b029a40-4b99-53ff-9820-eb337e5d79ef.html"
+          }
+        ]
+      },
+      {
+        "headline": "United States (Hawaii) — Hurricane Nolo Prompts Weather Advisories for Big Island",
+        "score": 3.0,
+        "body": "Hurricane Nolo tracked southwest away from the Hawaiian Islands while maintaining maximum sustained winds near 105 mph. High-wind warnings, wind advisories, and high-surf advisories remained in effect across parts of Hawaii’s Big Island as the storm moved further away, bringing risks of high winds and surf.",
+        "verified_figures": [
+          "105 mph maximum sustained winds"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://www.wfmz.com/news/ap/ap-national/hurricane-nolo-gains-speed-as-it-moves-away-from-hawaii-but-high-winds-flash-floods-are-still-risk/article_2b029a40-4b99-53ff-9820-eb337e5d79ef.html"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Ebola-Related Border Restrictions Extended for Central and East African Travelers",
+        "score": 2.5,
+        "body": "The Canadian government extended temporary immigration and border measures until November 27 for travelers arriving from the Democratic Republic of Congo, Uganda, and South Sudan. The 60-day extension announced by Immigration, Refugees and Citizenship Canada suspends processing for certain immigration documents and travel applications while enforcing enhanced entry screening, citing ongoing public health risks from an Ebola Bundibugyo outbreak.",
+        "verified_figures": [
+          "60-day extension",
+          "restrictions extended until November 27"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/canada-extends-ebola-travel-restrictions-for-central-and-east-african-nations"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Congo Ebola epidemic passes 8,000 cases and nears 4,000 deaths as attacks on health wor...",
+        "score": 10.0,
+        "body": "On Sunday, September 27, according to a brief report by Reuters, Marie-Celestin Karondwa was beaten by residents of his own neighborhood in Butembo, in the eastern Congolese province of North Kivu. They looted his belongings and set his house on fire, and he died of his injuries. Karondwa was acting president of the local federal committee of the ruling Union for Democracy and Social Progress, and his party says he was attacked for having gone on the radio to tell people that Ebola exists and threatens them. The day before, armed men walked into a screening post at Vulemba, outside the same city, and shot dead the worker checking travelers for fever. The Democratic Republic of the Congo’s Na",
+        "verified_figures": [
+          "8,000 cases",
+          "4,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "World Socialist Web Site",
+            "url": "https://www.wsws.org/en/articles/2026/10/01/otti-o01.html"
+          }
+        ]
+      },
+      {
+        "headline": "Congolese politician is killed for defending Ebola efforts as mistrust complicates resp...",
+        "score": 9.5,
+        "body": "Congolese politician is killed for defending Ebola efforts as mistrust complicates response. Marie-Celestin Karondwa died of his injuries after being beaten at his home in Butembo, an Ebola hotspot, on Sunday.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-funeral-politician-killed-1ff629474298a62db44438c6eb178270"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "What will it take to end the Ebola disease outbreak in Democratic Republic of Congo?",
+        "score": 9.5,
+        "body": "What will it take to end the Ebola disease outbreak in Democratic Republic of Congo?",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Africa.com",
+            "url": "https://africa.com/apo/what-will-it-take-to-end-the-ebola-disease-outbreak-in-democratic-republic-of-congo"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak exceeds 8,000 cases",
+        "score": 9.5,
+        "body": "KINSHASA, DR Congo (AFP) — The Democratic Republic of Congo (DRC) has logged more than 8,000 cases of Ebola, including almost 4,000 deaths, amid the worst outbreak in the country’s history, according to data from the Congolese authorities seen by Agence France-Presse on Monday. In mid-May, the DRC officially declared its 17th Ebola breakout, a deadly disease that has killed more than 15,000 people in Africa over the past 50 years. To date, authorities have recorded 8,067 cases — including 3,901 deaths and 2,070 recoveries — since the start of the current crisis, representing a fatality rate of 48.4 percent, the latest official data showed. Starting in northeastern Ituri province, the outbrea",
+        "verified_figures": [
+          "48.4 percent",
+          "8,000 cases",
+          "4,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Daily Tribune",
+            "url": "https://tribune.net.ph/2026/09/30/ebola-outbreak-exceeds-8000-cases"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Three earthquakes strike Russia",
+        "score": 8.0,
+        "body": "Three earthquakes strike Russia Three earthquakes were recorded off the eastern coast of Russia’s Kamchatka Peninsula in the Pacific Ocean, with the strongest measuring magnitude 5.6, according to Russia’s Academy of Sciences. The earthquakes occurred within a few minutes of one another in the Pacific waters off Kamchatka, one of Russia’s most seismically active regions. The regional branch of the Russian Academy of Sciences’ Unified Geophysical Service reported the seismic activity, providing details on the magnitude and location of the tremors. According to Russia’s Emergencies Ministry, the earthquakes were felt at an intensity of around 3 points in the regional capital, Petropavlovsk-Kam",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "azernews.az",
+            "url": "https://www.azernews.az/region/264776.html"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine persists with Russian oil refinery strikes, defying Trump on fuel price warnings",
+        "score": 7.5,
+        "body": "Kyiv’s long-range strikes are headache for Trump before crucial midterms, while analysts’ claim war in Iran is responsible for rising prices Europe live – latest updates Ukraine is pressing on with strikes on Russian oil refineries, defying Donald Trump, who blames the attacks for exacerbating a global diesel shortage and pushing up fuel prices. Kyiv struck an oil facility in Russia’s southern Samara region overnight, Volodymyr Zelenskyy said on Thursday in a statement on social media. The Ukrainian president added that a Russian vessel in the Black Sea was hit, as well as a launch and storage site for attack drones in the Oryol region. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings"
+          }
+        ]
+      },
+      {
+        "headline": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "score": 6.0,
+        "body": "Russia launched its heaviest combined assault on Ukraine’s energy infrastructure in months on Wednesday, killing seven people and triggering emergency power cuts in Kyiv and nearby regions. The strikes came as officials warned of a difficult winter amid Russian attacks on Ukraine’s power and heating infrastructure.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Eu...",
+        "score": 6.0,
+        "body": "Announcement from Zelenskyy comes after infrastructure damage reported in Kyiv and Odesa overnight The ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a call on ⁠the possible need to release diesel ⁠stocks, an ​EU ‌official ‌said, as reported by Reuters. A ‌Commission spokesperson had earlier declined direct comment on reports that the ‌Trump administration has told Germany and ​France to draw down emergency diesel ⁠inventories to help to ​ease global ​fuel ​prices or ​face ‌a potential ​US ​diesel export ban. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Military airstrike on Rakhine market kills dozens",
+        "score": 9.0,
+        "body": "At least 49 people were killed and 58 others injured, including 22 in critical condition, after a Myanmar military fighter jet dropped two bombs near a crowded market in rebel-held Kyauktaw, Rakhine State. The market was filled with shopkeepers and shoppers when the attack occurred. Relief workers and the Arakan Army reported the casualty numbers, which have not been independently verified. UN representatives condemned the strike targeting civilians and urged an immediate end to forced repatriations of Myanmar nationals from abroad.",
+        "verified_figures": [
+          "At least 49 killed",
+          "58 injured"
+        ],
+        "sources": [
+          {
+            "name": "Bhaskar English",
+            "url": "https://www.bhaskarenglish.in/international/news/myanmar-rakhine-airstrike-arakan-army-market-bombing-139185090.html"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Pakistani airstrikes kill women and children in border region",
+        "score": 7.0,
+        "body": "Pakistani air attacks in Afghanistan killed at least nine women and children and wounded 11 other people, according to Afghan Taliban officials. The strikes represent a notable escalation along the border regions between the two countries. Protection concerns remain elevated for civilians residing near active military operations in the border zone.",
+        "verified_figures": [
+          "9 killed",
+          "11 wounded"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/pakistani-airstrikes-afghanistan-kill-nine-kabul-says-2026-10-01/"
+          }
+        ]
+      },
+      {
+        "headline": "India — Measles and malaria outbreaks cause 32 child deaths",
+        "score": 6.0,
+        "body": "At least 32 children have died in India's Balaghat district since May due to severe outbreaks of measles and malaria. The deaths occurred across remote forest villages, where compounded disease risks continue to threaten vulnerable pediatric populations with limited healthcare access.",
+        "verified_figures": [
+          "At least 32 children dead"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Exceeds 8,000 Cases",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting the worst Ebola outbreak in its history, with official data indicating more than 8,000 recorded cases and nearly 4,000 deaths since the outbreak was declared in mid-May. Originating in northeastern Ituri province, the crisis has recorded a case fatality rate of 48.4 percent. Additionally, Médecins Sans Frontières confirmed that a staff responder in the DRC tested positive for Bundibugyo virus disease and was medically evacuated to the Netherlands for specialized treatment under strict isolation protocols.",
+        "verified_figures": [
+          "8,067 cases",
+          "3,901 deaths",
+          "2,070 recoveries",
+          "48.4 percent fatality rate"
+        ],
+        "sources": [
+          {
+            "name": "Daily Tribune",
+            "url": "https://tribune.net.ph/2026/09/30/ebola-outbreak-exceeds-8000-cases"
+          }
+        ]
+      },
+      {
+        "headline": "South Sudan — Cholera Cases Decline Following Response Interventions",
+        "score": 5.0,
+        "body": "South Sudan is making progress against a cholera outbreak active since June, with the World Health Organization reporting a steady decline in cases since late July. More than 1,500 cases have been recorded overall, with children under nine years old representing the most affected group in Juba and Bor counties. Health officials attribute the reduced transmission to improved access to safe drinking water, sanitation facilities, and timely medical care.",
+        "verified_figures": [
+          "Over 1,500 cholera cases"
+        ],
+        "sources": [
+          {
+            "name": "Eye Radio",
+            "url": "https://eyeradio.org/progress-cholera-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "Zambia — Government Declares New Cholera Outbreak Across Five Provinces",
+        "score": 4.5,
+        "body": "Zambian authorities have declared a new cholera outbreak after recording 304 cases and 11 deaths across seven districts in five provinces. The outbreak originated in August from an imported case in Lusaka traced to Chibombo District. Health officials noted that eight of the 11 deaths occurred within local communities prior to hospital admission. Active transmission is currently confirmed in Lusaka, Chilanga, Chongwe, Chibombo, Chiengi, Nsama, and Chikankata districts.",
+        "verified_figures": [
+          "304 cases",
+          "11 deaths"
+        ],
+        "sources": [
+          {
+            "name": "News Diggers!",
+            "url": "https://diggers.news/local/2026/10/01/govt-declares-cholera-outbreak-with-304-cases-11-deaths/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "ZMB: Epidemic - 08-2026 - Cholera outbreak (2026-09-30)",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "ReliefWeb",
+          "url": "https://reliefweb.int/report/zambia/zmb-epidemic-08-2026-cholera-outbreak-2026-09-30"
+        }
+      ]
+    },
+    {
+      "location": "Govt declares cholera outbreak with 304 cases, 11 deaths – Z",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "News Diggers!",
+          "url": "https://diggers.news/local/2026/10/01/govt-declares-cholera-outbreak-with-304-cases-11-deaths/"
+        }
+      ]
+    },
+    {
+      "location": "Congolese politician is killed for defending Ebola efforts a",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/congo-ebola-funeral-politician-killed-1ff629474298a62db44438c6eb178270"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "What will it take to end the Ebola disease outbreak in Democ",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Africa.com",
+          "url": "https://africa.com/apo/what-will-it-take-to-end-the-ebola-disease-outbreak-in-democratic-republic-of-congo"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "Africa.com",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Daily Tribune",
+        "count": 2
+      },
+      {
+        "name": "News Diggers!",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "Bhaskar English",
+        "count": 1
+      },
+      {
+        "name": "Eye Radio",
+        "count": 1
+      },
+      {
+        "name": "Fana News -",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Middle East Monitor",
+        "count": 1
+      },
+      {
+        "name": "ReliefWeb",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "TRT World",
+        "count": 1
+      },
+      {
+        "name": "World Socialist Web Site",
+        "count": 1
+      },
+      {
+        "name": "azernews.az",
+        "count": 1
+      },
+      {
+        "name": "streamlinefeed.co.ke",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "9 item(s) had no extractable figures in available reporting.",
+      "4 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 12/12 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 3/6 region(s) with candidate material generated via Gemini (LLM), 3 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1232,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
