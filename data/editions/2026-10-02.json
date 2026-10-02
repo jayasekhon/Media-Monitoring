@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-02",
+  "printed_time": "11:59 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An Ebola outbreak in the Democratic Republic of the Congo has killed over 4,000 people and infected more than 8,000 across seven provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A Myanmar military airstrike on a market and residential areas in Rakhine State killed at least 50 civilians and wounded more than 50 others.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 3,
+      "text": "Widespread gang violence in Haiti killed or injured over 5,700 people and led to at least 230 kidnappings and 1,000 rapes in 2026.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Escalating military conflict and air strikes in Yemen have displaced nearly 198,000 civilians since July, driving heightened health and disease risks.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "A coordinated Russian air campaign targeted Ukraine's power grid, killing at least seven civilians and causing emergency power outages across the country.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An unprecedented Ebola outbreak in the Democratic Republic of the Congo has killed over 4,000 people across seven provinces amid severe challenges to public health containment.",
+    "label": "AFRICA — Deadly Ebola Outbreak in DRC"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Escalating Conflict Drives Mass Displacement and Disease Risks",
+        "score": 7.5,
+        "body": "Escalating military conflict along Yemen's West Coast and southern governorates has displaced tens of thousands of civilians and heightened health risks. According to the International Organization for Migration, over 145,300 people have been displaced across eight governorates since June, including an increase of nearly 16,000 people over a single week. The UN Office for the Coordination of Humanitarian Affairs separately warned that military escalation since July has displaced nearly 198,000 people, creating severe disease risks among displaced populations. The humanitarian deterioration coincides with reported air strikes by government forces targeting Houthi positions in Sanaa, Saada, and Taiz following Houthi strikes on Saudi infrastructure.",
+        "verified_figures": [
+          "145,308 people displaced across eight governorates since June",
+          "15,870 newly displaced people in one week",
+          "Nearly 198,000 people displaced since July",
+          "At least 20 air strikes reported in Taiz"
+        ],
+        "sources": [
+          {
+            "name": "International Organization for Migration",
+            "url": "https://www.iom.int/news/over-145k-now-displaced-yemen-16000-increase-past-week"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Mass Casualties and Settler Violence in Gaza and West Bank",
+        "score": 7.0,
+        "body": "In Gaza City, 105 bodies were recovered from rubble and buried amid ongoing Israeli military operations. An Israeli strike in Gaza also killed a Palestinian journalist, bringing the total number of journalists killed in the enclave to 263. In the occupied West Bank, Israeli settlers launched attacks on Palestinians, interrupting the olive harvest. In the town of Yasuf, east of Salfit, a Palestinian man died from injuries sustained during a settler attack in which Israeli forces reportedly fired live ammunition.",
+        "verified_figures": [
+          "105 bodies recovered from Gaza City rubble",
+          "263 journalists killed in Gaza",
+          "1 Palestinian man killed in Yasuf"
+        ],
+        "sources": [
+          {
+            "name": "Drop Site News",
+            "url": "https://www.dropsitenews.com/p/israel-gaza-journalist-bolivia-attorney-general-egypt-arrest-newsroom"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Widespread gang violence leaves over 5,700 dead or injured",
+        "score": 8.0,
+        "body": "Widespread gang violence and counter-gang operations in Haiti have resulted in more than 5,700 people killed or injured between 1 January and 11 September 2026, according to the United Nations. UN High Commissioner for Human Rights Volker Türk reported that at least 230 people were kidnapped and an estimated 1,000 women and girls were raped during this period, with total casualties and abuses likely significantly higher. Despite efforts by international security forces to contain gang activity in parts of Port-au-Prince, armed groups continue to rearm and expand their control into new areas across the nation.",
+        "verified_figures": [
+          "More than 5,700 killed or injured",
+          "More than 230 kidnapped",
+          "Estimated 1,000 women and girls raped"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0z00wr14xo"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Polo causes coastal flooding and evacuations in Baja California Sur",
+        "score": 4.5,
+        "body": "Hurricane Polo has brought high winds and coastal flooding to Mexico's northern Pacific coast, raising threats of mudslides and flash floods in Baja California Sur. High tides and heavy surf breached sea barriers in the fishing town of Puerto San Carlos, prompting civil protection authorities to advise residents to seek safety. Hundreds of people across the affected region have evacuated their homes to shelter in local schools and public facilities. Meanwhile, Hurricane Nolo continues to edge away from Hawaii while remaining a potential source of heavy rainfall.",
+        "verified_figures": [
+          "Hundreds evacuated"
+        ],
+        "sources": [
+          {
+            "name": "Yakima Herald-Republic",
+            "url": "https://www.yakimaherald.com/news/nation_and_world/world/wind-whipping-mexico-s-northern-pacific-coast-some-streets-flooding-as-hurricane-polo-bears-down/article_e2f263f3-ae22-5949-a980-b96e32a85c56.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Exceeds 4,000 Deaths",
+        "score": 9.0,
+        "body": "Government data indicates that an ongoing Ebola outbreak in the Democratic Republic of the Congo has killed more than 4,000 people and infected over 8,000 across at least seven provinces, including Ituri, North Kivu, South Kivu, Haut-Uélé, Tshopo, Bas-Uélé, and Sud-Ubangi. Driven by the Bundibugyo virus strain, it is described as the largest and deadliest Ebola outbreak recorded in the country. Médecins Sans Frontières warned that gaps in surveillance and case detection mean actual casualties likely exceed official figures. Community mistrust and resistance continue to hinder public health containment efforts.",
+        "verified_figures": [
+          "More than 4,000 deaths",
+          "Over 8,000 confirmed cases",
+          "7 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-deaths-congo-exceed-4000-government-data-shows-2026-10-02/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Drone Strike Hits Displacement Shelter in Al Obeid",
+        "score": 7.0,
+        "body": "A drone strike targeted the Al Mina Al Bari shelter for internally displaced persons in Al Obeid, North Kordofan State, late on 30 September. According to UNICEF, the attack killed one boy and injured 12 other children, comprising five boys and seven girls. The targeted facility housed families who had already experienced multiple displacements due to ongoing fighting in Sudan. Humanitarian agencies highlighted severe protection risks facing displaced populations, emphasizing that civilian shelters continue to suffer from armed violence despite providing crucial refuge to vulnerable families.",
+        "verified_figures": [
+          "1 child killed",
+          "12 children injured"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/13-children-reportedly-killed-or-injured-drone-strike-displacement-shelter-al-obeid"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Local Official Killed After Defending Ebola Response",
+        "score": 5.0,
+        "body": "Local politician Marie-Celestin Karondwa was killed in Butembo, North Kivu province, after publicly defending the government's Ebola response on the radio. According to his political party, attackers assaulted Karondwa at his home and set the building on fire, leading to his death from injuries at a local hospital. The incident highlights severe security risks and community hostility facing local officials and health workers trying to manage containment efforts amid widespread mistrust during the ongoing Ebola epidemic in eastern Democratic Republic of the Congo.",
+        "verified_figures": [
+          "1 local official killed"
+        ],
+        "sources": [
+          {
+            "name": "GhanaWeb",
+            "url": "https://www.ghanaweb.com/GhanaHomePage/africa/Mourners-bury-DR-Congo-official-killed-after-defending-Ebola-response-2054707"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Massive Russian strikes target energy grid causing civilian casualties and power cuts",
+        "score": 7.5,
+        "body": "Russia launched a major coordinated air campaign against Ukraine's critical power grid, targeting energy facilities in Kyiv and several other regions. The strikes triggered emergency power outages across the country and caused at least seven civilian deaths, including three in and around the capital. Ukrainian officials noted this was the first combined assault of its scale on the energy network since the end of the last heating season. Separately, reports indicate Russian forces are employing new drone tactics against Ukrainian defenses despite suffering record casualties and losing occupied territory.",
+        "verified_figures": [
+          "At least 7 civilian deaths nationwide",
+          "3 fatalities in and around Kyiv"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/South Korea — Tension escalates over prisoner-of-war dispute",
+        "score": 3.5,
+        "body": "South Korean President Lee Jae Myung warned of potential further action against Ukraine if Kyiv does not apologize over an ongoing controversy involving prisoners of war. President Lee also accused Ukrainian authorities of attempting to incite conflict on the Korean Peninsula. The warning underscores diplomatic and protection friction surrounding prisoners of war connected to the conflict.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Military airstrikes kill at least 50 civilians in Rakhine State",
+        "score": 9.0,
+        "body": "A September 28 Myanmar military airstrike targeted a crowded public market and residential areas in Kyauktaw Township, Rakhine State. According to human rights investigators, the bombardment killed at least 50 civilians and injured more than 50 others, affecting both ethnic Rakhine and Rohingya residents. Rights advocates stated that the deliberate targeting of civilian infrastructure and populated areas may constitute a war crime as military air attacks against civilian populations across the region continue to escalate.",
+        "verified_figures": [
+          "at least 50 civilians killed",
+          "more than 50 civilians wounded"
+        ],
+        "sources": [
+          {
+            "name": "Fortify Rights",
+            "url": "https://www.fortifyrights.org/mya-inv-2026-10-02/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Pakistani airstrikes kill 10 civilians in border region",
+        "score": 7.0,
+        "body": "Cross-border Pakistani airstrikes inside Afghanistan killed 10 civilians, according to statements from Afghan authorities in Kabul and the United Nations. The aerial bombardment occurred amid escalating border tensions and clashes between military forces and militants operating along the frontier, raising severe protection concerns for local civilian populations residing in the affected border zone.",
+        "verified_figures": [
+          "10 civilians killed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/pakistan-afghanistan-airstrikes-militants-civilians-border-clashes-e212cf566f4cbac4f05f07289740d40e"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Global — Doctors Without Borders responder contracts virus in escalating Ebola outbreak",
+        "score": 8.5,
+        "body": "A Doctors Without Borders employee responding to a fast-growing Ebola outbreak has tested positive for the virus. The ongoing epidemic has caused nearly 4,000 deaths and infected more than 8,000 people. Aid organizations and public health teams continue containment and response operations as transmission persists.",
+        "verified_figures": [
+          "nearly 4,000 deaths",
+          "more than 8,000 cases"
+        ],
+        "sources": [
+          {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/10/01/doctors-without-borders-employee-working-ebola-response-tests-positive-virus/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Authorities process thousands of victim DNA profiles following fatal glacial floods",
+        "score": 7.5,
+        "body": "Authorities in Nepal are using DNA testing to identify victims after catastrophic floods were triggered on August 26 by a glacial and rock collapse along the border with China. The floodwaters swept away numerous residents, creating a massive identification challenge with thousands of DNA profiles under process. Following the disaster, Nepal plans to drain four high-risk glacial lakes to prevent future outburst flooding.",
+        "verified_figures": [
+          "four glacial lakes to be drained"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/nepals-grim-dna-puzzle-identify-flood-dead"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/nepal-plans-drain-four-glacial-lakes-after-deadly-floods-2026-10-02/"
+          }
+        ]
+      },
+      {
+        "headline": "Spain — Severe rain warnings trigger lockdowns and mass school closures in eastern region",
+        "score": 5.0,
+        "body": "Heavy torrential rains and severe flood threats have prompted emergency protective measures across eastern Spain, where up to 300 millimeters of rainfall is expected. Authorities in Catalonia placed three towns under lockdown, while local officials in Valencia closed schools for nearly 500,000 children due to elevated risks of flash flooding and landslides.",
+        "verified_figures": [
+          "up to 300mm of rain forecast",
+          "3 towns under lockdown",
+          "schools closed for nearly 500,000 children"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides"
+          }
+        ]
+      },
+      {
+        "headline": "Europe — EU climate service documents record summer temperatures and ruined harvests",
+        "score": 4.5,
+        "body": "A report from the European Union's Copernicus climate monitoring service confirmed that western Europe experienced its hottest summer on record from June to August. Surface air temperatures averaged 2.5°C above the recent decadal average, driving persistent heat stress across more than half the continent and resulting in fatalities and damaged crops.",
+        "verified_figures": [
+          "temperatures 2.5°C above decadal average"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/oct/02/may-heatwaves-deaths-ruined-harvests-study-of-europes-summer-paints-grim-picture-for-the-future"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Afghanistan-Pakistan Border Region",
+      "score": 7.0,
+      "trigger": "Continued cross-border military strikes and clashes between armed forces and militants along the frontier.",
+      "potential_impact": "Additional civilian fatalities and mass displacement among vulnerable border communities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/pakistan-afghanistan-airstrikes-militants-civilians-border-clashes-e212cf566f4cbac4f05f07289740d40e"
+        }
+      ]
+    },
+    {
+      "location": "Eastern Spain",
+      "score": 5.0,
+      "trigger": "Anticipated downpours bringing up to 300 millimeters of rain over already saturated areas.",
+      "potential_impact": "Severe flash flooding and landslides impacting communities under town lockdowns and school closures.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides"
+        }
+      ]
+    },
+    {
+      "location": "Al Obeid, Sudan",
+      "score": 7.0,
+      "trigger": "Subsequent drone or artillery strikes on civilian displacement shelters in North Kordofan State.",
+      "potential_impact": "Increased child casualties and destruction of essential shelters for multi-displaced families.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "UNICEF",
+          "url": "https://www.unicef.org/press-releases/13-children-reportedly-killed-or-injured-drone-strike-displacement-shelter-al-obeid"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "The Guardian",
+      "Washington Post",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "UNICEF",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Drop Site News",
+        "count": 1
+      },
+      {
+        "name": "Fortify Rights",
+        "count": 1
+      },
+      {
+        "name": "GhanaWeb",
+        "count": 1
+      },
+      {
+        "name": "International Organization for Migration",
+        "count": 1
+      },
+      {
+        "name": "The Washington Post",
+        "count": 1
+      },
+      {
+        "name": "Yakima Herald-Republic",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1222,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
