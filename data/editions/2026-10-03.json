@@ -1,0 +1,405 @@
+{
+  "date": "2026-10-03",
+  "printed_time": "11:12 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo is battling an uncontrolled Ebola outbreak that has killed over 4,000 people, compounded by militia violence that has destroyed health infrastructure and dispersed thousands of displaced persons.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Widespread gang violence and security operations in Haiti have killed or injured at least 5,700 people this year and displaced 1.5 million, overwhelming health facilities and severe supply shortages.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Renewed fighting in Yemen has displaced nearly 198,000 people since July 2026, threatening severe disease outbreaks as healthcare facilities collapse under pressure.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Israeli airstrikes on residential apartments across Gaza City and central Gaza killed at least eight Palestinians and injured several others.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Cross-border Pakistani airstrikes inside Afghanistan killed at least 10 civilians, mostly children, drawing condemnation from UN monitors for potential violations of international humanitarian law.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The Democratic Republic of the Congo is facing a severe Ebola epidemic that has claimed more than 4,000 lives, while active conflict hampers medical responses and displaces vulnerable populations.",
+    "label": "AFRICA — DRC Ebola Crisis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli airstrikes kill civilians in Gaza City and central Gaza",
+        "score": 7.5,
+        "body": "Israeli airstrikes on residential targets across the Gaza Strip have killed at least eight Palestinians and injured several others. An attack on a residential apartment in Gaza City killed at least five people, while separate strikes in central Gaza, including Nuseirat's Camp 2, killed three Palestinians. Israeli naval gunboats also opened fire toward the Gaza City coastline. The strikes hit civilian housing, compounding protection concerns and casualty risks across the enclave amid ongoing military operations.",
+        "verified_figures": [
+          "At least 5 Palestinians killed in Gaza City apartment strike",
+          "3 Palestinians killed in central Gaza strikes"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Mass displacement triggers severe disease outbreak warnings",
+        "score": 8.0,
+        "body": "Escalating military hostilities across Yemen have driven rapid mass displacement and heightened risks of severe disease outbreaks. The UN Office for the Coordination of Humanitarian Affairs warned that nearly 198,000 people have been forced to flee since July 2026, overwhelming a damaged healthcare system. Concurrently, the International Organization for Migration reported over 145,000 individuals displaced across eight governorates since West Coast conflict escalated in June, including nearly 16,000 newly uprooted people in a single week.",
+        "verified_figures": [
+          "Nearly 198,000 individuals displaced since July 2026",
+          "145,308 individuals displaced across eight governorates since June 2026",
+          "15,870 people newly displaced in one week"
+        ],
+        "sources": [
+          {
+            "name": "iom.int",
+            "url": "https://www.iom.int/news/over-145k-now-displaced-yemen-16000-increase-past-week"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East — Iran launches drone and missile attacks on Gulf industrial sites",
+        "score": 7.5,
+        "body": "Iran launched waves of ballistic missiles and drones targeting industrial infrastructure across the United Arab Emirates, Kuwait, and Bahrain following US and Israeli attacks on two Iranian steel plants. Emirates Global Aluminium confirmed damage to its production base in Abu Dhabi, while Aluminium Bahrain reported two workers were injured during strikes by Iranian forces. Defence forces across the region entered high alert, with the UAE Ministry of Defence confirming its systems intercepted 20 ballistic missiles.",
+        "verified_figures": [
+          "20 ballistic missiles intercepted by UAE",
+          "2 workers mildly injured in Bahrain strike"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/iran-launches-missile-and-drone-attacks-across-gulf-as-israel-strikes-tehran-infrastructure/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Escalating Gang Violence and Displacement Overwhelm Health System",
+        "score": 8.0,
+        "body": "According to the United Nations, gang violence and security operations in Haiti resulted in at least 5,700 deaths and injuries between January and September. UN monitors documented over 1,000 cases of sexual violence against women and girls and at least 230 kidnappings. Armed groups continue expanding beyond Port-au-Prince despite the deployment of an international security force, which currently operates with only 1,500 of its planned 5,500 personnel. The violence has displaced approximately 1.5 million people, overwhelming local healthcare facilities and creating critical shortages of essential medication, food, and basic supplies.",
+        "verified_figures": [
+          "at least 5,700 people killed or injured",
+          "more than 1,000 cases of sexual violence against women and girls",
+          "at least 230 kidnappings",
+          "approximately 1.5 million people displaced",
+          "1,500 of 5,500 planned international security force troops deployed"
+        ],
+        "sources": [
+          {
+            "name": "Courthouse News",
+            "url": "https://www.courthousenews.com/at-least-5700-killed-wounded-in-haiti-gang-crisis-this-year-un/"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Rachel Reaches Category 3 off Pacific Coast",
+        "score": 4.5,
+        "body": "Hurricane Rachel has intensified into a Category 3 storm off Mexico's Pacific coast, carrying maximum sustained winds of 193 kilometers per hour. Positioned roughly 390 kilometers off the southern tip of Baja California, the storm is moving slowly westward and is forecast to produce life-threatening surf and dangerous rip-current conditions along coastal areas. Mexican authorities are on alert as the region works to recover from flooding and structural damage caused by the remnants of Hurricane Polo earlier in the week.",
+        "verified_figures": [
+          "maximum sustained winds of 193 km/h",
+          "located 390 km off Baja California"
+        ],
+        "sources": [
+          {
+            "name": "The Singleton Argus",
+            "url": "https://www.singletonargus.com.au/story/9361438/hurricane-rachel-strengthens-to-cat-3-storm-off-mexico/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak death toll surpasses 4,000 amid ongoing insecurity",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo's worst Ebola outbreak has killed 4,018 people out of 8,300 confirmed cases across seven provinces, marking a 48.4 percent fatality rate. Health officials noted 2,162 recoveries and reported that the outbreak has eased in several areas. The epidemic, caused by the rare Bundibugyo strain that lacks an approved vaccine or targeted treatment, has been compounded by severe insecurity and resource shortages. In Ituri province, militia violence completely emptied the 19,000-person Kigonze displacement camp and an Ebola treatment center was burned down. Meanwhile, a drug trial in Ituri has enrolled over 250 participants to help prevent infection.",
+        "verified_figures": [
+          "4,018 deaths",
+          "8,300 confirmed cases",
+          "2,162 recoveries",
+          "48.4% fatality rate",
+          "19,000 displaced people scattered from Kigonze camp"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes target Kyiv bridges and critical infrastructure",
+        "score": 7.0,
+        "body": "Russian air attacks have intensified against key infrastructure in Kyiv, targeting major transport corridors across the Dnipro River. According to Mayor Vitali Klitschko, strikes hit both the Northern and Southern bridges, disrupting traffic across three crossings in the Ukrainian capital. The heightened bombardment has forced civilians into air raid shelters and impacted surrounding facilities, including a school and a hospital. Local officials warned that the repeated strikes are causing severe disruption to daily life and movement across the city as aerial attacks escalate.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-kyiv-bridges-truce-1949f2a68b6b8b4bfeba5a86878c79bd"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan/Pakistan — Cross-border airstrikes cause civilian casualties",
+        "score": 7.0,
+        "body": "Pakistan executed cross-border airstrikes targeting two locations inside Afghan territory, with Pakistani security officials claiming the operations killed 22 insurgent fighters. However, UNAMA reported that airstrikes in Kunar and Helmand provinces killed at least 10 civilians, mostly children, and injured nine others. UN Special Rapporteur Richard Bennett called for accountability, stating the civilian casualties appear to violate international humanitarian law.",
+        "verified_figures": [
+          "22 insurgent fighters claimed killed",
+          "at least 10 civilians killed",
+          "9 civilians injured"
+        ],
+        "sources": [
+          {
+            "name": "The Taiwan Times",
+            "url": "https://thetaiwantimes.com/en/world-news/pakistan-airstrikes-inside-afghanistan-kill-over-twenty-esca-983507"
+          }
+        ]
+      },
+      {
+        "headline": "Thailand — Torrential rains submerge Bangkok in widespread flooding",
+        "score": 6.5,
+        "body": "A low-pressure weather system dropped approximately 300 millimetres of rain over two days, triggering severe flooding across Bangkok. Authorities declared a flood disaster in all 50 districts as floodwaters submerged urban infrastructure and left residents stranded in waist-deep water. Government reports indicate roughly 40 people died from drowning or electrocution, while thousands were relocated to over 230 emergency shelters.",
+        "verified_figures": [
+          "300 millimetres of rain in two days",
+          "disaster declared in all 50 districts",
+          "about 40 people killed",
+          "thousands relocated to over 230 emergency shelters"
+        ],
+        "sources": [
+          {
+            "name": "Hiru News",
+            "url": "https://hirunews.lk/en/492081/severe-floods-submerge-bangkok-after-two-days-of-rain"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military airstrikes target flood-affected Dawei region",
+        "score": 6.5,
+        "body": "Myanmar's military regime bombed the flood-hit area of Dawei, where natural disaster fatalities have reached over 40 people. Following reports of ongoing military operations and air attacks targeting civilian areas, the Philippines publicly expressed concern regarding civilian deaths and injuries across Myanmar.",
+        "verified_figures": [
+          "disaster death toll tops 40 in Dawei"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries-2026-10-03/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Women and girls disproportionately affected by rising food insecurity",
+        "score": 5.5,
+        "body": "A report by U.N. Women indicates that women and girls in Afghanistan are projected to represent 60% of the population facing additional food insecurity by the end of 2026. Globally, an estimated 11.7 million additional women and girls could face severe food insecurity under a moderate scenario, accounting for 53% of 22 million newly affected people worldwide.",
+        "verified_figures": [
+          "60% of people facing additional food insecurity in Afghanistan",
+          "11.7 million additional women and girls globally",
+          "22 million additional people affected globally"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0011388"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Ebola outbreak spreading like “wildfire” across North Kivu",
+        "score": 10.0,
+        "body": "The province now accounts for nearly 40 percent of all newly confirmed cases nationwide — up from 24 percent at the end of August. As new hotspots emerge every week, treatment capacity remains insufficient to meet growing needs. This situation places both patients and communities at even greater risk. \"It is like fighting a [wildfire],\" said Stéphanie Hoffmann, coordinator of the Doctors Without Borders/Médecins Sans Frontières (MSF) Ebola treatment center in Butembo. \"Multiple outbreaks are developing at the same time, with varying intensity and in different locations. As long as new hotspots continue to emerge while the virus spreads across northern North Kivu, [stopping] the epidemic will",
+        "verified_figures": [
+          "40 percent",
+          "24 percent"
+        ],
+        "sources": [
+          {
+            "name": "Doctors Without Borders",
+            "url": "https://www.doctorswithoutborders.org/latest/ebola-outbreak-spreading-wildfire-across-north-kivu"
+          }
+        ]
+      },
+      {
+        "headline": "Militia Violence Empties 19,000-Person Camp at Heart of Ebola Outbreak as Death Toll Ri...",
+        "score": 10.0,
+        "body": "The United Nations expressed alarm in a statement on Thursday that the Kigonze camp in Ituri province, Democratic Republic of Congo (DRC) — which temporarily housed thousands of displaced people — had been entirely emptied, scattering its population during an uncontrolled Ebola outbreak. Health authorities in the DRC first identified an Ebola outbreak in the country in May, though World Health Organization (W.H.O.) officials later suggested that the disease began spreading months before the declaration of a public health emergency but went undetected due to the region’s ongoing political unrest, poverty, and lack of health facilities. The strain of Ebola spreading currently was identified as",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "breitbart.com",
+            "url": "https://www.breitbart.com/africa/2026/10/02/militia-violence-empties-19000-person-camp-at-heart-of-ebola-outbreak-as-death-toll-rises/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola disease outbreak 2026: How MSF is responding",
+        "score": 9.5,
+        "body": "Ebola disease outbreak 2026: How MSF is responding.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Doctors Without Borders",
+            "url": "https://www.doctorswithoutborders.org/latest/ebola-disease-outbreak-2026-how-msf-responding"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak exceeds 8 000 cases",
+        "score": 9.5,
+        "body": "Staff members prepare meals for people under quarantine in Goma, the Democratic Republic of the Congo Image: XINHUA The Democratic Republic of Congo has logged more than 8,000 cases of Ebola, including almost 4,000 deaths, amid the worst outbreak in the country's history, according to data from the Congolese authorities on Monday. In mid-May, the DRC officially declared its 17th Ebola breakout, a deadly disease that has killed more than 15,000 people in Africa over the past 50 years. To date, authorities have recorded 8,067 cases – including 3,901 deaths and 2,070 recoveries – since the start of the current crisis, representing a fatality rate of 48.4 percent, the latest official data showed",
+        "verified_figures": [
+          "48.4 percent",
+          "000 cases",
+          "8,000 cases"
+        ],
+        "sources": [
+          {
+            "name": "IOL",
+            "url": "https://iol.co.za/ios/news/2026-10-03-ebola-outbreak-exceeds-8-000-cases/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Persian Gulf / Middle East",
+      "score": 8.0,
+      "trigger": "Subsequent waves of Iranian drone and missile strikes targeting industrial infrastructure in the Gulf following strikes on Iranian steel facilities.",
+      "potential_impact": "Direct strikes on industrial centers risk broader regional military escalation, civilian casualties, and severe economic and logistical disruptions.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "News On AIR",
+          "url": "https://newsonair.gov.in/iran-launches-missile-and-drone-attacks-across-gulf-as-israel-strikes-tehran-infrastructure/"
+        }
+      ]
+    },
+    {
+      "location": "Kyiv, Ukraine",
+      "score": 7.5,
+      "trigger": "Sustained bombardment of critical Dnipro River bridges and key urban transport links in Kyiv by Russian air forces.",
+      "potential_impact": "Complete destruction of river crossings would sever essential transit corridors, isolate civilian populations, and disrupt emergency services and healthcare access.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/russia-ukraine-war-kyiv-bridges-truce-1949f2a68b6b8b4bfeba5a86878c79bd"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Doctors Without Borders",
+        "count": 2
+      },
+      {
+        "name": "News On AIR",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Courthouse News",
+        "count": 1
+      },
+      {
+        "name": "Hiru News",
+        "count": 1
+      },
+      {
+        "name": "IOL",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Singleton Argus",
+        "count": 1
+      },
+      {
+        "name": "The Taiwan Times",
+        "count": 1
+      },
+      {
+        "name": "breitbart.com",
+        "count": 1
+      },
+      {
+        "name": "iom.int",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "1 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 4/4 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1321,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
