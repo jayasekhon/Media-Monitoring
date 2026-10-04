@@ -1,0 +1,415 @@
+{
+  "date": "2026-10-04",
+  "printed_time": "11:53 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A rapidly spreading Ebola outbreak in the Democratic Republic of the Congo has killed over 4,000 people across seven provinces amid security constraints and the absence of an approved treatment.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Twin earthquakes in north-central Venezuela have killed at least 160 people and injured nearly 1,000, triggering emergency search and rescue operations.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Escalating gang violence in Haiti has caused over 5,700 casualties this year, prompting the UN Security Council to extend its multinational security mission mandate.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Israeli military strikes across the Gaza Strip killed at least seven Palestinians and injured 11 others, compounding enclave-wide civilian displacement and distress.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Russian strikes across Ukraine killed at least six people and damaged critical civil infrastructure in Kyiv, Sumy, and Dnipro.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An unprecedented Ebola epidemic in the Democratic Republic of the Congo has caused over 4,000 deaths across seven provinces, aggravated by ongoing conflict and the lack of an approved vaccine.",
+    "label": "AFRICA — DRC Ebola Epidemic Exceeds 4,000 Fatalities"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza Strip — Airstrikes Cause Civilian Casualties Across Enclave",
+        "score": 8.0,
+        "body": "Israeli military strikes across the Gaza Strip continue to inflict civilian casualties. In Gaza City, five Palestinians were killed in an attack, including two Christian women. In northern Gaza, an Israeli drone strike killed one Palestinian near Beit Lahia, while an airstrike on a vehicle killed one person and wounded at least 11 others. Israel's military stated the vehicle strike targeted a Hamas militant. Local sources report an intensification of Israeli fire and airstrikes over the past month, exacerbating severe humanitarian conditions and displacement across the enclave.",
+        "verified_figures": [
+          "5 Palestinians killed in Gaza City attack",
+          "1 Palestinian killed and at least 11 wounded in vehicle strike",
+          "1 Palestinian killed in Beit Lahia drone strike"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/israel-prepares-to-mark-october-7"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "West Bank — Settler Violence and Clashes Escalate During Harvest",
+        "score": 6.0,
+        "body": "Violent clashes between Israeli settlers and Palestinians erupted across several West Bank locations during the week of Sukkot, particularly impacting communities participating in the olive harvest. Confrontations were recorded in Beita, Burin, and Asira al-Qibliya, south of Nablus. At least one person was killed during clashes on Thursday, while settlers reportedly shot two Palestinians in one village and injured another with thrown stones. The Israeli military intervened during disputes in Beita following reports of gunfire, though no military-inflicted casualties were reported there.",
+        "verified_figures": [
+          "At least 1 person killed in clashes",
+          "At least 3 Palestinians wounded or shot in settler incidents"
+        ],
+        "sources": [
+          {
+            "name": "The Jerusalem Post",
+            "url": "https://www.jpost.com/israel-news/article-910452"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Saudi Airstrikes Target Houthi-Controlled Sana'a",
+        "score": 7.0,
+        "body": "A series of heavy airstrikes hit Yemen's Houthi-held capital, Sana'a, causing powerful explosions across several districts and causing widespread panic among residents. Pro-Houthi media reported at least 26 bombardment strikes by Saudi aircraft across the city. The reported aerial attacks follow a Houthi claim that they launched a retaliatory ballistic missile attack targeting a Saudi Aramco facility. Casualties and the full extent of physical damage in Sana'a have not yet been confirmed, but the escalation threatens to further worsen the country's severe humanitarian crisis.",
+        "verified_figures": [
+          "At least 26 airstrikes reported on Sana'a"
+        ],
+        "sources": [
+          {
+            "name": "INDToday",
+            "url": "https://indtoday.com/saudi-airstrikes-reported-on-yemens-houthi-held-capital-sanaa/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Twin Earthquakes Cause Mass Casualties",
+        "score": 9.0,
+        "body": "A pair of powerful earthquakes struck north-central Venezuela, leaving at least 160 people dead and nearly 1,000 others injured. Emergency responders are conducting search and rescue operations to locate survivors trapped under rubble. The United States is sending search and rescue teams to support response efforts. The disaster has generated urgent humanitarian needs as response teams clear debris and treat the injured.",
+        "verified_figures": [
+          "at least 160 killed",
+          "almost 1,000 injured"
+        ],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/victims-deadly-venezuela-earthquakes/story?id=134202867"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Escalating Gang Violence and Security Mission Extension",
+        "score": 8.5,
+        "body": "Widespread gang violence in Haiti has caused at least 5,700 deaths and injuries this year, with more than 1,000 women and girls raped and 230 kidnappings recorded. The UN warns actual numbers are likely much higher as gangs continue expanding into new areas. To address the security crisis, the UN Security Council unanimously extended the mandate of the multinational Gang Suppression Force for six months. Additional troop contingents from Asian and African nations are slated to deploy to frontlines in Port-au-Prince and Artibonite.",
+        "verified_figures": [
+          "at least 5,700 killed or wounded",
+          "more than 1,000 women and girls raped",
+          "230 kidnappings"
+        ],
+        "sources": [
+          {
+            "name": "GhanaWeb",
+            "url": "https://www.ghanaweb.com/GhanaHomePage/africa/At-least-5-700-killed-wounded-in-Haiti-gang-crisis-this-year-UN-2055035"
+          }
+        ]
+      },
+      {
+        "headline": "Cuba — Interception of Fuel Shipments Amid U.S. Blockade Policy",
+        "score": 4.5,
+        "body": "The United States Coast Guard intercepted two fuel tankers bound for Cuba, enforcing a fuel blockade policy following the collapse of Venezuelan supplies to the island. Among the intercepted vessels was the container ship Grace, detected between Cuba and Mexico. The ongoing disruption to fuel shipments threatens energy stability and essential services across the country.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "news.sbs.co.kr",
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008782306"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak death toll exceeds 4,000 as health crisis deepens",
+        "score": 9.0,
+        "body": "Health authorities in the Democratic Republic of the Congo report that a major Ebola outbreak has killed at least 4,018 people out of over 8,300 confirmed cases across seven provinces since mid-May. Caused by the rare Bundibugyo strain, for which no approved vaccine or treatment currently exists, the outbreak is the fastest-growing Ebola epidemic on record. Response operations in eastern DRC are severely hindered by armed violence, resource shortages, and rapid geographic spread into new health zones. In response, France announced increased support, and a clinical drug trial in Ituri province has enrolled more than 250 participants in an effort to evaluate preventive treatments.",
+        "verified_figures": [
+          "4,018 to 4,042 deaths",
+          "8,300 to 8,376 confirmed cases",
+          "2,162 recoveries",
+          "48.4 percent case fatality rate",
+          "Over 250 drug trial participants"
+        ],
+        "sources": [
+          {
+            "name": "RFI",
+            "url": "https://www.rfi.fr/en/africa/20261003-france-pledges-more-support-to-fight-drc-ebola-outbreak-as-deaths-top-4-000"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes kill six and damage Kyiv infrastructure during German Chancellor's visit",
+        "score": 7.0,
+        "body": "Russian forces intensified airstrikes across Ukraine, killing at least six people nationwide and striking key infrastructure, including Kyiv's Northern Bridge, as German Chancellor Friedrich Merz conducted an unannounced visit to the capital. Russian drone strikes hit a pharmaceutical warehouse in Sumy, killing one person, and targeted a communications facility in Dnipro. Moscow previously advised foreign diplomats to leave Kyiv ahead of escalated bombardments. Ukrainian President Volodymyr Zelensky condemned the strikes, asserting that Russian forces are increasingly resorting to indiscriminate attacks against civilian transit links and essential facilities.",
+        "verified_figures": [
+          "6 killed across Ukraine",
+          "1 killed in Sumy drone strike"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/kyiv-bridges-russia-ukraine-war-2cb9344e23445f69d5072ce661231eb3"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Disaster agency accelerates recovery aid for Flores earthquake victims",
+        "score": 6.0,
+        "body": "Indonesia's National Disaster Management Agency is accelerating the disbursement of recovery funds and housing aid to 44,767 households displaced by a powerful 7.7-magnitude earthquake in the Flores region of East Nusa Tenggara. BNPB head Lieutenant General Suharyanto confirmed plans to resolve administrative delays by the end of October 2026, targeting full financial delivery across seven severely impacted districts.",
+        "verified_figures": [
+          "44,767 households affected",
+          "7.7-magnitude earthquake"
+        ],
+        "sources": [
+          {
+            "name": "JournalArta",
+            "url": "https://journalarta.com/en/2026/10/04/indonesia-accelerates-disaster-aid-flores-earthquake/"
+          }
+        ]
+      },
+      {
+        "headline": "India — Steep runoff from Nagaland worsens Assam monsoon flooding",
+        "score": 5.0,
+        "body": "Monsoon rainfall in the mountainous terrain of Nagaland triggered rapid downhill water runoff carrying soil, silt, and debris into rivers flowing into neighboring Upper Assam during the July 2026 flood crisis. The transboundary river surge exacerbated inundation across Assam's plains, underscoring systemic challenges in cross-state river management and disaster mitigation during extreme weather events in northeast India.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Counterview",
+            "url": "https://www.counterview.net/2026/10/when-rivers-ignore-state-boundaries.html"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Magnitude 5.9 earthquake strikes Sumbawa region",
+        "score": 2.0,
+        "body": "A magnitude 5.9 earthquake occurred off the Sumbawa region of Indonesia at a depth of 10 kilometers. Reported by the German Research Centre for Geosciences, the seismic strike occurred at 22:55 GMT on Saturday. Local authorities reported no immediate casualties, injuries, or severe infrastructural damage following the quake.",
+        "verified_figures": [
+          "5.9-magnitude earthquake",
+          "10 kilometers depth"
+        ],
+        "sources": [
+          {
+            "name": "Fana News -",
+            "url": "https://www.fananews.com/language/en/5-9-magnitude-earthquake-strikes-sumbawa-region-in-indonesia/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "India — Severe floods cause casualties and mass evacuations in Bihar",
+        "score": 7.0,
+        "body": "Worsening floods in Bihar state have resulted in at least 12 drowning deaths in affected areas. Emergency response operations involving National Disaster Response Force personnel and air force helicopter drops are active across the region. Authorities reported that approximately 50,000 people were evacuated over a 24-hour period from Saran district's Amnour block as floodwaters expanded into new communities.",
+        "verified_figures": [
+          "12 drowning deaths",
+          "50,000 people evacuated"
+        ],
+        "sources": [
+          {
+            "name": "ETV Bharat",
+            "url": "https://www.etvbharat.com/en/bharat/flood-situation-worsens-in-bihar-many-killed-50000-evacauted-in-24-hours-enn26100303634"
+          }
+        ]
+      },
+      {
+        "headline": "Zambia — Cholera outbreak expands across five provinces",
+        "score": 5.0,
+        "body": "The Zambian government has declared a cholera outbreak affecting seven districts across five provinces following the initial case detected in mid-August. Official reports record 304 suspected cases, 62 laboratory-confirmed cases, and 11 fatalities, with eight deaths occurring in local communities and three in health facilities. Lusaka Province is the most affected region, accounting for 130 infections, 39 confirmed cases, and four deaths.",
+        "verified_figures": [
+          "304 suspected cases",
+          "62 confirmed cases",
+          "11 deaths",
+          "130 infections in Lusaka Province"
+        ],
+        "sources": [
+          {
+            "name": "Atlas Global de Riesgo",
+            "url": "https://globalriskatlas.com/en/cholera-outbreak-in-zambia/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Flash floods and landslides displace hundreds in Baglung and Parbat",
+        "score": 4.0,
+        "body": "Late September flash floods and landslides along the Nisikhola and Kaligandaki rivers devastated the Jhiwakhola region, leaving over 300 residents facing housing and educational crises across Baglung and Parbat districts. Displaced families initially sheltered in municipal buildings and local schools before dispersing to live with relatives due to lack of immediate resettlement plans by local authorities.",
+        "verified_figures": [
+          "Over 300 residents displaced"
+        ],
+        "sources": [
+          {
+            "name": "The Kathmandu Post",
+            "url": "https://kathmandupost.com/national/2026/10/03/nisikhola-flood-displaced-move-to-relatives-homes-with-resettlement-uncertain"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Polo makes landfall in Baja California Sur",
+        "score": 3.0,
+        "body": "Hurricane Polo made landfall in Baja California Sur with maximum sustained winds of 110 mph. The storm impacted Mexico's northern Pacific coastline, forcing local commercial closures and beach shutdowns as it progressed through the region. The severe weather event renewed public concerns among residents regarding the growing severity of tropical cyclones.",
+        "verified_figures": [
+          "Maximum sustained winds of 110 mph"
+        ],
+        "sources": [
+          {
+            "name": "The Delta News",
+            "url": "https://www.deltanews.tv/news/weather-week-in-review-hurricane-flooding-and-wildfire-mark-a-turbulent-week/article_12833f0b-002e-4d98-ba16-c4de1e2678d9.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Sana'a, Yemen",
+      "score": 7.5,
+      "trigger": "Renewed Houthi missile launches or continued heavy aerial bombardments on Houthi-controlled districts over the next 72 hours.",
+      "potential_impact": "Sustained urban strikes could inflict severe civilian casualties, damage key infrastructure, and disrupt humanitarian response efforts.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "INDToday",
+          "url": "https://indtoday.com/saudi-airstrikes-reported-on-yemens-houthi-held-capital-sanaa/"
+        }
+      ]
+    },
+    {
+      "location": "Kyiv, Ukraine",
+      "score": 7.0,
+      "trigger": "Further targeted Russian drone and missile strikes on transit links and utility facilities in the capital over the next 72 hours.",
+      "potential_impact": "Destruction of key bridges and public utilities could severely restrict emergency access, civilian movement, and urban power supplies.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/kyiv-bridges-russia-ukraine-war-2cb9344e23445f69d5072ce661231eb3"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "INDToday",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Atlas Global de Riesgo",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Counterview",
+        "count": 1
+      },
+      {
+        "name": "ETV Bharat",
+        "count": 1
+      },
+      {
+        "name": "Fana News -",
+        "count": 1
+      },
+      {
+        "name": "GhanaWeb",
+        "count": 1
+      },
+      {
+        "name": "JournalArta",
+        "count": 1
+      },
+      {
+        "name": "RFI",
+        "count": 1
+      },
+      {
+        "name": "The Delta News",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Jerusalem Post",
+        "count": 1
+      },
+      {
+        "name": "The Kathmandu Post",
+        "count": 1
+      },
+      {
+        "name": "news.sbs.co.kr",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 994,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
