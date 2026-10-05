@@ -1,0 +1,505 @@
+{
+  "date": "2026-10-05",
+  "printed_time": "1:44 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Yemeni military, backed by Saudi jets, began a broad set of strikes on Monday against Iran-backed Houthi targets in an attempt to retake lost territory.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Congo's Ebola outbreak has now recorded more than 4,000 deaths, authorities said as they struggle to contain the spread of the virus.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "More than 250 participants have been enrolled in a trial for a drug that could stop them from contracting Ebola in Congo, in what experts have described as a critical step to try to fight the deadliest outbreak of the disease in the Central African country.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Audio By Carbonatix The number of deaths in Democratic Republic of Congo's Ebola outbreak has surpassed 4,000, government data showed on Friday, as the worst epidemic in the country's history resists containment efforts.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The Yemeni military, backed by Saudi jets, began a broad set of strikes on Monday against Iran-backed Houthi targets in an attempt to retake lost territory.",
+    "label": "MIDDLE EAST — Yemen, Saudi Arabia launch new strikes against Houthis in bid to retake lost ter"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen, Saudi Arabia launch new strikes against Houthis in bid to retake lost territory",
+        "score": 10.0,
+        "body": "The Yemeni military, backed by Saudi jets, began a broad set of strikes on Monday against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatants on both sides, according to UN figures, and has since become the most active front in the wider Middle East war.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory"
+          }
+        ]
+      },
+      {
+        "headline": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and woun...",
+        "score": 10.0,
+        "body": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/iran-war-port-shuaiba-drone-strike-takeaways-77203e36ceaf49c798e18219f0e3506a"
+          }
+        ]
+      },
+      {
+        "headline": "WHO Reports Nearly 1,000 Deaths in Two Months as Yemen Conflict Escalates and Cholera S...",
+        "score": 9.0,
+        "body": "Escalating conflict in Yemen has resulted in 5,166 casualties, including 959 deaths, since early August 2026, the World Health Organization announced on Monday. A new situation report details a crisis rapidly expanding toward the country's eastern governorates. Renewed violence is driving mass displacement and compounding severe public health vulnerabilities, most notably a cholera resurgence among populations fleeing active front lines. The WHO's sixth situation report, which covers the six-day period from September 27 to October 2, documented 685 new casualties, comprising 121 fatalities and 564 injuries. This recent period saw the daily average of casualties rise to 114, up from 101 durin",
+        "verified_figures": [
+          "1,000 Deaths",
+          "959 deaths",
+          "121 fatalities"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/who-reports-nearly-1000-deaths-in-two-months-as-yemen-conflict-escalates-and-cholera-surges"
+          }
+        ]
+      },
+      {
+        "headline": "Israeli Airstrike in Gaza City Kills Five Amid Fragile Ceasefire Violations",
+        "score": 9.0,
+        "body": "Israeli Airstrike in Gaza City Kills Five Amid Fragile Ceasefire Violations An Israeli airstrike targeting a residential building in Gaza City has left five people dead and several others injured, marking a serious breach of the on An Israeli airstrike targeting a residential building in Gaza City has left five people dead and several others injured, marking a serious breach of the ongoing ceasefire agreement. Local medical sources and emergency responders confirmed that the strike reduced the multi-story structure to rubble, prompting frantic rescue efforts to pull survivors from the debris. In separate operations across the enclave, at least three more Palestinians were reported killed in",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Taiwan Times",
+            "url": "https://thetaiwantimes.com/en/world-news/israeli-airstrike-in-gaza-city-kills-five-amid-fragile-cease-983617"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Magnitude 6.0 Earthquake Strikes Near Myanmar, Tremors Felt In Kolkata And Dhaka Canada...",
+        "score": 8.0,
+        "body": "Magnitude 6.0 Earthquake Strikes Near Myanmar, Tremors Felt In Kolkata And Dhaka Canada Revenue Agency Data Breaches (MbguKXqNA7).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Unisba Media",
+            "url": "https://media.unisba.ac.id/584ca2f5/eb90b362qDH0oy1zlOU"
+          }
+        ]
+      },
+      {
+        "headline": "Canada Extends Ebola Immigration Measures to Nov. 27",
+        "score": 7.0,
+        "body": "Advertisement Canada has renewed its Ebola-related immigration restrictions for another 60 days, keeping travel documents suspended for residents of three central African countries through November 27, 2026. Immigration, Refugees and Citizenship Canada announced the extension on September 28, 2026, saying it remains \"deeply concerned about the ongoing Ebola outbreak in the Democratic Republic of Congo and the evolving risk of Ebola disease in neighbouring countries, including Uganda and South Sudan.\" The federal government describes the renewal as part of its effort to prevent the spread of Ebola in Canada. Who the measures affect The suspension applies to people whose last country of reside",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ircc.com",
+            "url": "https://ircc.com/news/canada-extends-ebola-immigration-measures-november-2026"
+          }
+        ]
+      },
+      {
+        "headline": "New Data Reveals Nearly 1.5 Million Displaced In Haiti As Instability Escalates",
+        "score": 7.0,
+        "body": "As armed gangs continue to act as de facto authorities in Haiti, recent reports reveal that approximately 12 percent of the population, roughly 1.5 million Haitians, are now displaced, according to data collected by the International Organization for Migration (IOM). Additionally, 80 percent of people being displaced are located outside of Port-au-Prince, Haiti’s capital and largest city, with the most significant increase recorded in Haiti’s Artibonite department, a rural northern region, where displacement rose by 16 percent between May and August 2026, according to the IOM. The Artibonite, which was once considered a refuge for those fleeing violence elsewhere, is now experiencing high le",
+        "verified_figures": [
+          "12 percent",
+          "80 percent",
+          "16 percent"
+        ],
+        "sources": [
+          {
+            "name": "The Organization for World Peace",
+            "url": "https://theowp.org/new-data-reveals-nearly-1-5-million-displaced-in-haiti-as-instability-escalates/"
+          }
+        ]
+      },
+      {
+        "headline": "New Mexico SLAMMED By Catastrophic Floods — State Of Emergency Latest Updates Yaroslav ...",
+        "score": 6.5,
+        "body": "New Mexico SLAMMED By Catastrophic Floods — State Of Emergency Latest Updates Yaroslav Amosov (ixNjUE9vpA).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Unisba Media",
+            "url": "https://media.unisba.ac.id/91d749fb/1cc3e762EesnFckzyQo"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Congo's Ebola Outbreak Records More than 4,000 Deaths as Authorities Struggle to Contai...",
+        "score": 10.0,
+        "body": "Congo's Ebola outbreak has now recorded more than 4,000 deaths, authorities said as they struggle to contain the spread of the virus. The latest figures were released by the health ministry on Thursday. They show that 4,018 people have died from among 8,300 confirmed cases, making up for nearly half of the confirmed cases in what has become the fastest-growing Ebola outbreak in history. Congo announced an outbreak on May 15, caused by the rare Bundibugyo virus, which has no known treatment or vaccine, The Associated Press said. The World Health Organization has recently raised the alarm regarding the rapid geographical spread of the virus into new health zones, stretching limited resources.",
+        "verified_figures": [
+          "4,000 Deaths",
+          "4,000 deaths",
+          "4,018 people"
+        ],
+        "sources": [
+          {
+            "name": "ASHARQ AL-AWSAT English",
+            "url": "https://english.aawsat.com/world/5325095-congos-ebola-outbreak-records-more-4000-deaths-authorities-struggle-contain-virus"
+          }
+        ]
+      },
+      {
+        "headline": "Inside the study for a remedy to fight Congo’s deadliest Ebola outbreak",
+        "score": 10.0,
+        "body": "More than 250 participants have been enrolled in a trial for a drug that could stop them from contracting Ebola in Congo, in what experts have described as a critical step to try to fight the deadliest outbreak of the disease in the Central African country. The drug is targeted at Bundibugyo virus, which is responsible for the fast-moving outbreak and is without an approved vaccine or treatment. The trial began in July and is one of several studies launched to find some protection and another way of at least slowing the outbreak.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/10/04/health/ebola-drug-trial-congo"
+          }
+        ]
+      },
+      {
+        "headline": "Congo’s Ebola outbreak has killed more than 4,000, government data shows",
+        "score": 10.0,
+        "body": "Audio By Carbonatix The number of deaths in Democratic Republic of Congo's Ebola outbreak has surpassed 4,000, government data showed on Friday, as the worst epidemic in the country's history resists containment efforts. The outbreak, caused by the Bundibugyo species of Ebola, became the largest and deadliest in Congo after surpassing the 2018-2020 epidemic. It is now second only to the 2014-2016 West African Ebola outbreak, which infected over 28,600 people and killed more than 11,000 across Guinea, Liberia and Sierra Leone. Government figures showed on Friday that the death toll had risen to 4,018, and confirmed cases had reached 8,300 across seven provinces. Over 2,000 patients have recov",
+        "verified_figures": [
+          "28,600 people"
+        ],
+        "sources": [
+          {
+            "name": "MyJoyOnline",
+            "url": "https://www.myjoyonline.com/congos-ebola-outbreak-has-killed-more-than-4000-government-data-shows/"
+          }
+        ]
+      },
+      {
+        "headline": "A doctor collects an participant’s to test during clinical trials attempting to stop th...",
+        "score": 10.0,
+        "body": "A doctor collects an participant’s to test during clinical trials attempting to stop the rare Bundibugyo virus, amidst a deadly Ebola outbreak, in Rwampara Hospital in Ituri, Congo, on Thursday. (PTI)",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Shillong Times",
+            "url": "https://theshillongtimes.com/2026/10/05/a-doctor-collects-an-participants-to-test-during-clinical-trials-attempting-to-stop-the-rare-bundibugyo-virus-amidst-a-deadly-ebola-outbreak-in-rwampara-hospital-in-ituri-congo-on-thursd/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Bulker crew member dies in string of Russian drone attacks",
+        "score": 6.0,
+        "body": "Bulker crew member dies in string of Russian drone attacks. You are not allowed to see this pageplease try to navigate back to homepage.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Slipcase",
+            "url": "https://www.slipcase.com/view/bulker-crew-member-dies-in-string-of-russian-drone-attacks?source=14"
+          }
+        ]
+      },
+      {
+        "headline": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks",
+        "score": 6.0,
+        "body": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/kyiv-russia-ukraine-war-merz-drones-89bb8d2a97cc09d01a316723d08d2fb3"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine claims its attacks have taken out more than half of Russia’s oil refining capac...",
+        "score": 6.0,
+        "body": "Ukraine claims its attacks have taken out more than half of Russia’s oil refining capacity.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-oil-strikes-48793b176934f0516b7402c8706a421a"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine scrambles for money to fight war as Russian strikes batter economy",
+        "score": 6.0,
+        "body": "Ukraine scrambles for money to fight war as Russian strikes batter economy.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/ukraine-scrambles-money-fight-war-russian-strikes-batter-economy-2026-10-05/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar military airstrikes on Rakhine displacement camps kill eight, rebel group says",
+        "score": 10.0,
+        "body": "Myanmar military airstrikes on Rakhine displacement camps kill eight, rebel group says.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-airstrikes-rakhine-displacement-camps-kill-eight-rebel-group-2026-10-05/"
+          }
+        ]
+      },
+      {
+        "headline": "Philippines voices concern over Myanmar airstrike deaths, injuries",
+        "score": 10.0,
+        "body": "MANILA — The Philippines, chair of the Association of Southeast Asian Nations (ASEAN), expressed concern over an airstrike in Myanmar’s Rakhine state that caused deaths, injuries and destruction, and stood ready to facilitate discussions within the regional bloc on how best to assist Myanmar. - “The Philippines is closely monitoring developments and expresses concern over the attacks which resulted in destruction, loss of lives and injuries to those affected,” Foreign Affairs Assistant Secretary for ASEAN Affairs Ana Marie Hernando said in an email response on Saturday. - As ASEAN chair, Manila said it remained mindful of the views of all member states and would continue to be guided by the",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Interaksyon",
+            "url": "https://interaksyon.philstar.com/politics-issues/2026/10/05/320102/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal Flood Tragedy: 157 killed, 500 including 100 Indians and foreign tourists missing",
+        "score": 9.0,
+        "body": "AMN / NEWS DESK A devastating flash flood triggered by an avalanche in Nepal’s northern Himalayas killed at least 157 people and left hundreds missing on Wednesday, sweeping through communities, destroying infrastructure and washing away vehicles, homes and major public facilities across three districts. The disaster struck without warning along the Bhotekoshi River, near Nepal’s border with China, after an avalanche is believed to have blocked the flow of the Lhende tributary and created a sudden surge of water and debris. The flood first hit Timure, a settlement near the Rasuwagadhi border crossing in Rasuwa district. Much of the settlement was swept away within minutes. The flood then rac",
+        "verified_figures": [
+          "157 killed",
+          "157 people"
+        ],
+        "sources": [
+          {
+            "name": "The Indian Awaaz",
+            "url": "https://theindianawaaz.com/nepal-flood-tragedy-157-killed-500-including-100-indians-and-foreign-tourists-missing/"
+          }
+        ]
+      },
+      {
+        "headline": "Philippines Earthquake LIVE | Monster 8.2 Quake Strikes Philippines, Pacific Braces For...",
+        "score": 8.0,
+        "body": "Philippines Earthquake LIVE | Monster 8.2 Quake Strikes Philippines, Pacific Braces For Tsunami Class Action (f10k07KrWp).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Unisba Media",
+            "url": "https://media.unisba.ac.id/de1af57b/4c2815d9DyYGVABs78s"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "MSF: North Kivu's Ebola outbreak spreading like a megafire as new hotspots multiply",
+        "score": 9.5,
+        "body": "MSF: North Kivu's Ebola outbreak spreading like a megafire as new hotspots multiply 05 Oct 2026 - The Ebola outbreak in North Kivu, Democratic Republic of Congo, has intensified dramatically since early September, with the province now accounting for nearly 40% of all newly confirmed cases nationwide, up from 24% at the end of August. With new hotspots emerging every week, treatment capacities remain largely insufficient and inadequate. This situation places both current patients and entire communities at even greater risk. \"It is like fighting a megafire,\" said Stéphanie Hoffmann, coordinator of the Médecins Sans Frontières (MSF) Ebola Treatment Centre in Butembo. \"Multiple outbreaks are de",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "prezly.msf.org.uk",
+            "url": "https://prezly.msf.org.uk/msf-north-kivus-ebola-outbreak-spreading-like-a-megafire-as-new-hotspots-multiply"
+          }
+        ]
+      },
+      {
+        "headline": "Can Obeldesivir Prevent Ebola Symptoms After Exposure? Drug Trial Moves Forward As Deat...",
+        "score": 9.5,
+        "body": "Can Obeldesivir Prevent Ebola Symptoms After Exposure? Drug Trial Moves Forward As Death Toll Crosses 4,000. SummaryMore than 250 people who have had high-risk Ebola contact have enrolled for obeldesivir trial, an experimental drug being tested as post-exposure prophylaxis.",
+        "verified_figures": [
+          "250 people"
+        ],
+        "sources": [
+          {
+            "name": "Health and Me",
+            "url": "https://www.healthandme.com/health-news/congo-ebola-outbreak-obeldesivir-trial-advances-with-250-participants-as-death-toll-crosses-4000-article-156276436"
+          }
+        ]
+      },
+      {
+        "headline": "France steps up international support to combat Ebola and strengthen epidemic response",
+        "score": 9.0,
+        "body": "Paris, France – The French Foreign Minister affirmed his country’s commitment to continuing and strengthening efforts to support international initiatives aimed at eradicating the Ebola epidemic. He also emphasized the importance of intensifying cooperation among nations and international organizations to combat the spread of infectious diseases. The Minister explained that fighting Ebola goes beyond merely treating infected cases; it requires a comprehensive system encompassing prevention, rapid detection, contact tracing, and the provision of necessary medical care. Furthermore, this system relies on bolstering the capabilities of health systems in countries most vulnerable to the outbreak",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "صوت الإمارات",
+            "url": "https://www.voiceofemirates.com/en/health/2026/10/05/france-steps-up-international-support-to-combat-ebola-and-strengthen-epidemic-response/"
+          }
+        ]
+      },
+      {
+        "headline": "Death toll from Thailand floods rises to 31, interior ministry says",
+        "score": 9.0,
+        "body": "Death toll from Thailand floods rises to 31, interior ministry says.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/death-toll-thailand-floods-rises-31-interior-ministry-says-2026-10-05/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "A doctor collects an participant’s to test during clinical t",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Shillong Times",
+          "url": "https://theshillongtimes.com/2026/10/05/a-doctor-collects-an-participants-to-test-during-clinical-trials-attempting-to-stop-the-rare-bundibugyo-virus-amidst-a-deadly-ebola-outbreak-in-rwampara-hospital-in-ituri-congo-on-thursd/"
+        }
+      ]
+    },
+    {
+      "location": "Myanmar military airstrikes on Rakhine displacement camps ki",
+      "score": 10.0,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-airstrikes-rakhine-displacement-camps-kill-eight-rebel-group-2026-10-05/"
+        }
+      ]
+    },
+    {
+      "location": "Philippines voices concern over Myanmar airstrike deaths, in",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Interaksyon",
+          "url": "https://interaksyon.philstar.com/politics-issues/2026/10/05/320102/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries/"
+        }
+      ]
+    },
+    {
+      "location": "MSF: North Kivu's Ebola outbreak spreading like a megafire a",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "prezly.msf.org.uk",
+          "url": "https://prezly.msf.org.uk/msf-north-kivus-ebola-outbreak-spreading-like-a-megafire-as-new-hotspots-multiply"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 4
+      },
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "Unisba Media",
+        "count": 3
+      },
+      {
+        "name": "Interaksyon",
+        "count": 2
+      },
+      {
+        "name": "The Shillong Times",
+        "count": 2
+      },
+      {
+        "name": "prezly.msf.org.uk",
+        "count": 2
+      },
+      {
+        "name": "ASHARQ AL-AWSAT English",
+        "count": 1
+      },
+      {
+        "name": "CNN",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Health and Me",
+        "count": 1
+      },
+      {
+        "name": "MyJoyOnline",
+        "count": 1
+      },
+      {
+        "name": "Slipcase",
+        "count": 1
+      },
+      {
+        "name": "The Indian Awaaz",
+        "count": 1
+      },
+      {
+        "name": "The Organization for World Peace",
+        "count": 1
+      },
+      {
+        "name": "The Taiwan Times",
+        "count": 1
+      },
+      {
+        "name": "ircc.com",
+        "count": 1
+      },
+      {
+        "name": "streamlinefeed.co.ke",
+        "count": 1
+      },
+      {
+        "name": "صوت الإمارات",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "18 item(s) had no extractable figures in available reporting.",
+      "12 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 23/23 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1275,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
