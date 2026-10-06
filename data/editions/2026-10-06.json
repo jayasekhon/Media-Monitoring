@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-06",
+  "printed_time": "12:50 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "1 Palestinian killed, 5 injured in Israeli army, occupier attacks in West Bank.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Expansion | The Ebola outbreak exceeds 8,600 infections and approaches 4,150 deaths in the Democratic Republic of the Congo.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Ugandan ambulance driver killed in DRC attack during Ebola response A Ugandan ambulance driver has died from injuries suffered in an attack while supporting the Ebola response in the Democratic Republic of Congo.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "The UN World Food Programme (WFP) on Monday condemned a deadly airstrike on two trucks delivering aid in South Kordofan state, Sudan, which resulted in the death of one of the drivers.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "WFP driver killed in airstrike on Sudan aid convoy.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "1 Palestinian killed, 5 injured in Israeli army, occupier attacks in West Bank.",
+    "label": "MIDDLE EAST — 1 Palestinian killed, 5 injured in Israeli army, occupier attacks in West Bank"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "1 Palestinian killed, 5 injured in Israeli army, occupier attacks in West Bank",
+        "score": 10.0,
+        "body": "1 Palestinian killed, 5 injured in Israeli army, occupier attacks in West Bank.",
+        "verified_figures": [
+          "5 injured"
+        ],
+        "sources": [
+          {
+            "name": "Middle East Monitor",
+            "url": "https://www.middleeastmonitor.com/20261005-1-palestinian-killed-5-injured-in-israeli-army-occupier-attacks-in-west-bank/"
+          }
+        ]
+      },
+      {
+        "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+        "score": 9.0,
+        "body": "Saudi Arabia says three wounded in attacks on airports near Yemen border. Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "130,000 Displaced: Yemen’s Refugee Crisis reaches Somalia",
+        "score": 8.5,
+        "body": "Yemen’s truce is over and people are already crossing the Gulf of Aden. A refugee crisis is starting on the Somali coast, in places already stretched past their limits. In early September, Ansarullah, the de facto government of most of Yemen, known in the Western Press as “the Houthis”, launched against Yemen’s “internationally recognised” government. Ansarullah runs northern Yemen (the most densely populated part of the country). It took Mocha on 10 September and Mayyun (Perim) Island the next day, . It now holds , and its forces are . Shipping has already thinned. Crossings fell to fifteen in a single day, and tankers carried about 5.2 million barrels a day through the strait, down from 8.",
+        "verified_figures": [
+          "5.2 million barrels a day",
+          "130,000 Displaced"
+        ],
+        "sources": [
+          {
+            "name": "Next Century Foundation",
+            "url": "https://www.nextcenturyfoundation.org/130000-displaced-yemens-refugee-crisis-reaches-somalia/"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistani Driver reportedly killed in Drone Strike on Aid Truck in Yemen",
+        "score": 8.5,
+        "body": "SANAA – Yemeni government forces accused Houthis of carrying out drone strike on an aid truck traveling to Marib province, reportedly killing Pakistani driver. There has been no immediate statement from Pakistani authorities regarding the reported incident. First confirmed Pakistani casualty in Yemen: A Houthi drone struck a relief truck in Marib, #Yemen, killing a Pakistani driver. This comes after a Pakistani official claimed dispatching four cargo aircraft carrying military equipment and aid to government-held areas of Yemen. It’s unclear, however, if the killed Pakistani was a soldier or a civilian contractor. Either way, this is a critical development of Pakistan’s direct ground presenc",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Daily Pakistan",
+            "url": "https://en.dailypakistan.com.pk/06-Oct-2026/pakistani-driver-reportedly-killed-in-drone-strike-on-aid-truck-in-yemen"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti: UN chief condemns Haiti attack that killed 47",
+        "score": 8.5,
+        "body": "At least 47 people, including at least five children, were killed and more than 50 others kidnapped by armed men in Haiti on Sunday, the United Nations confirmed on Tuesday. The incident, which took place in Kenscoff on the outskirts of the capital, Port-au-Prince, is believed to be one of the largest mass kidnappings in the troubled Caribbean country in recent years. In a video posted on social media, a gang leader threatened to murder hostages if Haiti's National Police kill any of his men in an attempt to rescue people. \"If any of our soldiers are hurt, I will kill all of them,\" he said.",
+        "verified_figures": [
+          "47 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "El Niño Threatens 347 Million Children as Floods and Droughts Put Their Futures at Risk",
+        "score": 8.0,
+        "body": "Devdiscourse News Desk | New York For millions of children, the approaching El Niño could mean losing access to drinking water, missing school or leaving home because floods or drought have made everyday life unsafe. The 2026–2027 event is forecast to become one of the strongest on record, with UNICEF warning that more than 347 million children across nearly 100 countries and territories live in areas expected to experience unusually wet or dry conditions between October and December 2026. El Niño is a recurring climate pattern that warms parts of the Pacific Ocean and disrupts weather systems worldwide, changing rainfall patterns in ways that can damage crops, overwhelm communities and inte",
+        "verified_figures": [
+          "347 Million Children as Floods",
+          "347 million children across nearly"
+        ],
+        "sources": [
+          {
+            "name": "devdiscourse.com",
+            "url": "https://www.devdiscourse.com/article/other/3987368-el-nio-threatens-347-million-children-as-floods-and-droughts-put-their-futures-at-risk?amp"
+          }
+        ]
+      },
+      {
+        "headline": "New Data Reveals Nearly 1.5 Million Displaced In Haiti As Instability Escalates",
+        "score": 7.0,
+        "body": "As armed gangs continue to act as de facto authorities in Haiti, recent reports reveal that approximately 12 percent of the population, roughly 1.5 million Haitians, are now displaced, according to data collected by the International Organization for Migration (IOM). Additionally, 80 percent of people being displaced are located outside of Port-au-Prince, Haiti’s capital and largest city, with the most significant increase recorded in Haiti’s Artibonite department, a rural northern region, where displacement rose by 16 percent between May and August 2026, according to the IOM. The Artibonite, which was once considered a refuge for those fleeing violence elsewhere, is now experiencing high le",
+        "verified_figures": [
+          "12 percent",
+          "80 percent",
+          "16 percent"
+        ],
+        "sources": [
+          {
+            "name": "The Organization for World Peace",
+            "url": "https://theowp.org/new-data-reveals-nearly-1-5-million-displaced-in-haiti-as-instability-escalates/"
+          }
+        ]
+      },
+      {
+        "headline": "In 2010 Haiti was devastated by a 7.0-magnitude earthquake: Just hours later, Sean Penn...",
+        "score": 6.5,
+        "body": "Haiti is no stranger to hardship and suffering. The Caribbean island nation is especially vulnerable to natural disasters given its location. It is prone to being pummeled by tropical cyclones, massive flooding events, and major earthquakes. On 12 January 2010, Haiti was struck by a 7.0 earthquake shortly before 5 pm local time that killed 220,000 people, one of the deadliest in recorded history. It also left around 1.5 million people homeless. Aid organizations and emergency crews rushed to Haiti to provide much needed relief and resources. In was also the impetus for Sean Penn to set up the J/P Haitian Relief Organization. Within hours of the tragic event the Hollywood actor had mobilized",
+        "verified_figures": [
+          "1.5 million people homeless",
+          "220,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Diario AS",
+            "url": "https://en.as.com/entertainment/in-2010-haiti-was-devastated-by-a-70-magnitude-earthquake-just-hours-later-sean-penn-assembled-a-team-to-help-survivors-f202610-n/?outputType=amp"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Expansion | The Ebola outbreak exceeds 8,600 infections and approaches 4,150 deaths in ...",
+        "score": 10.0,
+        "body": "Expansion | The Ebola outbreak exceeds 8,600 infections and approaches 4,150 deaths in the Democratic Republic of the Congo.",
+        "verified_figures": [
+          "4,150 deaths"
+        ],
+        "sources": [
+          {
+            "name": "democrata.es",
+            "url": "https://www.democrata.es/en/international/expansion-the-ebola-outbreak-exceeds-8-600-infections-and-approaches-4-150-deaths-in-the-democratic-republic-of-the-congo/"
+          }
+        ]
+      },
+      {
+        "headline": "Ugandan ambulance driver killed in DRC attack during Ebola response",
+        "score": 10.0,
+        "body": "Ugandan ambulance driver killed in DRC attack during Ebola response A Ugandan ambulance driver has died from injuries suffered in an attack while supporting the Ebola response in the Democratic Republic of Congo. Ismael Mulindwa, who worked with the Uganda Red Cross Society, sustained serious injuries while carrying out humanitarian duties in Aru, Ituri Province, on August 17, 2026. The International Federation of Red Cross and Red Crescent Societies (IFRC) said Mulindwa received specialised medical care and initially showed signs of recovery. His condition later deteriorated. He died from his injuries on October 1, 2026. Uganda Red Cross staff have since joined Mulindwa’s family and friends",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Pulse Uganda",
+            "url": "https://www.pulse.ug/story/ugandan-ambulance-driver-killed-in-drc-attack-during-ebola-response-2026100604361716825"
+          }
+        ]
+      },
+      {
+        "headline": "UN condemns deadly airstrike on marked aid trucks in Sudan amid humanitarian crisis",
+        "score": 10.0,
+        "body": "The UN World Food Programme (WFP) on Monday condemned a deadly airstrike on two trucks delivering aid in South Kordofan state, Sudan, which resulted in the death of one of the drivers. According to the WFP, the attack occurred in the early hours of Saturday, when two trucks clearly marked as humanitarian vehicles were transporting food and other commodities to civilians in South Kordofan. The organisation did not provide any further details about the circumstances of the airstrike or the extent of damage to the food cargo, which are under assessment. Consequently, the WFP called for an investigation into the attack and urged that all those responsible be held accountable. The WFP further not",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Jurist.org",
+            "url": "https://www.jurist.org/news/2026/10/un-condemns-deadly-airstrike-on-marked-aid-trucks-in-sudan-amid-humanitarian-crisis/"
+          }
+        ]
+      },
+      {
+        "headline": "WFP driver killed in airstrike on Sudan aid convoy",
+        "score": 10.0,
+        "body": "WFP driver killed in airstrike on Sudan aid convoy.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The EastAfrican",
+            "url": "https://www.theeastafrican.co.ke/tea/news/north-africa/wfp-driver-killed-in-airstrike-on-sudan-aid-convoy-5620638"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "At least 6 dead as Russia strikes Ukraine’s Kharkiv",
+        "score": 10.0,
+        "body": "At least 6 people have been killed in Ukraine's northeastern city of Kharkiv after a Russian strike hit a residential area. Nearly 60 were injured and apartments destroyed. Elsewhere, a Russian drone struck an apartment building in the southern Ukrainian city of Zaporizhzhia. Morgan Ayre has the details.",
+        "verified_figures": [
+          "6 dead",
+          "6 people"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261006-at-least-6-dead-as-russia-strikes-ukraine-s-kharkiv"
+          }
+        ]
+      },
+      {
+        "headline": "Ship sinks and crew missing after Black Sea drone attack",
+        "score": 9.0,
+        "body": "Ship sinks and crew missing after Black Sea drone attack. It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+        "score": 7.5,
+        "body": "- Published Ukraine's railways have kept the country running since Russia's full-scale invasion in 2022. But attacks are intensifying, with more than half of all strikes on locomotives since then occurring this year alone, according to the state-owned operator. Yuliia Ponomarenko, 27, a marketing specialist from Kharkiv, found her journey to Warsaw last month suddenly interrupted just short of the Ukraine-Poland frontier. \"The border guards started running around and shouting \"Run! Get out of the carriages! There's shelling!\" A Russian drone had just hit a locomotive near the same border, and a special train carrying former British Prime Minister Boris Johnson and other European dignitaries,",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
+        "score": 7.5,
+        "body": "World Health Organization detects no sign of further outbreak since Darya Shipilova died last week The World Health Organization has said the risk of an epidemic in Russia is lowafter the sudden death of a lab technician who worked at a plague research institute in Siberia. Darya Shipilova, who was 28, died last week, two days after falling ill. Russian media reports suggested she may have become infected after an accident at her workplace , where dangerous pathogens are kept and studied. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar military airstrikes on Rakhine displacement camps kill eight, rebel group says",
+        "score": 10.0,
+        "body": "Myanmar military airstrikes on Rakhine displacement camps kill eight, rebel group says.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-airstrikes-rakhine-displacement-camps-kill-eight-rebel-group-2026-10-05/"
+          }
+        ]
+      },
+      {
+        "headline": "Old fighter jet clips falsely linked to deadly airstrike in Myanmar",
+        "score": 10.0,
+        "body": "Old fighter jet clips falsely linked to deadly airstrike in Myanmar.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://factcheck.afp.com/doc.afp.com.C9MK9ZR"
+          }
+        ]
+      },
+      {
+        "headline": "Moscow consultation moot informed: 4,700 Pakistanis killed in attacks originating from ...",
+        "score": 8.5,
+        "body": "ISLAMABAD: Pakistan has issued yet another strong warning over what it describes as the mounting terrorism threat emanating from Afghanistan, accusing the Taliban administration of allowing militant groups to operate from Afghan soil and saying that more than 4,700 Pakistanis have been killed in terrorist attacks originating from Afghanistan over the past three years. Pakistan called for immediate, concrete and verifiable action by the Taliban administration against terrorist organizations operating from Afghan soil. Pakistan’s Special Representative on Afghanistan Mohammad Sadiq said this while addressing the Eighth Moscow Format Consultations on Afghanistan in Moscow on Monday. He presente",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Business Recorder",
+            "url": "https://www.brecorder.com/news/amp/40442766"
+          }
+        ]
+      },
+      {
+        "headline": "At Least 8 Dead in Myanmar Air Strikes, Rakhine Rebel Group Claims",
+        "score": 8.0,
+        "body": "Myanmar’s military has launched airstrikes on camps for internally displaced people in Rakhine State, killing at least eight people and leaving more injured, according to a local ethnic rebel organization. The Arakan Army (AA), a Rakhine nationalist group that controls much of the state in western Myanmar, said yesterday that a Y12 aircraft bombed a displacement shelter and a nearby village in AA-controlled Ponnagyun Township, The Irrawaddy reported. One civilian was killed and two injured in the attack, it added. This came after six were killed in an air attack on a separate displacement camp in the township on Sunday night, the AA claimed. Several more were injured in the attack, which als",
+        "verified_figures": [
+          "8 Dead"
+        ],
+        "sources": [
+          {
+            "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+            "url": "https://thediplomat.com/2026/10/at-least-8-dead-in-myanmar-air-strikes-rakhine-rebel-group-claims/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Ebola outbreak update - October 4",
+        "score": 9.5,
+        "body": "Ebola outbreak update - October 4.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Outbreak News Today",
+            "url": "https://outbreaknewstoday.substack.com/p/ebola-outbreak-update-october-4"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola disease outbreak spreads like a megafire in North Kivu as new hotspots multiply",
+        "score": 9.5,
+        "body": "The Ebola disease outbreak in North Kivu province, Democratic Republic of Congo, has intensified dramatically since early September, with the province now accounting for nearly 40 per cent of all newly confirmed cases nationwide. This is up from 24 per cent at the end of August. With new hotspots emerging every week, treatment capacities remain largely insufficient and inadequate. This situation places current patients and entire communities at even greater risk. “It is like fighting a megafire,” says Stéphanie Hoffmann, coordinator of the Médecins Sans Frontières (MSF) Ebola treatment centre in Butembo. “Multiple outbreaks are developing at the same time, with varying intensity and in diffe",
+        "verified_figures": [
+          "40 per cent",
+          "24 per cent"
+        ],
+        "sources": [
+          {
+            "name": "msf.org",
+            "url": "https://www.msf.org/ebola-disease-outbreak-spreads-megafire-north-kivu"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak shows that the world is not ready for the next pandemic",
+        "score": 9.5,
+        "body": "As Ebola continues to spread in the eastern Democratic Republic of Congo, the burning question at recent UN pandemic preparedness meetings at the UN General Assembly was: Is the world willing and able to pay for readiness? When the Marburg virus hit Rwanda in September 2024, the country’s No. 1 goal was stopping community transmission. Marburg, in the same family as the Ebola virus, is second among the top-four deadliest viruses in the world. More than 80 per cent of people who contract the disease die. The country tracked the source of the zoonotic disease, and using genomic sequencing, sequenced the virus. They discovered that the outbreak was closely related to a sequence that happened in",
+        "verified_figures": [
+          "80 per cent"
+        ],
+        "sources": [
+          {
+            "name": "Geneva Solutions",
+            "url": "https://genevasolutions.news/articles/the-ebola-outbreak-shows-that-the-world-is-not-ready-for-the-next-pandemic"
+          }
+        ]
+      },
+      {
+        "headline": "Angola engages media at health center to fight Mpox outbreak - APAnews",
+        "score": 9.0,
+        "body": "The Angolan government has intensified its national risk communication strategy by hosting media professionals at the Public Health Emergency Operations Center (COESP) in Luanda to strengthen public access to reliable information surrounding the ongoing Mpox outbreak. Against the backdrop of 796 confirmed cases and two recorded fatalities across the country since 2024, the initiative brought journalists from diverse media organizations directly into the operational heart of Angola’s epidemiological response. By examining the center’s data collation and surveillance mechanisms, journalists observed how raw epidemiological intelligence is processed to guide high-level decision-making and rapid",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Agence de Presse Africaine",
+            "url": "https://apanews.net/angola-engages-media-at-health-center-to-fight-mpox-outbreak/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "At least 6 dead as Russia strikes Ukraine’s Kharkiv",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/video/20261006-at-least-6-dead-as-russia-strikes-ukraine-s-kharkiv"
+        }
+      ]
+    },
+    {
+      "location": "Myanmar military airstrikes on Rakhine displacement camps ki",
+      "score": 10.0,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-airstrikes-rakhine-displacement-camps-kill-eight-rebel-group-2026-10-05/"
+        }
+      ]
+    },
+    {
+      "location": "Old fighter jet clips falsely linked to deadly airstrike in ",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "AFP",
+          "url": "https://factcheck.afp.com/doc.afp.com.C9MK9ZR"
+        }
+      ]
+    },
+    {
+      "location": "Ebola outbreak update - October 4",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Outbreak News Today",
+          "url": "https://outbreaknewstoday.substack.com/p/ebola-outbreak-update-october-4"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "AFP",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Outbreak News Today",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "Agence de Presse Africaine",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Business Recorder",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Daily Pakistan",
+        "count": 1
+      },
+      {
+        "name": "Diario AS",
+        "count": 1
+      },
+      {
+        "name": "Geneva Solutions",
+        "count": 1
+      },
+      {
+        "name": "Jurist.org",
+        "count": 1
+      },
+      {
+        "name": "Middle East Monitor",
+        "count": 1
+      },
+      {
+        "name": "Next Century Foundation",
+        "count": 1
+      },
+      {
+        "name": "Pulse Uganda",
+        "count": 1
+      },
+      {
+        "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "count": 1
+      },
+      {
+        "name": "The EastAfrican",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Organization for World Peace",
+        "count": 1
+      },
+      {
+        "name": "democrata.es",
+        "count": 1
+      },
+      {
+        "name": "devdiscourse.com",
+        "count": 1
+      },
+      {
+        "name": "msf.org",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "13 item(s) had no extractable figures in available reporting.",
+      "8 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 19/19 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1455,
+      "sources_cited": 23
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
