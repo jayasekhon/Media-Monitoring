@@ -1,0 +1,510 @@
+{
+  "date": "2026-10-07",
+  "printed_time": "12:52 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Tent cities in Gaza grow as families mourn the dead, care for the injured, and endure relentless displacement.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Israeli communities shattered by Hamas massacres are torn between rebuilding their lives and remembering lost friends and relatives Keith Siegel spent many of his long hours in Hamas captivity in Gaza etching everything that happened after 7 October 2023 into his memory.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "A Kenyan man died after travelling to Nairobi from the Democratic Republic of the Congo, where a deadly outbreak of Ebola is spreading.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Kenya records first Ebola case from Congo outbreak that has killed thousands.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin.",
+    "label": "MIDDLE EAST — Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin",
+        "score": 10.0,
+        "body": "Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin. Tent cities in Gaza grow as families mourn the dead, care for the injured, and endure relentless displacement.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "‘All I want to do is cry’: trauma of 7 October survivors three years after the attacks",
+        "score": 10.0,
+        "body": "Israeli communities shattered by Hamas massacres are torn between rebuilding their lives and remembering lost friends and relatives Keith Siegel spent many of his long hours in Hamas captivity in Gaza etching everything that happened after 7 October 2023 into his memory. For 484 days, he recited to himself every place he was held, the dates he was moved and every attack or humiliation he endured or witnessed. He aimed to store intelligence that could help Israeli forces free other hostages if he was released, to keep track of time as the days slid by and be able to tell his family what happened to him. Now his body is free, but he cannot loosen those memories. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "Families of some US troops killed in the Iran war's deadliest strike absent from White ...",
+        "score": 10.0,
+        "body": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/iran-war-trump-gold-star-families-soldiers-4ab4e67f85d9035f2f19b8e61062927a"
+          }
+        ]
+      },
+      {
+        "headline": "A Palestinian dead and fourteen wounded in an attack by settlers in the West Bank",
+        "score": 9.5,
+        "body": "A Palestinian dead and fourteen wounded in an attack by settlers in the West Bank.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/a-palestinian-dead-and-fourteen-wounded-in-an-attack-by-settlers-in-the-west-bank/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Seventh person arrested in suspected plot to attack U.S. planes in Britain",
+        "score": 9.0,
+        "body": "Seventh person arrested in suspected plot to attack U.S. planes in Britain. A 22-year-old British national was detained in connection with the allegedly Iranian-backed plot.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/10/06/seventh-suspect-arrested-potential-drone-attack-against-us-planes/"
+          }
+        ]
+      },
+      {
+        "headline": "Deadly Colombia earthquake leaves widespread destruction",
+        "score": 8.5,
+        "body": "Deadly Colombia earthquake leaves widespread destruction A 7.4-magnitude earthquake has hit Colombia, killing more than 100 people and damaging thousands of buildings. As rescue teams search for survivors, international aid has begun to arrive. Devastating damage The major earthquake that shook western Colombia on Monday was felt as far away as Ecuador, Venezuela and Panama. According to the US Geological Survey, the quake struck at around 7:34 a.m. local time near San Jose del Palmar in the Choco region, about 400 kilometers (250 miles) west of the capital, Bogota. Saving the essentials Many people left their homes and other buildings, seeking safety. The US Geological Survey and its Colomb",
+        "verified_figures": [
+          "100 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/deadly-colombia-earthquake-leaves-widespread-destruction/g-78325463"
+          }
+        ]
+      },
+      {
+        "headline": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+        "score": 8.5,
+        "body": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six children after discussing it with the AI chatbot ChatGPT. The US Department of Justice said on Tuesday it had detained James Codey Bryant, 30, a resident of western Washington state, on a charge of conspiracy to murder persons in a foreign country. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington"
+          }
+        ]
+      },
+      {
+        "headline": "Tropical Storm Isaias forms, forecast to become a hurricane and hit the U.S. Gulf Coast...",
+        "score": 6.5,
+        "body": "Tropical Storm Isaias forms, forecast to become a hurricane and hit the U.S. Gulf Coast this week Published: Published:",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "CTV News",
+            "url": "https://www.ctvnews.ca/climate-and-environment/article/tropical-storm-isaias-forms-forecast-to-become-a-hurricane-and-hit-the-us-gulf-coast-this-week/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Outbreak of deadly Ebola strain with no cure spreads to another country",
+        "score": 10.0,
+        "body": "A Kenyan man died after travelling to Nairobi from the Democratic Republic of the Congo, where a deadly outbreak of Ebola is spreading. Kenya’s health minister, Aden Duale, said the man boarded a flight on Saturday and was screened at the airport before being taken to the hospital. The patient fell ill a month ago and had received treatment in multiple hospitals while he lived in the DRC. The man had travelled from the DRC to Uganda’s capital, where he caught a flight to Nairobi. After being transferred into isolation at a hospital, he tested positive for the deadly virus and died on Monday. The most recent outbreak was declared on May 15.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Metro.co.uk",
+            "url": "https://metro.co.uk/2026/10/06/outbreak-deadly-ebola-strain-no-cure-spreads-another-country-29684736/"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya records first Ebola case from Congo outbreak that has killed thousands",
+        "score": 10.0,
+        "body": "Kenya records first Ebola case from Congo outbreak that has killed thousands.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/10/06/kenya-records-first-ebola-case-congo-outbreak-that-has-killed-thousands/"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-confirms-first-ebola-case-imported-congo-patient-has-died-2026-10-06/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak: Uganda begins human trials of vaccine targeting deadly Bundibugyo virus",
+        "score": 10.0,
+        "body": "Ebola outbreak: Uganda begins human trials of vaccine targeting deadly Bundibugyo virus.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/health/409191/ebola-outbreak-uganda-begins-human-trials-of-vaccine-targeting-deadly-bundibugyo-virus?amp=1"
+          }
+        ]
+      },
+      {
+        "headline": "Inside the study for a remedy to fight Congo's deadliest Ebola outbreak",
+        "score": 10.0,
+        "body": "RWAMPARA, Congo (AP) — More than 250 participants have been enrolled in a trial for a drug that could stop them from contracting Ebola in Congo, in what experts have described as a critical step to try to fight the deadliest outbreak of the disease in the Central African country. The drug is targeted at Bundibugyo virus, which is responsible for the fast-moving outbreak and is without an approved vaccine or treatment. The trial began in July and is one of several studies launched to find some protection and another way of at least slowing the outbreak. Story continues below video Welcome to the discussion. Log In Keep it Clean. Please avoid obscene, vulgar, lewd, racist or sexually-oriented",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "New Castle News",
+            "url": "https://www.ncnewsonline.com/news/national/inside-the-study-for-a-remedy-to-fight-congos-deadliest-ebola-outbreak/article_77f6e2eb-04a5-5bd2-a2b8-700542b39c0a.html"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on U...",
+        "score": 10.0,
+        "body": "Ukraine president confirms series of attacks on Pryluky, Dnipro, Kremenchuk, Zaporizhzhia and Kyiv We are getting reports of a knife attack at a vocational school in Ostrołęka, Poland, which left at least seven people injured, including two seriously, as reported by Poland’s RMF FM radio. The city mayor, Paweł Niewiadomski, confirmed in a statement that the situation has been contained. “ Henri Kagan discovered a new way of manipulating chemical reactions, allowing a greater excess of one of the mirror images to be created than was previously assumed possible. His discovery has been revolutionary for chemists who develop reactions for the manufacture of pharmaceuticals, flavours, scents and new materials.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+        "score": 8.5,
+        "body": "Building in Pryluky destroyed, killing nine people including three children, officials say, night before Russian president’s 74th birthday Volodymyr Zelenskyy has accused Russia’s military of deliberately killing civilians and bombing residential buildings as a macabre gift for Vladimir Putin, who celebrates his 74th birthday on Wednesday. Ukraine’s president described Russia’s overnight drone and missiles strikes, which killed at least 15 people, as “despicable”. “The Russians wanted to strike painfully and demonstratively,” he said. Continue reading...",
+        "verified_figures": [
+          "15 people"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin"
+          }
+        ]
+      },
+      {
+        "headline": "Magnitude 2.8 earthquake strikes near Glogow, Głogów County, Lower Silesian Voivodeship...",
+        "score": 8.0,
+        "body": "Magnitude 2.8 earthquake strikes near Glogow, Głogów County, Lower Silesian Voivodeship, Poland.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/news/373044/Magnitude-28-earthquake-strikes-near-Glogow-Gogow-County-Lower-Silesian-Voivodeship-Poland.html"
+          }
+        ]
+      },
+      {
+        "headline": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president ...",
+        "score": 7.5,
+        "body": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/bulgaria-prime-minister-ships-drones-economic-zone-59f61af472f0379ebe7b1eb39b768c45"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "11 Indian Sailors Injured in Strait of Hormuz Strike: India Demands Immediate End to Sh...",
+        "score": 7.5,
+        "body": "Eleven Indian crew members were injured Tuesday (6) after a Panama-flagged commercial vessel was hit by a projectile while transiting the Strait of Hormuz, prompting India to strongly condemn the attack. The vessel, MT On Peace, was carrying 19 crew members, including 17 Indian nationals, when it was struck while sailing off the coast of Oman, according to India’s Ministry of External Affairs. A total of 12 crew members were injured in the incident, including 11 Indian nationals, the ministry said. “We condemn the attack earlier today on a Panama-flagged commercial vessel MT On Peace off the coast of Oman, where it was struck by a projectile while transiting the Strait of Hormuz,” the MEA sa",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "India Weekly",
+            "url": "https://www.indiaweekly.biz/strait-of-hormuz-attack-11-indian-sailors-injured-mt-on-peace/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar's Health System Is Under Siege, Endangering the Region",
+        "score": 6.5,
+        "body": "On September 28, 2026, an estimated 50 people were killed at a busy market in the western part of Myanmar during an attack by the country's military regime. This attack marks some of the latest violence in a civil war that began in 2021 following a coup by the junta, which overthrew democratically elected leaders. The war has destroyed the health-care system, allowing dangerous diseases to spread, including ones that had all but been eliminated in the country, such as cholera. The international community has neglected the country repeatedly, cutting millions of dollars in aid. Early in the war, it appeared that a coalition of antijunta forces was going to win. The military government had con",
+        "verified_figures": [
+          "50 people"
+        ],
+        "sources": [
+          {
+            "name": "Think Global Health",
+            "url": "https://www.thinkglobalhealth.org/article/myanmars-health-system-is-under-siege-endangering-the-region"
+          }
+        ]
+      },
+      {
+        "headline": "A ray of hope amid armed conflict and floods",
+        "score": 6.5,
+        "body": "A ray of hope amid armed conflict and floods Delivering safe water and essential hygiene supplies to the crisis affected families in Myanmar “We didn’t have a second to waste. I held my youngest son, who has a disability, close to my chest, grabbed my eldest son’s hand, and we hurried toward higher ground, my heart pounding.” When the flood hit, Nilar Win knew the top priority was getting to safety as fast as her family could, all while keeping her two sons secure. At just 23 years old, Nilar Win lives in the Taung Baw Gar area of Dawei Zay Ward in Sagaing Town, where she and her family face hardship with remarkable resilience.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/myanmar/stories/ray-hope-amid-armed-conflict-and-floods"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal seeks China nod to reopen Tatopani border after floods",
+        "score": 6.5,
+        "body": "Nepal seeks China nod to reopen Tatopani border after floods Nepal is in talks with China to resume transport services through Tatopani and restore Rasuwagadhi operations. The push underscores how floods, landslides and the August 26 disaster have disrupted Himalayan trade links. Nepal is in talks with China to resume transport services through the Tatopani border point, which has remained closed after recent floods and landslides, Infrastructure Development Minister Sunil Lamsal has said. Lamsal told a parliamentary committee on Tuesday that the government was also working to restart operations at Rasuwagadhi, another major transit point on the Nepal-China border, after recent disasters dis",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/world/story/nepal-china-border-reopening-talks-tatopani-ready-rasuwagadhi-restoration-under-way-ptag-3011409-2026-10-07"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Are We Getting Better at Fighting Epidemics? What the Current Ebola Outbreak Tells Us",
+        "score": 10.0,
+        "body": "Are We Getting Better at Fighting Epidemics? What the Current Ebola Outbreak Tells Us.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Center for Global Development",
+            "url": "https://www.cgdev.org/blog/are-we-getting-better-fighting-epidemics-what-current-ebola-outbreak-tells-us"
+          }
+        ]
+      },
+      {
+        "headline": "Duale: We don’t have Ebola outbreak, only an imported case",
+        "score": 9.5,
+        "body": "Duale: We don’t have Ebola outbreak, only an imported case.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "People Daily",
+            "url": "https://peopledaily.digital/news/duale-we-dont-have-ebola-outbreak-only-an-imported-case"
+          }
+        ]
+      },
+      {
+        "headline": "Detained immigrants at Georgia ICE facility launch mass hunger strike",
+        "score": 9.0,
+        "body": "At least 73 people estimated to have joined protest against prolonged detention and Folkston facility’s ‘violations’ A group of people detained inside a privately-run Immigration and Customs Enforcement ( ICE ) jail in Georgia have launched a mass hunger strike this week to protest against their prolonged detention and the facility’s conditions, according to advocates and family members. Advocates estimate at least 73 detained immigrants are participating in the hunger strike inside the Folkston D Ray James ICE processing center in south-east Georgia. The Folkston facility, a former state prison, is run by the private prison company GEO Group under a contract with ICE. Continue reading...",
+        "verified_figures": [
+          "73 people"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia"
+          }
+        ]
+      },
+      {
+        "headline": "Delhi Earthquake Triggers Meme Fest; Social Media Floods With Laughter After Tremors",
+        "score": 8.5,
+        "body": "An earthquake in Uttarakhand’s Chamoli sent tremors across Delhi-NCR on Tuesday night, briefly startling residents and quickly becoming a trending topic on social media. As people took to X to share their experiences, many users turned the sudden tremors into an opportunity for humour, flooding the platform with hilarious memes. 4.9-Magnitude Earthquake Hits Uttarakhandi According to the National Centre for Seismology (NCS), the earthquake occurred at around 10:23 pm, with its epicentre located in Chamoli, Uttarakhand. The quake was recorded at a depth of 13 kilometres. The tremors were felt in several parts of Delhi-NCR, with residents reporting brief shaking. However, there were no immedia",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NewsX",
+            "url": "https://www.newsx.com/india/delhi-earthquake-triggers-meme-fest-social-media-floods-with-laughter-after-tremors-280464/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ebola outbreak: Uganda begins human trials of vaccine target",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Eastleigh Voice",
+          "url": "https://eastleighvoice.co.ke/health/409191/ebola-outbreak-uganda-begins-human-trials-of-vaccine-targeting-deadly-bundibugyo-virus?amp=1"
+        }
+      ]
+    },
+    {
+      "location": "Inside the study for a remedy to fight Congo's deadliest Ebo",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "New Castle News",
+          "url": "https://www.ncnewsonline.com/news/national/inside-the-study-for-a-remedy-to-fight-congos-deadliest-ebola-outbreak/article_77f6e2eb-04a5-5bd2-a2b8-700542b39c0a.html"
+        }
+      ]
+    },
+    {
+      "location": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen say",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "location": "Are We Getting Better at Fighting Epidemics? What the Curren",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Center for Global Development",
+          "url": "https://www.cgdev.org/blog/are-we-getting-better-fighting-epidemics-what-current-ebola-outbreak-tells-us"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "The Guardian",
+      "Washington Post",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 6
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Center for Global Development",
+        "count": 2
+      },
+      {
+        "name": "New Castle News",
+        "count": 2
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "CTV News",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "India Today",
+        "count": 1
+      },
+      {
+        "name": "India Weekly",
+        "count": 1
+      },
+      {
+        "name": "Metro.co.uk",
+        "count": 1
+      },
+      {
+        "name": "NewsX",
+        "count": 1
+      },
+      {
+        "name": "People Daily",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Washington Post",
+        "count": 1
+      },
+      {
+        "name": "Think Global Health",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "Volcano Discovery",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "20 item(s) had no extractable figures in available reporting.",
+      "11 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 18/18 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1330,
+      "sources_cited": 20
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
