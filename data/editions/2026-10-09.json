@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-09",
+  "printed_time": "12:42 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola outbreak centered in the Democratic Republic of the Congo has caused over 4,200 deaths among 8,728 confirmed cases, with cross-border transmission now confirmed in Kenya.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A Russian strike on two buses killed at least 30 civilians in Ukraine as escalating shelling and drone strikes force widespread evacuations in eastern cities.",
+      "region": "Europe"
+    },
+    {
+      "rank": 3,
+      "text": "Yemen's Houthis claimed a missile attack on Riyadh airport that killed three Saudi citizens and wounded several others, marking a severe cross-border escalation.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Gang violence in Haiti has caused more than 5,000 deaths and injuries, worsening protection concerns and humanitarian distress across affected communities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "UN Women reports nearly 50,000 women and girls in Gaza have been killed or severely injured over three years of conflict, where military strikes persist despite ceasefire efforts.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The regional Ebola outbreak originating in the Democratic Republic of the Congo has recorded more than 4,200 fatalities amid over 8,700 confirmed cases, with the virus spreading across borders to Kenya.",
+    "label": "AFRICA — Cross-Border Ebola Outbreak Expands"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza mother killed, family wounded as Israeli attacks persist despite ceasefire",
+        "score": 10.0,
+        "body": "Gaza mother killed, family wounded as Israeli attacks persist despite ceasefire.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Muslim News",
+            "url": "https://muslimnews.co.uk/news/middle-east/gaza-mother-killed-family-wounded-as-israeli-attacks-persist-despite-ceasefire"
+          }
+        ]
+      },
+      {
+        "headline": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+        "score": 10.0,
+        "body": "Attack is deadliest in kingdom since it launched major military offensive with allies against Houthis in Yemen Three Saudi citizens have been killed and several other people were wounded in attacks targeting Riyadh ⁠airport for which Yemen’s Houthis claimed responsibility, Saudi officials have said. The attack late on Thursday was the deadliest in Saudi Arabia since the kingdom and allied forces in neighbouring Yemen launched a major military offensive last weekend against the Iran-backed Houthis. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east/houthi-strikes-riyadh-airport-killed-three-saudis-war-escalates-2026-10-09/"
+          }
+        ]
+      },
+      {
+        "headline": "Nearly 50,000 women and girls killed or severely injured in Gaza in last 3 years, UN Wo...",
+        "score": 8.5,
+        "body": "Nearly 50,000 women and girls in Gaza have been killed or severely injured since October 2023, according to UN Women. The agency says this amounts to one in 21 Gazan women and girls losing their life or living with lifelong disabilities. Nearly one million women and girls have been forced from their homes after more than 150 evacuation and movement orders. UN Women says women-led organisations are struggling to meet rising needs amid food insecurity, displacement and limited access to aid. Nearly 50,000 women and girls in Gaza have been killed or severely injured in three years of war, according to estimates by UN Women. The agency said the figure amounted to one in 21 women and girls in Gaz",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Down To Earth",
+            "url": "https://www.downtoearth.org.in/governance/nearly-50000-women-and-girls-killed-or-severely-injured-in-gaza-in-last-3-years-un-women-says"
+          }
+        ]
+      },
+      {
+        "headline": "Egyptian journalists plan weekend protest over detention of six colleagues",
+        "score": 8.5,
+        "body": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention. Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed Muslim Brotherhood . Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "More than 5K people killed or injured in Haiti gang violence",
+        "score": 8.5,
+        "body": "More than 5K people killed or injured in Haiti gang violence.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Panay News",
+            "url": "https://www.panaynews.net/more-than-5k-people-killed-or-injured-in-haiti-gang-violence/"
+          }
+        ]
+      },
+      {
+        "headline": "India’s humanitarian aid reaches Colombia after devastating earthquake",
+        "score": 6.5,
+        "body": "India’s humanitarian aid reaches Colombia after devastating earthquake.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "DD News",
+            "url": "https://ddnews.gov.in/en/indias-humanitarian-aid-reaches-colombia-after-devastating-earthquake/"
+          }
+        ]
+      },
+      {
+        "headline": "Tornado threat forecast as Hurricane Isaias strengthens ahead of northern Gulf Coast la...",
+        "score": 6.5,
+        "body": "Tornado threat forecast as Hurricane Isaias strengthens ahead of northern Gulf Coast landfall, United States - The Watchers.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Watching the world evolve and transform",
+            "url": "https://watchers.news/2026/10/09/tornado-threat-forecast-as-hurricane-isaias-strengthens-ahead-of-northern-gulf-coast-landfall-united-states/"
+          }
+        ]
+      },
+      {
+        "headline": "Isaias churns toward U.S. Gulf Coast, on verge of being a Category 3 hurricane",
+        "score": 6.5,
+        "body": "Satellite image from the National Oceanic and Atmospheric Administration of Hurricane Isaias, October 9, 2026 - Hurricane Isaias is moving NNE at 15 mph, with landfall projected Friday night into early Saturday morning along the Alabama-Florida line. Jackson County remains under a Hurricane Warning while other portions of the Mississippi Coast and areas inland along the Mississippi-Alabama are under a Tropical Storm Warning or Watch. Hurricane Isaias is now a Category 2 storm on the verge of becoming a Category 3 later Friday. The National Hurricane Center’s 7 a.m. advisory shows Isaias with maximum sustained winds at 110 mph, one mph shy of being a Category 3. Isaias is moving NNE at 15 mph",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Magnolia Tribune",
+            "url": "https://magnoliatribune.com/2026/10/09/isaias-churns-toward-u-s-gulf-coast-on-verge-of-being-a-category-3-hurricane/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC/Kenya — Ebola outbreak deaths pass 4,200 as virus spreads to Kenya",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has caused 4,205 confirmed deaths among 8,728 confirmed cases recorded since May, according to reports citing the World Health Organization. The outbreak carries a case fatality rate of approximately 48.2 percent, with 775 new confirmed cases and 379 fatal cases registered between late September and early October. Cross-border transmission risks materialized as Kenya confirmed its first imported case of Bundibugyo Ebola virus disease following the death of a patient in a Nairobi hospital. Regional authorities continue contact tracing operations reaching nearly five million people to contain further transmission.",
+        "verified_figures": [
+          "8,728 confirmed cases in DRC",
+          "4,205 confirmed deaths in DRC",
+          "48.2% case fatality rate",
+          "775 new cases recorded between late September and early October",
+          "1 confirmed imported case in Kenya"
+        ],
+        "sources": [
+          {
+            "name": "Qazinform",
+            "url": "https://qazinform.com/news/ebola-cases-in-dr-congo-reach-8728-deaths-exceed-4200-d80173/amp"
+          }
+        ]
+      },
+      {
+        "headline": "Uganda — Clinical trials begin for candidate Bundibugyo Ebola vaccine",
+        "score": 5.0,
+        "body": "Phase Ib clinical trials for a new candidate vaccine targeting the Bundibugyo Ebola virus strain began in Uganda on October 6, the Africa Centres for Disease Control and Prevention announced. The ChAdOx1 vaccine, developed by the University of Oxford, is being evaluated to strengthen prevention measures as the disease spreads in the region. Concurrently, clinical trials for Ebola therapeutics are advancing, with more than 600 patients enrolled to evaluate medical treatments alongside ongoing contact tracing and surveillance efforts.",
+        "verified_figures": [
+          "More than 600 participants enrolled in therapeutics clinical trials"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/africa/new-ebola-vaccine-enters-clinical-trials-in-africa-as-dr-congo-battles-outbreak/4082670"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
+        "score": 10.0,
+        "body": "The city of Kramatorsk, in eastern Ukraine, is increasingly coming under Russian attack. For those who have stayed behind, the threat from drones and shelling has become a daily reality. Many have resisted leaving their homes, despite the growing danger – but now, more and more residents are being forced to flee. Our colleagues at France 2 followed an evacuation from the city and witnessed first-hand the dangers that residents face.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/tv-shows/focus/20261009-residents-of-ukraine-s-kramatorsk-forced-to-flee-as-drone-strikes-intensify"
+          }
+        ]
+      },
+      {
+        "headline": "At least 30 dead in Russian bus strike as Moscow closes in on Ukraine’s ‘fortress belt’",
+        "score": 8.0,
+        "body": "At least 30 dead in Russian bus strike as Moscow closes in on Ukraine’s ‘fortress belt’. Russia has increasingly hit civilian targets, but the Thursday strike, which ripped through two buses, was reminiscent of larger strikes earlier in the war.",
+        "verified_figures": [
+          "30 dead"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/10/08/least-30-dead-russian-bus-strike-moscow-closes-ukraines-fortress-belt/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine strike kills two in Russia's Belgorod, TASS says",
+        "score": 6.0,
+        "body": "Global Banking & Finance ReviewÂ® is an online platform providing news, analysis, interviews, opinions, press releases, market information and other content relating to banking, finance, insurance, investment, wealth management, fintech, financial markets, technology, regulation and related industries worldwide. The website publishes editorial content, news, press releases, contributed articles, sponsored content, advertorials, advertisements and other material supplied, commissioned, promoted or paid for by companies, organizations, PR agencies, advertisers, affiliates, contributors and other third parties. For transparency, all articles, content, advertisements and links appearing on this",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Global Banking & Finance Review",
+            "url": "https://www.globalbankingandfinance.com/ukraine-strike-kills-two-russias-belgorod-tass/"
+          }
+        ]
+      },
+      {
+        "headline": "Ansarallah attacks Saudi airports; Russia kills 33 in Ukraine bus attack; Americans are...",
+        "score": 6.0,
+        "body": "Thursday, October 8, 2026 – Palestine: Israeli artillery fire kills woman, wounds several in Gaza City. Israeli forces detain dozens of Palestinians as settler attacks continue across the occupied West Bank. Israeli authorities demolish Palestinian-owned shop in northern Israel. Israel returns body of Palestinian prisoner, continues to withhold 99 others. Israel blocks Gaza crossings three years into the genocide. Israel forces out most UK diplomats from occupied East Jerusalem. New York Times: Top aide to U.S.’s Israel ambassador suppressed and rewrote U.S. Embassy reports critical of Israel. Yemen: Three killed, 36 injured in attacks on Saudi airports. Ansarallah warns workers to stay away",
+        "verified_figures": [
+          "36 injured"
+        ],
+        "sources": [
+          {
+            "name": "Drop Site News",
+            "url": "https://www.dropsitenews.com/p/ansarallah-saudi-airports-russia-ukraine-bus-attack-us-inflation"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Humanitarian Crisis Deepens Amid Returns and Aid Cuts",
+        "score": 7.0,
+        "body": "A United Nations Development Programme report indicates that an estimated 28 million people in Afghanistan lived in poverty in 2025 as the country experienced deepening economic and humanitarian challenges. The crisis has been intensified by reduced international aid, prolonged drought, and the return of approximately 2.9 million Afghans over the course of the year. These population returns pushed an additional 1.4 million people into economic hardship. Despite recording a second consecutive year of real gross domestic product growth, Afghanistan continues to face widespread deprivation driven by environmental shocks and declining external support.",
+        "verified_figures": [
+          "28 million people living in poverty",
+          "2.9 million returning Afghans",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Floods and landslides in Chile: More than 1.000 people evacuated, six injured",
+        "score": 10.0,
+        "body": "Heavy rains caused flooding and landslides in and around Chile's capital Santiago, causing more than 1.000 people to be evacuated and at least six people injured. President Chile Jose Antonio Cast declared a state of emergency in Las Condes, an eastern suburb of the capital, after flash floods blocked major roads, Insider reports. The area has received 144 millimeters of rain in recent days, which is about nine times more than the average rainfall for October, said Santiago Mayor Catalina San Martín. Photo: AP Photo/Esteban Felix)River on the street Due to the rising water level, the Mapocho River overflowed its banks, after which the authorities ordered the evacuation of the endangered popu",
+        "verified_figures": [
+          "000 people"
+        ],
+        "sources": [
+          {
+            "name": "vreme.com",
+            "url": "https://vreme.com/en/svet/poplave-klizista-cile-evakuacija/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak: Border surveillance gaps raise concerns in the Central African Republic",
+        "score": 9.5,
+        "body": "One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/video/20261009-ebola-outbreak-border-surveillance-gaps-raise-concerns-in-the-central-african-republic"
+          }
+        ]
+      },
+      {
+        "headline": "In the shadow of Ebola: Scenes from the outbreak's frontlines",
+        "score": 9.5,
+        "body": "In the shadow of Ebola: Scenes from the outbreak's frontlines.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/pictures/shadow-ebola-scenes-outbreaks-frontlines-2026-10-08/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak: Whats Africa's containment strategy?",
+        "score": 9.5,
+        "body": "Ebola outbreak: Whats Africa's containment strategy? The Daily Brief The business stories shaping Africa, selected by our newsroom and delivered to your inbox. The business stories shaping Africa, selected by our newsroom and delivered to your inbox.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "CNBC Africa",
+            "url": "https://www.cnbcafrica.com/media/7791463963867/ebola-outbreak-whats-africas-containment-strategy"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Saudi Arabia / Yemen",
+      "score": 8.5,
+      "trigger": "Further Houthi drone or missile strikes targeting major civilian infrastructure in Saudi Arabia could prompt significant military retaliation.",
+      "potential_impact": "Renewed cross-border violence risks causing civilian casualties, disrupting essential transport networks, and destabilizing regional security.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/houthi-strikes-riyadh-airport-killed-three-saudis-war-escalates-2026-10-09/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+        }
+      ]
+    },
+    {
+      "location": "United States Gulf Coast",
+      "score": 7.0,
+      "trigger": "Hurricane Isaias making landfall as a Category 3 storm near the Alabama-Florida line could bring severe storm surges and heavy rainfall over the next 72 hours.",
+      "potential_impact": "Widespread flash flooding, power outages, and severe weather could displace populations and strain local emergency services.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Magnolia Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1ViMnRDanpqdW1qS0tVRWljbW4xUFpzRFdXa25HazRkczdXQXYzWUg2elowMXoyQk93a1ljbEdnQ3dIVy1DTm5wZ0RYVmNPa2FIUUlxTDZCeWlQaUxCbnV6NTktRTRkNHZYcDVrbUFibG5yV2pWcXpPeTg2ZEp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "location": "Central African Republic",
+      "score": 8.0,
+      "trigger": "Unmonitored border crossings and surveillance gaps along the frontier with the Democratic Republic of the Congo could allow undetected entry of the Ebola virus.",
+      "potential_impact": "Undetected cross-border transmission could trigger localized outbreaks in areas with severely limited health infrastructure.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261009-ebola-outbreak-border-surveillance-gaps-raise-concerns-in-the-central-african-republic"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "France 24 English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "France 24",
+        "count": 2
+      },
+      {
+        "name": "Magnolia Tribune",
+        "count": 2
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 1
+      },
+      {
+        "name": "CNBC Africa",
+        "count": 1
+      },
+      {
+        "name": "DD News",
+        "count": 1
+      },
+      {
+        "name": "Down To Earth",
+        "count": 1
+      },
+      {
+        "name": "Drop Site News",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Global Banking & Finance Review",
+        "count": 1
+      },
+      {
+        "name": "Panay News",
+        "count": 1
+      },
+      {
+        "name": "Qazinform",
+        "count": 1
+      },
+      {
+        "name": "The Muslim News",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "Watching the world evolve and transform",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      },
+      {
+        "name": "vreme.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "13 item(s) had no extractable figures in available reporting.",
+      "6 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 14/14 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 2/6 region(s) with candidate material generated via Gemini (LLM), 4 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1327,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
