@@ -1,0 +1,530 @@
+{
+  "date": "2026-10-11",
+  "printed_time": "12:13 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "The New York Times. . Isaias, which made landfall as a Category 2 hurricane along the Gulf Coast on Friday, weakened to a post-tropical cyclone on Saturday. Officials warned there was still a risk of flash flooding in parts of the southeastern U.S. https://nyti.ms/.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Four people died in the southeastern United States as post-tropical cyclone Isaias threatened flooding and tornado risks Saturday as it moved northward after making landfall on Florida's Gulf Coast.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "DW News. . A politician allegedly killed for promoting health measures in the fight against Ebola. Health workers attacked, medical facilities put on fire. What's behind people's anger in response to aid in the Democratic Republic of the Congo? #dwcurrentaffair.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+    "label": "MIDDLE EAST — Escalating fighting in Yemen worsens food security crisis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Saudi Arabia — Deadly missile strike targets Riyadh airport",
+        "score": 9.0,
+        "body": "A missile attack blamed on Iran-backed Houthi rebels struck King Khalid International Airport in Riyadh, damaging terminals 3 and 4 serving domestic flights. Authorities reported at least 12 people were killed and more than 300 injured, with structural damage and partial ceiling collapses occurring in waiting areas near departure gates. A Saudi-led military coalition attributed the strike to Houthi forces operating from neighboring Yemen.",
+        "verified_figures": [
+          "12 killed",
+          "more than 300 injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza — Severe casualty toll reported among women and girls",
+        "score": 8.5,
+        "body": "UN Women reported that nearly 50,000 women and girls have been killed or severely injured in Gaza since October 2023. Official statistics show over 38,000 fatalities and 11,700 severe injuries, including at least 277 women and girls killed after a ceasefire was announced. The UN agency highlighted that ongoing displacement, aid restrictions, and severe funding shortages continue to degrade living conditions for Palestinian female-headed households.",
+        "verified_figures": [
+          "nearly 50,000 women and girls killed or severely injured since October 2023",
+          "more than 38,000 killed",
+          "11,700 severely injured",
+          "at least 277 killed since ceasefire"
+        ],
+        "sources": [
+          {
+            "name": "teleSUR English",
+            "url": "https://www.telesurenglish.net/50000-women-girls-killed-injured-gaza/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Resurgent fighting intensifies hunger emergency among displaced children",
+        "score": 7.5,
+        "body": "Escalating combat between Houthi opposition forces and Yemeni government troops has intensified food insecurity across the country. Mobile health teams reported treating hundreds of displaced children suffering from severe acute malnutrition, the most critical form of hunger. Humanitarian agencies warn that continued military engagements and displacement are driving higher rates of malnutrition and destabilizing civilian access to essential health services.",
+        "verified_figures": [
+          "hundreds of displaced children suffering severe malnutrition"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/escalating-fighting-in-yemen-worsens-food-security-crisis"
+          }
+        ]
+      },
+      {
+        "headline": "Iran — Naval blockade and conflict drive record inflation and food price increases",
+        "score": 5.5,
+        "body": "Daily economic life in Iran faces extreme strain following US-Israeli military attacks and an American port blockade established in February. Official statistics show year-on-year inflation climbed to nearly 90 percent in September, while food prices have more than doubled over the past year. Currency volatility and declining consumer purchasing power are leaving local shopkeepers struggling with potential insolvency.",
+        "verified_figures": [
+          "nearly 90 percent year-on-year inflation in September",
+          "food prices more than doubled since last year"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261011-going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass Gang Attack and Abductions Near Port-au-Prince",
+        "score": 9.0,
+        "body": "Armed men killed at least 47 people, including at least five children, and kidnapped more than 50 others in Kenscoff, on the outskirts of Port-au-Prince, according to the United Nations. The Sunday assault is considered one of Haiti's largest mass abductions in recent years. A gang leader released a social media video threatening to murder all hostages if Haitian National Police kill any gang members during rescue efforts. Residents reported multiple family members among those taken. The UN Secretary-General condemned the attack as armed violence continues to destabilize the country.",
+        "verified_figures": [
+          "At least 47 killed",
+          "At least 5 children killed",
+          "More than 50 kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Simon Reaches Category 4 off Pacific Coast",
+        "score": 6.0,
+        "body": "Hurricane Simon strengthened into a Category 4 storm off the coast of Mexico, packed with sustained winds reaching 155 mph. Weather forecasters warned that the ferocious storm poses serious risks of flash flooding and severe coastal impacts as it approaches western Mexico alongside Pacific Tropical Storm Rachel. Additional data regarding prospective landfall or local community disruptions remains unconfirmed.",
+        "verified_figures": [
+          "155 mph sustained winds"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/hurricane-simon-strengthens-category-4-off-mexico-coast-2026-10-10/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/mexico-hurricane-simon-0e3336ba92518117ca8008c5746d230e"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Post-Tropical Cyclone Isaias Causes Fatalities and Outages",
+        "score": 5.0,
+        "body": "Post-tropical cyclone Isaias killed at least four people in the southeastern United States after coming ashore near Destin, Florida, as a Category 2 hurricane. Reported deaths included two residents killed by falling trees on homes in Florida and Alabama. The storm weakened while moving northward but continued to pose flash flooding and tornado risks that forecasters warned could extend into the Appalachians. Nearly 900,000 customers lost electricity shortly after landfall, though major coastal transit corridors remained largely clear of fallen debris.",
+        "verified_figures": [
+          "At least 4 killed",
+          "Nearly 900,000 power outages"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261011-at-least-4-dead-as-cyclone-isaias-drenches-southern-us"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Sudan — RSF Drone Strike Kills 41 Displaced Persons Near Ethiopian Border",
+        "score": 9.0,
+        "body": "A drone strike attributed to Sudan's paramilitary Rapid Support Forces (RSF) killed 41 people near a camp for displaced persons in Abu Shandi, Blue Nile region, near the border with Ethiopia. According to the Sudanese rights group Emergency Lawyers, eight children were among the dead. The UN Office for the Coordination of Humanitarian Affairs reported that most of those killed or injured were women and children. The attack highlights expanding hostilities along Sudan's eastern border, worsening civilian protection risks.",
+        "verified_figures": [
+          "41 people killed",
+          "8 children killed"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Surpasses 4,200 Deaths",
+        "score": 9.0,
+        "body": "The World Health Organization reported that an ongoing Ebola outbreak in the Democratic Republic of the Congo reached 8,787 cases and 4,242 confirmed deaths as of October 7, 2026. While 2,292 people have recovered, survivors face ongoing distress, stigma, and economic hardship. Reporting indicates the outbreak involves the rare Bundibugyo strain, for which no vaccine or treatment exists. Humanitarian health response efforts face severe operational security risks, including violence against healthcare workers and medical infrastructure.",
+        "verified_figures": [
+          "8,787 cases",
+          "4,242 confirmed deaths",
+          "2,292 recoveries"
+        ],
+        "sources": [
+          {
+            "name": "Nigeria Info FM",
+            "url": "https://www.nigeriainfo.fm/news/homepagelagos/ebola-outbreak-in-dr-congo-records-4242-deaths-8787-cases-who/"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Escalating Clashes in Baidoa Threaten Displaced Populations",
+        "score": 6.5,
+        "body": "The United Nations resident and humanitarian coordinator for Somalia called for an immediate halt to fighting in Baidoa, the capital of South West State. Renewed clashes are exacerbating an existing humanitarian crisis, disproportionately affecting vulnerable civilians, including displaced families, women, children, and people with disabilities. The UN warned that continued fighting deepens risks of famine, displacement, and severe flood impacts, while urging all parties to allow unhindered humanitarian access.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Hiiraan Online",
+            "url": "https://www.hiiraan.com/news4/2026/Oct/206497/un_urges_halt_to_baidoa_fighting_as_famine_displacement_and_flood_risks_deepen.aspx"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine to stop refinery strikes when Russia curbs energy attacks: Zelensky",
+        "score": 7.5,
+        "body": "Ukrainian President Volodymyr Zelensky on Sunday said Kyiv was ready to halt strikes Russian oil refineries if Moscow stopped attacks on Ukrainian energy infrastructure. The announcement comes after US President Donald Trump publicly urged him to stop targeting Russian refineries.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/ukraine-stop-refinery-strikes-when-russia-curbs-energy-attacks-zelensky"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/ukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11/"
+          }
+        ]
+      },
+      {
+        "headline": "Russian Airstrike in Zaporizhzhia Kills 20, Injures 18, and Search for Missing Continues",
+        "score": 6.5,
+        "body": "Russian Airstrike in Zaporizhzhia Kills 20, Injures 18, and Search for Missing Continues.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Inkorr",
+            "url": "https://inkorr.com/en/amp/u-zaporizzi-vnaslidok-rosijskogo-aviaudaru-zaginuli-20-ludej-postrazdali-18-trivae-posuk-zniklih-350289"
+          }
+        ]
+      },
+      {
+        "headline": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "score": 6.5,
+        "body": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people. Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+        "verified_figures": [
+          "20 people"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "UN warns attacks on Ukraine's energy infrastructure threaten millions ahead of winter",
+        "score": 6.0,
+        "body": "UN warns attacks on Ukraine's energy infrastructure threaten millions ahead of winter UNITED NATIONS — The United Nations warned Friday that repeated attacks on civilian areas and critical infrastructure across Ukraine are worsening the humanitarian crisis ahead of winter, as renewed strikes on energy facilities trigger power outages in several regions, including Kyiv. Briefing the UN Security Council, Gemma Connell, director of the Crisis Response Division at the UN Office for the Coordination of Humanitarian Affairs (OCHA), called on Russia and Ukraine to protect civilians, ensure humanitarian access and facilitate safe evacuations from frontline and occupied areas. Connell delivered the b",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Saudi Gazette",
+            "url": "https://saudigazette.com.sa/article/665271/world/un-warns-ukraine-energy-attacks-threaten-millions-ahead-of-winter"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan ranks third globally in deaths from unexploded ordnance, UNAMA warns",
+        "score": 7.0,
+        "body": "Afghanistan ranks third worldwide in fatalities caused by unexploded ordnance, with large areas of the country still contaminated by landmines and explosive remnants of war, the United Nations Assistance Mission in Afghanistan (UNAMA) has warned. In a public message, UNAMA said the United Nations continues to seek funding for mine-clearance organizations working to remove landmines and other explosive remnants of conflict. These organizations also conduct awareness campaigns to educate communities about the dangers posed by unexploded devices. Children are particularly vulnerable, accounting for 80 percent of all casualties caused by these explosive hazards, according to UNAMA. Many are inju",
+        "verified_figures": [
+          "80 percent"
+        ],
+        "sources": [
+          {
+            "name": "Ariana News",
+            "url": "https://www.ariananews.af/afghanistan-ranks-third-globally-in-deaths-from-unexploded-ordnance-unama-warns/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "No Pinoys hurt in Panama earthquake — DFA",
+        "score": 6.5,
+        "body": "There were no reported Filipino casualties following the magnitude 7.7 earthquake that struck southern Panama on Friday, the Department of Foreign Affairs (DFA) said Sunday. “According to the Philippine Embassy in Mexico, no injuries or casualties involving Filipino nationals in Panama have been reported,” DFA spokesperson Analyn Ratonel told reporters. “The Philippine Embassy in Mexico and the Philippine Honorary Consulate in Panama remain in contact with our nationals there,” she added. According to the US Geological Survey, the earthquake hit at a depth of 12.6 km (7.8 miles), with an epicenter in a sparsely populated area about 200 km (124 miles) from Panama City. There were no deaths or",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "GMA Network",
+            "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/1005508/no-pinoys-hurt-in-panama-earthquake-dfa/story/?just_in"
+          }
+        ]
+      },
+      {
+        "headline": "FEMA shares recovery update, ongoing resources two months after major flooding across I...",
+        "score": 6.5,
+        "body": "FEMA shares recovery update, ongoing resources two months after major flooding across Indiana.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "WTHR",
+            "url": "https://www.wthr.com/article/weather/indiana-flooding/fema-shares-recovery-update-ongoing-resources-two-months-after-major-flooding-across-indiana/531-819220aa-485e-41c2-8f19-26694d4cbc85"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of Congo — Record Ebola Outbreak",
+        "score": 9.0,
+        "body": "An ongoing outbreak of the rare Bundibugyo strain of the Ebola virus in the Democratic Republic of Congo has killed more than 2,000 people. According to the World Health Organization, the outbreak is on track to become the deadliest on record. Containment efforts are severely limited as there is currently no approved vaccine or specific medical treatment available for this virus strain.",
+        "verified_figures": [
+          "more than 2,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The i Paper",
+            "url": "https://inews.co.uk/shorts/what-record-ebola-outbreak-tells-us-about-a-future-pandemic?ico=in-line_link&app=true"
+          }
+        ]
+      },
+      {
+        "headline": "Panama — Earthquakes and Emergency Declaration",
+        "score": 7.0,
+        "body": "The government of Panama declared a state of emergency following magnitude 7.7 and 6.6 earthquakes that triggered more than 100 aftershocks up to magnitude 5.8. Damage to buildings and infrastructure was reported across all ten of Panama's provinces and two Indigenous territories. No fatalities have been officially attributed to the quakes, though extensive evacuations took place.",
+        "verified_figures": [
+          "7.7- and 6.6-magnitude earthquakes",
+          "more than 100 aftershocks as high as magnitude-5.8",
+          "0 deaths reported",
+          "damage reported across 10 provinces and 2 Indigenous territories"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Hurricane Isaias Impacts",
+        "score": 4.5,
+        "body": "At least four people were killed in Florida and Alabama after Hurricane Isaias made landfall in Florida as a Category 2 storm. The system, which has since weakened to a post-tropical cyclone, damaged buildings and left over 650,000 people without power in Florida. Forecasters warned of continued flash flooding and heavy rainfall risks across the Southeastern United States.",
+        "verified_figures": [
+          "4 deaths",
+          "more than 650,000 people without power"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ebola Outbreak in DR Congo Records 4,242 Deaths, 8,787 Cases",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Nigeria Info FM",
+          "url": "https://www.nigeriainfo.fm/news/homepagelagos/ebola-outbreak-in-dr-congo-records-4242-deaths-8787-cases-who/"
+        }
+      ]
+    },
+    {
+      "location": "The Numbers Behind the Sudan Drone Strike That Killed 41 Dis",
+      "score": 10.0,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Around Prague",
+          "url": "https://aroundprague.cz/en/news/world/the-numbers-behind-the-sudan-drone-strike-that-killed-41-displaced-people"
+        }
+      ]
+    },
+    {
+      "location": "Hurricane Isaias deaths: 4 dead as storm brings hurricane da",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "ABC7 Los Angeles",
+          "url": "https://abc7.com/post/3-dead-storm-isaias-brings-threat-flash-floods-southeast-us/19927674/"
+        }
+      ]
+    },
+    {
+      "location": "Four dead and thousands without power after Hurricane Isaias",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 4
+      },
+      {
+        "name": "France 24 English",
+        "count": 4
+      },
+      {
+        "name": "Nigeria Info FM",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "ABC7 Los Angeles",
+        "count": 1
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Ariana News",
+        "count": 1
+      },
+      {
+        "name": "Around Prague",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "GMA Network",
+        "count": 1
+      },
+      {
+        "name": "Hiiraan Online",
+        "count": 1
+      },
+      {
+        "name": "Inkorr",
+        "count": 1
+      },
+      {
+        "name": "Saudi Gazette",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The i Paper",
+        "count": 1
+      },
+      {
+        "name": "WTHR",
+        "count": 1
+      },
+      {
+        "name": "teleSUR English",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "6 item(s) had no extractable figures in available reporting.",
+      "3 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 11/11 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 4/6 region(s) with candidate material generated via Gemini (LLM), 2 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1044,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
