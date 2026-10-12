@@ -1,0 +1,499 @@
+{
+  "date": "2026-10-12",
+  "printed_time": "2:34 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Khan Younis – Three Palestinians were killed in an Israeli airstrike that targeted a tent in the city of Khan Younis in the southern Gaza Strip, according to media reports, amid continued Israeli attacks on various areas of the Strip.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Dozens of Sudanese workers are feared dead after a series of airstrikes hit a sprawling gold mine near the border with Egypt, forcing hundreds to flee the site, two survivors told AFP Sunday.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "A deadly airstrike hits a Sudan-Egypt border gold mine, killing at least 13 miners.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "By Nafisa Eltahir, Khalid Abdelaziz and Ahmed Shalaby At least 72 artisanal miners were killed in an airstrike in northern Sudan on Saturday, rights monitor Emergency Lawyers said, in the second such incident in recent months.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Hurricane Isaias left at least four people dead in Florida and Alabama, two died after trees toppled onto their homes. The storm was the first Atlantic hurricane of the season, and the first to strike the mainland U.S. in two years.",
+      "region": "Americas"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Khan Younis – Three Palestinians were killed in an Israeli airstrike that targeted a tent in the city of Khan Younis in the southern Gaza Strip, according to media reports, amid continued Israeli attacks on various areas of the Strip.",
+    "label": "MIDDLE EAST — Three Palestinians killed in Israeli airstrike targeting a tent in Khan Younis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Three Palestinians killed in Israeli airstrike targeting a tent in Khan Younis",
+        "score": 10.0,
+        "body": "Khan Younis – Three Palestinians were killed in an Israeli airstrike that targeted a tent in the city of Khan Younis in the southern Gaza Strip, according to media reports, amid continued Israeli attacks on various areas of the Strip. The raid targeted a tent sheltering displaced people, resulting in deaths, amid difficult humanitarian conditions for Palestinians who were forced to leave their homes due to military operations and widespread destruction. Targeting tents of displaced people The targeting of the tent comes in the context of attacks targeting areas housing displaced people in the Gaza Strip, where many Palestinians live in tents and temporary shelters that lack basic protection.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "صوت الإمارات",
+            "url": "https://www.voiceofemirates.com/en/news/2026/10/11/three-palestinians-killed-in-israeli-airstrike-targeting-a-tent-in-khan-younis/"
+          }
+        ]
+      },
+      {
+        "headline": "Dozens of Sudanese workers feared dead after airstrikes on gold mine near Egypt border",
+        "score": 10.0,
+        "body": "Dozens of Sudanese workers are feared dead after a series of airstrikes hit a sprawling gold mine near the border with Egypt, forcing hundreds to flee the site, two survivors told AFP Sunday. Abdelaziz Youssef, one of the surviving miners, told AFP a jet appeared overhead at around 8am (0600 GMT) on Saturday and launched strikes on Jabal al-Uqaydat, an informal gold mining site in the border area near the Red Sea. \"It struck five times, many people were killed,\" he said, though he was unable to count the bodies in the chaos. \"We ran up the mountain terrified of another strike.\" Stay up to date with the latest news. Follow KT on WhatsApp Channels.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Khaleej Times",
+            "url": "https://www.khaleejtimes.com/world/africa/sudanese-workers-feared-dead-airstrikes-gold-mine-near-egypt-border"
+          }
+        ]
+      },
+      {
+        "headline": "A deadly airstrike hits a Sudan-Egypt border gold mine, killing at least 13 miners",
+        "score": 10.0,
+        "body": "A deadly airstrike hits a Sudan-Egypt border gold mine, killing at least 13 miners.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/sudan-airstrike-gold-mine-egypt-border-445367c8aa73005c2ade4b8999b68259"
+          }
+        ]
+      },
+      {
+        "headline": "Rights group blames Egypt for Sudan airstrike that killed at least 72",
+        "score": 10.0,
+        "body": "By Nafisa Eltahir, Khalid Abdelaziz and Ahmed Shalaby At least 72 artisanal miners were killed in an airstrike in northern Sudan on Saturday, rights monitor Emergency Lawyers said, in the second such incident in recent months. Emergency Lawyers on Sunday blamed the Egyptian air force for the strike, a claim Reuters could not immediately verify. The Egyptian military did not comment, while Egypt’s foreign ministry did not immediately respond to a request for comment. On Monday, Sudan’s army-led government said the incident occurred in a border area between Sudan and Egypt and that it was investigating. “It is important to treat this incident seriously, guaranteeing the uncovering of facts and",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Business Day",
+            "url": "https://www.businessday.co.za/world/africa/2026-10-12-rights-group-blames-egypt-for-sudan-airstrike-that-killed-at-least-72/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Hurricane Isaias left at least four people dead in Florida and Alabama, two died after ...",
+        "score": 10.0,
+        "body": "Hurricane Isaias left at least four people dead in Florida and Alabama, two died after trees toppled onto their homes. The storm was the first Atlantic hurricane of the season, and the first to strike the mainland U.S. in two years.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/nytimes/posts/hurricane-isaias-left-at-least-four-people-dead-in-florida-and-alabama-two-died-/1512588590723599/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti: UN chief condemns Haiti attack that killed 47",
+        "score": 8.5,
+        "body": "At least 47 people, including at least five children, were killed and more than 50 others kidnapped by armed men in Haiti on Sunday, the United Nations confirmed on Tuesday. The incident, which took place in Kenscoff on the outskirts of the capital, Port-au-Prince, is believed to be one of the largest mass kidnappings in the troubled Caribbean country in recent years. In a video posted on social media, a gang leader threatened to murder hostages if Haiti's National Police kill any of his men in an attempt to rescue people. \"If any of our soldiers are hurt, I will kill all of them,\" he said.",
+        "verified_figures": [
+          "47 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Hurricane Simon weakens to Category 3 as rains flood Mexico's Pacific coast",
+        "score": 8.5,
+        "body": "Hurricane Simon weakens to Category 3 as rains flood Mexico's Pacific coast.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/mexicos-sheinbaum-urges-coastal-residents-remain-indoors-hurricane-simon-nears-2026-10-11/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/mexico-hurricane-simon-0e3336ba92518117ca8008c5746d230e"
+          },
+          {
+            "name": "AP News",
+            "url": "https://apnews.com/article/mexico-hurricane-simon-0e3336ba92518117ca8008c5746d230e"
+          }
+        ]
+      },
+      {
+        "headline": "Category 3 Hurricane Simon remains off western Mexico after heavy rain floods Manzanill...",
+        "score": 8.5,
+        "body": "Category 3 Hurricane Simon remains off western Mexico after heavy rain floods Manzanillo - The Watchers.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Watching the world evolve and transform",
+            "url": "https://watchers.news/2026/10/12/category-3-hurricane-simon-remains-off-western-mexico-after-heavy-rain-floods-manzanillo/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Rapidly Expanding Ebola Outbreak Declared Second-Largest on Record",
+        "score": 9.0,
+        "body": "An accelerating Ebola outbreak in the Democratic Republic of the Congo has become the second-largest on record, driven by the Bundibugyo virus for which no approved vaccine or treatment exists. According to World Health Organization figures, the outbreak has recorded 8,787 cases, 4,242 confirmed deaths, and 2,292 recoveries as of October 7. The United Nations warned that the epidemic is expanding faster than response capacities across provinces including Ituri, North Kivu, and Tshopo. Over 80 percent of newly identified cases are among individuals not on existing contact-tracing lists, underscoring critical containment hurdles.",
+        "verified_figures": [
+          "8,787 cases",
+          "4,242 confirmed deaths",
+          "2,292 recoveries"
+        ],
+        "sources": [
+          {
+            "name": "Tribune Online",
+            "url": "https://tribuneonlineng.com/ebola-deaths-hit-4242-cases-rise-to-8787-in-dr-congo-who/"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — UN Calls for Immediate Ceasefire in Baidoa Amid Worsening Humanitarian Crisis",
+        "score": 6.5,
+        "body": "The United Nations has called for an immediate de-escalation of clashes in Baidoa, the capital of Somalia's South West State, warning that renewed fighting is severely impacting civilians and displaced communities. UN Resident and Humanitarian Coordinator George Conway stated that the violence disproportionately affects vulnerable groups, including women, children, older persons, and people with disabilities. The fighting threatens to exacerbate an already dire humanitarian situation marked by displacement, flood risks, and heightened famine vulnerability. The UN urged all warring parties to protect civilians, safeguard critical infrastructure, and facilitate safe, unhindered access for humanitarian organizations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Hiiraan Online",
+            "url": "https://www.hiiraan.com/news4/2026/Oct/206497/un_urges_halt_to_baidoa_fighting_as_famine_displacement_and_flood_risks_deepen.aspx"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes hit power grid and cause blackouts despite ceasefire claims",
+        "score": 7.5,
+        "body": "Russian forces have continued drone and missile strikes against Ukrainian power infrastructure, causing outages in Kyiv, Kharkiv, and other regions, despite US claims of an energy ceasefire. Ukrainian President Volodymyr Zelenskyy expressed surprise at the announced pause, noting over 200 strikes on electricity generation and transmission facilities occurred over the past week alone. Zelenskyy warned that Ukraine would retaliate if attacks on its energy grid persist into the winter. Moscow has not officially commented on the proposed ceasefire, while Western allies expressed support for a binding agreement to protect energy infrastructure.",
+        "verified_figures": [
+          "more than 200 strikes against electricity generation and transmission facilities during the past week"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/trumps-energy-ceasefire-sparks-confusion-russia-strikes-ukraine"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/oct/12/first-thing-zelenskyy-blindsided-trump-announces-energy-ceasefire-ukraine-war-russia"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261012-russian-continues-to-strike-ukraine-despite-trump-s-announcement-of-an-energy-ceasefire"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Deepening crisis pushes 28 million into poverty",
+        "score": 8.0,
+        "body": "A United Nations Development Programme report reveals that an estimated 28 million people in Afghanistan were living in poverty in 2025. The country's economic and humanitarian conditions continue to deteriorate due to prolonged drought, reduced international aid, and large-scale population returns. The return of approximately 2.9 million Afghans during the year forced an additional 1.4 million people into severe hardship, despite the national economy recording a second consecutive year of real gross domestic product growth.",
+        "verified_figures": [
+          "28 million people living in poverty in 2025",
+          "2.9 million Afghan returnees",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — Flash floods damage infrastructure in Gorkha district",
+        "score": 7.5,
+        "body": "A flash flood triggered by an ice rock avalanche caused extensive damage along the Budhi Gandaki and Bhotekoshi rivers in Nepal's Gorkha district. The surge swept away villages, bridges, and multi-story concrete buildings along the Nepal-Tibet border, resulting in reported deaths, missing persons, and displacement. The flooding follows severe August floods that killed over 1,400 people, highlighting heightening climate risks in the Himalayan region due to melting glaciers and rising temperatures.",
+        "verified_figures": [
+          "over 1,400 killed in August floods"
+        ],
+        "sources": [
+          {
+            "name": "Vajiram & Ravi",
+            "url": "https://vajiramandravi.com/current-affairs/nepal-flood/"
+          }
+        ]
+      },
+      {
+        "headline": "Philippines — 6.4-magnitude earthquake strikes off Mindanao",
+        "score": 3.0,
+        "body": "A 6.4-magnitude earthquake struck off northeastern Mindanao at a depth of 58.5 kilometers, approximately 27 kilometers east of Santiago. The Philippine Institute of Volcanology and Seismology confirmed there was no tsunami threat following the underground tremor. While authorities expect potential aftershocks and structural damage, no casualties or immediate damage have been officially confirmed.",
+        "verified_figures": [
+          "6.4-magnitude earthquake",
+          "depth of 58.5 kilometers"
+        ],
+        "sources": [
+          {
+            "name": "Bol News",
+            "url": "https://www.bolnews.com/world/6-4-magnitude-earthquake-strikes-baculin-philippines"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — 5.7-magnitude earthquake hits Sulawesi Island",
+        "score": 2.0,
+        "body": "A 5.7-magnitude earthquake struck northern Sulawesi Island in Gorontalo Province at a depth of 76 kilometers. According to Indonesia's Meteorology, Climatology, and Geophysics Agency, the epicenter was located 29 kilometers west of Pohuwato Regency. No casualties or structural damage were immediately reported.",
+        "verified_figures": [
+          "5.7-magnitude earthquake",
+          "depth of 76 kilometers"
+        ],
+        "sources": [
+          {
+            "name": "Gulf Times",
+            "url": "https://www.gulf-times.com/article/735566/international/57-magnitude-earthquake-strikes-indonesias-sulawesi-island/amp"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Post-tropical cyclone Isaias brings flood risks, 4 dead from storm",
+        "score": 10.0,
+        "body": "Post-tropical cyclone Isaias brings flood risks, 4 dead from storm.",
+        "verified_figures": [
+          "4 dead"
+        ],
+        "sources": [
+          {
+            "name": "New Hampshire Union Leader",
+            "url": "https://www.unionleader.com/news/nation-world/post-tropical-cyclone-isaias-brings-flood-risks-4-dead-from-storm-85db6b90/"
+          }
+        ]
+      },
+      {
+        "headline": "Hurricane Isaias killed at least four people on the Gulf Coast. Flood warnings now stre...",
+        "score": 10.0,
+        "body": "Hurricane Isaias killed at least four people on the Gulf Coast. Flood warnings now stretch from Georgia to the Appalachians (with video).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Plataforma Media",
+            "url": "https://www.plataformamedia.com/en/2026/10/12/hurricane-isaias-downgraded-after-deadly-gulf-coast-landfall/"
+          }
+        ]
+      },
+      {
+        "headline": "Faster Expanding 2026 Ebola Outbreak Is Second Largest on Record",
+        "score": 9.5,
+        "body": "Why It Matters The 2026 Ebola outbreak caused by Bundibugyo virus has rapidly become the second-largest Ebola outbreak on record, according to a new Congressional Research Service (CRS) report. The outbreak, concentrated in northeastern Democratic Republic of Congo (DRC), has expanded \"substantially faster than previous Ebola outbreaks,\" per the CDC, and as of late September more than 80% of newly identified cases were reportedly among individuals not on existing contact-tracing lists. There is no approved vaccine or treatment specifically for Bundibugyo virus. The report identifies this outbreak as the first declared public health emergency of international concern (PHEIC) to emerge since t",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Legis1",
+            "url": "https://legis1.com/news/ebola-outbreak-2026-second-largest-on-record-with"
+          }
+        ]
+      },
+      {
+        "headline": "Durham psychiatrist shares experience on front lines of Ebola outbreak",
+        "score": 9.5,
+        "body": "A Durham psychiatrist who recently returned from the Democratic Republic of the Congo is sharing his experience on the front lines of an Ebola outbreak Advertisement Advertisement A Durham psychiatrist who recently returned from the Democratic Republic of the Congo is sharing his experience on the front lines of an Ebola outbreak",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Yahoo",
+            "url": "https://www.yahoo.com/news/videos/durham-psychiatrist-shares-experience-front-042050821.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ebola Update: DRC Outbreak Passes 8,700 Cases and 4,200 Deat",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Contagion Live",
+          "url": "https://www.contagionlive.com/view/ebola-update-drc-outbreak-passes-8-700-cases-and-4-200-deaths"
+        }
+      ]
+    },
+    {
+      "location": "The Ebola outbreak in the DRC exceeds 4,300 deaths and appro",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Demócrata",
+          "url": "https://www.democrata.es/en/international/the-ebola-outbreak-in-the-drc-exceeds-4-300-deaths-and-approaches-9-000-infections-since-may/"
+        }
+      ]
+    },
+    {
+      "location": "Ebola's deadly journey: From 1976 outbreaks to Kenya's first",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "www.standardmedia.co.ke",
+          "url": "https://www.standardmedia.co.ke/health/health-science/article/2001559937/ebolas-deadly-journey-from-1976-outbreaks-to-kenyas-first-case"
+        }
+      ]
+    },
+    {
+      "location": "Famine risk rises across Sudan as conflict and drought worse",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Operativ Məlumat Mərkəzi",
+          "url": "https://operativmm.az/en/post/famine-risk-rises-across-sudan-as-conflict-and-drought-worsen-food-crisis/82121"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "AP News",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AP News",
+        "count": 1
+      },
+      {
+        "name": "Bol News",
+        "count": 1
+      },
+      {
+        "name": "Business Day",
+        "count": 1
+      },
+      {
+        "name": "Contagion Live",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "Facebook",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Gulf Times",
+        "count": 1
+      },
+      {
+        "name": "Hiiraan Online",
+        "count": 1
+      },
+      {
+        "name": "Khaleej Times",
+        "count": 1
+      },
+      {
+        "name": "Legis1",
+        "count": 1
+      },
+      {
+        "name": "New Hampshire Union Leader",
+        "count": 1
+      },
+      {
+        "name": "Operativ Məlumat Mərkəzi",
+        "count": 1
+      },
+      {
+        "name": "Plataforma Media",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "Tribune Online",
+        "count": 1
+      },
+      {
+        "name": "Vajiram & Ravi",
+        "count": 1
+      },
+      {
+        "name": "Watching the world evolve and transform",
+        "count": 1
+      },
+      {
+        "name": "Yahoo",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      },
+      {
+        "name": "www.standardmedia.co.ke",
+        "count": 1
+      },
+      {
+        "name": "صوت الإمارات",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "11 item(s) had no extractable figures in available reporting.",
+      "5 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 17/17 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 3/6 region(s) with candidate material generated via Gemini (LLM), 3 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1153,
+      "sources_cited": 26
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
