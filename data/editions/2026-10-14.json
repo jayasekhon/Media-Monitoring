@@ -1,0 +1,505 @@
+{
+  "date": "2026-10-14",
+  "printed_time": "11:18 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An Ebola epidemic in the Democratic Republic of Congo has killed 4,381 people and infected over 9,000 across seven provinces amid severe containment challenges.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "The World Health Organization warned that the Gaza Strip faces a man-made mass starvation crisis due to ongoing blockades and severe restrictions on aid entry.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "An El Niño-driven forest fire in Indonesia's Bangka Belitung province destroyed nearly 300 homes and forced hundreds of residents to evacuate.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Drought across over half of Sudan combined with ongoing conflict has pushed acute malnutrition rates in South Darfur displacement camps beyond famine thresholds.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "A Houthi road blockade in Taiz, a tripling of cholera cases, and new Saudi airstrikes near Sana'a have compounded Yemen's severe humanitarian emergency.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An expanding Ebola epidemic in the Democratic Republic of Congo has infected over 9,000 people and killed 4,381 across seven provinces, worsened by the lack of an available vaccine for the strain.",
+    "label": "AFRICA — Ebola Epidemic Surpasses 4,300 Fatalities"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza Strip — WHO warns of man-made mass starvation crisis",
+        "score": 9.0,
+        "body": "The World Health Organization warned that Gaza is experiencing a man-made mass starvation crisis driven by Israel's ongoing blockade and restrictions on humanitarian aid. Food, water, and medical supplies remain blocked outside Gaza, with local food reserves depleted following a full blockade imposed in March. More than 100 humanitarian organizations have issued warnings regarding the acute lack of essential supplies and rising hunger deaths.",
+        "verified_figures": [
+          "Over 100 aid organizations issued warnings on worsening hunger crisis"
+        ],
+        "sources": [
+          {
+            "name": "Bol News",
+            "url": "https://www.bolnews.com/world/who-says-gaza-facing-man-made-mass-starvation-as-hunger-deaths-surge"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Blockade in Taiz, tripling cholera cases, and military strikes worsen crisis",
+        "score": 8.0,
+        "body": "Yemen's third-largest city, Taiz, faces severe shortages of food and supplies after Houthi forces tightened their blockade by taking control of the last main road to government-held areas. Concurrently, the World Health Organization reported that suspected cholera cases in Yemen tripled in three weeks, reaching 647 cases during early October and bringing the annual total to 8,034 suspected cases and 27 confirmed deaths. Meanwhile, Saudi Arabia launched airstrikes on strategic oil depots near Sana'a after intercepting Houthi missiles fired toward eastern Saudi Arabia.",
+        "verified_figures": [
+          "647 suspected cholera cases recorded during Oct 2–3",
+          "8,034 total suspected cholera cases this year",
+          "27 confirmed cholera deaths this year"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/10/1168589"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital"
+          }
+        ]
+      },
+      {
+        "headline": "Strait of Hormuz — Commercial vessel attacks surge following US military strike",
+        "score": 7.0,
+        "body": "Six commercial vessels were hit by projectiles in a single day while attempting to navigate the Strait of Hormuz, marking the highest daily number of reported maritime strikes since conflict between the US and Iran expanded in February. The attacks occurred on both sides of the waterway after an American fighter jet disabled an Iran-linked oil tanker accused of attempting to run a US naval blockade.",
+        "verified_figures": [
+          "6 commercial vessels hit in a single day"
+        ],
+        "sources": [
+          {
+            "name": "Al-Monitor",
+            "url": "https://www.al-monitor.com/originals/2026/10/hormuz-attacks-spike-after-us-airstrike-iran-linked-tanker"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied West Bank — Displaced Palestinians barred from returning to Tulkarm camp",
+        "score": 6.0,
+        "body": "Israeli Prime Minister Benjamin Netanyahu announced that displaced Palestinians from the Tulkarm refugee camp in the occupied West Bank will not be permitted to return to their homes. His statement followed an Israeli supreme court order requiring the government to establish a timetable for their return. Separately, Israeli military fire wounded two Palestinians during an army raid in Ramallah.",
+        "verified_figures": [
+          "2 Palestinians wounded by army fire in Ramallah"
+        ],
+        "sources": [
+          {
+            "name": "Arab News PK",
+            "url": "https://www.arabnews.pk/middle-east/netanyahu-vows-palestinians-displaced-from-refugee-camp-will-not-return-3004044"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Mexico/United States — Flooding and Landslides from Hurricane Simon and Tropical Storm Rachel",
+        "score": 5.0,
+        "body": "Heavy rainfall, flooding, and landslides triggered by Hurricane Simon and the remnants of Tropical Storm Rachel have killed at least six people along Mexico’s Pacific coast. In Baja California state, floodwaters damaged homes and swept away vehicles in the coastal city of Ensenada, while outer rainbands brought downpours to communities near Puerto Vallarta and Nayarit state. The storm system also generated high waves and coastal flooding in southern California, damaging waterfront homes and boardwalks. Rescue and cleanup operations are underway in affected coastal municipalities across western Mexico.",
+        "verified_figures": [
+          "6 killed in Mexico"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/mexico-hurricanes-simon-rachel-pacific-deaths-1276142fb7db0f50d0f61d86ae7fa977"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of Congo — Ebola Epidemic Surpasses 4,300 Fatalities",
+        "score": 9.5,
+        "body": "The Democratic Republic of Congo is facing a severe Ebola epidemic driven by the Bundibugyo strain, for which no vaccine currently exists. Official public health data indicates confirmed cases have reached 9,066, with 4,381 deaths across seven provinces. Containment operations are struggling across multiple hotspots as the case fatality rate approaches 50 percent. In response to the growing outbreak, international public health agencies, including the United States CDC, are implementing enhanced passenger screenings and travel restrictions for individuals arriving from Central Africa to mitigate global transmission risks.",
+        "verified_figures": [
+          "9,066 confirmed cases",
+          "4,381 deaths",
+          "7 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "SSBCrack",
+            "url": "https://news.ssbcrack.com/congo-ebola-9066-cases-4381-deaths-bundibugyo-strain/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Severe Drought and Insecurity Escalate Famine Risk",
+        "score": 8.5,
+        "body": "Deepening drought and ongoing conflict are rapidly worsening hunger in Sudan, with drought conditions now affecting over half the country. According to the Integrated Food Security Phase Classification, acute malnutrition rates in South Darfur's Eastern Jebel Marra have reached 38 percent and 30.8 percent in two displacement camps, exceeding the famine threshold. Critical levels of acute malnutrition were found in 13 of 17 surveys across Greater Darfur, while severe acute malnutrition cases in Nyala more than doubled between January and August. Critical funding shortfalls and persistent insecurity continue to severely constrain relief operations.",
+        "verified_figures": [
+          "38% acute malnutrition in South Darfur displacement camp",
+          "30.8% acute malnutrition in South Darfur displacement camp",
+          "Drought affects more than half of Sudan"
+        ],
+        "sources": [
+          {
+            "name": "Channel Africa",
+            "url": "https://www.channelafrica.co.za/channelafrica/news/famine-risk-rises-in-sudan-as-drought-deepens-hunger-crisis/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Border Airstrike Kills 72 at Mining Site",
+        "score": 7.5,
+        "body": "Sudan's military leadership has ordered an investigation following an airstrike at a gold mining site in the Jabal al-Uqaydat area near the Egyptian border. The legal rights group Emergency Lawyers reported that the attack killed 72 people and attributed the raid to Egyptian aircraft, though these claims remain unverified and Egypt has not commented officially. The attack underscores severe protection risks facing civilians in remote regions amid ongoing fighting between the Sudanese Armed Forces and the Rapid Support Forces.",
+        "verified_figures": [
+          "72 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Standard Media",
+            "url": "https://www.standardmedia.co.ke/amp/africa/article/2001560053/sudan-army-chief-orders-probe-into-border-airstrike-that-killed-72?utm_cmp_rs=amp-next-page"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — UN Urges De-escalation as Clashes Intensify in Baidoa",
+        "score": 6.0,
+        "body": "The United Nations resident and humanitarian coordinator for Somalia has called for an immediate end to heavy fighting in Baidoa, the capital of South West State. Renewed clashes are impacting civilians, particularly displaced populations, women, children, the elderly, and persons with disabilities. Humanitarian officials warned that the violence aggravates severe existing crises across the region, including widespread displacement, heightened flood risks, and deepening food insecurity. The UN appealed to all armed parties to protect civilian infrastructure and ensure safe, unhindered access for humanitarian operations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Hiiraan Online",
+            "url": "https://www.hiiraan.com/news4/2026/Oct/206497/un_urges_halt_to_baidoa_fighting_as_famine_displacement_and_flood_risks_deepen.aspx"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes damage energy grid, killing six and cutting power to 600,000",
+        "score": 7.5,
+        "body": "A series of Russian missile strikes targeting Ukraine's critical energy infrastructure has killed at least six people, injured approximately 20 others, and left at least 600,000 civilians without power. The attacks damaged power facilities across the country, including plants in Kyiv and Kharkiv. Ukrainian President Volodymyr Zelensky stated that Western allies provided no advance warning prior to a ballistic missile strike on a Kyiv power plant. The attacks occurred shortly after an energy ceasefire was announced by the United States. Additionally, speed restrictions on Starlink satellite internet services reportedly disrupted front-line communications.",
+        "verified_figures": [
+          "at least 6 killed",
+          "around 20 wounded",
+          "600,000 without power"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/de/node/3846698"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Extensive landmine contamination threatens civilians and agricultural recovery",
+        "score": 5.0,
+        "body": "Demining groups in Ukraine are confronting widespread landmine contamination on a scale last observed in Vietnam, creating severe safety risks for civilians returning to former conflict zones in the east. Mine clearance personnel and civilians are working to restore agricultural land previously occupied by Russian forces. To address deadlier and more complex explosive hazards, demining organizations are incorporating new technologies, including artificial intelligence and specialized drones, to locate and clear unexploded ordnance and landmines.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
+        "score": 9.0,
+        "body": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official has said, as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitung province on Saturday and tried to put it out themselves with portable water pumps, said the head of South Bangka regency, Riza Herdavid. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung"
+          }
+        ]
+      },
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "On predictability of slip, rupture geometry, and speed of the 2025 M7.8 Mandalay, Myanm...",
+        "score": 6.5,
+        "body": "Abstract The 2025 M7.8 Mandalay earthquake ruptured ~480 km of the Sagaing Fault, producing one of the longest strike-slip events documented and impacting a vulnerable region. Here we combine remote sensing observations and numerical modeling to show that the subsurface fault geometry and slip distribution could be anticipated from pre-event observations. Along-strike variations in coseismic and interseismic deformation reveal a helix-shaped fault geometry. The average coseismic slip equals or exceeds the interseismic slip deficit, consistent with a minimally slip-predictable model. We generate an ensemble of 3D dynamic rupture models, constrained by the best-fit static slip model, then disc",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Nature",
+            "url": "https://www.nature.com/articles/s41467-026-77203-x"
+          }
+        ]
+      },
+      {
+        "headline": "Sik MP: Don't blame refugees, address atrocities in Myanmar",
+        "score": 6.0,
+        "body": "Sik MP: Don't blame refugees, address atrocities in Myanmar. ;",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NST Online",
+            "url": "https://www.nst.com.my/news/nation/2026/10/1555404/sik-mp-dont-blame-refugees-address-atrocities-myanmar"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Mexico / US — Hurricane Simon triggers lethal floods and wide flash-flood threat",
+        "score": 7.5,
+        "body": "Heavy rains from Hurricane Simon and the remnants of Tropical Storm Rachel caused deadly flooding and landslides along Mexico's Pacific coast, killing at least six people, including children. Severe flooding and rising rivers affected Guerrero, Nayarit, and Sinaloa states. Moisture from the storm is moving northward into the United States, creating a multi-day flash flood risk along a 1,500-mile corridor. Over six million people across the Southern Plains and Midwest have been placed under flood watches, with heavy rainfall threatening central Oklahoma and surrounding regions.",
+        "verified_figures": [
+          "6 people killed in Mexico",
+          "Over 6 million people under flood watch in the US"
+        ],
+        "sources": [
+          {
+            "name": "FOX5 Vegas",
+            "url": "https://www.fox5vegas.com/2026/10/13/children-among-6-killed-flooding-hurricane-simon-tropical-storm-rachel-remnants/"
+          }
+        ]
+      },
+      {
+        "headline": "Panama — State of emergency declared following powerful earthquakes",
+        "score": 7.0,
+        "body": "Panama declared a nationwide state of emergency after two powerful earthquakes and more than 100 aftershocks hit the country. The seismic activity toppled buildings and inflicted structural damage across all ten of Panama's provinces and two indigenous territories. Coastal regions faced additional impact as large ocean waves damaged beachfront structures.",
+        "verified_figures": [
+          "More than 100 aftershocks recorded",
+          "Damage reported across 10 provinces and 2 indigenous territories"
+        ],
+        "sources": [
+          {
+            "name": "Denison Forum",
+            "url": "https://www.denisonforum.org/daily-article/does-god-cause-hurricanes-and-earthquakes/"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Insecurity fuels displacement and cholera outbreaks in Zamfara",
+        "score": 6.0,
+        "body": "Ongoing violence by armed bandits in Zamfara State, Nigeria, has displaced thousands of civilians, forcing families to flee villages like Dan Bago to areas such as Bukkuyum Local Government Area. Displaced communities live in heightened vulnerability, facing recurring cholera outbreaks driven by poor living conditions and severely restricted access to healthcare facilities.",
+        "verified_figures": [
+          "Thousands of people displaced by insecurity in Zamfara State"
+        ],
+        "sources": [
+          {
+            "name": "Premium Times Nigeria",
+            "url": "https://www.premiumtimesng.com/news/headlines/916779-special-report-insecurity-exposes-zamfara-communities-to-recurring-cholera-outbreaks.html"
+          }
+        ]
+      },
+      {
+        "headline": "USA — Hurricane Isaias causes six fatalities in Florida",
+        "score": 4.0,
+        "body": "Authorities in Florida confirmed six storm-related deaths connected to Hurricane Isaias. Reported causes of death include a falling tree, carbon monoxide poisoning from a generator operated in a garage, a traffic collision resulting from an unpowered traffic signal, and healthcare disruptions caused by the storm's aftermath.",
+        "verified_figures": [
+          "6 storm-related deaths in Florida"
+        ],
+        "sources": [
+          {
+            "name": "AOL.com",
+            "url": "https://www.aol.com/articles/florida-hurricane-isaias-death-toll-184713000.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Strait of Hormuz",
+      "score": 7.0,
+      "trigger": "Further maritime engagements or retaliatory strikes following the attack on six commercial vessels could trigger wider direct conflict.",
+      "potential_impact": "Disruption of key maritime corridors could imperil commercial crews and exacerbate broader regional tensions.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/10/hormuz-attacks-spike-after-us-airstrike-iran-linked-tanker"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.5,
+      "trigger": "Follow-up missile strikes on national power plants could cause a complete failure of the electrical grid.",
+      "potential_impact": "Widespread energy blackouts would leave hundreds of thousands more civilians without heat and power during critical periods.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "Panama",
+      "score": 7.0,
+      "trigger": "Continued strong aftershocks following two major earthquakes could cause further structural collapse in damaged urban and coastal areas.",
+      "potential_impact": "Additional destruction could lead to further civilian displacement and overload local emergency services.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Denison Forum",
+          "url": "https://www.denisonforum.org/daily-article/does-god-cause-hurricanes-and-earthquakes/"
+        }
+      ]
+    },
+    {
+      "location": "Sudan-Egypt Border Region",
+      "score": 7.5,
+      "trigger": "Unverified cross-border strikes near gold mining sites could provoke diplomatic and military escalation between regional actors.",
+      "potential_impact": "Heightened military activity along border areas threatens civilians in remote locations and exacerbates regional instability.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Standard Media",
+          "url": "https://www.standardmedia.co.ke/amp/africa/article/2001560053/sudan-army-chief-orders-probe-into-border-airstrike-that-killed-72?utm_cmp_rs=amp-next-page"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Al-Monitor",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Denison Forum",
+        "count": 2
+      },
+      {
+        "name": "Standard Media",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AOL.com",
+        "count": 1
+      },
+      {
+        "name": "Arab News PK",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Bol News",
+        "count": 1
+      },
+      {
+        "name": "Channel Africa",
+        "count": 1
+      },
+      {
+        "name": "FOX5 Vegas",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Hiiraan Online",
+        "count": 1
+      },
+      {
+        "name": "NST Online",
+        "count": 1
+      },
+      {
+        "name": "Nature",
+        "count": 1
+      },
+      {
+        "name": "Premium Times Nigeria",
+        "count": 1
+      },
+      {
+        "name": "SSBCrack",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "5 item(s) had no extractable figures in available reporting.",
+      "1 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 3/3 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1281,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
