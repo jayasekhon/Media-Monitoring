@@ -1,0 +1,381 @@
+{
+  "date": "2026-10-17",
+  "printed_time": "10:14 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An expanding Ebola outbreak in the Democratic Republic of the Congo has caused approximately 4,400 deaths across eight provinces, alongside confirmed cross-border cases in Kenya.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Health officials in Gaza report at least 466 starvation deaths since 2024, with over 1.4 million residents facing crisis-level food insecurity or worse.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "A drone strike targeting a livestock market in Nyala, South Darfur, killed 30 civilians and injured 47 others as conflict escalates across Sudan.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Russian air strikes hit energy infrastructure across nine Ukrainian regions, cutting off electricity and water supplies to major urban centers.",
+      "region": "Europe"
+    },
+    {
+      "rank": 5,
+      "text": "Humanitarian agencies project 19.2 million people in Afghanistan will experience acute food insecurity during the upcoming winter lean season.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An expanding Ebola outbreak in the Democratic Republic of the Congo has claimed approximately 4,400 lives across eight provinces, with cross-border cases confirmed in Kenya.",
+    "label": "AFRICA — Expanding DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Health officials report 466 starvation deaths since 2024 amidst acute hunger crisis",
+        "score": 9.0,
+        "body": "Gaza's Health Ministry reported that at least 466 Palestinians, including 157 children and 189 elderly people, have died from malnutrition and starvation since 2024. Health authorities warned that over 1.4 million people—around 67% of the enclave's population—face crisis-level food insecurity or worse through late 2026. Additionally, more than 158,000 acute malnutrition cases have been recorded among children under five. Following a UN famine declaration in August 2025, health officials note that while a recent ceasefire permitted increased aid entry, severe malnutrition and food shortages persist.",
+        "verified_figures": [
+          "466 malnutrition and starvation deaths",
+          "157 child starvation deaths",
+          "189 elderly starvation deaths",
+          "1.4 million people facing crisis-level food insecurity or worse",
+          "158,000 cases of acute malnutrition among children under 5"
+        ],
+        "sources": [
+          {
+            "name": "TRT World",
+            "url": "https://www.trtworld.com/article/73d2bbcc76e0"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Border airstrikes kill dozens and displace thousands at Red Sea State mining site",
+        "score": 7.5,
+        "body": "A series of airstrikes on October 10 struck a gold-mining site in Jabal al-Uqaydat, located in Sudan's northern Red Sea State near the Egyptian border. The attack forced thousands of miners to flee into nearby mountains. While total casualty numbers remain unverified, local human rights group Emergency Lawyers reported 72 deaths following five consecutive strikes on the facility. The bombardment highlights escalating civilian protection risks and unresolved cross-border military tensions in northern Sudan.",
+        "verified_figures": [
+          "72 deaths reported by Emergency Lawyers",
+          "thousands of miners forced to flee"
+        ],
+        "sources": [
+          {
+            "name": "Ethio Negari",
+            "url": "https://ethionegari.com/2026/10/17/egypt-sudan-border-strikes-raise-questions-over-civilian-deaths-and-khartoums-response/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Escalating hostilities fuel displacement and rising food insecurity around Aden",
+        "score": 5.0,
+        "body": "Escalating conflict across Yemen has driven a surge in civilian displacement and heightened hunger levels, forcing families into informal settlements including the Al-Firdous displacement camp near the southern port city of Aden. Displaced populations remain heavily reliant on emergency relief, with the World Food Programme providing basic food distributions of wheat and rice alongside clean water supplies to mitigate widespread food insecurity.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "UN World Food Programme",
+            "url": "https://www.wfp.org/stories/hunger-and-displacement-soar-fighting-escalates-yemen"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Mexico — Hurricane Trudy approaches Pacific coast bringing severe weather and flood risks",
+        "score": 5.5,
+        "body": "Hurricane Trudy is moving northwest toward southwestern and west-central Mexico, threatening coastal areas with heavy rainfall and potential flooding. As of Friday night, the Category 1 hurricane carried maximum sustained winds of 90 mph (150 kph). Authorities issued a hurricane warning covering the area from Manzanillo in Colima state to Cabo Corrientes in Jalisco state. The storm center was located approximately 240 miles (385 kilometers) west-southwest of Acapulco and 215 miles (345 kilometers) south-southeast of Manzanillo. Forecasters predict the hurricane will approach or pass near the coast over the weekend.",
+        "verified_figures": [
+          "maximum sustained winds of 90 mph (150 kph)",
+          "storm centered 240 miles (385 km) west-southwest of Acapulco",
+          "storm centered 215 miles (345 km) south-southeast of Manzanillo"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/hurricane-trudy-mexico-pacific-coast-storm-e0522909a549cb4a43a8ab532f7d3668"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Earthquake highlights urban preparedness and infrastructure risks",
+        "score": 4.0,
+        "body": "An earthquake struck Colombia, prompting residents in affected urban areas to evacuate into the streets. The seismic event highlighted vulnerabilities in building construction and emergency readiness across densely populated cities located along active tectonic fault lines. Specific details regarding potential casualties, physical damage, or humanitarian displacement remain unconfirmed in initial reporting. Seismic monitoring experts note that sudden shaking leaves communities with minimal warning time, raising ongoing concerns regarding potential aftershocks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Finger Lakes Times",
+            "url": "https://www.fltimes.com/town_crier/videos/why-nobody-was-ready-for-the-earthquake-in-colombia/video_fbae894d-d7ac-5dda-ae3c-48e11587ff3c.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Sudan — Airstrike on Darfur market kills 30 as UN warns against escalating drone attacks",
+        "score": 8.5,
+        "body": "A drone strike on a livestock market in Nyala, South Darfur, killed 30 people and injured 47 others. Allies of the Rapid Support Forces blamed the Sudanese military for the attack, claiming victims included 17 women and five children, while the army stated it conducted targeted airstrikes against enemy command centers in the city. Simultaneously, UN officials called for an immediate halt to drone attacks across Sudan, citing them as the primary cause of civilian casualties this year. Fighting continues to intensify across strategic locations, including the Kordofan region, as the civil war prolongs mass displacement and civilian casualties.",
+        "verified_figures": [
+          "30 people killed in Nyala airstrike",
+          "47 people injured in Nyala airstrike",
+          "17 women and 5 children among victims, according to RSF-aligned alliance"
+        ],
+        "sources": [
+          {
+            "name": "وكالة صدى نيوز",
+            "url": "https://www.sadanews.ps/en/news/343597.html"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo / Kenya — Ebola outbreak spreads to eighth province and cross-border cases rise",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has expanded into an eighth province, North Ubangi, with total fatalities reaching approximately 4,400. Children are severely impacted, accounting for one in four deaths and a disproportionate share of confirmed cases. Humanitarian organizations, including Doctors Without Borders, are establishing isolation units and treatment facilities amid conflict and institutional instability. Meanwhile, Kenya confirmed its third positive Ebola case in a quarantined relative of earlier cases, leading authorities to step up health screenings along the Ugandan border.",
+        "verified_figures": [
+          "approximately 4,400 Ebola deaths in DRC",
+          "1 in 4 Ebola deaths are children",
+          "Ebola spread to 8 provinces in DRC",
+          "3 confirmed Ebola cases in Kenya"
+        ],
+        "sources": [
+          {
+            "name": "CIDRAP",
+            "url": "https://www.cidrap.umn.edu/ebola/3rd-person-kenya-tests-positive-ebola-dr-congo-outbreak-spreads-8th-province"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes hit energy infrastructure causing widespread blackouts and water outages",
+        "score": 8.0,
+        "body": "Russian missile and drone strikes targeted Ukrainian power plants across nine regions, causing rolling blackouts and water outages in major cities, including Kyiv and Kharkiv. The attacks continued despite US President Donald Trump unilaterally declaring an energy ceasefire between Moscow and Kyiv and temporarily easing US sanctions on Russian diesel. Ukrainian President Volodymyr Zelensky confirmed strikes on multiple energy facilities following the announcement, while reporting indicated a spike in civilian casualties. The systematic bombardments on critical utility infrastructure threaten to severely disrupt basic services for urban populations as frontline combat remains active.",
+        "verified_figures": [
+          "9 Ukrainian regions struck"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-trump-zelenskyy-power-grid-025bdb5cebc0be727a6197ce37f2c365"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/fr/node/3846698"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Winter food insecurity and child malnutrition projected to reach five-year high",
+        "score": 8.0,
+        "body": "Nearly 19.2 million people in Afghanistan—representing 38 percent of the population—are projected to face high levels of acute food insecurity during the November 2026 to April 2027 lean season, according to UN agencies and humanitarian partners. Latest IPC analysis released by UNICEF, FAO, WFP, and Action Against Hunger indicates a significant rise in hunger from the previous year. Additionally, more than four million children under five are expected to require treatment for acute malnutrition in 2027, the highest level recorded in five years. Humanitarian agencies warn that international aid cuts and weakening household purchasing power are severely exacerbating the health and nutrition emergency across the country.",
+        "verified_figures": [
+          "19.2 million people facing acute food insecurity",
+          "38% of population facing acute food insecurity",
+          "Over 4 million children requiring acute malnutrition treatment in 2027"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/afghanistan-malnutrition-hunger-taliban-wfp-poverty-49645d8ab1209844854d8aa7eb0b5acb"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Suspect in Kohat police compound bombing killed in counter-terrorism operation",
+        "score": 4.0,
+        "body": "Pakistan’s Counter-Terrorism Department reported that security forces killed Zahid Gul, an alleged member of the Hafiz Gul Bahadur group, during an operation in Lakki Marwat district, Khyber Pakhtunkhwa province. Authorities identified Gul as the primary planner behind a car bombing that targeted a police compound in Kohat approximately one month prior. That attack struck near a mosque inside the facility, killing 17 police officers and six civilians. Security agencies claimed the suspect was neutralized during targeted field operations in the region.",
+        "verified_figures": [
+          "17 police officers killed in Kohat attack",
+          "6 civilians killed in Kohat attack"
+        ],
+        "sources": [
+          {
+            "name": "8AM Media",
+            "url": "https://8am.media/eng/pakistan-security-agencies-claim-to-have-killed-suspect-behind-kohat-police-center-attack/"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Magnitude 5.7 earthquake jolts Balochistan province",
+        "score": 3.0,
+        "body": "A magnitude 5.7 earthquake struck Pakistan's Balochistan province at a depth of 13 kilometers, according to the US Geological Survey. The epicenter was located near Khuzdar town, with shaking reported across multiple districts including Jhal Magsi, Jaffarabad, and Nasirabad, as well as parts of neighboring provinces. No immediate casualties or structural destruction were reported in initial assessments following the early morning tremor.",
+        "verified_figures": [
+          "5.7-magnitude earthquake",
+          "13 km depth"
+        ],
+        "sources": [
+          {
+            "name": "Deccan Chronicle",
+            "url": "https://www.deccanchronicle.com/world/asia/earthquake-of-magnitude-57-jolts-pakistans-balochistan-1996619"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Somalia — Flash floods affect displaced households in Hudur",
+        "score": 5.5,
+        "body": "Flash floods triggered by heavy Deyr rainfall on 14 October struck Hudur district in Somalia’s South West State, impacting 37 displaced households across the Ato, Rabdhuure, and Haluul displacement sites. Assessments by the International Organization for Migration Camp Coordination and Camp Management team confirmed that floodwaters damaged shelters and destroyed essential household items. The localized incident occurs at the onset of the Deyr rainy season under Super El Niño conditions, heightening humanitarian concerns for vulnerable displaced communities.",
+        "verified_figures": [
+          "37 displaced households affected"
+        ],
+        "sources": [
+          {
+            "name": "FTL Somalia",
+            "url": "https://www.ftlsomalia.com/flash-floods-in-hudur-affect-37-displaced-households-as-el-nino-rains-begin/"
+          }
+        ]
+      },
+      {
+        "headline": "Zambia — Cholera outbreak reaches 966 cases and 25 deaths",
+        "score": 6.0,
+        "body": "Health authorities in Zambia have recorded 966 cases of cholera and 25 related deaths as emergency response measures intensify. Response teams are actively working to manage the outbreak and curb further transmission of the waterborne disease. The rising caseload underlines ongoing public health concerns and the urgent need for enhanced water, sanitation, and hygiene interventions.",
+        "verified_figures": [
+          "966 cholera cases",
+          "25 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Howl.link",
+            "url": "https://www.youtube.com/watch?v=lLKgIQ2lkOM&feature=youtu.be"
+          }
+        ]
+      },
+      {
+        "headline": "Türkiye — Severe flooding in Istanbul leaves four dead",
+        "score": 5.0,
+        "body": "Severe flooding described as Istanbul’s worst in 80 years has killed four people and left three others missing. The devastating floodwaters struck the city, causing significant urban disruption and prompting emergency response operations. Search and rescue efforts remain active for the unaccounted individuals as local authorities evaluate the full impact of the flood damage.",
+        "verified_figures": [
+          "4 killed",
+          "3 missing"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/floods-istanbul-turkey-deaths-sariyer-climate-change-b14a013cc2ad5cd767eb08c2ebf01a50"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Red Sea State, Sudan",
+      "score": 7.5,
+      "trigger": "Further airstrikes on gold-mining facilities along the northern Sudan-Egypt border in the next 72 hours could force additional workers into remote mountain regions.",
+      "potential_impact": "Displaced populations in arid border regions face severe protection risks, extreme weather exposure, and a lack of humanitarian relief.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Ethio Negari",
+          "url": "https://ethionegari.com/2026/10/17/egypt-sudan-border-strikes-raise-questions-over-civilian-deaths-and-khartoums-response/"
+        }
+      ]
+    },
+    {
+      "location": "Southwestern Mexico",
+      "score": 5.5,
+      "trigger": "If Hurricane Trudy makes direct coastal landfall as projected over the weekend, heavy rainfall will inundate low-lying coastal zones.",
+      "potential_impact": "Flash flooding and landslides could damage critical infrastructure, sever road links, and displace residents across Colima and Jalisco states.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/hurricane-trudy-mexico-pacific-coast-storm-e0522909a549cb4a43a8ab532f7d3668"
+        }
+      ]
+    },
+    {
+      "location": "Zambia",
+      "score": 6.0,
+      "trigger": "Failure to rapidly contain waterborne contamination over the next 72 hours could accelerate community-level cholera transmission.",
+      "potential_impact": "Spiking infection rates would overwhelm local health centers and increase mortality among vulnerable populations lacking safe sanitation.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Howl.link",
+          "url": "https://www.youtube.com/watch?v=lLKgIQ2lkOM&feature=youtu.be"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "AFP",
+      "Associated Press",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 5
+      },
+      {
+        "name": "Ethio Negari",
+        "count": 2
+      },
+      {
+        "name": "Howl.link",
+        "count": 2
+      },
+      {
+        "name": "8AM Media",
+        "count": 1
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "CIDRAP",
+        "count": 1
+      },
+      {
+        "name": "Deccan Chronicle",
+        "count": 1
+      },
+      {
+        "name": "FTL Somalia",
+        "count": 1
+      },
+      {
+        "name": "Finger Lakes Times",
+        "count": 1
+      },
+      {
+        "name": "TRT World",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "UN World Food Programme",
+        "count": 1
+      },
+      {
+        "name": "وكالة صدى نيوز",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1271,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
