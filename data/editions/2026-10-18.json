@@ -1,0 +1,488 @@
+{
+  "date": "2026-10-18",
+  "printed_time": "10:31 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Bundibugyo Ebola virus outbreak originating in the Democratic Republic of the Congo has killed over 4,400 people and infected more than 9,300 across eight provinces, with cases now confirmed in four countries.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "Severe international aid reductions in Afghanistan have left 15.9 million people facing acute food insecurity, with projections rising to 19.2 million between November and April.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 3,
+      "text": "Malnutrition and starvation have killed 466 people in Gaza since 2024, including 157 children, with over 1.4 million residents projected to face crisis-level food insecurity by the end of 2026.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Escalating military conflict in Yemen has internally displaced over 233,000 people nationwide, severely obstructing access to humanitarian and medical assistance.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "A Myanmar military air strike in Yesagyo township killed 11 civilians, including six women and two children, destroying three residential homes in rebel-controlled territory.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo is facing the second-largest Ebola epidemic on record, with the untreatable Bundibugyo virus strain causing over 4,400 deaths and expanding across eight provinces into neighboring countries.",
+    "label": "GLOBAL / CROSS-CUTTING — Ebola Epidemic"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Malnutrition Fatalities and Severe Food Insecurity",
+        "score": 8.5,
+        "body": "The Palestinian Health Ministry reported that malnutrition and starvation have caused 466 deaths in Gaza since 2024, including 157 children. Officials warned that severe food insecurity continues to threaten vulnerable groups following the declaration of famine in Gaza Governorate in August 2025. Projections indicate that more than 1.4 million people—approximately 67 percent of Gaza's population—will face crisis-level food insecurity or worse by the end of 2026. Critical shortages of food and essential supplies persist across the territory as the humanitarian situation worsens.",
+        "verified_figures": [
+          "466 deaths from malnutrition and starvation since 2024",
+          "157 children killed by malnutrition and starvation",
+          "Over 1.4 million people projected to face crisis-level food insecurity or worse by end of 2026"
+        ],
+        "sources": [
+          {
+            "name": "سانا",
+            "url": "https://sana.sy/en/international/2351713/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Mass Displacement and Access Restrictions Amid Hostilities",
+        "score": 8.0,
+        "body": "Escalating military conflict in Yemen has internally displaced more than 233,000 people nationwide, including nearly 121,000 in Taiz province, according to the United Nations and the International Organization for Migration. Displacement has intensified significantly since June. UNHCR warned that internal displacement could exceed 230,000 within a month if current trends continue, noting that over 130,000 people have fled their homes since September. Additionally, more than 3,000 refugees have crossed into Djibouti, while hundreds reached Somaliland and Puntland. Growing obstacles continue to hinder the delivery of humanitarian and medical assistance.",
+        "verified_figures": [
+          "Over 233,000 people internally displaced nationwide",
+          "Nearly 121,000 displaced in Taiz province",
+          "More than 130,000 internally displaced since September",
+          "Over 3,000 refugees arrived in Djibouti"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://yemenonline.info/special-reports/14102"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Civilian Casualties Reported in Multiple Airstrikes",
+        "score": 6.5,
+        "body": "Recent airstrikes across Yemen have resulted in civilian fatalities and injuries. Reports indicate that Saudi airstrikes killed 12 civilians, including children, in attacks across the country. In a separate incident, airstrikes hit a residential area in Dhamar, killing three children and injuring more than a dozen other people. The incidents highlight continuing protection risks faced by civilian populations amid ongoing military activity across Yemen.",
+        "verified_figures": [
+          "12 civilians killed in airstrikes across Yemen",
+          "3 children killed in Dhamar airstrikes",
+          "More than a dozen people injured in Dhamar airstrikes"
+        ],
+        "sources": [
+          {
+            "name": "İlke Haber Ajansı",
+            "url": "https://ilkha.com/english/world/saudi-airstrikes-kill-12-civilians-including-children-across-yemen-569621"
+          }
+        ]
+      },
+      {
+        "headline": "Strait of Hormuz — Attacks on Commercial Vessels Cause Mariner Fatalities",
+        "score": 5.5,
+        "body": "Ongoing military strikes by Iranian forces targeting commercial shipping in the Strait of Hormuz have killed more than 20 civilian mariners, according to U.S. Central Command. Despite the security risks and regional tensions, military officials confirmed that commercial traffic has not been halted. Nearly 97 percent of civilian cargo ships continue to navigate the ocean corridor safely, relying on heavy security measures to maintain commercial transit through the waterway.",
+        "verified_figures": [
+          "More than 20 civilian mariners killed in Iranian attacks",
+          "Nearly 97 percent of civilian cargo ships navigating safely"
+        ],
+        "sources": [
+          {
+            "name": "Dagens.com",
+            "url": "https://www.dagens.com/news/strait-of-hormuz-crisis-more-than-20-civilian-mariners-killed-in-iranian-attacks"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Mexico — Hurricane Trudy and Pacific Storm Series",
+        "score": 7.0,
+        "body": "Category 2 Hurricane Trudy is threatening Mexico’s southwestern and west-central Pacific coast with sustained winds up to 100 mph (155 km/h), triggering hurricane warnings from Manzanillo in Colima state to Cabo Corrientes in Jalisco. The U.S. National Hurricane Center warned of life-threatening flash flooding and mudslides across Michoacán, Colima, and Jalisco, where soils remain saturated from previous storms. Trudy is one of five major hurricanes to strike the region over the past month, with heavy rains, flooding, and landslides causing at least eight deaths across the Pacific coastal region.",
+        "verified_figures": [
+          "At least 8 people dead",
+          "Maximum sustained winds of 100 mph (155 km/h)"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/hurricane-trudy-typhoon-champi-mexico-guam-13abd259860be97941f0ef0b72990c31"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Fatal Incident at Wainwright Military Base",
+        "score": 4.0,
+        "body": "A severe incident causing a large fire at Canada’s Wainwright military training base in Alberta resulted in multiple deaths and injuries, according to Defence Minister David McGuinty. Local medical resources in Wainwright were overwhelmed by the influx of casualties, forcing emergency services to transport injured individuals to hospitals in Edmonton. Official response operations remain underway.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola epidemic reaches eighth province as deaths surpass 4,400",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is facing its fastest-escalating Ebola outbreak on record, caused by the Bundibugyo virus declared in Ituri province on May 15, 2026. Official data indicates the epidemic has surpassed 9,300 confirmed cases and 4,400 deaths, expanding across eight provinces. Active armed conflict in eastern DRC continues to restrict health workers from reaching affected communities and hampers containment efforts. The virus is severely impacting children, who account for one in four fatalities and face an estimated 60 percent mortality rate compared to 40 percent among adults. Over 1,900 children have been separated from caregivers or orphaned, leading UNICEF to open 12 child-care facilities alongside treatment units.",
+        "verified_figures": [
+          "Over 9,300 confirmed cases",
+          "Over 4,400 deaths",
+          "Outbreak confirmed in 8 provinces",
+          "1 in 4 deaths are children",
+          "60% child mortality rate compared to 40% adult mortality rate",
+          "At least 1,900 children separated from caregivers",
+          "12 UNICEF child-care centres operating"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-confirms-ebola-outbreak-spreads-eighth-province-2026-10-18/"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Confirmation of two Ebola cases raises regional cross-border containment concerns",
+        "score": 6.5,
+        "body": "Health authorities in Kenya have confirmed two cases of Ebola, marking the international spread of the virus from the outbreak centered in the Democratic Republic of the Congo. The index case involved a 40-year-old Kenyan national who traveled by road from the DRC through Kampala, Uganda, before flying to Nairobi, where he was diagnosed and died on October 5. A second case was subsequently confirmed in Kenya. Health experts warned that these imported cases expose severe gaps in virus tracking, contact tracing, and border surveillance systems across the region.",
+        "verified_figures": [
+          "2 confirmed Ebola cases in Kenya",
+          "1 confirmed death on October 5"
+        ],
+        "sources": [
+          {
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-contact-tracing-b3067572.html"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Civilian Casualties and Power Grid Threats from Russian Strikes",
+        "score": 7.5,
+        "body": "Russian military strikes across Ukraine have killed civilians and injured dozens of people. Ukrainian President Volodymyr Zelenskyy warned that Russian forces are targeting energy infrastructure to cause widespread blackouts, particularly in western Ukraine. The attacks threaten access to essential services and heighten protection concerns as diplomatic relations between Ukraine and key international partners face increased strain.",
+        "verified_figures": [
+          "dozens injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/amp/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Pope Leo Urges Aid Access to Occupied Oleshky",
+        "score": 7.0,
+        "body": "Pope Leo XIV called Russian President Vladimir Putin from a hospital in Rome, urging a ceasefire in Russian-occupied Oleshky, located in Ukraine's Kherson region. The pope expressed severe concern over the deteriorating humanitarian situation in the city, where civilians face acute shortages of food and essential medical supplies. The appeal specifically requested a pause in hostilities to allow humanitarian aid organizations to deliver critical relief into the occupied area.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Mary Sue",
+            "url": "https://www.themarysue.com/pope-leo-calls-putin-from-hospital-bed/"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Ukrainian Drone Swarm Attacks St. Petersburg",
+        "score": 5.0,
+        "body": "Multiple explosions were reported in St. Petersburg, Russia, following a suspected attack by a Ukrainian drone swarm. Video footage shared on social media confirmed several detonations within the city. The strike represents a significant deep-range air attack inside Russian territory amid the broader armed conflict.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — US Evaluates Ukrainian Request for Starshield Satellite System",
+        "score": 3.5,
+        "body": "United States officials stated that Ukraine currently operates without access to Starshield, the military-grade satellite communications network. Ukrainian leadership requested access to the system to support long-range strikes inside Russian territory. United States Secretary of State Marco Rubio indicated that future access to the technology remains under active discussion between Washington and Kyiv.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Millions face acute food insecurity amid severe aid cuts",
+        "score": 8.5,
+        "body": "The United Nations reported that 15.9 million people in Afghanistan face acute food insecurity, including 3.4 million at emergency levels. Projections indicate that 19.2 million people will experience crisis-level food insecurity or worse between November and April, with five million reaching emergency conditions. Disease outbreaks, drinking water shortages, and reduced access to nutrition services are worsening the crisis. International aid reductions have left families unable to afford basic food, resulting in severe malnutrition among young children.",
+        "verified_figures": [
+          "15.9 million people facing acute food insecurity",
+          "3.4 million people at emergency levels of food insecurity",
+          "19.2 million people projected to face crisis-level food insecurity or worse between November and April",
+          "5 million people projected to be in emergency conditions"
+        ],
+        "sources": [
+          {
+            "name": "8AM Media",
+            "url": "https://8am.media/eng/un-more-than-15-million-people-in-afghanistan-face-food-insecurity/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military air strike kills 11 civilians in Magway Region",
+        "score": 7.5,
+        "body": "A Myanmar military air strike in rebel-controlled territory in Yesagyo township killed 11 civilians, according to a local resistance fighter. The victims included six women and two children. The attack destroyed three houses in the township, located southwest of Mandalay. Military representatives could not be reached for comment. Myanmar has experienced widespread armed conflict and civilian casualties since a 2021 military coup ousted the elected government.",
+        "verified_figures": [
+          "11 civilians killed",
+          "6 women killed",
+          "2 children killed",
+          "3 houses destroyed"
+        ],
+        "sources": [
+          {
+            "name": "Free Malaysia Today",
+            "url": "https://www.freemalaysiatoday.com/category/world/2026/10/17/myanmar-rebel-fighter-says-military-airstrike-kills-11-civilians"
+          }
+        ]
+      },
+      {
+        "headline": "India — Armed clashes near Myanmar border leave one dead and four injured",
+        "score": 5.0,
+        "body": "One person was killed and four others were injured during an attack in Chassad, a Kuki village located in Manipur’s Naga-dominated Kamjong district near the India-Myanmar border. Paramilitary Assam Rifles personnel rescued four injured villagers, including an internally displaced person, who are receiving hospital treatment. Local residents claimed Myanmar-based militants were involved, though the claims remain unverified. Over 50 civilians have reportedly been killed in regional violence since February.",
+        "verified_figures": [
+          "1 person killed",
+          "4 people injured",
+          "over 50 civilians killed in violence since February"
+        ],
+        "sources": [
+          {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/news/national/people-injure-and-killed-in-manipur-violence/article71597384.ece/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "India — Heavy monsoon rainfall prompts flash flood warnings in Tamil Nadu",
+        "score": 3.5,
+        "body": "Heavy downpours triggered by the northeast monsoon prompted flash flood warnings across South India, particularly affecting Chennai and northern Tamil Nadu. Sustained rainfall caused urban waterlogging and prompted civic authorities to start emergency rainwater clearance. National Disaster Response Force personnel have been placed on standby for potential rescue operations as heavy rain is forecast to continue across the region through October 23.",
+        "verified_figures": [
+          "Heavy rainfall forecast through October 23"
+        ],
+        "sources": [
+          {
+            "name": "The Week",
+            "url": "https://www.theweek.in/news/india/2026/10/18/flash-flood-risk-in-chennai-heavy-rain-grips-south-india-as-northeast-monsoon-sets-in.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Bundibugyo Ebola outbreak surpasses 4,400 deaths",
+        "score": 9.5,
+        "body": "An outbreak of the Bundibugyo Ebola virus originating in Ituri province, Democratic Republic of the Congo, has become the second-largest Ebola epidemic on record. According to official health data and the World Health Organization, the outbreak has surpassed 9,300 confirmed cases and 4,400 deaths, with a case-fatality rate approaching 50 percent. The virus has spread to a fourth country, with Kenya confirming a second case involving a 39-year-old relative of a previous patient. No vaccine or specific treatment currently exists for the Bundibugyo strain, necessitating intensified contact tracing and regional cross-border surveillance.",
+        "verified_figures": [
+          "Over 9,300 confirmed cases",
+          "Over 4,400 deaths",
+          "Case-fatality rate approaching 50%",
+          "Spread to 4 countries",
+          "2 confirmed cases in Kenya"
+        ],
+        "sources": [
+          {
+            "name": "Wonderwall",
+            "url": "https://www.wonderwall.com/news/second-largest-ebola-outbreak-spreads-fourth-country-variant-case-fatality-rate-approaching-50-percent-eludes-vaccinespecific-treatment-world-health-organization/"
+          }
+        ]
+      },
+      {
+        "headline": "Djibouti — Cholera outbreak confirmed at Markazi refugee camp",
+        "score": 5.0,
+        "body": "The UN Refugee Agency has confirmed a cholera outbreak at the Markazi refugee camp in Djibouti's Obock region, reporting more than 30 confirmed cases and one death. Local infrastructure and humanitarian services in the area face heightened pressure following the arrival of over 4,000 people fleeing conflict in Yemen. Detailed demographic breakdowns and clinical tracking for affected patients have not been made public. UNHCR noted that monitoring and mitigation efforts are ongoing as the humanitarian context in the region remains dynamic.",
+        "verified_figures": [
+          "More than 30 confirmed cases",
+          "1 death",
+          "More than 4,000 arrivals from Yemen"
+        ],
+        "sources": [
+          {
+            "name": "London Daily News",
+            "url": "https://www.londondaily.news/unhcr-reports-confirmed-cholera-outbreak-at-markazi-camp/"
+          }
+        ]
+      },
+      {
+        "headline": "South Africa — Four new mpox cases raise national cumulative total to 26",
+        "score": 2.0,
+        "body": "South Africa's Department of Health announced four newly confirmed laboratory cases of mpox, raising the national total to 26 cases recorded this year. The Western Cape accounts for the majority of reported infections with 18 cases, comprising 16 local cases and two imported cases involving visiting foreign nationals. Additional cases have been confirmed across Gauteng, Eastern Cape, Free State, and KwaZulu-Natal. Public health officials continue monitoring transmission pathways across the impacted provinces.",
+        "verified_figures": [
+          "26 laboratory-confirmed cases in 2026",
+          "4 newly confirmed cases",
+          "18 cases in Western Cape"
+        ],
+        "sources": [
+          {
+            "name": "The Bulrushes",
+            "url": "https://thebulrushes.com/2026/10/18/mpox-outbreak-4-new-cases-confirmed-26-cases-reported-since-january/"
+          }
+        ]
+      },
+      {
+        "headline": "Cuba — Torrential rainfall causes localized flooding in Matanzas province",
+        "score": 3.0,
+        "body": "Heavy overnight rainfall led to the overflowing of the Guásimas stream in Cárdenas, located within Cuba's Matanzas province. The resulting floodwaters inundated residential areas, with water levels reaching up to one meter inside affected homes. Submerged roadways and leaning power lines were reported across impacted neighborhoods. Authorities have not yet published official statistics regarding civilian displacement or property damage assessments resulting from the storm.",
+        "verified_figures": [
+          "Water levels up to 1 meter inside homes"
+        ],
+        "sources": [
+          {
+            "name": "CubaHeadlines",
+            "url": "https://www.cubaheadlines.com/articles/343123"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Mexico (Pacific Coast)",
+      "score": 7.0,
+      "trigger": "Category 2 Hurricane Trudy making landfall with sustained winds up to 100 mph over saturated soils in southwestern Mexico.",
+      "potential_impact": "Life-threatening flash flooding and mudslides could cause additional civilian fatalities, destroy housing, and isolate communities across Michoacán, Colima, and Jalisco.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ1_EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.5,
+      "trigger": "Continued targeting of critical energy infrastructure by Russian strikes across western Ukraine.",
+      "potential_impact": "Widespread blackouts could disrupt essential municipal services, water supply, and heating for millions of civilians ahead of winter.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/amp/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia"
+        }
+      ]
+    },
+    {
+      "location": "Kenya",
+      "score": 6.5,
+      "trigger": "Surveillance, tracking, and contact tracing gaps following two confirmed cross-border Ebola cases originating from the Democratic Republic of the Congo.",
+      "potential_impact": "Undetected secondary transmission in urban transportation hubs like Nairobi could spark a major regional epidemic without available vaccines or targeted treatments.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-kenya-contact-tracing-b3067572.html"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "The Independent",
+        "count": 2
+      },
+      {
+        "name": "8AM Media",
+        "count": 1
+      },
+      {
+        "name": "CubaHeadlines",
+        "count": 1
+      },
+      {
+        "name": "Dagens.com",
+        "count": 1
+      },
+      {
+        "name": "Free Malaysia Today",
+        "count": 1
+      },
+      {
+        "name": "London Daily News",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Bulrushes",
+        "count": 1
+      },
+      {
+        "name": "The Hindu",
+        "count": 1
+      },
+      {
+        "name": "The Mary Sue",
+        "count": 1
+      },
+      {
+        "name": "The Week",
+        "count": 1
+      },
+      {
+        "name": "Wonderwall",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      },
+      {
+        "name": "İlke Haber Ajansı",
+        "count": 1
+      },
+      {
+        "name": "سانا",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1163,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
