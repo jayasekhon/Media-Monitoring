@@ -1,0 +1,534 @@
+{
+  "date": "2026-10-19",
+  "printed_time": "12:16 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An expanding Ebola epidemic in the Democratic Republic of the Congo has spread to eight provinces, resulting in thousands of fatalities and severe strain on local health systems.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Severe financial shortfalls have forced the World Food Programme to terminate monthly food assistance for over 500,000 Palestinians in Gaza, leaving 200,000 at risk of famine.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Approximately 2,000 civilians trapped under siege in Russian-occupied Oleshky face starvation as heavy landmining and active strikes block basic humanitarian supplies.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "Reciprocal long-range strikes targeting energy infrastructure across Ukraine and Russia have left thousands without electricity in Kyiv ahead of winter.",
+      "region": "Europe"
+    },
+    {
+      "rank": 5,
+      "text": "UN agencies warn that nearly five million mothers and children suffer from severe malnutrition in Afghanistan as poverty, drought, and mass returns deepen the humanitarian crisis.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "A rapidly compounding Ebola outbreak in the Democratic Republic of the Congo has spread to eight provinces, causing thousands of deaths and severe social and psychological strain on affected communities.",
+    "label": "AFRICA — DRC Ebola Epidemic"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — Sweeping aid cuts end WFP food assistance for 500,000 in Gaza",
+        "score": 8.0,
+        "body": "Sweeping financial cuts have forced the United Nations World Food Programme to end monthly food assistance for over 500,000 Palestinians in Gaza. According to the agency's Palestine director, two-thirds of Gaza's population currently face crisis levels of food insecurity, with 200,000 people in danger of famine. The loss of assistance comes as winter approaches, compounding severe humanitarian hardships in an environment where promised post-ceasefire reconstruction has failed to materialize, employment opportunities remain extremely scarce, and the vast majority of the population relies on external aid for basic survival.",
+        "verified_figures": [
+          "more than 500,000 people lost monthly WFP support",
+          "two-thirds of population facing crisis food insecurity",
+          "200,000 people in danger of famine"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Houthi attack on government military camp kills 18 in Shabwa",
+        "score": 6.0,
+        "body": "At least 18 people were killed in a Houthi attack targeting a Yemeni government military camp located in Shabwa Governorate, according to sources reported by Reuters. The strike represents a significant military escalation between Houthi forces and troops aligned with Yemen's internationally recognized government, underscoring ongoing instability across the country.",
+        "verified_figures": [
+          "at least 18 killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/least-18-killed-houthi-attack-yemeni-government-military-camp-shabwa-sources-say-2026-10-19/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Airstrike in Saada Governorate kills up to 10 civilians",
+        "score": 6.5,
+        "body": "An airstrike destroyed a residential house in the Sahar District of Yemen’s northern Saada Governorate, causing severe civilian casualties. Houthi health authorities reported between nine and 10 civilians were killed, including five children and two women, while 19 to 23 others were injured, among them 11 children. Houthi officials attributed the strike to Saudi Arabia. Independent confirmation of responsibility was not immediately available, and Saudi officials made no immediate public comment.",
+        "verified_figures": [
+          "9 to 10 civilians killed",
+          "19 to 23 people injured",
+          "at least 5 children and 2 women killed",
+          "11 children injured"
+        ],
+        "sources": [
+          {
+            "name": "Wake Up Singapore",
+            "url": "https://wakeup.sg/yemen-saada-house-strike/"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Police detain suspects following West Bank settler attacks on journalists and diplomats",
+        "score": 4.0,
+        "body": "Israeli police detained suspects in the occupied West Bank following weekend attacks by Israeli settlers targeting a Washington Post photojournalist and a convoy of European diplomats. The police operation followed diplomatic pressure from the United States and European nations demanding action against settler violence. Suspects were arrested on suspicion of violent offenses, building illegal structures, and violating closed military zone orders.",
+        "verified_figures": [
+          "8 to 10 suspects detained"
+        ],
+        "sources": [
+          {
+            "name": "Türkiye Today",
+            "url": "https://www.turkiyetoday.com/region/10-detained-as-us-europe-press-israel-over-west-bank-settler-attacks-3230601"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/media-telecom/israel-police-arrest-suspects-over-settler-attacks-us-journalist-european-2026-10-19/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/israel-settlers-violence-levine-west-bank-palestinians-7812cdfd71fc7486322dd95e3547a176"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Ecuador — Severe Floods Displace Thousands and Impact 22,000 People",
+        "score": 5.5,
+        "body": "Devastating floods swept through multiple regions of Ecuador, leaving at least one person dead and directly affecting approximately 22,000 people. Rising floodwaters inundated residential areas, destroyed homes and infrastructure, and left thousands of families without shelter or livelihoods. Cut-off major roads hindered emergency rescue and relief operations. Ecuadorian emergency services and government authorities are monitoring the crisis and intensifying field efforts from Quito to deliver urgent assistance to affected populations.",
+        "verified_figures": [
+          "1 person killed",
+          "Approximately 22,000 people affected",
+          "Thousands left without shelter"
+        ],
+        "sources": [
+          {
+            "name": "صوت الإمارات",
+            "url": "https://www.voiceofemirates.com/en/news/2026/10/18/devastating-floods-hit-ecuador-leaving-one-dead-and-thousands-homeless/"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Heavy Rainfall and Flood Risk as Hurricane Trudy Weakens",
+        "score": 4.5,
+        "body": "Hurricane Trudy, a Category 2 storm with maximum sustained winds reaching up to 100 miles per hour, brought heavy rainfall and strong winds to southwestern and west-central Mexico, particularly in Jalisco, Michoacán, and Colima. Weather forecasters warned of dangerous storm surges, mudslides in steep terrain, and localized rainfall between 100 and 150 millimeters. The system subsequently weakened into a tropical storm off the Pacific coast, leading authorities to lift coastal hurricane warnings.",
+        "verified_figures": [
+          "Maximum sustained winds up to 100 mph",
+          "Rainfall totals of 100-150mm (isolated totals up to 12 inches)"
+        ],
+        "sources": [
+          {
+            "name": "AP News",
+            "url": "https://apnews.com/article/hurricane-trudi-typhoon-champi-mexico-guam-17a7688b05ff9ac03ccd869abfee41bf"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Fast-Moving Fire at Alberta Military Base Kills Four",
+        "score": 3.0,
+        "body": "A violent, rapidly spreading fire at Canadian Forces Base Wainwright in Alberta killed four people and left dozens of others injured. Accounts indicate the blaze expanded at high speed, moving a kilometer in 30 to 60 seconds. Prime Minister Mark Carney characterized the incident as one of the worst peacetime tragedies for Canadian forces on national soil.",
+        "verified_figures": [
+          "4 people killed",
+          "Dozens injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Ebola outbreak sees 136 suspected deaths in DRC, officials say - ABC News",
+        "score": 10.0,
+        "body": "Ebola outbreak sees 136 suspected deaths in DRC, officials say More than 40 health experts were deployed to the field on Sunday. At least 543 suspected cases and 136 suspected deaths have been recorded in the ongoing Ebola outbreak in the eastern Democratic Republic of the Congo, officials said Tuesday. Congolese Minister of Public Health Samuel Roger Kamba said during a press briefing that authorities will determine which of these deaths \"are actually linked to the disease.\" At least 30 cases of Ebola have been confirmed in Congo, officials said. Cases have been reported in urban areas, including one of Congo's largest cities, Goma, the rebel-held capital of the eastern province of North Ki",
+        "verified_figures": [
+          "30 cases"
+        ],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/ebola-outbreak-sees-131-suspected-deaths-drc-officials/story?id=133099345"
+          }
+        ]
+      },
+      {
+        "headline": "Authorities in the DRC confirm the spread of the Ebola outbreak in North Ubangi provinc...",
+        "score": 10.0,
+        "body": "Authorities in the DRC confirm the spread of the Ebola outbreak in North Ubangi province, the eighth region affected by the epidemic.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Informat.ro",
+            "url": "https://informat.ro/en/health/ebola-spreads-to-drcs-eighth-province-death-toll-4536-144199"
+          }
+        ]
+      },
+      {
+        "headline": "The Ebola outbreak is growing! It has spread to 8 provinces in Congo, and the death tol...",
+        "score": 10.0,
+        "body": "19.10.2026 12:12 The Ebola outbreak in the Democratic Republic of the Congo has spread to 8 provinces with new cases seen in the northern province of Nord-Ubangi. Since May, 9,415 confirmed cases have been recorded in the outbreak, 4,536 people have died, and the fatality rate has reached 48.2%. The outbreak has been recorded as the second-largest Ebola outbreak in the world after the 2014-2016 West African outbreak. With new Ebola cases seen in the Nord-Ubangi province in the north of the Democratic Republic of the Congo, the number of provinces in the country where the outbreak has spread has risen to 8. According to the latest report published by the Ministry of Health on Sunday, one of t",
+        "verified_figures": [
+          "4,536 people"
+        ],
+        "sources": [
+          {
+            "name": "Haberler.com",
+            "url": "https://en.haberler.com/the-ebola-outbreak-is-growing-it-has-spread-to-8-2317322/"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo: Ebola outbreak deepens mental health crisis amid stigma and conflict",
+        "score": 9.5,
+        "body": "As Ebola continues to devastate eastern Democratic Republic of Congo, health workers are warning of a less visible crisis: the psychological toll on patients, survivors and families left behind. At a mental health treatment centre in Bunia, one woman is receiving support after losing two close relatives and three members of her extended family to the disease. She says fear and stigma have left her feeling isolated. Mental health patient, lost relatives to Ebola: “We were afraid, but we went to the hospital. Everyone at home was afraid. The neighbours are afraid to come near us. It is as though you are alone because of this disease.” Healthcare workers say stigma affects patients, survivors a",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Africanews",
+            "url": "https://www.africanews.com/2026/10/19/dr-congo-ebola-outbreak-deepens-mental-health-crisis-amid-stigma-and-conflict/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Reciprocal Attacks Target Energy Infrastructure and Urban Areas",
+        "score": 7.5,
+        "body": "Russian missile strikes hit power plants and a subway station in Kyiv, leaving thousands without electricity and killing at least one woman. Ukrainian President Volodymyr Zelenskyy stated that Washington provided no advance warning regarding the impending strike on the capital's energy grid. Concurrently, Ukrainian forces launched a large-scale drone attack targeting energy sites in Saint Petersburg and multiple Russian regions. The reciprocal strikes against critical energy infrastructure raise severe protection and humanitarian concerns for civilians ahead of winter.",
+        "verified_figures": [
+          "1 civilian killed",
+          "Thousands without power"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-strike-kills-woman-hits-kyiv-subway-station-mayor-says-2026-10-19/"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/zelensky-speaks-us-envoys-trump-lashes-out"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-trump"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Trapped Civilians Face Starvation Under Siege in Oleshky",
+        "score": 7.5,
+        "body": "Approximately 2,000 civilians remain trapped in the Russian-occupied city of Oleshky, facing a severe humanitarian crisis and the prospect of starvation. Extensive landmines and active drone strikes have cut off essential supply lines, preventing residents from leaving or obtaining basic relief. In response to the escalating siege, Pope Leo XIV appealed directly to Russian President Vladimir Putin for a ceasefire to facilitate humanitarian access and allow trapped non-combatants to evacuate safely.",
+        "verified_figures": [
+          "approximately 2,000 residents trapped"
+        ],
+        "sources": [
+          {
+            "name": "Mwakilishi.com",
+            "url": "https://mwakilishi.com/news/2026-10-18/pope-asks-putin-for-a-cease-fire-for-a-ukrainian-city-under-siege"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — UN Warns of Deepening Hunger and Socioeconomic Crisis",
+        "score": 7.5,
+        "body": "United Nations agencies have raised alarms over deteriorating humanitarian and socioeconomic conditions in Afghanistan, where an estimated 28 million people live in poverty. According to the World Food Programme, severe malnutrition affects nearly five million mothers and children, with conditions nearing record levels as aid clinics face severe pressure. The crisis has been escalated by prolonged drought, declining international funding, and the return of approximately 2.9 million Afghans in 2025, which pushed an additional 1.4 million people into severe hardship. Aid operations continue to struggle under funding shortfalls.",
+        "verified_figures": [
+          "28 million people living in poverty",
+          "nearly 5 million mothers and children affected by severe malnutrition",
+          "2.9 million returned Afghans",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "The Kabul Tribune",
+            "url": "https://thekabultribune.com/en/0008717"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Unexplained Killings Target Civilians and Former Military",
+        "score": 4.5,
+        "body": "Over 70 people have been killed across Afghanistan in mysterious circumstances over a two-month period. Media monitoring reports show that 25 civilians were killed in under a month leading up to mid-October, following 46 fatalities recorded between late August and late September. The victims primarily include civilians and former military personnel engaged in private work, alongside three Taliban members. Responsibility for the surge in deaths remains divided among alleged Taliban involvement, criminal activity, and unidentified perpetrators, raising major protection concerns.",
+        "verified_figures": [
+          "over 70 dead in two months",
+          "25 civilians killed in under a month",
+          "46 people killed between August 23 and September 22",
+          "3 Taliban members killed"
+        ],
+        "sources": [
+          {
+            "name": "8AM Media",
+            "url": "https://8am.media/eng/mysterious-killings-afghanistan-70-deaths/"
+          }
+        ]
+      },
+      {
+        "headline": "India — Militant Attacks and Arson Displace Kuki Civilians in Manipur",
+        "score": 5.0,
+        "body": "Suspected militants burned down at least 15 houses belonging to the Kuki tribal community in Chassad village, Kamjong district, Manipur. The arson followed an earlier armed attack that killed one Kuki civilian and injured four others. The attack forced local residents to flee into surrounding forests and seek shelter at a nearby security forces camp. Regional officials condemned the violence as security forces responded to the displacement and heightened protection concerns in the area.",
+        "verified_figures": [
+          "at least 15 houses burnt",
+          "1 civilian killed",
+          "4 people injured"
+        ],
+        "sources": [
+          {
+            "name": "www.thehawk.in",
+            "url": "https://www.thehawk.in/news/india/15-houses-burnt-in-manipurs-kamjong-kuki-civilians-flee-four-injured-in-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "India — Flood Crop Damage Triggers Direct Disaster Relief for Bihar Farmers",
+        "score": 3.0,
+        "body": "The Bihar state government released over 112 crore rupees in direct disaster relief payments to nearly 250,000 farmers whose standing crops and farmland suffered severe damage during recent seasonal floods. Distributed through direct benefit transfers under the state Agriculture Input Grant Scheme, the funds aim to compensate agricultural households for lost seed and fertilizer investments. The payouts represent one of the largest financial relief allocations issued to flood-affected communities in the state this season.",
+        "verified_figures": [
+          "112.52 crore rupees distributed",
+          "248,704 farmers affected"
+        ],
+        "sources": [
+          {
+            "name": "Global Agriculture",
+            "url": "https://www.global-agriculture.com/india-region/india-bihar-pays-rs-112-crore-in-flood-relief-to-nearly-2-5-lakh-farmers/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Russia / Ukraine — Ukrainian Drone Attack Hits St. Petersburg Region",
+        "score": 4.0,
+        "body": "A Ukrainian drone strike targeting St. Petersburg and the surrounding Leningrad region killed one person and wounded 15 others, according to initial reports. The attack represents an extension of long-range aerial strikes impacting infrastructure and civilian areas within Russian territory amidst ongoing armed hostilities between the two nations.",
+        "verified_figures": [
+          "1 killed",
+          "15 injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/one-killed-15-injured-ukrainian-drone-attack-st-petersburg-leningrad-region-2026-10-18/"
+          }
+        ]
+      },
+      {
+        "headline": "Turkey — Death Toll Rises in Istanbul Flooding",
+        "score": 4.5,
+        "body": "The death toll from severe flash flooding that struck Istanbul on October 14 has increased to six after emergency teams recovered the body of a missing resident near the Ayvansaray Ferry Pier. Search and rescue personnel continue operations for one remaining missing person. The severe weather swept away vehicles, inundated major roadways, and inflicted extensive structural damage on private residences and local commercial properties across affected districts.",
+        "verified_figures": [
+          "6 killed",
+          "1 missing"
+        ],
+        "sources": [
+          {
+            "name": "Haberler.com",
+            "url": "https://en.haberler.com/the-death-toll-from-the-flood-disaster-in-istanbul-2317082/"
+          }
+        ]
+      },
+      {
+        "headline": "Global — Ebola Outbreak Highlights Shrinking Health Aid as UK Commits Vaccine Funding",
+        "score": 5.0,
+        "body": "An ongoing multi-country Ebola outbreak is straining public health systems amid projections that total international development aid for health will fall to $39 billion in 2025 and $36 billion by 2030. In response to epidemic risks, the UK government announced £33.2 million in funding for eight vaccine development projects targeting high-consequence pathogens, including Ebola, Marburg virus, plague, Lassa fever, and Nipah virus, aimed at accelerating clinical trials and manufacturing capacity.",
+        "verified_figures": [
+          "$39 billion projected global health aid in 2025",
+          "$36 billion projected global health aid by 2030",
+          "£33.2 million committed by UK government"
+        ],
+        "sources": [
+          {
+            "name": "Global Biodefense",
+            "url": "https://globalbiodefense.com/2026/10/18/uk-commits-33-2-million-to-eight-vaccine-projects-targeting-ebola-marburg-plague-and-other-epidemic-threats/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Federal Aid Delays Leave Disaster Survivors Facing Recovery Shortfalls",
+        "score": 4.0,
+        "body": "Extreme weather survivors across the United States face prolonged delays in accessing federal recovery assistance required to rebuild housing and infrastructure. Government officials estimate that over $10 billion in outstanding long-term recovery funding is needed for affected communities in Los Angeles County, California, and St. Louis, Missouri, alone, with funding backlogs extending to past severe weather events including Hurricane Milton.",
+        "verified_figures": [
+          "over $10 billion needed in disaster recovery funding"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ukraine (Kyiv & Power Grid)",
+      "score": 7.5,
+      "trigger": "Sustained Russian missile bombardments targeting municipal power plants ahead of winter freeze could lead to major grid collapses.",
+      "potential_impact": "Widespread energy loss would cut off heating, clean water, and emergency healthcare for urban populations across affected regions.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-strike-kills-woman-hits-kyiv-subway-station-mayor-says-2026-10-19/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-trump"
+        }
+      ]
+    },
+    {
+      "location": "Yemen (Shabwa & Saada)",
+      "score": 6.5,
+      "trigger": "Renewed Houthi offensive operations or retaliatory airstrikes following recent lethal attacks in Shabwa and Saada could break fragile regional frontline truces.",
+      "potential_impact": "Expanded armed hostilities threaten to cause fresh civilian casualties, damage housing, and further impede emergency aid access.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/least-18-killed-houthi-attack-yemeni-government-military-camp-shabwa-sources-say-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "location": "India (Manipur State)",
+      "score": 5.0,
+      "trigger": "Further armed attacks or village arson targeted at minority communities in Kamjong district could trigger widespread intercommunal reprisals.",
+      "potential_impact": "Surging ethnic conflict risks causing forced internal displacement of rural villagers into forest areas without emergency shelter or medical access.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "www.thehawk.in",
+          "url": "https://www.thehawk.in/news/india/15-houses-burnt-in-manipurs-kamjong-kuki-civilians-flee-four-injured-in-attacks"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "AP News",
+      "BBC",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 6
+      },
+      {
+        "name": "The Guardian",
+        "count": 6
+      },
+      {
+        "name": "Haberler.com",
+        "count": 2
+      },
+      {
+        "name": "www.thehawk.in",
+        "count": 2
+      },
+      {
+        "name": "8AM Media",
+        "count": 1
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AP News",
+        "count": 1
+      },
+      {
+        "name": "Africanews",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Global Agriculture",
+        "count": 1
+      },
+      {
+        "name": "Global Biodefense",
+        "count": 1
+      },
+      {
+        "name": "Informat.ro",
+        "count": 1
+      },
+      {
+        "name": "Mwakilishi.com",
+        "count": 1
+      },
+      {
+        "name": "The Kabul Tribune",
+        "count": 1
+      },
+      {
+        "name": "Türkiye Today",
+        "count": 1
+      },
+      {
+        "name": "Wake Up Singapore",
+        "count": 1
+      },
+      {
+        "name": "صوت الإمارات",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "1 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 2 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 6/6 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1233,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
