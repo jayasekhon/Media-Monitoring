@@ -1,0 +1,519 @@
+{
+  "date": "2026-10-21",
+  "printed_time": "11:18 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The siege on Taiz has cut humanitarian supplies to the Yemeni city, the United Nations has warned, and left many of its inhabitants without food and other essentials.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months Synopsis A missile strike by Houthi rebels in southern Yemen killed 73 new military recruits early this week.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Expansion | The Ebola outbreak in DRC exceeds 9,500 infections and surpasses 4,600 deaths.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Ebola virus confirmed in new country as epidemic behind 4,600 deaths spreads The Ebola outbreak in the Democratic Republic of the Congo has now led to confirmed cases in four other countries with the latest being Nigeria The Democratic Republic of the Congo's fast moving Ebola outbreak has now led to a confirmed case in a fifth country - as the death toll from the epidemic rises to more than 4,600.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Sudan: Displacement Exceeds 8.5 Million as Famine Fears Grow ————————————————– The humanitarian crisis in Sudan continues to worsen, with the International Organization for Migration reporting more than 8.5 million internally displaced people amid ongoing conflict and deteriorating living conditions.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The siege on Taiz has cut humanitarian supplies to the Yemeni city, the United Nations has warned, and left many of its inhabitants without food and other essentials.",
+    "label": "MIDDLE EAST — Yemen’s Taiz faces deadly siege, as Shabwah death toll rises"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+        "score": 10.0,
+        "body": "The siege on Taiz has cut humanitarian supplies to the Yemeni city, the United Nations has warned, and left many of its inhabitants without food and other essentials. UN Human Rights Chief Volker Turk said on Tuesday that the Houthis – an armed group also known as Ansar Allah (Arabic for Supporters of God), who have surrounded the city, must immediately allow humanitarian relief to enter or risk a catastrophe.",
+        "verified_figures": [
+          "250,000 displaced"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises"
+          }
+        ]
+      },
+      {
+        "headline": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in m...",
+        "score": 10.0,
+        "body": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months Synopsis A missile strike by Houthi rebels in southern Yemen killed 73 new military recruits early this week. The recruits were training at the al-Alam camp in Shabwa province when the attack occurred. More than 200 individuals were wounded in the incident, which was part of escalating violence following the breakup of a ceasefire. The conflict has resulted in over 150,000 deaths and a severe humanitarian crisis in Yemen. Monday's strike was part of a recent surge of fighting in Yemen, which started when forces from the internationally recognised government and Saudi-led coalition launched airstrikes",
+        "verified_figures": [
+          "150,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://m.economictimes.com/news/defence/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/amp_articleshow/135069873.cms"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen displacement tops 250K as Houthis tighten siege on Taiz: What to know",
+        "score": 9.0,
+        "body": "Yemen displacement tops 250K as Houthis tighten siege on Taiz: What to know The Houthis are looking to completely seize Taiz city, with clashes escalating in other parts of the south as well. The United Nations said Tuesday that more than 250,000 people have been displaced by the recent fighting in Yemen, as the Houthis escalate efforts to defeat government forces in war-torn Taiz and strike deep inside Saudi Arabia. The UN’s refugee agency, UNHCR, said that the number of those displaced between the start of August and Oct. 17 has exceeded 250,000. The displacement is centered in Taiz province, from where 76% of the newly displaced people fled. The province also hosts 52% of the newly displa",
+        "verified_figures": [
+          "250,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Al-Monitor",
+            "url": "https://www.al-monitor.com/originals/2026/10/yemen-displacement-tops-250k-houthis-tighten-siege-taiz-what-know"
+          }
+        ]
+      },
+      {
+        "headline": "UNHCR Says Yemen Fighting Displaced 250,000, With Taiz Road Blockade Constraining Aid: ...",
+        "score": 9.0,
+        "body": "Shared framing This set splits between a humanitarian lens and a battlefield lens. The common emphasis is that intensified fighting around Taiz is producing severe civilian harm while also being treated as a major military escalation. 3 of 5 outlets · 3 of 5 headlines analysed - Al Jazeera More than 250,000 displaced in Yemen since fighting escalated - UNICEF Water for over 1,6 million children in Taiz at risk as fighting intensifies in Yemen - Middle East Monitor UN warns about ‘deteriorating’ situation in Yemen’s Taiz as road closures block vital supplies See the headlines Humanitarian fallout foregrounded Several headlines emphasise the conflict through displacement, service disruption an",
+        "verified_figures": [
+          "1,6 million children in Taiz",
+          "250,000 displaced"
+        ],
+        "sources": [
+          {
+            "name": "NewsCord",
+            "url": "https://newscord.org/article/unhcr-says-yemen-fighting-displaced-250000-with-taiz-road-blockade-constraining--Story_20261020_db33dd7e"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "UN reports more than 1,000 killed in Haiti as gang violence persists",
+        "score": 7.0,
+        "body": "UN reports more than 1,000 killed in Haiti as gang violence persists Key Points(5) - More than 1,000 people were killed in Haiti between July and September as armed gangs continued to challenge state authority, according to the United Nations, which is calling for sustained international support to strengthen security operations and advance the country’s political transition. - Carlos Ruiz Massieu, the UN secretary-general’s special representative for Haiti, presented the figures to the Security Council on Monday, October 19, saying the UN Integrated Office in Haiti (BINUH) had also documented more than 100 kidnapping victims during the three-month period. - He warned that sexual violence re",
+        "verified_figures": [
+          "1,000 killed",
+          "1,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Caribbean National Weekly",
+            "url": "https://www.caribbeannationalweekly.com/posts/un-reports-more-than-1000-killed-in-haiti-as-gang-violence-persists"
+          }
+        ]
+      },
+      {
+        "headline": "Several gang members dead in Haiti during the search for four Salvadoran soldiers",
+        "score": 6.5,
+        "body": "Several gang members dead in Haiti during the search for four Salvadoran soldiers.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/several-gang-members-dead-in-haiti-during-the-search-for-four-salvadoran-soldiers/"
+          }
+        ]
+      },
+      {
+        "headline": "Weak mag. 2.5 earthquake - Martin County, 21 mi northeast of Midland, Midland County, T...",
+        "score": 6.5,
+        "body": "Weak mag. 2.5 earthquake - Martin County, 21 mi northeast of Midland, Midland County, Texas, United States, on Tuesday, Oct 20, 2026, at 02:45 pm (GMT -5).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23452621/mag2quake-Oct-20-2026-Western-Texas.html"
+          }
+        ]
+      },
+      {
+        "headline": "Significant magnitude 5.0 earthquake reported 50 miles southeast of Sand Point, Alaska,...",
+        "score": 6.5,
+        "body": "Significant magnitude 5.0 earthquake reported 50 miles southeast of Sand Point, Alaska, United States.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/news/383335/Significant-magnitude-50-earthquake-reported-50-miles-southeast-of-Sand-Point-Alaska-United-States.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Expansion | The Ebola outbreak in DRC exceeds 9,500 infections and surpasses 4,600 deaths",
+        "score": 10.0,
+        "body": "Expansion | The Ebola outbreak in DRC exceeds 9,500 infections and surpasses 4,600 deaths.",
+        "verified_figures": [
+          "4,600 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/expansion-the-ebola-outbreak-in-drc-exceeds-9-500-infections-and-surpasses-4-600-deaths/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola virus confirmed in new country as epidemic behind 4,600 deaths spreads",
+        "score": 10.0,
+        "body": "Ebola virus confirmed in new country as epidemic behind 4,600 deaths spreads The Ebola outbreak in the Democratic Republic of the Congo has now led to confirmed cases in four other countries with the latest being Nigeria The Democratic Republic of the Congo's fast moving Ebola outbreak has now led to a confirmed case in a fifth country - as the death toll from the epidemic rises to more than 4,600. Nigeria confirmed an Ebola case in its capital, Abuja, today (Tuesday) after a patient who arrived from Uganda tested positive for the virus, the country's Health Ministry said. The patient was admitted to a private hospital in Abuja before being diagnosed with Ebola. Health Minister Muhammad Pate",
+        "verified_figures": [
+          "4,600 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Mirror",
+            "url": "https://www.mirror.co.uk/news/world-news/ebola-virus-epidemic-spreading-drc-37792846"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan: Displacement Exceeds 8.5 Million as Famine Fears Grow",
+        "score": 10.0,
+        "body": "Sudan: Displacement Exceeds 8.5 Million as Famine Fears Grow ————————————————– The humanitarian crisis in Sudan continues to worsen, with the International Organization for Migration reporting more than 8.5 million internally displaced people amid ongoing conflict and deteriorating living conditions. Food insecurity is also intensifying, with around 40% of the population reportedly facing acute hunger. Humanitarian organizations have warned of growing famine risks, particularly in Darfur and Kordofan, where conflict, displacement and restricted access to essential supplies are deepening the crisis. Damage to infrastructure, declining agricultural production, drought and disruptions to aid de",
+        "verified_figures": [
+          "8.5 Million as Famine Fears",
+          "8.5 million internally displaced people"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/sudan/146460-sudan-displacement-exceeds-8-5-million-as-famine-fears-grow/"
+          }
+        ]
+      },
+      {
+        "headline": "Drone attacks across Sudan escalate, 160 people reported killed",
+        "score": 10.0,
+        "body": "By Al Jazeera Staff, AFP and AP Tuesday October 20, 2026 A wave of drone attacks across Sudan has killed more than 160 people in recent days, according to medics and rights groups. Drone attacks on the capital, Khartoum, killed three children on Monday, according to Emergency Lawyers, a group that monitors violence against civilians in Sudan’s civil war, while more than 160 were reported to have been killed in western regions since Friday. The attacks were blamed on the paramilitary Rapid Support Forces (RSF) and government troops, who have been fighting since 2023. The increasing use of drones in recent months has caused growing numbers of civilian casualties. Another 47 wounded people were",
+        "verified_figures": [
+          "160 people",
+          "47 wounded"
+        ],
+        "sources": [
+          {
+            "name": "Hiiraan Online",
+            "url": "https://www.hiiraan.com/world4/2026/Oct/206576/drone_attacks_across_sudan_escalate_160_people_reported_killed.aspx"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "European Parliament Vice-President Goes on Hunger Strike to Save Oleshky - Oj",
+        "score": 6.0,
+        "body": "European Parliament Vice-President Goes on Hunger Strike to Save Oleshky - Oj.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Odessa Journal",
+            "url": "https://odessa-journal.com/eu-parliament-vice-president-to-go-on-hunger-strike-in-solidarity-with-oleshky-residents"
+          }
+        ]
+      },
+      {
+        "headline": "Russian Attacks Hit Energy Facilities Across Western Ukraine, Triggering Blackouts",
+        "score": 6.0,
+        "body": "Russia has widened its attacks on Ukraine’s energy infrastructure to western regions previously spared such strikes, triggering power outages across the country, Ukrainian officials said on Tuesday. The renewed assault began in October, ahead of the cold season, with Russian forces targeting power plants and electricity transmission systems. “Unfortunately, the enemy continues to deliberately and systematically attack our energy infrastructure,” Deputy Energy Minister Artem Nekrasov said in a televised statement. He said the latest strikes hit energy facilities in the central Kirovohrad region, the western regions of Zhytomyr, Lviv, Rivne, Ternopil and Khmelnytskyi, as well as Odesa in the s",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Arise News",
+            "url": "https://www.arise.tv/russian-attacks-hit-energy-facilities-across-western-ukraine-triggering-blackouts/"
+          }
+        ]
+      },
+      {
+        "headline": "Black Sea blockade: Fears of humanitarian crisis + Sustainability: Defense contractors ...",
+        "score": 5.0,
+        "body": "Black Sea blockade: Fears of humanitarian crisis + Sustainability: Defense contractors shift strategy.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Table.Briefings",
+            "url": "https://table.media/en/security/professional-briefing/575-black-sea-blockade-fears-of-humanitarian-crisis-sustainability-defense-contractors-shift-strategy"
+          }
+        ]
+      },
+      {
+        "headline": "From Trauma to Hope: Supporting Mental Health in Ukraine",
+        "score": 4.5,
+        "body": "News publications and other organizations are encouraged to reuse Direct Relief-published content for free under a Creative Commons License (Attribution-Non-Commercial-No Derivatives 4.0 International), given the republisher complies with the requirements identified below. When republishing: - Include a byline with the reporter’s name and Direct Relief in the following format: \"Author Name, Direct Relief.\" If attribution in that format is not possible, include the following language at the top of the story: \"This story was originally published by Direct Relief.\" - If publishing online, please link to the original URL of the story. - Maintain any tagline at the bottom of the story. - With Dir",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Direct Relief",
+            "url": "https://www.directrelief.org/2026/10/from-trauma-to-hope-supporting-mental-health-in-ukraine/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Food Insecurity and Child Malnutrition Worsen in Afghanistan Despite Strong Agricultura...",
+        "score": 9.5,
+        "body": "Food Insecurity and Child Malnutrition Worsen in Afghanistan Despite Strong Agricultural Season KABUL, Afghanistan, October 20 (IPS) - Nearly 40 percent of the population of Afghanistan is projected to face high levels of acute food insecurity this winter, and cases of acute malnutrition are expected to soar during 2027, the Food and Agriculture Organization of the United Nations (FAO) and the United Nations World Food Programme (WFP) warned. This is according to the latest Integrated Food Security Phase Classification (IPC) analysis, which projects that approximately 19.2 million people (38% of the population) will face high levels of acute food insecurity during the November-April lean sea",
+        "verified_figures": [
+          "40 percent",
+          "19.2 million people"
+        ],
+        "sources": [
+          {
+            "name": "Global Issues.org",
+            "url": "https://www.globalissues.org/amp/news/2026/10/20/44386"
+          }
+        ]
+      },
+      {
+        "headline": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+        "score": 9.0,
+        "body": "‘One step away from famine’: Inside Afghanistan’s hunger crisis That’s according to UN aid coordination office spokesperson Olga Cherevko, who has just returned from a field visit with a stark call to action. Nearly 16 million Afghans are facing crisis-level hunger – some 3.4 million of them living in emergency conditions, said Ms. Cherevko, briefing from Kabul on Tuesday. “I want to start with something that can get lost when we talk about Afghanistan through numbers: a harvest can improve, markets can have food, but families can still go hungry,” she said, calling it “one of the clearest takeaways” from her recent visits to southern and northeastern Afghanistan. Ms. Cherevko called for imm",
+        "verified_figures": [
+          "16 million Afghans are facing",
+          "3.4 million of them living"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/10/1168631"
+          }
+        ]
+      },
+      {
+        "headline": "Magnitude 4.8 Earthquake Strikes Near Elelim, Yalimo Regency, Highland Papua, Indonesia",
+        "score": 8.0,
+        "body": "Magnitude 4.8 Earthquake Strikes Near Elelim, Yalimo Regency, Highland Papua, Indonesia.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Volcano Discovery",
+            "url": "https://www.volcanodiscovery.com/earthquakes/news/383430/Magnitude-48-earthquake-strikes-near-Elelim-Yalimo-Regency-Highland-Papua-Indonesia.html"
+          }
+        ]
+      },
+      {
+        "headline": "Guterres warns global food system still faces hunger and food insecurity crisis",
+        "score": 7.5,
+        "body": "United Nations Secretary-General Antonio Guterres has warned that hunger remains at an unacceptable level around the world and stressed the need for practical action to ensure access to safe and sufficient food for all people. In a post on his social media account on Monday, Oct. 27, he said that despite progress in recent decades, the global food system still faces serious challenges. Reiterating the inherent right of all people to access food, Guterres called on countries to turn their commitments into practical steps and to provide sustainable, healthy and fair food systems. Earlier, the United Nations said in a report that food insecurity and malnutrition in Afghanistan had reached alarm",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "خبرگزاری اطلس",
+            "url": "https://atlaspress.news/en/2026/10/20/guterres-global-food-system-hunger-food-insecurity-afghanistan/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Central and West Africa — Rare Ebola strain spreads as regional death toll exceeds 4,400",
+        "score": 9.0,
+        "body": "An ongoing outbreak of the rare Bundibugyo Ebola virus strain, which lacks an approved vaccine or targeted cure, has caused at least 4,478 deaths among 9,277 confirmed cases since May, predominantly in the Democratic Republic of the Congo. Ituri province is the most severely affected area, accounting for over 6,800 cases. Nigeria became the fifth country affected after confirming an imported case in an isolated patient in Abuja who traveled from eastern DRC through Uganda. Nigerian authorities are conducting contact tracing for 44 exposed individuals and intensifying screening at airports. Health officials in Uganda report no active confirmed cases remaining in the country.",
+        "verified_figures": [
+          "9,277 confirmed cases",
+          "4,478 deaths",
+          "6,806 cases in Ituri province",
+          "3,148 deaths in Ituri province",
+          "44 contacts identified in Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "FPS Foreign Affairs",
+            "url": "https://diplomatie.belgium.be/en/policy/policy-areas/highlighted/belgium-deeply-concerned-about-ebola-outbreak-central-africa"
+          },
+          {
+            "name": "The Guardian Nigeria News",
+            "url": "https://guardian.ng/breakingnews/faan-intensifies-vigilance-at-airports-over-ebola-outbreak-in-abuja/"
+          }
+        ]
+      },
+      {
+        "headline": "France and Spain — Flash floods and landslides from Storm Adam leave six dead",
+        "score": 4.5,
+        "body": "Torrential rain and severe flash flooding triggered by Storm Adam have resulted in six confirmed fatalities across southwestern Europe, with five deaths in Spain and one in southern France. Overflowing rivers submerged roads and inundated numerous homes, while landslides caused severe structural damage to buildings. Emergency authorities in both countries have executed mass evacuations in affected communities as emergency operations continue.",
+        "verified_figures": [
+          "6 dead",
+          "5 killed in Spain",
+          "1 killed in France"
+        ],
+        "sources": [
+          {
+            "name": "The Sun",
+            "url": "https://www.the-sun.com/news/17177486/storm-adam-hits-france-floods/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Drone attacks across Sudan escalate, 160 people reported kil",
+      "score": 10.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Hiiraan Online",
+          "url": "https://www.hiiraan.com/world4/2026/Oct/206576/drone_attacks_across_sudan_escalate_160_people_reported_killed.aspx"
+        }
+      ]
+    },
+    {
+      "location": "Ebola outbreak warning as death toll nears 5,000 and WHO war",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "AOL.co.uk",
+          "url": "https://www.aol.co.uk/articles/ebola-outbreak-warning-death-toll-092050000.html"
+        }
+      ]
+    },
+    {
+      "location": "At least one dead as Storm Adam hits France with flash flood",
+      "score": 10.0,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Sun",
+          "url": "https://www.the-sun.com/news/17177486/storm-adam-hits-france-floods/"
+        }
+      ]
+    },
+    {
+      "location": "US extreme weather survivors are a growing group – now they ",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Volcano Discovery",
+        "count": 3
+      },
+      {
+        "name": "Demócrata",
+        "count": 2
+      },
+      {
+        "name": "Hiiraan Online",
+        "count": 2
+      },
+      {
+        "name": "The Sun",
+        "count": 2
+      },
+      {
+        "name": "AOL.co.uk",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al-Monitor",
+        "count": 1
+      },
+      {
+        "name": "Arise News",
+        "count": 1
+      },
+      {
+        "name": "Caribbean National Weekly",
+        "count": 1
+      },
+      {
+        "name": "Direct Relief",
+        "count": 1
+      },
+      {
+        "name": "FPS Foreign Affairs",
+        "count": 1
+      },
+      {
+        "name": "Global Issues.org",
+        "count": 1
+      },
+      {
+        "name": "NewsCord",
+        "count": 1
+      },
+      {
+        "name": "Odessa Journal",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "Table.Briefings",
+        "count": 1
+      },
+      {
+        "name": "The Economic Times",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Guardian Nigeria News",
+        "count": 1
+      },
+      {
+        "name": "The Mirror",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "خبرگزاری اطلس",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "9 item(s) had no extractable figures in available reporting.",
+      "7 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 22/22 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 1/6 region(s) with candidate material generated via Gemini (LLM), 5 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1437,
+      "sources_cited": 22
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
