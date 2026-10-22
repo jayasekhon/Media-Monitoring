@@ -1,0 +1,414 @@
+{
+  "date": "2026-10-22",
+  "printed_time": "11:15 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An unprecedented Ebola outbreak originating in the Democratic Republic of the Congo has killed over 4,600 people and expanded across three regions, driven by critical supply shortages and insecurity.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Geological analysis reveals the death toll from Venezuela's recent earthquakes may reach 53,000, vastly exceeding the official government count of 6,509.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "A devastating drone strike on a market in Abyei killed at least 150 people, part of a wider wave of air attacks across Sudan that left over 310 dead.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Nearly 16 million people in Afghanistan are experiencing crisis-level hunger, including 3.4 million in emergency conditions, as extreme poverty prevents access to available food.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Intensified clashes in Yemen have forced nearly 260,000 people from their homes while aggravating a rapidly worsening cholera outbreak with over 8,000 suspected cases.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Ebola outbreak originating in the Democratic Republic of the Congo has become the most geographically widespread in history, with over 4,600 fatalities and confirmed cases reaching Kenya and Nigeria amidst severe supply shortages.",
+    "label": "AFRICA — Regional Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Intensified Fighting Triggers Mass Displacement",
+        "score": 7.5,
+        "body": "Intensified clashes between Yemeni government forces and Houthi fighters in Taiz province and along the western coast have caused widespread civilian displacement. The United Nations warns that nearly 260,000 people have been displaced, while MSF reports over 230,000 displaced from western coastal regions since September 2026. Government military officials claimed conducting 835 operations against Houthi targets, resulting in 285 Houthi fighters killed or injured. Additionally, the Saudi-led coalition reported intercepting four Houthi drones directed at Medina and Saudi Arabia's Eastern Province. Escalating hostilies continue to deepen the severe humanitarian crisis.",
+        "verified_figures": [
+          "nearly 260,000 displaced",
+          "over 230,000 people displaced from the western coast",
+          "835 targeting operations",
+          "285 Houthi members killed or injured",
+          "4 drones intercepted"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Rapidly Surge in Cholera Outbreak",
+        "score": 7.0,
+        "body": "Humanitarian organizations and health authorities warn of a deepening cholera crisis in Yemen, severely threatening displaced populations. The World Health Organization reported that suspected cholera cases have nearly tripled in recent weeks, exceeding 8,000 infections since the start of the year. Health experts attribute the rapid transmission to ongoing population displacement, overcrowded shelter conditions, and degraded sanitation infrastructure. The sharp rise in cases poses severe challenges to Yemen's fragile health system, which remains severely underfunded amidst ongoing armed conflict.",
+        "verified_figures": [
+          "exceeding 8,000 suspected cholera infections since beginning of year"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "http://yemenonline.info/special-reports/14164"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Detainee Abuse Allegations and Settler Violence",
+        "score": 6.0,
+        "body": "Human rights groups have condemned alleged torture and ill-treatment of Palestinian detainees in Israeli custody, citing the use of US-made electroshock weapons. In the West Bank, Israeli military forces detained approximately 80 foreign, Israeli, and Palestinian volunteers assisting farmers during the olive harvest near Bethlehem. Separately, a foreign photojournalist sustained four fractured vertebrae, two broken ribs, and four puncture wounds during a violent attack by masked Israeli settlers in Abu Falah village. Heightened settler violence and military movement restrictions continue to endanger civilians and disrupt livelihoods.",
+        "verified_figures": [
+          "about 80 volunteers detained",
+          "4 fractured vertebrae",
+          "2 broken ribs",
+          "4 puncture wounds"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/oct/22/first-thing-israel-using-us-made-electroshock-weapons-on-palestinian-detainees"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Earthquake Death Toll Significantly Exceeds Official Figures",
+        "score": 9.0,
+        "body": "Scientific analysis indicates the death toll from recent twin earthquakes in Venezuela vastly exceeds official statistics. While the Venezuelan government maintains a casualty count of 6,509, a U.S. Geological Survey analysis cited in recent reports estimates a median death toll of approximately 53,000, with an 81 percent probability that total fatalities exceed 10,000. Venezuelan authorities have not updated official casualty figures since 24 August. Humanitarian organizations, including UNICEF, are maintaining emergency relief operations to assist affected children and families, providing nutritional support, health services, and clean water access following extensive damage to water and health infrastructure.",
+        "verified_figures": [
+          "6,509 deaths (official government count)",
+          "53,000 deaths (USGS median estimate)",
+          "81% probability death toll exceeds 10,000 (USGS estimate)"
+        ],
+        "sources": [
+          {
+            "name": "ColombiaOne.com",
+            "url": "https://colombiaone.com/2026/10/21/venezuela-earthquake-death-toll-usgs-estimate/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Personnel Kidnapped in Gang Ambush Near Port-au-Prince",
+        "score": 7.0,
+        "body": "UN-backed Gang Suppression Force troops have initiated armed search-and-rescue operations near Port-au-Prince after four Salvadoran aviation technicians were kidnapped during a gang attack on an armored vehicle in Santo. Supported by air assets, the ongoing operations have resulted in four force personnel wounded, alongside reported casualties among gang members. The abducted personnel were in Haiti supporting medical evacuation missions. Salvadoran President Nayib Bukele issued a direct ultimatum demanding their safe return and warned that El Salvador would launch targeted military operations against Haitian gangs if the men are not released unharmed.",
+        "verified_figures": [
+          "4 Salvadoran aviation technicians kidnapped",
+          "4 Gang Suppression Force personnel wounded"
+        ],
+        "sources": [
+          {
+            "name": "wng.org",
+            "url": "https://wng.org/sift/un-backed-forces-search-for-soldiers-kidnapped-by-haitian-gang-1792616345"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Emergency Response Drills Conducted After August Earthquake",
+        "score": 4.0,
+        "body": "Colombia conducted a nationwide emergency response drill across 1,046 municipalities to test disaster management systems and local response protocols. The exercises were designed around operational lessons learned from a magnitude-7.4 earthquake that struck near San Jose del Palmar, Choco, on 10 August. That disaster resulted in 331 deaths and 4,505 injuries, severely affecting local infrastructure. The two-part drill involved public institutions, schools, community groups, and territorial disaster authorities testing local emergency strategies to improve preparedness for future seismic events.",
+        "verified_figures": [
+          "1,046 municipalities participating in drill",
+          "331 people killed in August 10 earthquake",
+          "4,505 people injured in August 10 earthquake"
+        ],
+        "sources": [
+          {
+            "name": "ColombiaOne.com",
+            "url": "https://colombiaone.com/2026/10/21/colombia-holds-emergency-drills-after-deadly-earthquake/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo/Regional — Ebola outbreak accelerates and spreads across borders",
+        "score": 9.5,
+        "body": "The World Health Organization and Africa CDC warn that the Ebola outbreak originating in the Democratic Republic of the Congo has become the most geographically widespread in history. The virus has spread across eight provinces in the country and reached Kenya and Nigeria. Over 4,600 people have died in the Democratic Republic of the Congo, where confirmed cases are approaching 10,000. WHO recorded 1,466 confirmed cases between late September and mid-October, indicating a renewed acceleration in transmission. Containment operations face critical shortages of essential medical supplies and pervasive regional insecurity.",
+        "verified_figures": [
+          "over 4,600 deaths in DRC",
+          "1,466 confirmed cases between Sept 29 and Oct 19",
+          "eight provinces affected in DRC"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/africa-ebola-congo-nigeria-abuja-virus-03b6388f86e305fad711606f22c6577f"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan/Abyei — Market drone strike kills over 150 as nationwide attacks escalate",
+        "score": 9.0,
+        "body": "A drone strike on a market in the disputed Abyei region killed at least 150 people, local officials and the United Nations reported. Officials attributed the attack to the Sudanese military. Concurrently, a surge in drone strikes across Sudan attributed to both the army and the Rapid Support Forces killed more than 160 people and injured 47 others in Khartoum and western regions. Three children were among those killed in the capital. The widespread deployment of armed drones has deepened civilian casualties and raised UN warnings of a broadening regional crisis.",
+        "verified_figures": [
+          "at least 150 killed in Abyei market strike",
+          "more than 160 reported killed in western regions and Khartoum",
+          "47 wounded",
+          "three children killed in Khartoum"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis"
+          }
+        ]
+      },
+      {
+        "headline": "Chad — Drone attack on refugee site kills five including aid workers",
+        "score": 6.0,
+        "body": "A drone strike hit a site hosting displaced Sudanese refugees in Chad, killing five people. The deceased included two humanitarian aid workers who were assisting the displaced population. The strike highlights the expanding cross-border impact of Sudan's armed conflict and the heightened security risks confronting displaced civilians and aid workers operating near border regions.",
+        "verified_figures": [
+          "five killed",
+          "two aid workers killed"
+        ],
+        "sources": [
+          {
+            "name": "Sudan Tribune",
+            "url": "https://sudantribune.com/article/320265"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Capital strikes and frontline bombardment cause civilian casualties",
+        "score": 7.0,
+        "body": "Russia and Ukraine exchanged major overnight drone and missile strikes targeting each other's capital cities. In Kyiv, Russian attacks killed at least one person and injured 22 others. Meanwhile, the frontline Ukrainian city of Pavlohrad, located less than 90 kilometers from active fighting, continues to endure relentless bombardment affecting civilian populations. The surge in strikes occurred despite renewed diplomatic signals regarding potential ceasefire discussions and US-mediated peace talks.",
+        "verified_figures": [
+          "1 person killed in Kyiv",
+          "22 people injured in Kyiv"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/aerospace-defense/ukrainian-capital-under-missile-attack-explosions-seen-city-2026-10-21/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+        "score": 9.0,
+        "body": "This article is published in association with United Nations. Following extreme hunger warnings, a bitter reality is unfolding across Afghanistan: food is available, but remains inaccessible for millions of people. That’s according to UN aid coordination office spokesperson Olga Cherevko, who has just returned from a field visit with a stark call to action. Nearly 16 million Afghans are facing crisis-level hunger – some 3.4 million of them living in emergency conditions, said Ms. Cherevko, briefing from Kabul on Tuesday. “I want to start with something that can get lost when we talk about Afghanistan through numbers: a harvest can improve, markets can have food, but families can still go hun",
+        "verified_figures": [
+          "16 million Afghans are facing",
+          "3.4 million of them living"
+        ],
+        "sources": [
+          {
+            "name": "The European Sting",
+            "url": "https://europeansting.com/2026/10/21/one-step-away-from-famine-inside-afghanistans-hunger-crisis/"
+          }
+        ]
+      },
+      {
+        "headline": "Nearly a Dozen Civilians Killed, Over 10 Injured in Three-Day Myanmar Military Bombing ...",
+        "score": 8.5,
+        "body": "Nearly a Dozen Civilians Killed, Over 10 Injured in Three-Day Myanmar Military Bombing Campaign.",
+        "verified_figures": [
+          "10 Injured"
+        ],
+        "sources": [
+          {
+            "name": "Narinjara News",
+            "url": "https://www.narinjara.com/news/detail/6ad8fbc52bbe5aa41bf3734d"
+          }
+        ]
+      },
+      {
+        "headline": "Super Typhoon Champi becomes the strongest tropical cyclone of 2026, Signal No. 2 remai...",
+        "score": 8.5,
+        "body": "Super Typhoon Champi becomes the strongest tropical cyclone of 2026, Signal No. 2 remains over Batanes, Philippines - The Watchers.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Watching the world evolve and transform",
+            "url": "https://watchers.news/2026/10/21/super-typhoon-champi-becomes-the-strongest-tropical-cyclone-of-2026-signal-no-2-remains-over-batanes-philippines/"
+          }
+        ]
+      },
+      {
+        "headline": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader...",
+        "score": 8.5,
+        "body": "In an interview with FRANCE 24, exiled former Tibetan leader Lobsang Sangay said any successor to the Dalai Lama appointed by China \"is going to be a fake one\". He also likened Beijing's ethnic unity law to \"an ethnic erasure\", said Tibetan concerns had been \"downgraded a bit\" in US-China talks and accused China of failing to warn of the deadly August floods on the Nepal-Tibet border.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261022-dalai-lama-appointed-by-china-is-going-to-be-a-fake-one-exiled-former-tibetan-leader-says"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC / Regional — Multi-country Ebola outbreak becomes most widespread in history",
+        "score": 9.0,
+        "body": "An Ebola outbreak originating in the Democratic Republic of the Congo has expanded into the most widespread in history, reaching Central, Eastern, and Western Africa. Caused by the Bundibugyo virus strain, active cases are currently reported in Kenya, Nigeria, and eastern Congo, where thousands of people have died. The Africa Centres for Disease Control and Prevention has convened an emergency meeting of health ministers for October 28 to strengthen cross-border surveillance, contact tracing, and worker protection. Clinical trials for a Bundibugyo-specific vaccine have initiated, as no approved vaccine currently exists for this strain.",
+        "verified_figures": [
+          "thousands killed in Congo",
+          "spread to 4 other countries",
+          "spread across 3 African regions"
+        ],
+        "sources": [
+          {
+            "name": "Africa CDC",
+            "url": "https://africacdc.org/news-item/africa-cdc-convenes-african-ministers-of-health-as-ebola-outbreak-spreads-across-three-regions/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://www.nwaonline.com/news/2026/oct/22/outbreak-of-ebola-taking-mental-toll/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Measles outbreak reaches 4,410 cases amid transparency concerns",
+        "score": 4.5,
+        "body": "The measles outbreak in the United States has expanded by eight percent in a single week, reaching 4,410 confirmed cases this year—nearly double the total recorded in the previous year. The U.S. Centers for Disease Control and Prevention added a third death to its official dashboard but declined to reveal which state the fatality occurred in, citing privacy laws. Public health experts criticized the agency for reporting delays and reduced transparency during the accelerating outbreak.",
+        "verified_figures": [
+          "4,410 confirmed cases so far this year",
+          "3 confirmed deaths",
+          "8% case count increase in one week"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-pennsylvania-state-deaths"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Port-au-Prince, Haiti",
+      "score": 7.0,
+      "trigger": "An expired ultimatum or failed rescue operation for four kidnapped Salvadoran technicians could trigger direct military action by El Salvador against Haitian armed groups.",
+      "potential_impact": "Uncontrolled urban military engagements would severe medical evacuation capacities and drastically increase civilian casualties and displacement.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "wng.org",
+          "url": "https://wng.org/sift/un-backed-forces-search-for-soldiers-kidnapped-by-haitian-gang-1792616345"
+        }
+      ]
+    },
+    {
+      "location": "Eastern Chad border region",
+      "score": 6.5,
+      "trigger": "Continued cross-border drone strikes targeting Sudanese refugee hosting areas could lead to further direct attacks on displaced communities and humanitarian personnel.",
+      "potential_impact": "Essential aid agencies may be forced to suspend cross-border relief operations, leaving thousands of vulnerable refugees without life-saving aid.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Sudan Tribune",
+          "url": "https://sudantribune.com/article/320265"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "France 24 English",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "ColombiaOne.com",
+        "count": 2
+      },
+      {
+        "name": "Sudan Tribune",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "wng.org",
+        "count": 2
+      },
+      {
+        "name": "Africa CDC",
+        "count": 1
+      },
+      {
+        "name": "Narinjara News",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The European Sting",
+        "count": 1
+      },
+      {
+        "name": "Watching the world evolve and transform",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "2 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 3/3 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1495,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
