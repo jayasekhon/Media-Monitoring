@@ -1,0 +1,424 @@
+{
+  "date": "2026-10-23",
+  "printed_time": "11:07 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An escalating Ebola outbreak originating in the Democratic Republic of the Congo has killed over 2,500 people and expanded across regional borders into West Africa.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A 7.0-magnitude earthquake in Tibet's Nagqu region killed at least 16 people, injured dozens, and collapsed hundreds of homes.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 3,
+      "text": "Depleted food supplies, aid funding cuts, and ongoing military operations across Gaza threaten 1.9 million displaced Palestinians with imminent famine.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Widespread drone attacks and severe drought conditions in Sudan continue to cause heavy civilian casualties and drive the Darfur region toward famine.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Heavy flooding across 28 states in Nigeria has killed 245 people and displaced nearly 215,000 residents.",
+      "region": "Global / Cross-Cutting"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An exponentially growing Ebola epidemic originating in the Democratic Republic of the Congo has killed over 2,500 people and expanded to West Africa, severely straining regional public health capacity.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — Escalating Famine Threat and Attacks in Gaza",
+        "score": 8.0,
+        "body": "The Gaza Strip faces a renewed risk of famine due to shrinking food supplies, bakery closures, and restricted aid deliveries, compounded by international funding cuts affecting food assistance for 500,000 Palestinians. Approximately 1.9 million displaced individuals living in makeshift shelters face severe food insecurity and harsh conditions as winter approaches. Concurrently, Israeli military attacks across Gaza killed at least four Palestinians over a 24-hour period, including a young girl killed by gunfire in northern Gaza, while military forces continue to seize additional territory within the enclave.",
+        "verified_figures": [
+          "4 Palestinians killed, including 1 young girl",
+          "500,000 Palestinians affected by food assistance cuts",
+          "1.9 million displaced Palestinians"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — West Bank Security Incident and Planned Closure",
+        "score": 6.0,
+        "body": "Israeli Prime Minister Benjamin Netanyahu has directed the military to prepare for a full closure of the occupied West Bank following a shooting attack near Hebron. Israeli forces shot and killed two Palestinian men who the military stated carried out the attack, which injured five people. Emergency services evacuated the wounded individuals to hospitals. The ordered closure and underlying violence occur during a period of heightened security tensions across the territory.",
+        "verified_figures": [
+          "2 Palestinian attackers killed",
+          "5 people injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Armed violence drives displacement in Artibonite department",
+        "score": 6.0,
+        "body": "An armed attack on October 19 in Petite-Rivière, located in Haiti's Artibonite department, has forced families to flee to safer areas within the town and nearby communities, according to the United Nations. The UN Office for the Coordination of Humanitarian Affairs reported that sporadic gunfire continues to disrupt movement within the area. The incident highlights ongoing insecurity and protection risks in regional Haiti, where persistent armed gang violence continues to cause displacement and restrict local mobility.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Jamaica Observer",
+            "url": "https://www.jamaicaobserver.com/2026/10/22/un-warns-continued-violence-displacement-people-haiti/"
+          }
+        ]
+      },
+      {
+        "headline": "United States / DRC — New Ebola health screening mandatory for international air travelers",
+        "score": 3.0,
+        "body": "Beginning November 3, 2026, the U.S. Centers for Disease Control and Prevention will require all international air passengers arriving in the United States to declare they have not visited or stayed in the Democratic Republic of the Congo during the previous 21 days. Passengers must submit a signed electronic or paper declaration before boarding U.S.-bound flights. The temporary health screening requirement follows earlier restrictions implemented to prevent the potential spread of the Ebola virus into the United States amid an outbreak in the DRC.",
+        "verified_figures": [
+          "21 days prior visit declaration requirement"
+        ],
+        "sources": [
+          {
+            "name": "WPRO",
+            "url": "https://www.997wpro.com/2026/10/23/u-s-announces-new-ebola-screening-requirement-for-international-air-travelers/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo/Regional — Ebola Outbreak Expands Rapidly Across Borders",
+        "score": 9.5,
+        "body": "The Ebola outbreak originating in the Democratic Republic of the Congo is expanding rapidly, reaching an eighth DRC province and spreading to Nigeria via a traveler arriving from Uganda. UN officials reported the epidemic is growing exponentially across an area larger than France, with over 2,500 deaths recorded from more than 5,000 cases. Half of the total fatalities occurred within the last 20 days alone. The World Health Organization warned of a complex regional health crisis as the virus marked its first occurrence in West Africa, putting response and containment systems under extreme pressure.",
+        "verified_figures": [
+          "More than 2,500 deaths",
+          "Over 5,000 infections",
+          "1,250 deaths reported in the last 20 days",
+          "Outbreak present in 8 DRC provinces"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/africa-faces-complex-ebola-outbreak-after-spread-nigeria-who"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-africa-ebola-bundibugyo-who-4e3585cdbe6d7c5c84f282d14c87e3e4"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Escalating Drone Attacks and Darfur Famine Threat",
+        "score": 8.0,
+        "body": "The Red Cross warned that drone strikes in Sudan are killing hundreds of civilians, with residential homes, commercial markets, and displacement camps coming under direct fire. Simultaneously, severe drought conditions and ongoing armed conflict are driving the Darfur region toward famine, compounded by widespread reductions in international aid funding. The combination of targeted air strikes on civilian infrastructure and shrinking humanitarian operations poses severe protection risks for displaced and vulnerable populations.",
+        "verified_figures": [
+          "Hundreds killed in drone attacks"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/regional/415201/red-cross-warns-sudan-drone-attacks-killing-hundreds-as-homes-markets-displacement-camps-come-under-fire?amp=1"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Projected El Niño Flooding Threatens Famine",
+        "score": 7.0,
+        "body": "Forecasters warn that projected El Niño flooding during the October–December Deyr rainy season could push Somalia's hardest-hit communities toward famine. Although Somalia previously avoided famine during prolonged drought, numerous health centers, food assistance, and nutrition programs have since ceased operations due to reduced funding. Heavy rains and severe flooding are expected to destroy crops and livestock, worsening food insecurity for vulnerable communities recovering from prolonged dry periods.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Horseed Media",
+            "url": "https://horseedmedia.net/after-years-of-drought-flooding-could-now-push-parts-of-somalia-toward-famine/426715/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian missile strikes cause civilian casualties across multiple regions",
+        "score": 7.0,
+        "body": "Russia launched three waves of missile and drone strikes across Ukraine, targeting Kyiv, Kharkiv, and at least 11 other regions. Attacks on Kyiv involving 21 rockets killed at least one person and injured 22 others. Additional strikes across the country resulted in further fatalities, including a mother and infant killed by a drone in Kharkiv region, bringing total reported casualties to at least two dead and 34 injured, including five children. The bombardment coincided with statements from President Vladimir Putin indicating Russia is open to peace talks on a final security agreement rather than a temporary truce.",
+        "verified_figures": [
+          "21 rockets targeting Kyiv",
+          "at least 2 people killed",
+          "34 people injured, including 5 children"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Starlink speed restrictions impede air defence systems",
+        "score": 5.0,
+        "body": "Ukrainian officials report that Starlink satellite internet access in the country remains operating under a speed restriction capped at 161 kilometres per hour. According to official statements, these service limitations are severely crippling key air defence operations as Ukraine attempts to intercept incoming Russian aerial attacks.",
+        "verified_figures": [
+          "speed cap of 161km/hr"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "China/Tibet — Magnitude 7.0 Earthquake Hits Nagqu",
+        "score": 9.0,
+        "body": "A 7.0-magnitude earthquake struck northern Tibet’s Nagqu region, killing at least 16 people and injuring up to 76 others. Search and rescue operations are ongoing after the quake caused severe destruction, collapsing at least 339 homes and 20 livestock sheds. Official media reported that the earthquake was the strongest in the region over the past five years, with at least seven aftershocks recorded.",
+        "verified_figures": [
+          "16 killed",
+          "76 injured",
+          "339 homes collapsed",
+          "20 livestock sheds collapsed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/china/injuries-chinas-tibet-rise-65-after-earthquake-death-toll-remains-16-2026-10-23/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/tibet-earthquake-china-nagqu-0358c57cfcbc0de48d2486df15ded4ef"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Deepening Poverty and Mass Returns",
+        "score": 7.5,
+        "body": "A report by the United Nations Development Programme warns that Afghanistan’s humanitarian and economic crisis is worsening, with an estimated 28 million people living in poverty in 2025. The situation is being driven by persistent drought, declining foreign assistance, and the return of nearly 2.9 million Afghans, which pushed an additional 1.4 million people into severe economic hardship despite modest national economic growth.",
+        "verified_figures": [
+          "28 million in poverty",
+          "2.9 million returned Afghans",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "India — Heavy Downpours Trigger Flooding in Chennai",
+        "score": 3.0,
+        "body": "Heavy rainfall has caused flooding across Chennai and several southern districts in India. The India Meteorological Department issued weather warnings predicting continued heavy rain across the affected region through October 26.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com/article/india/india-news-live-updates-breaking-news-delhi-chennai-mumbai-kolkata-10933074/lite/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo/Regional — Ebola outbreak expands to East and West Africa",
+        "score": 9.0,
+        "body": "The World Health Organization warned that the Ebola outbreak originating in the Democratic Republic of the Congo has grown increasingly complex, expanding to three African nations across East and West Africa. Health authorities confirmed Nigeria’s first case this week, which matches the strain identified in the Democratic Republic of the Congo. The development follows confirmed cases in Kenya, including at least one fatality. Health authorities are currently investigating potential transmission pathways, including whether infected individuals traveled through regional airport transit hubs.",
+        "verified_figures": [
+          "3 African countries affected",
+          "1st case confirmed in Nigeria",
+          "7 cases confirmed in Kenya"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries"
+          }
+        ]
+      },
+      {
+        "headline": "China/Tibet — Magnitude 7.0 earthquake causes casualties and damage",
+        "score": 9.0,
+        "body": "A magnitude 7.0 earthquake struck Tibet at a depth of 173 kilometers, with its epicenter located approximately 400 kilometers from Lhasa. Initial reports indicate that at least 16 people were killed and 46 others sustained injuries. The seismic event occurs weeks after devastating flash floods impacted the region, compounding recovery challenges. Seismic activity was previously recorded in the area in early September, following a major magnitude 6.8 earthquake in January 2025 that also caused fatalities.",
+        "verified_figures": [
+          "16 killed",
+          "46 injured"
+        ],
+        "sources": [
+          {
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com/world-news/16-killed-46-injured-after-earthquake-of-magnitude-7-strikes-tibet-126102300047_1.html"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Floods displace over 214,000 across 28 states",
+        "score": 7.5,
+        "body": "Heavy flooding across 28 states in Nigeria has impacted 673,350 people across 134 Local Government Areas, according to data from the National Emergency Management Agency. The floodwaters have resulted in 245 recorded deaths and displaced nearly 215,000 residents. The disaster has severely affected local communities, causing widespread disruption and heightening humanitarian needs across the country.",
+        "verified_figures": [
+          "245 deaths",
+          "214,997 displaced",
+          "673,350 affected",
+          "134 Local Government Areas affected",
+          "28 states affected"
+        ],
+        "sources": [
+          {
+            "name": "Tribune Online",
+            "url": "https://tribuneonlineng.com/floods-affected-673350-persons-in-134-lgas-displaced-214997-killed-245-nema/amp/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Occupied Palestinian Territory (West Bank)",
+      "score": 6.0,
+      "trigger": "A full military closure of the West Bank ordered by Israeli leadership following a fatal shooting near Hebron could be implemented imminently.",
+      "potential_impact": "A complete territorial shutdown would severely restrict humanitarian movements, medical transport, and basic mobility for residents across the West Bank.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
+        }
+      ]
+    },
+    {
+      "location": "Somalia",
+      "score": 7.0,
+      "trigger": "Forecasted El Niño flooding during the October–December rainy season threatens to inundate vulnerable riverine agricultural communities.",
+      "potential_impact": "Severe flood destruction of crops and livestock could destroy remaining local food sources and push vulnerable populations into famine amid reduced humanitarian funding.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Horseed Media",
+          "url": "https://horseedmedia.net/after-years-of-drought-flooding-could-now-push-parts-of-somalia-toward-famine/426715/"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 5.0,
+      "trigger": "Continued operational speed caps on Starlink internet service could restrict real-time air defense tracking during incoming aerial attacks over the next 72 hours.",
+      "potential_impact": "Impaired air defense interception capabilities could lead to higher civilian casualties and greater destruction of essential infrastructure during rocket and drone bombardments.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Horseed Media",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Business Standard",
+        "count": 1
+      },
+      {
+        "name": "Jamaica Observer",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Indian Express",
+        "count": 1
+      },
+      {
+        "name": "Tribune Online",
+        "count": 1
+      },
+      {
+        "name": "WPRO",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1386,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
