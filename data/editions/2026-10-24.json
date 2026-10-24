@@ -1,0 +1,470 @@
+{
+  "date": "2026-10-24",
+  "printed_time": "10:23 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A resurging Ebola outbreak in the Democratic Republic of the Congo has caused at least 4,646 deaths across eight provinces, prompting cross-border monitoring and international travel declarations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A drone strike in Sudan killed at least 153 people as worsening drought conditions heighten acute famine risks across the country.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A magnitude 7 earthquake struck Tibet's high-altitude Nagqu region in China, killing at least 16 people, injuring 54 others, and collapsing over 300 homes.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "More than 19.2 million people in Afghanistan face acute food insecurity while the shutdown of one-third of health facilities severely restricts malnutrition treatment.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Severe flooding across 28 states in Nigeria has left at least 245 people dead and displaced more than 215,000 residents.",
+      "region": "Global / Cross-Cutting"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A resurging Ebola outbreak originating in the Democratic Republic of the Congo has claimed over 4,646 lives and infected more than 9,627 people, sparking international health alerts and regional border restrictions.",
+    "label": "AFRICA — Resurging Ebola Outbreak Spreads Across DRC and Prompts International Restrictions"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — Hebron Siege and Demolitions After Checkpoint Attack",
+        "score": 7.5,
+        "body": "Following a checkpoint attack outside Hebron where two Palestinian gunmen killed two Israeli soldiers and wounded three others before being killed, Israeli authorities initiated punitive operations across the West Bank. Prime Minister Benjamin Netanyahu announced a siege on Hebron and neighboring Halhul, ordering forced displacements and mass home demolitions targeting the gunmen’s home neighborhoods. Israeli forces have already begun demolishing Palestinian buildings in Hebron alongside extensive military search operations.",
+        "verified_figures": [
+          "2 Israeli soldiers killed",
+          "2 Palestinian gunmen killed",
+          "3 people injured"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/israel-shooting-west-bank-election-f6646718072b4ff6929cff43297edd05"
+          }
+        ]
+      },
+      {
+        "headline": "Jordan — Church Shooting Leaves Seven Dead and Dozens Wounded",
+        "score": 6.5,
+        "body": "A violent shooting at a church in Jordan has left seven people dead and 40 others injured, according to reports summarizing escalating security incidents across the Middle East. The mass-casualty attack occurred amid widespread regional tensions, though further details regarding the perpetrators or underlying circumstances remain unspecified in initial reports.",
+        "verified_figures": [
+          "7 people killed",
+          "40 people injured"
+        ],
+        "sources": [
+          {
+            "name": "United News of Bangladesh",
+            "url": "https://unb.com.bd/category/World/israeli-soldiers-killed-in-west-bank-attack-as-violence-escalates-across-the-middle-east/198576"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Food Aid Cuts Exacerbate Hunger for Displaced West Bank Residents",
+        "score": 6.0,
+        "body": "Displaced Palestinians in the occupied West Bank face growing hunger and severe food insecurity after the World Food Programme reduced its food assistance by half. The aid cuts severely impact vulnerable households who have already lost their homes during ongoing Israeli military operations, further worsening living conditions and deepening humanitarian hardship across affected communities.",
+        "verified_figures": [
+          "WFP food aid cut by 50%"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Armed violence in Artibonite forces fresh displacement",
+        "score": 7.0,
+        "body": "An armed attack in Petite-Rivière, located in Haiti's Artibonite department, on 19 October forced residents to flee to safer areas within the town and neighboring communities. Sporadic gunfire in the area continues to disrupt movement and daily life. The United Nations Office for the Coordination of Humanitarian Affairs is working alongside local authorities and humanitarian partners to monitor the situation and assess ongoing humanitarian needs resulting from the renewed displacement.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Caribbean Today",
+            "url": "https://www.caribbeantoday.com/sections/regional/un-warns-of-continued-violence-and-displacement-of-people-in-haiti"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Vance threatens Pacific coast with rapid intensification",
+        "score": 6.0,
+        "body": "Hurricane Vance strengthened into the 13th hurricane of the 2026 Pacific season on 23 October, with sustained winds reaching 85 mph (140 km/h). Located approximately 440 miles (710 km) south-southwest of Acapulco, the storm is moving north-northwest at 5 mph towards the Puerto Vallarta area. Forecasters project Vance will rapidly intensify into a major Category 3 hurricane. Outer bands are already generating gale-force winds and rough seas in the Gulf of Tehuantepec.",
+        "verified_figures": [
+          "sustained winds of 85 mph (140 km/h)",
+          "440 miles (710 km) south-southwest of Acapulco"
+        ],
+        "sources": [
+          {
+            "name": "Geo News",
+            "url": "https://www.geo.tv/latest/688010-tropical-cyclone-vance-to-rapidly-intensify-into-major-hurricane-as-it-nears-mexico"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Heavy rainfall triggers evacuations and flooding in Colorado",
+        "score": 4.0,
+        "body": "Local authorities in Pagosa Springs, Colorado, declared a disaster emergency on 22 October following heavy rainfall that triggered severe flash flooding. Officials issued mandatory evacuation orders for residents in low-lying, flood-prone areas along the San Juan, Rio Blanco, Navajo, and Piedra rivers. The floodwaters damaged local public infrastructure, including roads, bridges, and culverts, forcing the closure of key transportation routes such as U.S. 160 as well as municipal facilities.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Rolling Out",
+            "url": "https://rollingout.com/2026/10/23/pagosa-springs-curse-strikes-second-year/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — CDC introduces Ebola declaration for incoming international travelers",
+        "score": 3.0,
+        "body": "Under an order issued on 22 October, the United States Centers for Disease Control and Prevention will require all passengers boarding international flights bound for or connecting through the country to complete a travel declaration starting 3 November. Travelers must declare whether they have visited the Democratic Republic of the Congo within the preceding 21 days. The measure aims to mitigate the risk of Ebola entering the country and applies to all international flights.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Pax News",
+            "url": "https://www.paxnews.com/news/airline/cdc-require-ebola-declaration-all-international-flights-us-starting-nov-3"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC & Regional — Ebola outbreak rebounds and spreads cross-border",
+        "score": 9.0,
+        "body": "The Ebola outbreak originating in the Democratic Republic of the Congo has resulted in at least 4,646 deaths out of over 9,627 reported cases across eight provinces since May 15. The World Health Organization warned of a recent rebound in transmission, with 1,466 confirmed cases recorded between September 29 and October 19. International concerns are rising as health authorities investigate a case in Nigeria involving a woman who recently visited Uganda, prompting Uganda to restrict transit for travelers coming from the DRC. Response efforts include fast-tracked vaccine trials and psychological support for hospitalized patients.",
+        "verified_figures": [
+          "4,646 deaths reported in DRC",
+          "9,627 cases reported in DRC",
+          "8 DRC provinces affected",
+          "1,466 confirmed DRC cases recorded between Sept. 29 and Oct. 19"
+        ],
+        "sources": [
+          {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261024/e534af9f70f6467a9dc11a1020b39f62/c.html"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Drone strike kills 153 as severe drought heightens famine risk",
+        "score": 9.0,
+        "body": "A drone strike in Sudan has killed at least 153 people, adding to mass casualties in the ongoing conflict. The attack comes as severe drought conditions create new famine risks across the country, further destabilizing humanitarian conditions for vulnerable populations already facing acute food insecurity and violence.",
+        "verified_figures": [
+          "153 killed in drone strike"
+        ],
+        "sources": [
+          {
+            "name": "Tamil Guardian",
+            "url": "https://www.tamilguardian.com/content/drought-brings-new-famine-risk-sudan-drone-strike-kills-153-abyei"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Localized ceasefire in Oleshky to allow aid and evacuations",
+        "score": 7.0,
+        "body": "Russia and Ukraine have agreed to a localized temporary ceasefire in the Russian-occupied town of Oleshky in southern Ukraine, according to White House and Kremlin statements. The truce, scheduled to begin on October 29, was mediated by U.S. First Lady Melania Trump acting as an intermediary. The agreement halts military action in Oleshky to establish safe passage for civilian evacuations and facilitate the delivery of humanitarian aid to residents facing a severe food crisis and deteriorating conditions. Military officials from both sides are coordinating the operational details.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-2026-10-23/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Former detainees report torture and abuse in Russian custody",
+        "score": 5.0,
+        "body": "Former Ukrainian prisoners have reported that a recently released United States citizen was subjected to torture while detained in a Russian prison. According to statements from the former prisoners who were held alongside him, Russian guards inflicted severe beatings and sexual humiliation on the American detainee during his imprisonment. The accounts highlight ongoing protection concerns regarding the treatment of civilian and military detainees held in Russian custody during the conflict.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "China — Magnitude 7 earthquake strikes Tibet's Nagqu region",
+        "score": 9.0,
+        "body": "A magnitude 7 earthquake struck Nagqu in China’s Tibet region, killing at least 16 people and injuring 54 others. The tremor caused the collapse of at least 339 homes and 20 livestock sheds in the high-altitude area. Local authorities deployed over 1,600 personnel for search and rescue operations. Emergency relief supplies dispatched to the region include 1,000 prefabricated housing units, approximately 3,000 tents and folding beds, flashlights, and winter clothing.",
+        "verified_figures": [
+          "At least 16 people killed",
+          "54 people injured",
+          "At least 339 homes collapsed",
+          "20 livestock sheds collapsed",
+          "More than 1,600 rescue personnel deployed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/tibet-earthquake-china-nagqu-0358c57cfcbc0de48d2486df15ded4ef"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — UN warns of acute food insecurity and closing health clinics",
+        "score": 8.5,
+        "body": "The United Nations warned that acute food insecurity and malnutrition are worsening rapidly in Afghanistan. UN officials reported that over 19.2 million people are projected to face acute food insecurity, including five million facing emergency hunger levels. Malnutrition is expected to affect approximately four million children and 1.3 million mothers. The humanitarian situation is exacerbated by health sector closures, with roughly one-third of health facilities, including 815 malnutrition treatment clinics, currently suspended or closed.",
+        "verified_figures": [
+          "More than 19.2 million people projected to face acute food insecurity",
+          "5 million people expected to face emergency hunger levels",
+          "An estimated 4 million children projected to suffer from malnutrition",
+          "1.3 million mothers projected to suffer from malnutrition",
+          "Approximately one-third of health facilities closed or suspended",
+          "815 malnutrition treatment clinics closed or suspended"
+        ],
+        "sources": [
+          {
+            "name": "Ariana News",
+            "url": "https://www.ariananews.af/un-warns-of-worsening-hunger-crisis-in-afghanistan-with-millions-facing-food-insecurity/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Taiwan — Typhoon Champi causes casualties and disrupts maritime routes",
+        "score": 4.5,
+        "body": "Typhoon Champi swept across Taiwan, leaving one local resident dead and 163 people injured, according to official reports. Among the injured were two Indonesian foreign workers who were blown off their vehicles by strong winds and hospitalized. The severe weather system also prompted emergency responses and ferry service suspensions across eastern Chinese coastal provinces, including Shanghai, Fujian, and Zhejiang.",
+        "verified_figures": [
+          "1 person killed",
+          "163 people injured"
+        ],
+        "sources": [
+          {
+            "name": "ANTARA News",
+            "url": "https://en.antaranews.com/news/437603/govt-confirms-indonesians-injured-amid-typhoon-champi-in-taiwan"
+          }
+        ]
+      },
+      {
+        "headline": "India — Authorities issue pre-cyclone watch for eastern states",
+        "score": 2.5,
+        "body": "The India Meteorological Department issued a pre-cyclone watch for the coastal areas of Andhra Pradesh and southern Odisha. A low-pressure system over the Bay of Bengal is expected to intensify into a depression and develop into a cyclonic storm by October 26. State authorities have placed coastal districts on alert as the storm system moves toward the west-central Bay of Bengal.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/india-news/andhra-pradesh-odisha-on-alert-as-imd-warns-of-possible-cyclone-over-bay-of-bengal-by-october-26-sunday-101792830961854.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo / Global — Multi-country Ebola outbreak prompts US travel restrictions",
+        "score": 8.0,
+        "body": "An escalating multi-country outbreak of the Bundibugyo Ebola virus strain originating in Central Africa and the Democratic Republic of Congo has prompted international health and travel restrictions. The United States Centers for Disease Control and Prevention plans to require all international passengers entering the country to confirm they have not visited the Democratic Republic of Congo within 21 days prior to travel. The requirement will apply to all travellers regardless of nationality before boarding US-bound flights as cases continue to climb.",
+        "verified_figures": [
+          "21-day travel restriction window"
+        ],
+        "sources": [
+          {
+            "name": "Travel Radar",
+            "url": "https://travelradar.aero/ebola-outbreak-causes-crackdown-on-travellers-entering-the-usa/"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Floods leave 245 dead and 215,000 displaced across 28 states",
+        "score": 7.5,
+        "body": "Severe flooding affecting 28 states across Nigeria has caused widespread casualties and severe displacement. Figures from Nigeria's National Emergency Management Agency confirm that at least 245 people have died and more than 215,000 individuals have been displaced from their homes as floodwaters inundate communities across the country, creating significant emergency response needs.",
+        "verified_figures": [
+          "245 deaths",
+          "215,000 displaced",
+          "28 states affected"
+        ],
+        "sources": [
+          {
+            "name": "LEADERSHIP Newspapers",
+            "url": "https://leadership.ng/floods-nema-records-245-deaths-215000-displaced-in-28-states/"
+          }
+        ]
+      },
+      {
+        "headline": "Taiwan — Typhoon Champi leaves 1 dead and 500 injured",
+        "score": 6.5,
+        "body": "Typhoon Champi swept past Taiwan, causing widespread disruption and significant casualties across the island. According to preliminary reports, the storm left at least one person dead and injured approximately 500 others as it passed near Taiwanese territory. Emergency services and local authorities responded to the severe weather impacts as the tropical cyclone progressed through the region.",
+        "verified_figures": [
+          "1 dead",
+          "500 injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24/"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/de/node/3849011"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Mexico",
+      "score": 6.0,
+      "trigger": "Hurricane Vance rapidly intensifies into a Category 3 storm while approaching the Pacific coast near Puerto Vallarta.",
+      "potential_impact": "Gale-force winds, high seas, and extreme rainfall could cause destructive coastal flooding and extensive displacement.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688010-tropical-cyclone-vance-to-rapidly-intensify-into-major-hurricane-as-it-nears-mexico"
+        }
+      ]
+    },
+    {
+      "location": "India",
+      "score": 5.0,
+      "trigger": "A low-pressure system over the Bay of Bengal intensifies into a full cyclonic storm affecting coastal Andhra Pradesh and Odisha.",
+      "potential_impact": "Heavy rainfall and coastal storm surges could inflict heavy damage on agricultural areas, severe flooding, and infrastructure disruption.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/andhra-pradesh-odisha-on-alert-as-imd-warns-of-possible-cyclone-over-bay-of-bengal-by-october-26-sunday-101792830961854.html"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.0,
+      "trigger": "Breaches or failures in military operational coordination prior to the planned October 29 localized ceasefire in Oleshky.",
+      "potential_impact": "Humanitarian corridors could remain blocked, preventing critical aid delivery and civilian evacuations for populations facing acute food shortages.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-2026-10-23/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian",
+      "Xinhua English World"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Geo News",
+        "count": 2
+      },
+      {
+        "name": "Hindustan Times",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "ANTARA News",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Ariana News",
+        "count": 1
+      },
+      {
+        "name": "Caribbean Today",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "LEADERSHIP Newspapers",
+        "count": 1
+      },
+      {
+        "name": "Pax News",
+        "count": 1
+      },
+      {
+        "name": "Rolling Out",
+        "count": 1
+      },
+      {
+        "name": "Tamil Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "Travel Radar",
+        "count": 1
+      },
+      {
+        "name": "United News of Bangladesh",
+        "count": 1
+      },
+      {
+        "name": "Xinhua",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "6 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 2 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1319,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
