@@ -1,0 +1,472 @@
+{
+  "date": "2026-10-25",
+  "printed_time": "10:50 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An intensifying Ebola outbreak in the Democratic Republic of the Congo has killed 4,757 people among 9,816 confirmed cases across eight provinces, with transmission concentrating heavily in Ituri Province.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Escalating drone attacks in Sudan have killed hundreds of civilians across residential areas, commercial markets, and displacement camps, severely compounding protection hazards.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "The Central African Ebola outbreak has expanded cross-border into West and East Africa, with Nigeria confirming its first imported case in Abuja and Kenya reporting nine total cases.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 4,
+      "text": "United Nations humanitarians project that acute food insecurity in Afghanistan will escalate to reach 19.2 million people between November and April.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "A magnitude 7.0 earthquake in China's Tibet region killed at least 16 people, injured 76, destroyed over 330 houses, and forced the evacuation of more than 12,000 residents.",
+      "region": "Global / Cross-Cutting"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo is confronting a severe resurgence of Ebola that has caused 4,757 deaths, with health authorities warning that accelerating transmission across eight provinces poses extreme regional containment risks.",
+    "label": "AFRICA — Ebola Outbreak Intensifies in DRC"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — Mass displacement and demolitions in Hebron",
+        "score": 7.5,
+        "body": "Israeli forces forced up to 2,000 Palestinians to leave their homes in Hebron in the occupied West Bank following an attack on Friday that killed two Israeli soldiers. Palestinian officials initially reported that 1,200 residents were displaced, a figure later confirmed by Israeli Defence Minister Israel Katz to have reached 2,000. Hebron municipal leaders warned that an additional 1,300 Palestinians face potential forced displacement as demolitions commenced. The Palestinian Authority has called for international pressure on Israel regarding the relocations.",
+        "verified_figures": [
+          "2,000 Palestinians displaced",
+          "2 Israeli soldiers killed",
+          "1,300 additional Palestinians at risk of displacement"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Reported Saudi airstrikes kill civilians and damage water infrastructure",
+        "score": 7.0,
+        "body": "Houthi media reported multiple Saudi airstrikes across Sanaa, Mokha, and surrounding areas, claiming at least 11 civilians were killed and several others wounded. Alleged casualties include six women and a child killed in a strike hitting a residential building near a cement factory in Sanaa governorate, alongside casualties in Sanaa city's Asr area. In Al-Jawf province, local officials reported the complete destruction of water and sewage facilities in Al-Hazm city following a strike. Saudi authorities have not officially responded to the claims.",
+        "verified_figures": [
+          "11 people reported killed in Houthi claims",
+          "6 women and 1 child killed",
+          "water and sewage facilities destroyed in Al-Hazm"
+        ],
+        "sources": [
+          {
+            "name": "Pakistan Matters",
+            "url": "https://pakistanmatters.pk/en/world/yemen-houthi-media-claims-11-killed-in-saudi-airstrikes-25666"
+          }
+        ]
+      },
+      {
+        "headline": "Jordan — Mass shooting at church funeral leaves nine dead and 40 injured",
+        "score": 7.0,
+        "body": "Three gunmen opened fire during a funeral at a Greek Orthodox church in Jordan, killing nine people and injuring 40 others. State television footage showed the attackers approaching the church before shooting at mourners. Jordanian authorities described the event as a rare terrorist attack by extremists targeting the country's Christian minority.",
+        "verified_figures": [
+          "9 people killed",
+          "40 people injured"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — El Salvador deploys special forces following kidnapping of military personnel",
+        "score": 7.0,
+        "body": "El Salvador deployed approximately 200 special forces troops to Haiti after armed gangs kidnapped four Salvadoran military aviation technicians. The contingent joined search operations alongside the UN-backed Gang Suppression Force outside Port-au-Prince. Armed clashes were subsequently reported between Salvadoran soldiers and criminal gangs in the Cul-de-Sac and Croix-des-Bouquets areas. Additional reports indicate that human remains were discovered during the search operations.",
+        "verified_figures": [
+          "200 Salvadoran soldiers deployed",
+          "4 military aviation technicians kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/americas/bodies-ambushed-salvadoran-soldiers-found-haiti-new-york-times-reports-2026-10-24/"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Vance approaches Pacific coast as Category 2 storm",
+        "score": 5.0,
+        "body": "Hurricane Vance has intensified into a Category 2 storm as it moves slowly toward Mexico's Pacific coast. Positioned approximately 615 kilometers south-southwest of Acapulco, the storm generates maximum sustained winds reaching 177 kilometers per hour. Mexico's National Meteorological Service warned that impending heavy rainfall and strong winds pose significant risks to coastal communities.",
+        "verified_figures": [
+          "sustained winds of up to 177 kilometers per hour"
+        ],
+        "sources": [
+          {
+            "name": "FOX Weather",
+            "url": "https://www.foxweather.com/weather-news/tropical-storm-vance-forms-champi-churns-pacific"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Historic flooding impacts northern New Mexico and southern Colorado",
+        "score": 4.0,
+        "body": "Historic flooding affected northern New Mexico and southern Colorado over a 48-hour period, prompting local authorities to address public safety concerns. Officials in San Juan County refuted online claims regarding dam failures, confirming that regional water infrastructure remains secure and fully operational. Navajo Dam is currently under 60 percent capacity, providing sufficient capacity for additional runoff.",
+        "verified_figures": [
+          "Navajo Dam under 60 percent full"
+        ],
+        "sources": [
+          {
+            "name": "KOAT",
+            "url": "https://www.koat.com/article/new-mexico-dams-safe-during-historic-floods/74239588"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola outbreak intensifies as death toll passes 4,700",
+        "score": 9.5,
+        "body": "Confirmed cases of Ebola in the Democratic Republic of the Congo have reached 9,816, resulting in 4,757 deaths across eight provinces and 66 health districts. The World Health Organization warned of a renewed intensification of transmission after recording 1,466 confirmed cases between late September and mid-October. Ituri Province remains the epicenter, accounting for over 70% of accumulated cases. Contact tracing efforts in the country currently cover 89.1% of identified contacts, while 2,635 people have recovered. Neighboring countries have heightened border vigilance as cross-border transmission risks increase.",
+        "verified_figures": [
+          "9,816 confirmed cases",
+          "4,757 deaths",
+          "2,635 recoveries",
+          "1,466 confirmed cases between Sept. 29 and Oct. 19"
+        ],
+        "sources": [
+          {
+            "name": "AzerNews",
+            "url": "https://www.azernews.az/region/266151.html"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Red Cross warns drone strikes kill hundreds in displacement camps and markets",
+        "score": 9.0,
+        "body": "The Red Cross has warned that escalating drone attacks in Sudan are killing hundreds of civilians as strikes hit residential areas, commercial markets, and camps for displaced people. The widespread bombardment of civilian infrastructure and displacement sites exacerbates severe protection risks for vulnerable populations fleeing ongoing armed conflict. Humanitarian operations face mounting hazards amid continuous aerial strikes on key civilian centers and shelter sites.",
+        "verified_figures": [
+          "hundreds killed"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/regional/415201/red-cross-warns-sudan-drone-attacks-killing-hundreds-as-homes-markets-displacement-camps-come-under-fire"
+          }
+        ]
+      },
+      {
+        "headline": "Regional — Cross-border Ebola cases detected in Kenya and Nigeria",
+        "score": 8.0,
+        "body": "The Ebola outbreak originating in Central Africa has expanded regionally, with Kenya and Nigeria reporting confirmed cases. Kenya's Ministry of Health confirmed its second death from the virus, involving a 65-year-old family contact of the initial patient, bringing Kenya's total to nine confirmed cases. Nigeria confirmed its first case of the Bundibugyo virus strain in Abuja in a traveler from Uganda. In response, Nigeria's government released 10 billion naira ($6.7 million) in emergency funds to support laboratory testing, protective equipment, and health worker training to contain further spread.",
+        "verified_figures": [
+          "9 confirmed cases in Kenya",
+          "2 deaths in Kenya",
+          "1 confirmed case in Nigeria",
+          "10bn naira ($6.7m) emergency funding"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/pidgin/articles/c64g14n0jq92o"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Russia/Ukraine — Prisoner Exchange of 540 Captives Completed",
+        "score": 6.0,
+        "body": "The Ministry of Foreign Affairs of the United Arab Emirates announced the successful exchange of 540 captives between Russia and Ukraine following UAE mediation efforts. This event marks the 27th successful mediation conducted by the UAE between the two nations during the ongoing conflict. Both sides cooperated to facilitate the prisoner swap, which aims to support peaceful resolution efforts and alleviate human suffering stemming from the hostilities.",
+        "verified_figures": [
+          "540 captives exchanged"
+        ],
+        "sources": [
+          {
+            "name": "UAE Ministry of Foreign Affairs",
+            "url": "https://www.mofa.gov.ae/en/mediahub/news/2026/10/23/uae-russia-ukraine"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Local Ceasefire Agreed for Oleshky Humanitarian Mission",
+        "score": 6.5,
+        "body": "Russian and Ukrainian human rights officials agreed to a temporary local ceasefire in the front-line city of Oleshky, located in Russian-occupied Kherson region in southern Ukraine. Operational details were established during discussions between Russian Human Rights Commissioner Yana Lantratova and Ukrainian representative Dmytro Lubinets. The pause in hostilities is intended to enable the delivery of humanitarian aid to the city and facilitate the evacuation of civilians through a designated safe passageway.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Bastille Post",
+            "url": "https://www.bastillepost.com/global/article/6287703-russia-ukraine-agree-to-temporary-ceasefire-for-oleshky-humanitarian-aid-mission"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Cross-Border Attacks Cause Civilian Casualties in Belgorod and Perm",
+        "score": 5.0,
+        "body": "Ukrainian attacks across the Russian border resulted in casualties and infrastructure damage across multiple Russian regions. In Belgorod, strikes killed three people and injured 14 others, according to local officials. A separate drone strike in the Perm region injured five people and damaged an industrial site. Additionally, Russian authorities reported drone damage to industrial facilities in Togliatti, which Ukrainian officials claimed targeted a petrochemical plant.",
+        "verified_figures": [
+          "3 people killed",
+          "19 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/three-people-killed-14-injured-ukrainian-attacks-russias-belgorod-region-2026-10-25/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — UN warns acute food insecurity to reach 19.2 million people",
+        "score": 8.0,
+        "body": "According to the United Nations, acute food insecurity in Afghanistan is projected to affect 19.2 million people during the winter period between November and April. UN humanitarian agency OCHA reported that between September and October, approximately 15.9 million Afghans experienced food insecurity at crisis levels or worse, including 3.4 million people in emergency conditions. The escalating crisis is expected to severely impact millions of children across the country as conditions worsen over the coming months.",
+        "verified_figures": [
+          "15.9 million people facing food insecurity at crisis levels or worse between September and October",
+          "3.4 million people in emergency food insecurity conditions",
+          "19.2 million people projected to face acute food insecurity between November and April"
+        ],
+        "sources": [
+          {
+            "name": "The Daily Star",
+            "url": "https://www.thedailystar.net/news/world/south-asia/news/192m-afghans-facing-acute-food-insecurity-april-un-4303596"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Infant death raises Sindh province mpox death toll to 12",
+        "score": 5.5,
+        "body": "A 53-day-old infant died from mpox in Karachi, Pakistan, after contracting the virus following a procedure at an unauthorized medical facility. Health authorities reported that the death brings the total mpox mortality count in Sindh province to 12 this year. Between late September and October, health records documented 19 cases, prompting medical experts to warn of active local transmission of the virus in the region.",
+        "verified_figures": [
+          "12 mpox deaths in Sindh province this year",
+          "19 mpox cases reported between late September and October"
+        ],
+        "sources": [
+          {
+            "name": "Arab News PK",
+            "url": "https://www.arabnews.pk/pakistan/infant-dies-of-mpox-in-pakistans-sindh-taking-2027-tally-to-12-3005137"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Displaced populations return to Loikaw cathedral amid ongoing war",
+        "score": 4.5,
+        "body": "Displaced residents in Loikaw are gradually re-establishing community gatherings despite ongoing armed conflict and mounting hardship. Local church officials report that approximately 500 people now attend weekly services at Christ the King Cathedral after fleeing surrounding villages during earlier fighting. While some community activities have resumed, displaced populations in the region continue to face severe difficulties and ongoing instability.",
+        "verified_figures": [
+          "Around 500 faithful attending weekly Mass in Loikaw"
+        ],
+        "sources": [
+          {
+            "name": "Agenzia Fides",
+            "url": "https://www.fides.org/en/news/78331-ASIA_MYANMAR_In_Loikaw_the_Church_rises_again_among_the_displaced_difficulties_are_mounting_but_faith_is_also_growing_says_the_Vicar_General"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Global / West Africa — Cross-border Ebola outbreak expands as Nigeria confirms first case",
+        "score": 8.5,
+        "body": "Health authorities have intensified international surveillance following confirmation of the first Bundibugyo Ebola virus case in West Africa. A woman in Abuja, Nigeria, who had recently traveled from Uganda, tested positive for the disease on October 11, prompting contact tracing for 44 identified individuals. The broader outbreak has reached 9,735 confirmed cases and 4,690 confirmed deaths globally. Regional healthcare institutions in Nigeria are scaling up preparedness measures, including activating rapid response teams, to prevent potential localized transmission and manage cross-border disease spread.",
+        "verified_figures": [
+          "9,735 confirmed cases globally",
+          "4,690 confirmed deaths globally",
+          "1 confirmed case in Nigeria",
+          "44 contacts identified"
+        ],
+        "sources": [
+          {
+            "name": "boldnewsonline.com",
+            "url": "https://boldnewsonline.com/amp/ebola-outbreak-spreads-across-countries-as-health-authorities-intensify-surveillance/"
+          }
+        ]
+      },
+      {
+        "headline": "China — Magnitude 7.0 earthquake strikes Tibet causing casualties and mass evacuations",
+        "score": 7.5,
+        "body": "A magnitude 7.0 earthquake struck a mountainous area in China's Tibet region, centered 183 kilometers east-northeast of Nagqu city. The tremor killed at least 16 people, injured dozens of others, and caused the collapse of more than 330 houses. Authorities have evacuated over 12,000 residents from affected zones and suspended regional train services. Emergency responders are utilizing satellites and drones to assist search and rescue operations, while national authorities have called for full-scale medical relief efforts across the impacted mountainous terrain.",
+        "verified_figures": [
+          "16 killed",
+          "76 injured",
+          "over 12,000 evacuated",
+          "over 330 houses collapsed"
+        ],
+        "sources": [
+          {
+            "name": "Rediff",
+            "url": "https://www.rediff.com/news/report/several-dead-injured-after-70-magnitude-earthquake-strikes-tibet/20261023.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Taiwan — Typhoon Champi causes one death, over 160 injuries, and emergency evacuations",
+        "score": 4.5,
+        "body": "Severe weather from Typhoon Champi has caused at least one fatality and injured 163 people across Taiwan. Torrential rains and high-velocity winds prompted local authorities to execute emergency evacuations for 2,639 residents living in high-risk mountainous areas. The storm has severely disrupted local infrastructure, transportation, and commercial activities. High-level weather alerts remain active across the island as emergency response teams continue operations to assist impacted communities and assess structural damage.",
+        "verified_figures": [
+          "1 dead",
+          "163 injured",
+          "2,639 residents evacuated"
+        ],
+        "sources": [
+          {
+            "name": "The Taiwan Times",
+            "url": "https://thetaiwantimes.com/en/world-news/typhoon-champi-leaves-one-dead-and-over-150-injured-across-t-985292"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Hurricane Vance strengthens to Category 2 off Pacific coast",
+        "score": 3.5,
+        "body": "Hurricane Vance intensified into a Category 2 storm off Mexico's Pacific coastline, generating maximum sustained winds of 110 mph. Located approximately 385 miles south-southwest of Acapulco, the system is tracking toward the coast and is forecasted to strengthen into a Category 3 major hurricane. Authorities and forecasters are monitoring the storm's trajectory as it approaches the shoreline.",
+        "verified_figures": [
+          "maximum sustained winds of 110 mph"
+        ],
+        "sources": [
+          {
+            "name": "AOL.com",
+            "url": "https://www.aol.co.uk/articles/hurricane-vance-intensifies-storm-sees-112024000.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Hebron, Occupied Palestinian Territory",
+      "score": 7.5,
+      "trigger": "Israeli military operations proceeding with planned structural demolitions following the displacement of 2,000 residents.",
+      "potential_impact": "An additional 1,300 Palestinian residents face immediate risk of forced displacement and loss of shelter.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
+        }
+      ]
+    },
+    {
+      "location": "Cul-de-Sac and Croix-des-Bouquets, Haiti",
+      "score": 7.0,
+      "trigger": "Escalating armed engagements between newly deployed Salvadoran special forces and local gangs during ongoing search operations.",
+      "potential_impact": "Heightened clashes near Port-au-Prince threaten to increase civilian casualties, displacement, and acute humanitarian access restrictions.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/americas/bodies-ambushed-salvadoran-soldiers-found-haiti-new-york-times-reports-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "location": "Pacific Coast, Mexico",
+      "score": 5.0,
+      "trigger": "Hurricane Vance intensifying into a Category 3 major hurricane as it tracks directly toward the Mexican shoreline.",
+      "potential_impact": "Severe rainfall and destructive winds could trigger localized flooding, mudslides, and displacement in vulnerable coastal settlements.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "url": "https://www.aol.co.uk/articles/hurricane-vance-intensifies-storm-sees-112024000.html"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "BBC",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "AOL.com",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Agenzia Fides",
+        "count": 1
+      },
+      {
+        "name": "Arab News PK",
+        "count": 1
+      },
+      {
+        "name": "AzerNews",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Bastille Post",
+        "count": 1
+      },
+      {
+        "name": "FOX Weather",
+        "count": 1
+      },
+      {
+        "name": "KOAT",
+        "count": 1
+      },
+      {
+        "name": "Pakistan Matters",
+        "count": 1
+      },
+      {
+        "name": "Rediff",
+        "count": 1
+      },
+      {
+        "name": "The Daily Star",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Taiwan Times",
+        "count": 1
+      },
+      {
+        "name": "UAE Ministry of Foreign Affairs",
+        "count": 1
+      },
+      {
+        "name": "boldnewsonline.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1045,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
