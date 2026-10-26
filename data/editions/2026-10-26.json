@@ -1,0 +1,496 @@
+{
+  "date": "2026-10-26",
+  "printed_time": "12:23 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An exponentially growing Ebola epidemic in the Democratic Republic of the Congo has killed over 2,500 people, with targeted attacks on health workers severely threatening containment.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "One year after the Rapid Support Forces captured North Darfur's capital of El Fasher, trapped and displaced populations face acute famine conditions and protection violations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Intense US airstrikes targeting al-Shabaab are pinning civilians along the rising River Juba in southern Somalia, compounding flood risks and protection hazards.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "A severe measles epidemic in Bangladesh has killed over 1,200 children and infected 220,000 people, triggering warnings of secondary disease outbreaks.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Israeli military operations forcibly displaced nearly 2,000 Palestinians and imposed sweeping West Bank closures in Hebron following a checkpoint attack that killed two soldiers.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "An exponentially growing Ebola outbreak in the Democratic Republic of the Congo has claimed over 2,500 lives, while targeted fatal attacks on health response teams threaten to collapse containment efforts across the region.",
+    "label": "AFRICA — DRC Ebola Crisis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — Mass displacement and Hebron lockdown following fatal attack",
+        "score": 7.5,
+        "body": "Following a checkpoint shooting outside Hebron that killed two Israeli soldiers and injured five, Israeli forces sealed off the city and imposed sweeping West Bank closures. The military launched house-to-house raids across 500 locations and detained approximately 50 suspects. Israeli forces also took over residential homes, forcibly displacing nearly 2,000 Palestinian residents in Hebron. UN Secretary-General António Guterres expressed extreme alarm over the escalating violence, home demolitions, and collective punishment measures. Two Palestinian attackers were killed during the checkpoint incident.",
+        "verified_figures": [
+          "2 Israeli soldiers killed",
+          "5 Israeli soldiers injured",
+          "2 Palestinian attackers killed",
+          "nearly 2,000 Palestinians displaced",
+          "approximately 50 suspects detained",
+          "more than 500 locations searched"
+        ],
+        "sources": [
+          {
+            "name": "United Nations in Palestine",
+            "url": "https://palestine.un.org/en/325150-west-bank-guterres-alarmed-israel-imposes-sweeping-closures-after-deadly-hebron-attack"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza Strip — Airstrikes reported in Gaza City and Khan Younis",
+        "score": 5.0,
+        "body": "Israeli military airstrikes were reported in parts of the Gaza Strip, causing casualties and damage to civil infrastructure. In Gaza City, an airstrike targeting the Islamic University compound reportedly killed three Palestinians. In southern Gaza, a separate airstrike hit the Sheikh Nasser neighbourhood east of Khan Younis, causing unconfirmed casualties. The reported attacks come despite an existing ceasefire agreement, highlighting continued violence and risks to civilians.",
+        "verified_figures": [
+          "3 Palestinians reportedly killed"
+        ],
+        "sources": [
+          {
+            "name": "Business Upturn",
+            "url": "https://businessupturn.com/asia/middle-east-asia/iran/gaza-city-airstrike-reportedly-kills-three-palestinians-at-islamic-university/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang violence drives displacement of over 7,000 civilians",
+        "score": 7.0,
+        "body": "Ongoing violent clashes between armed criminal gangs in Haiti have displaced approximately 7,250 people, representing 1,637 households, according to data from the International Organization for Migration. Escalating crossfire between rival groups vying for territorial control has forced families to flee their homes and seek temporary shelter with host families in surrounding municipalities. Criminal gangs continue to control significant areas in and beyond Port-au-Prince, posing grave protection risks to civilian populations caught in the conflict.",
+        "verified_figures": [
+          "7,250 people displaced",
+          "1,637 households displaced"
+        ],
+        "sources": [
+          {
+            "name": "la Repubblica",
+            "url": "https://www.repubblica.it/en/global-development/emergency/2026/10/25/news/haiti_the_constant_displacement_of_the_civilian_population_due_to_violent_clashes_between_gangs-425674812/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — El Salvador deploys special forces following abduction of soldiers",
+        "score": 6.0,
+        "body": "El Salvador has deployed at least 100 special forces personnel to Haiti to locate four Salvadoran soldiers abducted during the previous week. The missing troops were serving as part of El Salvador's contribution to the United Nations-authorized Gang Suppression Force tasked with combating gang violence and securing key infrastructure in Port-au-Prince. Salvadoran officials indicated that up to 100 additional military personnel may be deployed in the coming days as search operations proceed.",
+        "verified_figures": [
+          "at least 100 special forces deployed",
+          "4 soldiers abducted"
+        ],
+        "sources": [
+          {
+            "name": "Caribbean National Weekly",
+            "url": "https://www.caribbeannationalweekly.com/posts/el-salvador-sends-special-forces-to-haiti-to-search-for-abducted-soldiers"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Tropical Storm Vance threatens western states with heavy rainfall",
+        "score": 5.0,
+        "body": "Tropical Storm Vance, previously a Category 2 hurricane, continues to move off Mexico's southwestern Pacific coast. The U.S. National Hurricane Center reported maximum sustained winds of 70 mph (110 km/h) as the storm churns off the coast. Vance is expected to bring heavy rainfall and flash flooding threats to several western states, including Colima, Nayarit, Sinaloa, Michoacan, Jalisco, and Durango.",
+        "verified_figures": [
+          "maximum sustained winds of 70 mph (110 km/h)"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://www.bozemandailychronicle.com/wire/news/vance-no-longer-a-hurricane-but-as-a-tropical-storm-still-threatens-mexicos-pacific-coast/article_9038f375-124e-5635-a20b-2bd19e92a88a.html"
+          }
+        ]
+      },
+      {
+        "headline": "United States — River flooding slowly recedes in New Mexico",
+        "score": 4.0,
+        "body": "Floodwaters along the San Juan and Animas rivers in San Juan County, New Mexico, have begun to recede following historic crests. Emergency management officials confirmed that the San Juan River near Farmington has crested, though it remains at major flood stage near Shiprock. Evacuated zones remain closed to returning residents while local authorities continue to monitor water levels.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "KOAT",
+            "url": "https://www.koat.com/article/historic-new-mexico-floods-ease-san-juan-animas-rivers/74241324"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "WHO Condemns Targeted Attack That Kills Nurse Responding to DRC Ebola Outbreak",
+        "score": 10.0,
+        "body": "A targeted attack on an Ebola response team in the eastern Democratic Republic of Congo has left a nurse dead and a health worker severely injured, prompting urgent condemnation from the World Health Organization and raising fears for the fragile containment of the deadly virus. Violence in Tshopo Province The assault occurred on Saturday in the town of Bafwasende, located in the Tshopo province, as the medical personnel were responding to an Ebola alert. The incident marks the latest in a troubling pattern of violence against frontline health workers in the region, threatening to unravel weeks of meticulous contact tracing and vaccination campaigns. WHO Director-General Tedros Adhanom Ghebr",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "https://streamlinefeed.co.ke/",
+            "url": "https://streamlinefeed.co.ke/news/who-condemns-targeted-attack-that-kills-nurse-responding-to-drc-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan: El Fasher - Survivors of the RSF Invasion Face Famine, Displacement, and a Bitte...",
+        "score": 10.0,
+        "body": "The memory of the Rapid Support Forces' (RSF) invasion of El Fasher, the capital of North Darfur, on October 26, 2025, remains exceptionally bitter. The bloody events and widespread violations were not just a military takeover but a catastrophic turning point for hundreds of thousands of lives. One year later, the full chapters of that tragedy are being exposed via the stories of people who survived El Fasher; some now dwell in displacement camps, dreaming of a future of ephemeral justice. The escape The details of the escape from El Fasher remain etched in the memories of the survivors. Hekmat Al-Hafiz, a former aid worker in the Zamzam camp, told Ayin about her harrowing first experience o",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "allAfrica.com",
+            "url": "https://allafrica.com/stories/202610260015.html"
+          }
+        ]
+      },
+      {
+        "headline": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in t...",
+        "score": 10.0,
+        "body": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There was nowhere to go. Ali’s city of Jilib was under attack. Repeated airstrikes, said the mother of six, were pinning its population beside the rising river. “The drones come all the time,” said the 27-year-old. “We hear them constantly. They kill animals, civilians. The town is big but destruction is everywhere.” Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino"
+          }
+        ]
+      },
+      {
+        "headline": "DRC Ebola outbreak 'growing exponentially,' UN says",
+        "score": 9.5,
+        "body": "The Ebola outbreak in the Democratic Republic of Congo is \"growing exponentially\" and risks spilling over into neighboring countries unless containment efforts are stepped up, the UN's senior Ebola coordinator said Friday. The outbreak is already the deadliest in the country's history, with more than 2,500 deaths from over 5,000 infections. \"The epidemic is spreading widely. It's now covering an area that is bigger than France,\" UN senior Ebola coordinator Julien Harneis told journalists, adding that half of the 2,500 deaths had been reported in the last 20 days alone. \"It is growing faster and wider than the Ebola response.\" He stressed that aid funding and the delivery of resources to remo",
+        "verified_figures": [
+          "2,500 deaths"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/congo-ebola-spread-vaccine/a-78457248"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Localized truce planned for occupied Oleshky amidst aid blocking claims",
+        "score": 6.0,
+        "body": "Kremlin spokesperson Dmitry Peskov stated Russia remains open to localized humanitarian ceasefires, even as its broader offensive against Ukraine continues. A localized truce in Russian-occupied Oleshky, Kherson region, is scheduled for Oct. 29 to facilitate civilian evacuations and humanitarian aid deliveries. The announcement follows claims by Russia’s Defence Ministry accusing Ukrainian forces of blocking civilian departures and essential food and medicine supplies to Oleshky. Ukrainian authorities have previously rejected similar accusations, charging Russian troops with restricting access. The competing claims remain unverified independently.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Kyiv Post",
+            "url": "https://www.kyivpost.com/post/88183"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian strike hits western energy infrastructure ahead of winter",
+        "score": 6.5,
+        "body": "A Russian attack on an energy facility in western Ukraine's Khmelnytskyi region caused emergency power outages and damaged residential infrastructure in Kamianets-Podilskyi district. Regional authorities confirmed that the blast wave shattered windows in at least two residential buildings, forcing utility teams to enact emergency blackout protocols to restore power supplies. The strike forms part of an intensified campaign targeting Ukrainian power grid infrastructure ahead of winter, heightening humanitarian risks for communities dependent on electricity for heating.",
+        "verified_figures": [
+          "at least 2 residential buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/russian-strike-damages-energy-facility-in-western-ukraine-as-winter-grid-campaign-intensifies"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian strikes cause civilian casualties across Zaporizhzhia, Chernihiv, and Dnipropetrovsk",
+        "score": 7.0,
+        "body": "Russian military strikes across multiple Ukrainian regions have resulted in casualties among civilians. Regional officials confirmed six people were injured in strikes hitting Zaporizhzhia and Chernihiv regions. Separately, Médecins Sans Frontières reported that a Russian attack in Dnipropetrovsk region killed and wounded several people. The attacks underscore persistent protection concerns for populations living near frontline areas as shelling and aerial strikes hit populated zones.",
+        "verified_figures": [
+          "6 injured in Zaporizhzhia and Chernihiv",
+          "several killed and wounded in Dnipropetrovsk"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/six-injured-russian-strikes-ukraines-zaporizhzhia-chernihiv-officials-say-2026-10-26/"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Drone attack in Voronezh region kills two",
+        "score": 4.0,
+        "body": "A drone attack targeting Russia's southwestern Voronezh region killed two men, according to statement by the regional governor. Russian authorities also reported capturing Ukrainian agents allegedly preparing a close-range drone strike on Moscow's air defence systems. Cross-border shelling and drone attacks in Russian border regions continue to inflict localized casualties and raise security risks.",
+        "verified_figures": [
+          "2 men killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/drone-attack-russias-voronezh-region-kills-two-men-governor-says-2026-10-26/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Bangladesh — Experts Warn of Broader Disease Outbreaks Amid Deadly Measles Crisis",
+        "score": 8.0,
+        "body": "A severe measles epidemic in Bangladesh has killed over 1,200 children and infected more than 220,000 people since March, making it the country's deadliest outbreak in decades. An independent committee of national and international health experts warned that the crisis reflects a deteriorating immunization system, leaving the population vulnerable to secondary outbreaks of diphtheria, whooping cough, and polio.",
+        "verified_figures": [
+          "over 1,200 children killed",
+          "220,000 people infected"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/bangladesh-measles-crisis-warning-sign-other-outbreaks-report"
+          }
+        ]
+      },
+      {
+        "headline": "India — Coastal States Prepare Mass Evacuations Ahead of Cyclone Arnab",
+        "score": 7.0,
+        "body": "State authorities in eastern India are preparing to evacuate roughly 570,000 people living in vulnerable coastal areas ahead of Cyclone Arnab's projected landfall in Andhra Pradesh. The storm, which developed over the Bay of Bengal, is expected to bring heavy to extremely heavy rainfall and wind gusts reaching up to 140 km/h. Precautionary measures, including school closures, have been initiated across coastal districts in Andhra Pradesh and neighboring Odisha state.",
+        "verified_figures": [
+          "around 5.7 lakh (570,000) people identified for evacuation",
+          "wind gusts up to 140 km/h"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/india-evacuate-thousands-cyclone-arnab-nears-eastern-coast-2026-10-26/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — UNICEF Sustains Therapeutic Aid Flow Amid Malnutrition Crisis",
+        "score": 6.0,
+        "body": "UNICEF is maintaining the delivery of therapeutic nutrition and emergency assistance into Afghanistan to respond to an escalating malnutrition crisis. The agency is routing life-saving supplies through a regional logistics and supply hub established in Termez, Uzbekistan, to ensure a continuous supply pipeline across the border for vulnerable populations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "KabulNow",
+            "url": "https://kabulnow.com/2026/10/unicef-sends-humanitarian-aid-to-afghanistan-through-uzbekistan-amid-growing-malnutrition-crisis/"
+          }
+        ]
+      },
+      {
+        "headline": "China — Magnitude 5.9 Quake Hits Tibet Following Prior 7.0 Earthquake",
+        "score": 6.0,
+        "body": "China's Tibet region was struck by a magnitude 5.9 earthquake at a depth of 10 kilometers, according to the China Earthquake Networks Center. The tremor struck the region just days after a major 7.0-magnitude earthquake caused damage across northern Tibet, compounding risks for affected communities.",
+        "verified_figures": [
+          "magnitude 5.9 earthquake",
+          "magnitude 7.0 earthquake"
+        ],
+        "sources": [
+          {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com/interactive/2026/10/22/world/quake-tracker-china.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Central, East and West Africa — Ebola Outbreak",
+        "score": 8.5,
+        "body": "The African Union and the Africa Centres for Disease Control and Prevention have urged immediate continental coordination and resource mobilization to halt a spreading outbreak of the Bundibugyo Ebola virus. Confirmed cases have been reported across three regions, affecting the Democratic Republic of the Congo, Uganda, Kenya, and Nigeria. Health officials emphasized the need for transparent reporting, swift decision-making, and heightened public health preparedness. Meanwhile, lawmakers in neighboring countries, including Ghana, have raised concerns regarding hospital readiness and early detection capabilities outside major administrative centers.",
+        "verified_figures": [
+          "Confirmed cases in DRC, Uganda, Kenya, and Nigeria",
+          "Outbreak spread across 3 African regions"
+        ],
+        "sources": [
+          {
+            "name": "News On AIR",
+            "url": "https://newsonair.gov.in/african-union-calls-for-urgent-action-to-contain-ebola-outbreak-across-africa/"
+          }
+        ]
+      },
+      {
+        "headline": "Taiwan — Typhoon Champi",
+        "score": 5.0,
+        "body": "Recovery efforts are underway in Taiwan following heavy rainfall, high waves, and strong winds brought by Typhoon Champi between October 22 and 24. Emergency management officials confirmed one death in Pingtung County after an individual was swept away by waves, while 634 people suffered injuries, with 508 subsequently discharged from medical facilities. The storm caused significant localized disruption and damaged the agricultural sector, with losses calculated at NT$193.32 million.",
+        "verified_figures": [
+          "1 fatality",
+          "634 injuries",
+          "508 medical discharges",
+          "NT$193.32 million in agricultural losses"
+        ],
+        "sources": [
+          {
+            "name": "Watching the world evolve and transform",
+            "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+          }
+        ]
+      },
+      {
+        "headline": "United Kingdom — Storms Boelo and Austen",
+        "score": 3.0,
+        "body": "Severe weather caused by back-to-back storms, Austen and Boelo, resulted in two fatalities and widespread power disruptions in the United Kingdom. Two men died after being hit by falling trees during severe gales. The storms brought localized flooding, severe travel disruptions, and power outages, leaving approximately 90,000 properties without electricity, predominantly in northern regions. Weather forecasts indicate additional strong winds may further delay ongoing response and repair efforts.",
+        "verified_figures": [
+          "2 fatalities",
+          "90,000 properties without power"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Andhra Pradesh and Odisha, India",
+      "score": 7.0,
+      "trigger": "Cyclone Arnab making landfall over eastern coastal districts with wind gusts reaching up to 140 km/h over the next 72 hours.",
+      "potential_impact": "Severe storm surges and torrential rainfall could cause widespread flooding and property damage, forcing the emergency evacuation of approximately 570,000 residents.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/india-evacuate-thousands-cyclone-arnab-nears-eastern-coast-2026-10-26/"
+        }
+      ]
+    },
+    {
+      "location": "Khmelnytskyi and Western Regions, Ukraine",
+      "score": 6.5,
+      "trigger": "Escalated Russian strikes targeting energy grid infrastructure during the onset of freezing winter conditions.",
+      "potential_impact": "Prolonged emergency blackouts could disrupt municipal heating, power systems, and emergency services for civilian populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "streamlinefeed.co.ke",
+          "url": "https://streamlinefeed.co.ke/news/russian-strike-damages-energy-facility-in-western-ukraine-as-winter-grid-campaign-intensifies"
+        }
+      ]
+    },
+    {
+      "location": "Southwestern Pacific Coast, Mexico",
+      "score": 5.0,
+      "trigger": "Tropical Storm Vance tracking near western coastal states with sustained winds of 70 mph.",
+      "potential_impact": "Heavy rainfall and flash flooding could trigger destructive mudslides and isolate communities in low-lying coastal areas.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://www.bozemandailychronicle.com/wire/news/vance-no-longer-a-hurricane-but-as-a-tropical-storm-still-threatens-mexicos-pacific-coast/article_9038f375-124e-5635-a20b-2bd19e92a88a.html"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 4
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "streamlinefeed.co.ke",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Business Upturn",
+        "count": 1
+      },
+      {
+        "name": "Caribbean National Weekly",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "KOAT",
+        "count": 1
+      },
+      {
+        "name": "KabulNow",
+        "count": 1
+      },
+      {
+        "name": "Kyiv Post",
+        "count": 1
+      },
+      {
+        "name": "News On AIR",
+        "count": 1
+      },
+      {
+        "name": "The New York Times",
+        "count": 1
+      },
+      {
+        "name": "United Nations in Palestine",
+        "count": 1
+      },
+      {
+        "name": "Watching the world evolve and transform",
+        "count": 1
+      },
+      {
+        "name": "allAfrica.com",
+        "count": 1
+      },
+      {
+        "name": "https://streamlinefeed.co.ke/",
+        "count": 1
+      },
+      {
+        "name": "la Repubblica",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "6 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 3/3 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1146,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
