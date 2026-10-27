@@ -1,0 +1,467 @@
+{
+  "date": "2026-10-27",
+  "printed_time": "11:43 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Israeli forces used two 1,000lb unguided bombs in airstrikes that killed 19 members of a Palestinian family, including seven children, in Gaza in October 2025, according to new findings by a United Nations-mandated investigation.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine during funeral Jordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox church in the southern Jordanian governorate of Karak that killed nine people, the Jordanian air force has said in a statement.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Jordan said it targeted ‘terrorist hideouts’ in Syria, but relatives of those killed deny any link to last week’s church.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Syria's foreign ministry on Tuesday condemned Jordanian strikes in southern Syria in retaliation for a deadly church attack in the kingdom last week that Amman linked to militants operating across the border.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Nurse killed in attack while responding to Ebola alert in DR Congo A nurse has been killed and another health worker seriously injured in an attack as they were responding to an Ebola alert in north-eastern Democratic Republic of Congo.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Israeli forces used two 1,000lb unguided bombs in airstrikes that killed 19 members of a Palestinian family, including seven children, in Gaza in October 2025, according to new findings by a United Nations-mandated investigation.",
+    "label": "MIDDLE EAST — UN inquiry identifies 1,000lb unguided bombs in Gaza family killings as West Ban"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — UN inquiry documents 1,000lb unguided bomb strike on Gaza family",
+        "score": 7.5,
+        "body": "A United Nations-mandated inquiry reported that Israeli forces used two 1,000lb unguided bombs in an airstrike that killed 19 members of a single Palestinian family, including seven children, in Gaza in October 2025. The findings by the Independent International Commission of Inquiry form part of a broader investigation into Israeli military operations, civilian casualties, and alleged breaches of international law across Gaza and the West Bank. The commission was established by the UN Human Rights Council in May 2021 to investigate alleged violations in the Occupied Palestinian Territory and Israel.",
+        "verified_figures": [
+          "19 family members killed",
+          "7 children killed",
+          "2 1,000lb unguided bombs used"
+        ],
+        "sources": [
+          {
+            "name": "AOAV",
+            "url": "https://aoav.org.uk/2026/un-1000lb-bombs-gaza-west-bank-airstrikes/"
+          }
+        ]
+      },
+      {
+        "headline": "Syria/Jordan — Cross-border Jordanian airstrikes cause civilian casualties in southern Syria",
+        "score": 7.0,
+        "body": "Jordanian military forces launched retaliatory airstrikes against armed groups in southern Syria following an attack on a Greek Orthodox church in Karak governorate, Jordan, which killed nine people during a funeral. Syria's foreign ministry condemned the strikes as an unacceptable violation of sovereignty, stating the raid killed seven people, including three children and one woman. Relatives of the deceased in Syria denied any connection to the church assault. Jordanian authorities reported destroying militant hideouts and vehicles while expressing regret over civilian casualties.",
+        "verified_figures": [
+          "9 people killed in Karak church attack",
+          "7 people killed in Syria airstrikes",
+          "3 children killed in Syria",
+          "1 woman killed in Syria"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/jordan-church-shooting-karak-arrests-c3f87a077a08b4fcf7a15b169a83a6b5"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace"
+          }
+        ]
+      },
+      {
+        "headline": "Iran — Executions of athletes raise protection concerns",
+        "score": 5.0,
+        "body": "Human rights activists report growing concerns for Iranian sportspeople facing execution following the death of mountain climber Ali-Sina Mostafavi on 14 October. Mostafavi was arrested in April after participating in anti-government protests. His execution follows those of taekwondo athlete Siavash Jamshidi Kheirabadi in early October and mixed martial arts fighter Gholamreza Khani Shakarab in May. According to rights monitoring groups, at least six other Iranian athletes remain on death row.",
+        "verified_figures": [
+          "3 athletes executed since May 2026",
+          "At least 6 athletes on death row"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "United States — Severe Flooding Hits Northern New Mexico",
+        "score": 6.0,
+        "body": "Severe weather and widespread flooding across northern New Mexico counties and indigenous pueblos have damaged thousands of homes. Governor Michelle Lujan Grisham made $8.25 million in state emergency funding available after President Donald Trump partially approved a federal disaster declaration. State officials estimated that total flood damages, including extensive impacts on roads and infrastructure, could ultimately reach $300 million.",
+        "verified_figures": [
+          "Thousands of homes damaged",
+          "Up to $300 million in estimated total costs",
+          "$8.25 million in state funding made available"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/video/watch/idRW333326102026RP1/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Hundreds Missing Following Earthquake",
+        "score": 8.0,
+        "body": "Emergency search and rescue efforts are underway in Colombia following an earthquake that has left hundreds of people missing. Rescue operations are continuing under urgent conditions as response teams work to locate survivors in affected areas. Additional details regarding structural damage, precise location, and confirmed casualties were not immediately available in initial reports.",
+        "verified_figures": [
+          "Hundreds of people missing"
+        ],
+        "sources": [
+          {
+            "name": "DD News",
+            "url": "https://ddnews.gov.in/en/hundreds-still-missing-in-colombia-as-desperation-grips-earthquake-rescue-effort/"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Heavy Rains and Flooding Affect Chihuahua State and Pacific Coast",
+        "score": 5.0,
+        "body": "Severe storms caused flooding across Chihuahua state in northern Mexico, with water inundating homes and sweeping away vehicles in Ciudad Juárez, Parral, and Delicias. Civil defense authorities recorded more than 100 storm-related incidents in the region. Off the southwest Pacific coast, Tropical Storm Vance continues to pose a threat of heavy rainfall and flash flooding across several western states.",
+        "verified_figures": [
+          "More than 100 storm-related incidents recorded"
+        ],
+        "sources": [
+          {
+            "name": "Jacksonville, NC",
+            "url": "https://www.jdnews.com/news/vance-no-longer-a-hurricane-but-still-threatens-mexicos-pacific-coast/article_085699d2-3426-5ce6-baaa-b812de16c1c1.html"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Record Coastal Flooding Strikes Southeast US Coast",
+        "score": 3.0,
+        "body": "Persistent onshore winds combined with high tides intensified by a full moon led to a record six consecutive days of moderate coastal flooding in Miami, Florida. Water levels recorded at the city's tide gauge reached their fifth-highest level since monitoring began in 1994, prompting coastal flood advisories and warnings across much of the Southeast coastline.",
+        "verified_figures": [
+          "Six-day streak of moderate coastal flooding in Miami"
+        ],
+        "sources": [
+          {
+            "name": "Yale Climate Connections",
+            "url": "https://yaleclimateconnections.org/2026/10/record-flooding-hits-the-u-s-as-powerful-tropical-storms-threaten-asia/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Health worker killed in Ebola response amid rising regional impact",
+        "score": 8.5,
+        "body": "In north-eastern Democratic Republic of the Congo, local youths armed with machetes killed a nurse and seriously injured another health worker conducting Ebola awareness activities in Tshopo province. The attack, condemned by the World Health Organization, was driven by misinformation claiming health staff contaminated local water sources. More than 4,800 people have died in the Ebola outbreak. In response to the spread, neighboring Uganda banned non-essential travel to and from DR Congo and imposed a mandatory 21-day quarantine for returning citizens. Humanitarian medical teams are also assisting in South Kivu province, where health facilities contend with concurrent Ebola and cholera epidemics amid severe shortages of clean water, medical personnel, and protective gear.",
+        "verified_figures": [
+          "More than 4,800 deaths",
+          "21-day quarantine"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/crx2dyd24188o"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Localized ceasefire takes effect in Oleshky for humanitarian access",
+        "score": 7.0,
+        "body": "A localized ceasefire between Russian and Ukrainian forces took effect early Tuesday in the southern province of Kherson to allow a humanitarian aid mission into the Russian-occupied town of Oleshky later this week. Russia suspended strikes in Kherson starting at 01:00 GMT, although missile attacks and military strikes continued in other regions, including Kyiv. The pause in fighting was arranged following talks led by U.S. First Lady Melania Trump alongside civilian negotiators from both countries and United Nations officials. The aid delivery comes ahead of a new round of U.S.-brokered discussions between Ukrainian and Russian representatives.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russia-ukraine-begin-localised-ceasefire-allow-humanitarian-operation-oleshky-2026-10-27/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — UN report finds Russian attacks on energy grid constitute war crimes",
+        "score": 7.5,
+        "body": "A United Nations report released on October 26 concluded that deliberate Russian military attacks against Ukraine's energy systems constitute war crimes and crimes against humanity. According to the UN-backed inquiry, Russian military commanders proceeded with systematic assaults despite knowing the vital role energy infrastructure plays in preserving civilian lives, particularly during harsh winter months. The report documents severe humanitarian risks resulting from the deliberate destruction of power networks essential for civilian survival.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/un-russia-ukraine-commission-report-war-crimes-27ee6394694bb30a7f1eab9addced768"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "India — Cyclone Arnab Evacuations",
+        "score": 7.0,
+        "body": "Authorities on India's eastern coast are conducting evacuations as Cyclone Arnab approaches, with landfall expected on Wednesday. According to reporting, approximately 400,000 people require evacuation from vulnerable coastal areas ahead of the storm's arrival.",
+        "verified_figures": [
+          "400,000 people in need of evacuation"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/thousands-evacuate-indias-eastern-coast-ahead-cyclone-arnab-2026-10-27/"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/india-braces-cyclone-arnab-evacuations"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Worsening Malnutrition Crisis",
+        "score": 7.5,
+        "body": "The World Food Programme warned of a deepening hunger crisis in Afghanistan, reporting that nearly five million mothers and children nationwide are affected by severe malnutrition. According to WFP leadership, malnutrition rates are approaching record levels while humanitarian operations face mounting pressure. Malnourished families in eastern regions are traveling significant distances to reach functional medical aid clinics.",
+        "verified_figures": [
+          "nearly 5 million mothers and children affected by severe malnutrition"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008717"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Humanitarian Access Restrictions",
+        "score": 5.5,
+        "body": "The UN Office for the Coordination of Humanitarian Affairs reported 30 access-related incidents hindering relief operations across Afghanistan in September, with 18 cases involving direct interference. Although reported incidents fell 27 percent from August, OCHA noted that underreporting may disguise the true scale, warning that ongoing restrictions on female aid workers continue to severely restrict humanitarian delivery.",
+        "verified_figures": [
+          "30 access-related incidents in September",
+          "18 incidents involved interference",
+          "27 percent decrease compared with August"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/news/islam/afghanistan/146619-un-restrictions-on-female-aid-workers-continue-to-hinder-humanitarian-access-in-afghanistan/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC / Global — Escalating Ebola outbreak prompts vaccine trials amid regional spread",
+        "score": 9.0,
+        "body": "An ongoing Ebola outbreak originating in the Democratic Republic of the Congo has become the most geographically widespread on record, causing over 4,600 deaths and 9,600 confirmed cases worldwide. The virus has spread regionally to Uganda, Kenya, and Nigeria, with imported cases identified in France and Switzerland. In response, international regulatory bodies including the African Medicines Agency, European Medicines Agency, and WHO are expediting clinical trials for vaccines targeting the Bundibugyo virus strain. Doctors Without Borders and Epicentre have initiated vaccinations under the Tumaini clinical trial in the DRC to support containment efforts.",
+        "verified_figures": [
+          "Over 4,600 deaths",
+          "More than 9,600 confirmed cases worldwide"
+        ],
+        "sources": [
+          {
+            "name": "Manchester Evening News",
+            "url": "https://www.manchestereveningnews.co.uk/news/world-news/ebola-outbreak-should-worried-uk-34820245"
+          }
+        ]
+      },
+      {
+        "headline": "DRC — Health worker killed in attack targeting Ebola response team",
+        "score": 7.0,
+        "body": "A nurse was killed and another health worker injured in a machete attack in Tshopo province, Democratic Republic of the Congo. Local authorities stated the health personnel were targeted by an armed group of youths influenced by online misinformation alleging that medical staff were deliberately spreading Ebola. The attack highlights critical protection and security risks facing responders, which threaten to severely hamper medical access and containment efforts in remote health zones across the country.",
+        "verified_figures": [
+          "1 nurse killed",
+          "1 health worker injured"
+        ],
+        "sources": [
+          {
+            "name": "The Sun",
+            "url": "https://www.thesun.co.uk/news/40819145/ebola-nurse-murder-machete-congo/"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Health authorities monitor contacts following imported Ebola case",
+        "score": 5.0,
+        "body": "Kenya's Ministry of Health released 20 individuals from quarantine after health assessments confirmed they were symptom-free following the country's first imported Ebola case three weeks ago. Health officials warned that the outbreak is not yet contained, with 98 remaining contacts undergoing phased monitoring and scheduled for release starting in early November. Authorities urged local communities to integrate returning individuals and maintain vigilance as national disease surveillance continues.",
+        "verified_figures": [
+          "20 contacts released from quarantine",
+          "98 contacts remaining in quarantine"
+        ],
+        "sources": [
+          {
+            "name": "Citizen Digital",
+            "url": "https://citizen.digital/article/20-ebola-contacts-leave-quarantine-as-moh-warns-outbreak-not-yet-contained-n392771"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Nigeria Ebola patient flown to Switzerland, Congo health wor",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "CBC",
+          "url": "https://www.cbc.ca/news/health/ebola-outbreak-countries-affected-9.7396192"
+        }
+      ]
+    },
+    {
+      "location": "DRC's Ebola cases near 10,000 as health workers face deadly ",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Eastleigh Voice",
+          "url": "https://eastleighvoice.co.ke/regional/416457/drcs-ebola-cases-near-10000-as-health-workers-face-deadly-attacks"
+        }
+      ]
+    },
+    {
+      "location": "Antequera doctors join DRC mission to combat Ebola and chole",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Sur in English",
+          "url": "https://www.surinenglish.com/lifestyle/health/from-antequera-congo-20261026000500-nt.html"
+        }
+      ]
+    },
+    {
+      "location": "Ebola disease outbreak 2026: How MSF is responding",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Doctors Without Borders",
+          "url": "https://www.doctorswithoutborders.org/latest/ebola-disease-outbreak-2026-how-msf-responding"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AOAV",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "CBC",
+        "count": 1
+      },
+      {
+        "name": "Citizen Digital",
+        "count": 1
+      },
+      {
+        "name": "DD News",
+        "count": 1
+      },
+      {
+        "name": "Doctors Without Borders",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Jacksonville, NC",
+        "count": 1
+      },
+      {
+        "name": "Manchester Evening News",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "Sur in English",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Sun",
+        "count": 1
+      },
+      {
+        "name": "Yale Climate Connections",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 5/5 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1406,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
