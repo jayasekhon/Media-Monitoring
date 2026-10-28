@@ -1,0 +1,365 @@
+{
+  "date": "2026-10-28",
+  "printed_time": "12:13 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola outbreak in the Democratic Republic of the Congo has escalated into an unprecedented regional emergency, recording over 10,100 cases and nearly 5,000 deaths across multiple countries without an approved vaccine for the active strain.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "A military drone strike on a market in South Darfur killed over 100 civilians and injured 113 others, while additional strikes disrupted power across Khartoum amid worsening humanitarian conditions.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "A United Nations inquiry panel reported that 75,000 Palestinians have been killed during ongoing Israeli military operations as civilian harm and protection crises persist.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Cyclone Arnab struck India's eastern coast as a severe cyclonic storm, causing at least three deaths and forcing the evacuation of over 180,000 people in Andhra Pradesh and Odisha.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "A 30-hour localized ceasefire in Ukraine's southern Kherson region enabled relief deliveries and civilian evacuations for nearly 2,000 residents trapped under siege conditions in Oleshky.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "A rapidly expanding Ebola outbreak originating in the Democratic Republic of the Congo has surpassed 10,100 cases and 4,900 deaths, with cross-border transmission into Kenya and Nigeria heightening global concern due to the lack of a licensed vaccine for the Bundibugyo strain.",
+    "label": "GLOBAL / CROSS-CUTTING — Disease Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Occupied Palestinian Territory — UN Probe Panel Reports 75,000 Fatalities",
+        "score": 8.0,
+        "body": "A United Nations inquiry panel has reported that 75,000 Palestinians have been killed during ongoing Israeli military operations. According to the panel's findings, military actions and severe harm to civilians persist despite ceasefire efforts, underscoring ongoing concerns regarding mass casualties and severe protection crises across the occupied Palestinian territory.",
+        "verified_figures": [
+          "75,000 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com/article/legal-news/75000-palestinians-killed-israel-genocide-ceasefire-un-probe-10940398/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Airstrike on Petrol Station Kills 11 Amid Escalating Tensions",
+        "score": 6.0,
+        "body": "Houthi-affiliated media reported that a Saudi airstrike targeted a petrol station in Yemen, killing 11 people. The incident occurred amid broader conflict escalation, including intensified combat around Taiz and Houthi calls for the immediate evacuation of Aden airport. Regional diplomatic initiatives, including Qatari mediation concerning wider hostilities involving the United States, Israel, and Iran, remain ongoing alongside local fighting.",
+        "verified_figures": [
+          "11 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Mathrubhumi English",
+            "url": "https://english.mathrubhumi.com/news/world/yemen-conflict-escalates-houthis-aden-airport-evacuation-pvp57owf"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Jordanian Airstrikes in Daraa Cause Civilian Deaths and Inquiries",
+        "score": 5.5,
+        "body": "Airstrikes conducted by Jordan against alleged ISIS targets in Daraa province, southern Syria, resulted in civilian casualties. Syrian authorities reported that seven civilians, including three children, were killed and three others wounded. Jordanian officials reported eliminating nearly two dozen ISIS fighters. Syrian Foreign Minister Asaad al-Shaibani and Jordanian Foreign Minister Ayman Safadi agreed to form a joint security panel to investigate the incident.",
+        "verified_figures": [
+          "7 civilians killed",
+          "3 children killed",
+          "3 people wounded"
+        ],
+        "sources": [
+          {
+            "name": "The Jerusalem Post",
+            "url": "https://www.jpost.com/middle-east/article-913114"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Displaced Kurds Trapped After Violence Erupts in Tal Abyad Return Attempt",
+        "score": 5.0,
+        "body": "An attempt by internally displaced Kurds to return to their homes in Tal Abyad turned violent when hostile mobs attacked their convoy. More than 200 displaced people were besieged inside a local administration building for nearly nine hours. The return initiative was organized following discussions with regional authorities in Raqqa and Tal Abyad to submit land ownership documentation before clashes broke out.",
+        "verified_figures": [
+          "more than 200 people trapped"
+        ],
+        "sources": [
+          {
+            "name": "Rudaw",
+            "url": "https://rudaw.net/english/categories/syria/1079913"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Attack on International Forces Triggers Troop Deployment",
+        "score": 7.0,
+        "body": "Haitian gangs ambushed an armored vehicle carrying four Salvadoran aviation technicians in Croix-des-Bouquets, northeast of Port-au-Prince. The vehicle was targeted with explosives and fire in an area controlled by the Chen Méchan and 400 Mawozo gangs. Although the four personnel escaped the burning vehicle, they remain missing, and intense local fighting has hindered international search and rescue efforts. In response to the attack and disappearance, El Salvador deployed approximately 1,000 special forces troops to Haiti to locate the missing technicians and participate in operations against armed gangs.",
+        "verified_figures": [
+          "4 Salvadoran military technicians missing",
+          "roughly 1,000 troops deployed by El Salvador"
+        ],
+        "sources": [
+          {
+            "name": "GlobalPost",
+            "url": "https://globalpost.com/stories/haitian-gangs-launch-major-attack-on-un-backed-troops/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Ebola outbreak sees 136 suspected deaths in DRC, officials say - ABC News",
+        "score": 10.0,
+        "body": "Ebola outbreak sees 136 suspected deaths in DRC, officials say More than 40 health experts were deployed to the field on Sunday. At least 543 suspected cases and 136 suspected deaths have been recorded in the ongoing Ebola outbreak in the eastern Democratic Republic of the Congo, officials said Tuesday. Congolese Minister of Public Health Samuel Roger Kamba said during a press briefing that authorities will determine which of these deaths \"are actually linked to the disease.\" At least 30 cases of Ebola have been confirmed in Congo, officials said. Cases have been reported in urban areas, including one of Congo's largest cities, Goma, the rebel-held capital of the eastern province of North Ki",
+        "verified_figures": [
+          "30 cases"
+        ],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/ebola-outbreak-sees-131-suspected-deaths-drc-officials/story?id=133099345"
+          }
+        ]
+      },
+      {
+        "headline": "DRC warns that the Ebola outbreak exceeds 4,900 deaths and surpasses 10,100 infections ...",
+        "score": 10.0,
+        "body": "DRC warns that the Ebola outbreak exceeds 4,900 deaths and surpasses 10,100 infections since May.",
+        "verified_figures": [
+          "4,900 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/drc-warns-that-the-ebola-outbreak-exceeds-4-900-deaths-and-surpasses-10-100-infections-since-may/"
+          }
+        ]
+      },
+      {
+        "headline": "More than 100 people killed in Sudanese army drone attack on market says Sudanese right...",
+        "score": 10.0,
+        "body": "More than 100 people killed in Sudanese army drone attack on market says Sudanese rights group.",
+        "verified_figures": [
+          "100 people"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693"
+          }
+        ]
+      },
+      {
+        "headline": "More than 100 killed in Sudan army drone strike on busy market, 113 injured",
+        "score": 10.0,
+        "body": "More than 100 killed in Sudan army drone strike on busy market, 113 injured More than 100 people were killed and 113 injured in a Sudanese military drone strike on a busy market in Nyala, rights group Emergency Lawyers said. Separately, a drone attack disrupted electricity across Khartoum, worsening Sudan's deepening humanitarian crisis. More than 100 people were killed and 113 injured in a Sudanese military drone strike on a busy market in Nyala, the capital of South Darfur, a rights group said on Tuesday, as escalating drone attacks in the country's ongoing civil war continued to take a devastating toll on civilians. Emergency Lawyers, a group monitoring violence in Sudan, said the strike",
+        "verified_figures": [
+          "100 killed",
+          "113 injured",
+          "100 people"
+        ],
+        "sources": [
+          {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/world/story/khartoum-drone-strike-al-markhiyat-power-water-supplies-3026559-2026-10-28"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Localized ceasefire in Kherson enables aid access and evacuations in Oleshky",
+        "score": 7.5,
+        "body": "A 30-hour localized ceasefire was established in Ukraine's southern Kherson region to facilitate humanitarian aid deliveries and civilian evacuations in the Russian-occupied town of Oleshky. The pause in hostilities concluded without reported incidents, allowing initial relief operations into the area. Nearly 2,000 residents in Oleshky had been trapped under siege conditions since April 2026, cut off from food, water, and medicine. The United States brokered the truce to establish a humanitarian corridor for the isolated community.",
+        "verified_figures": [
+          "30-hour ceasefire",
+          "Nearly 2,000 residents trapped under siege conditions since April 2026"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — UN commission determines Russian strikes on energy grid constitute war crimes",
+        "score": 6.5,
+        "body": "A United Nations-backed commission of inquiry concluded that Russian military strikes targeting Ukraine's energy infrastructure and electrical grid constitute war crimes and crimes against humanity. The findings follow sustained attacks causing severe disruptions to basic utilities for civilians across the country. Separately, Ukrainian military officials stated that air defense forces are intercepting nearly 60 percent of incoming Russian Geran-4 jet drones during recent operational engagements.",
+        "verified_figures": [
+          "Nearly 60% of Russia's Geran-4 jet drones intercepted"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/un-russia-ukraine-commission-report-war-crimes-27ee6394694bb30a7f1eab9addced768"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "India — Cyclone Arnab makes landfall",
+        "score": 7.5,
+        "body": "Cyclone Arnab made landfall along the eastern coast of India in Andhra Pradesh as a severe cyclonic storm, bringing wind gusts up to 150 km/h, heavy rain, and power disruptions. At least three people were killed in Andhra Pradesh. Authorities evacuated over 180,000 people across Andhra Pradesh and neighbouring Odisha to temporary shelters. Storm warnings were also issued in nearby Sri Lanka and Nepal as the weather system developed.",
+        "verified_figures": [
+          "At least 3 people killed",
+          "More than 180,000 people evacuated"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/cyclone-arnab-begins-making-landfall-indias-andhra-pradesh-state-2026-10-27/"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/india-orders-evacuations-cyclone-arnab-looms"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC/Regional — Ebola outbreak surpasses 10,000 cases as strain lacks licensed vaccine",
+        "score": 9.0,
+        "body": "The fastest-spreading Ebola outbreak in history has surpassed 10,000 cases and caused nearly 5,000 deaths since being declared in the Democratic Republic of the Congo in May. Caused by the Bundibugyo strain, transmission has expanded regionally with cases confirmed in Kenya and Nigeria, prompting health officials to warn of international spread risks. No vaccine is currently licensed specifically for the Bundibugyo strain. Clinical research is ongoing to evaluate whether Ervebo, a vaccine approved for the Zaire strain, offers cross-protection while specific candidates undergo trials.",
+        "verified_figures": [
+          "More than 10,000 cases",
+          "Nearly 5,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Haiti (Croix-des-Bouquets)",
+      "score": 7.0,
+      "trigger": "The deployment of 1,000 Salvadoran special forces into gang-controlled areas to locate four missing military technicians could trigger intense armed clashes in the coming 72 hours.",
+      "potential_impact": "Escalated urban fighting would increase civilian casualties, aggravate local displacement, and further restrict international aid operations near Port-au-Prince.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "GlobalPost",
+          "url": "https://globalpost.com/stories/haitian-gangs-launch-major-attack-on-un-backed-troops/"
+        }
+      ]
+    },
+    {
+      "location": "Yemen (Aden)",
+      "score": 6.0,
+      "trigger": "Houthi demands for the immediate evacuation of Aden airport following a lethal Saudi airstrike on a petrol station could precede targeted military strikes against critical infrastructure.",
+      "potential_impact": "Disruption or closure of Aden airport would severely impede humanitarian access, flight logistics, and civilian mobility across southern Yemen.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Mathrubhumi English",
+          "url": "https://english.mathrubhumi.com/news/world/yemen-conflict-escalates-houthis-aden-airport-evacuation-pvp57owf"
+        }
+      ]
+    },
+    {
+      "location": "Syria (Daraa Province)",
+      "score": 5.5,
+      "trigger": "Civilian fatalities resulting from Jordanian airstrikes on alleged ISIS targets could spark broader localized violence if newly established joint security investigations fail to de-escalate regional tensions.",
+      "potential_impact": "Renewed violent friction along the southern Syrian border risks causing additional civilian casualties and impeding humanitarian transport.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/article-913114"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "GlobalPost",
+        "count": 2
+      },
+      {
+        "name": "Mathrubhumi English",
+        "count": 2
+      },
+      {
+        "name": "The Jerusalem Post",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "India Today",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "Rudaw",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Indian Express",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 4/4 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1298,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
