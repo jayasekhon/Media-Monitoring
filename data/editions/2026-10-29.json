@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-29",
+  "printed_time": "12:24 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An unprecedented Ebola outbreak originating in the Democratic Republic of the Congo has surpassed 10,000 confirmed cases and nearly 5,000 deaths across the region.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A Sudanese military drone strike on a crowded market in South Darfur killed more than 100 people.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "An armed gang attack in Kenscoff, Haiti, left at least 47 people dead and resulted in the mass abduction of over 50 others.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A Russian drone strike targeting a train station in the Ukrainian city of Dnipro killed at least 13 people.",
+      "region": "Europe"
+    },
+    {
+      "rank": 5,
+      "text": "Acute food insecurity in Haiti now affects nearly six million people amid escalating gang violence and soaring food prices.",
+      "region": "Americas"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An unprecedented Ebola outbreak originating in the Democratic Republic of the Congo has killed nearly 5,000 people and surpassed 10,000 cases across the region amid active conflict and high daily transmission rates.",
+    "label": "AFRICA — Regional Ebola Outbreak Surpasses 4,900 Deaths"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Regional — Escalating Maritime Attacks in Gulf Waterways",
+        "score": 7.0,
+        "body": "Commercial shipping faces mounting hazards amid the ongoing conflict between the United States, Israel, and Iran. A total of 121 attacks on merchant vessels have been recorded across the Strait of Hormuz, Arabian Gulf, and Gulf of Oman over eight months of conflict, leaving at least 24 seafarers dead. Maritime threats have escalated sharply in recent weeks, with 34 confirmed attacks reported in the past month alone, creating significant protection and safety risks for commercial crews operating in vital regional shipping lanes.",
+        "verified_figures": [
+          "121 attacks recorded",
+          "24 seafarers killed",
+          "34 confirmed attacks in the past month"
+        ],
+        "sources": [
+          {
+            "name": "Ships & Ports",
+            "url": "https://shipsandports.com.ng/121-attacks-24-seafarers-killed-as-iran-war-escalates-maritime-threat/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Market Airstrikes and Tightening Siege on Taiz",
+        "score": 7.5,
+        "body": "Houthi sources reported that Saudi-led airstrikes hit a market in northern Yemen, killing 14 people. Concurrently, Yemeni government officials issued an appeal for international support to protect civilians in Taiz, where Iran-backed Houthi forces have tightened their siege on the city. The developments highlight severe civilian safety risks, ongoing displacement pressures, and humanitarian access constraints across multiple conflict zones in Yemen.",
+        "verified_figures": [
+          "14 killed in market airstrike (claimed by Houthis)"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/mideast-iran-saudi-yemen-israel-palestinians-october-282026-c032db4b09725fea0f6320eec49de5d4"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Fatalities in Gaza and West Bank Demolitions",
+        "score": 6.5,
+        "body": "Israeli military strikes across the Gaza Strip killed four Palestinians. In the occupied West Bank, Israeli forces demolished homes as an offensive in Hebron continued into its sixth day. The operations reflect persistent protection concerns, civilian casualties, and property destruction affecting vulnerable local communities across the occupied Palestinian territory.",
+        "verified_figures": [
+          "4 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "Drop Site News",
+            "url": "https://www.dropsitenews.com/p/us-boat-strike-pacific-israel-elections-netanyahu-sudan-market"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Flooding Displaces Hundreds of Families in Al-Raqqah",
+        "score": 5.5,
+        "body": "Heavy flooding in rural Al-Raqqah governorate forced 375 families to evacuate displacement camps. Torrential weather damaged temporary shelters, creating urgent protection and relief needs for displaced populations who remain highly vulnerable to severe weather events and infrastructure deficits.",
+        "verified_figures": [
+          "375 families forced from displacement camps"
+        ],
+        "sources": [
+          {
+            "name": "المرصد السوري لحقوق الإنسان",
+            "url": "https://www.syriahr.com/en/387378/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang Attack Kills 47 and Leaves Over 50 Kidnapped in Kenscoff",
+        "score": 9.0,
+        "body": "At least 47 people, including five children, were killed and more than 50 others abducted when armed gang members attacked Kenscoff, on the outskirts of Port-au-Prince, according to United Nations figures. The incident is considered one of the largest mass kidnappings in Haiti in recent years. Following the raid, a gang leader publicly threatened to murder all hostages if Haitian National Police forces launch rescue operations that harm any gang members.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "at least five children killed",
+          "more than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Food Insecurity Surges to Affect Nearly Six Million People",
+        "score": 8.0,
+        "body": "Nearly six million people in Haiti—representing roughly half the population—are experiencing severe acute hunger, with almost two million facing emergency levels of food insecurity, according to the UN Food and Agriculture Organization. Escalating gang violence, mass displacement, high food and fuel prices, and weather impacts from El Niño are driving the deterioration. Analysts project that acute hunger could affect 6.35 million people by mid-2027 if high prices and conflict persist.",
+        "verified_figures": [
+          "5.94 million people experiencing high levels of acute food insecurity",
+          "nearly two million people facing emergency conditions"
+        ],
+        "sources": [
+          {
+            "name": "Toronto Star",
+            "url": "https://www.thestar.com/news/world/americas/hunger-surges-in-haiti-as-gang-violence-high-food-prices-and-a-supercharged-el-ni-o-persist/article_0e39ccb7-13ac-58a9-a86a-10175b7583d9.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo / Region — Escalating Ebola outbreak exceeds 4,900 deaths",
+        "score": 9.5,
+        "body": "The ongoing Bundibugyo strain Ebola virus outbreak in the Democratic Republic of the Congo and neighboring countries has surpassed 10,100 confirmed cases and nearly 5,000 deaths. In DRC, authorities register 50 to 80 new cases daily, with 80 percent occurring outside known transmission chains. Over 1,000 children have died in DRC, according to Save the Children, amid compound vulnerabilities including malnutrition and displacement. Cases from the same genetic group have also been confirmed in Nigeria and Kenya. In response, a Phase II/III clinical trial for an experimental vaccine targeting the Bundibugyo strain began enrolling participants in Bunia, DRC on 23 October.",
+        "verified_figures": [
+          "10,141 confirmed cases",
+          "4,928 related deaths",
+          "over 1,000 child deaths",
+          "50 to 80 new cases per day"
+        ],
+        "sources": [
+          {
+            "name": "CIDRAP",
+            "url": "https://www.cidrap.umn.edu/ebola/ebola-outbreak-dr-congo-approaches-5000-deaths-us-issues-new-travel-rule"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Military drone strike kills over 100 at South Darfur market",
+        "score": 9.0,
+        "body": "A Sudanese military drone strike on a crowded market in Nyala, the capital of South Darfur province, killed more than 100 people on Monday, according to human rights monitoring group Emergency Lawyers. Doctors Without Borders confirmed receiving 36 fatalities at its hospital in Nyala following the attack. The strike marks a major escalation in drone warfare amidst the ongoing conflict between the Sudanese military and the Rapid Support Forces.",
+        "verified_figures": [
+          "more than 100 people killed",
+          "36 bodies received at MSF hospital"
+        ],
+        "sources": [
+          {
+            "name": "Arab News",
+            "url": "https://www.arabnews.jp/en/middle-east/more-than-100-people-killed-in-sudanese-army-drone-attack-on-market-says-sudanese-rights-group-3001133"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — UN documents over 300 civilian drone strike fatalities in October",
+        "score": 8.0,
+        "body": "The United Nations High Commissioner for Human Rights documented at least 306 civilian deaths and hundreds of injuries from drone attacks across Sudan during the first three weeks of October. UN findings indicate that the deployment of unmanned aerial vehicles has increased significantly, becoming the primary cause of civilian mortality in the conflict this year. The sharp rise in drone warfare highlights growing protection risks for civilians across affected areas.",
+        "verified_figures": [
+          "at least 306 people killed",
+          "hundreds sustained injuries"
+        ],
+        "sources": [
+          {
+            "name": "Global Arab Network",
+            "url": "https://english.globalarabnetwork.com/2026/10/28/un-reports-306-deaths-in-sudan-drone-attacks-during-october/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian drone attack on Dnipro train station kills 13",
+        "score": 9.0,
+        "body": "A Russian drone strike targeted a train station in Ukraine's central city of Dnipro, killing at least 13 people. The attack caused immediate mass casualties at the transit hub, though full details regarding additional injuries or structural damage were not immediately specified. The strike represents a major attack on civilian transport infrastructure amidst ongoing regional hostilities.",
+        "verified_figures": [
+          "13 killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Localized truce enables humanitarian deliveries and evacuation preparations in Oleshky",
+        "score": 7.5,
+        "body": "A six-day localized ceasefire that took effect on 27 October in the Russian-occupied town of Oleshky in Ukraine's Kherson region has facilitated initial aid deliveries and preparations for civilian evacuations. An estimated 2,000 residents remain trapped in Oleshky, cut off since 2022 and further affected by flooding following the 2023 Kakhovka dam destruction. Mined access routes across the Dnipro River have severely restricted humanitarian access, leaving residents without electricity, running water, food, or essential medicine. Aid missions have begun delivering food and medical supplies before planned evacuation corridors open to transport civilians through Russia's Krasnodar region.",
+        "verified_figures": [
+          "2,000 people still living in Oleshky",
+          "at least 300 civilians rescued by Save Ukraine Foundation"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261029-after-years-under-fire-a-rare-quiet-settles-over-ukrainian-city-as-truce-holds"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Mutual drone and air strikes target Kharkiv and Moscow",
+        "score": 4.5,
+        "body": "Cross-border aerial attacks escalated as Russian forces launched strikes against Ukraine's northeastern city of Kharkiv, while Ukrainian forces directed a wave of attack drones toward Moscow, according to official reports. Detailed casualty figures and immediate humanitarian impacts resulting from the targeted strikes were not immediately available.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/ukraine-sends-drones-towards-moscow-russia-strikes-kharkiv-officials-say-2026-10-29/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "India — Cyclone Arnab causes deaths and widespread displacement in Andhra Pradesh",
+        "score": 7.5,
+        "body": "Cyclone Arnab made landfall along the coast of Andhra Pradesh on October 28 as a severe cyclonic storm, bringing winds reaching up to 135 km/h and heavy rainfall. Authorities pre-emptively evacuated over 180,000 people across Andhra Pradesh and Odisha states. Official reports state that at least six people were killed, primarily due to falling trees and electrocution, while local media reported up to nine fatalities. The storm destroyed crops, damaged dozens of homes, and disrupted local infrastructure before weakening as it moved inland.",
+        "verified_figures": [
+          "At least 6 people killed",
+          "Over 180,000 people evacuated",
+          "Wind speeds up to 135 km/h, gusting to 150 km/h"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/six-killed-cyclone-off-indias-eastern-coast-2026-10-29/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Central and Eastern Africa — Ebola outbreak surpasses 10,000 cases amid regional spread",
+        "score": 9.0,
+        "body": "An unprecedented Ebola outbreak originating in the Democratic Republic of the Congo has surpassed 10,000 cases and caused nearly 5,000 deaths across Africa. World Health Organization figures indicate over 7,700 confirmed cases and 3,732 deaths in the Democratic Republic of the Congo alone over a two-month period, where active fighting complicates response efforts. Driven by the Bundibugyo virus strain, confirmed cases have also been reported in Kenya and Nigeria. Africa Centres for Disease Control and Prevention Director General Dr. Jean Kaseya warned of potential international spread if governments fail to bolster surveillance. Regional nations, including Namibia and Ghana, have heightened public health vigilance and preparedness levels.",
+        "verified_figures": [
+          "10,000 total cases across Africa",
+          "almost 5,000 total deaths across Africa",
+          "7,700 confirmed cases in the Democratic Republic of the Congo",
+          "3,732 deaths in the Democratic Republic of the Congo"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "Police forces launching an armed rescue operation targeting gang members could trigger the immediate execution of hostages.",
+      "potential_impact": "More than 50 kidnapped civilians, including children, face direct threat of murder if law enforcement interventions occur.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    },
+    {
+      "location": "Oleshky, Ukraine",
+      "score": 7.5,
+      "trigger": "A premature breakdown of the localized six-day truce before evacuation corridors open could halt critical aid and civilian movement.",
+      "potential_impact": "Up to 2,000 trapped residents remain at risk of being completely cut off from food, clean water, and emergency medical evacuations across mined routes.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/video/20261029-after-years-under-fire-a-rare-quiet-settles-over-ukrainian-city-as-truce-holds"
+        }
+      ]
+    },
+    {
+      "location": "Taiz, Yemen",
+      "score": 7.0,
+      "trigger": "A further tightening of the Houthi blockade on Taiz following market airstrikes could sever remaining civilian supply corridors.",
+      "potential_impact": "Heightened isolation of urban populations would compound severe safety risks and intensify acute humanitarian access restrictions.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/mideast-iran-saudi-yemen-israel-palestinians-october-282026-c032db4b09725fea0f6320eec49de5d4"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "DW.com",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Arab News",
+        "count": 1
+      },
+      {
+        "name": "CIDRAP",
+        "count": 1
+      },
+      {
+        "name": "Drop Site News",
+        "count": 1
+      },
+      {
+        "name": "Global Arab Network",
+        "count": 1
+      },
+      {
+        "name": "Ships & Ports",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "Toronto Star",
+        "count": 1
+      },
+      {
+        "name": "المرصد السوري لحقوق الإنسان",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1251,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
