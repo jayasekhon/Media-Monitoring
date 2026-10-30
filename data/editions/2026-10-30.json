@@ -1,0 +1,415 @@
+{
+  "date": "2026-10-30",
+  "printed_time": "12:16 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An unprecedented Ebola outbreak driven by the Bundibugyo strain has caused over 4,900 deaths and surpassed 10,000 cases across Central Africa without an approved vaccine or treatment.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "Russian strikes targeted Kyiv's energy facilities while a six-day localized truce enabled an aid convoy to reach besieged Oleshky and begin evacuating 527 residents.",
+      "region": "Europe"
+    },
+    {
+      "rank": 3,
+      "text": "A shallow 7.4-magnitude earthquake in western Colombia killed over 100 people and damaged thousands of structures across the region.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Armed gang members killed at least 47 people, including five children, and kidnapped over 50 others during a raid in Kenscoff, Haiti.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Nearly six million people in Haiti face acute food insecurity, with projections warning that extreme hunger will expand to 6.35 million people.",
+      "region": "Americas"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An expanding Ebola epidemic driven by the rare Bundibugyo strain has infected more than 10,000 people and caused nearly 4,900 deaths across Central Africa, creating a severe regional public health emergency in the absence of approved treatments or vaccines.",
+    "label": "GLOBAL / CROSS-CUTTING — Central Africa Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Taiz Siege and Escalating Violence",
+        "score": 7.5,
+        "body": "The governor of Taiz, Nabil Shamsan, warned of severe humanitarian degradation and famine conditions in Yemen's third city due to a month-long siege. Critical shortages of food, water, and medical oxygen are worsening rapidly. Official figures released by Yemen's Minister of Social Affairs indicate that 79 civilians were killed and 206 injured in Taiz Governorate over the past two months due to military escalation and blockades attributed to Houthi forces. Additionally, press reports state that 13 people were killed in a recent Saudi airstrike.",
+        "verified_figures": [
+          "79 civilians killed over past two months",
+          "206 civilians injured over past two months",
+          "13 killed in airstrike"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/yemen-taiz-houthis-siege-famine-humanitarian-crisis-172666b6c90fc3f0ed8a161f2457be2c"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege"
+          }
+        ]
+      },
+      {
+        "headline": "Palestine — Gaza Strip Strikes and Casualty Reports",
+        "score": 7.0,
+        "body": "Airstrikes, drone attacks, and artillery shelling struck multiple areas across the Gaza Strip over a 24-hour period, targeting residential neighborhoods and displaced persons' encampments in Khan Yunis, Al-Mawasi, Deir al-Balah, and northern Gaza. The strikes generated widespread panic among civilians in tent sites. Israeli military officials reported killing six individuals alleged to belong to Hamas, while local reports indicated additional casualties among civilians.",
+        "verified_figures": [
+          "6 individuals killed according to military claims"
+        ],
+        "sources": [
+          {
+            "name": "جريدة القدس",
+            "url": "https://alquds.com/en/posts/266876-the-occupation-continues-to-violate-the-truce-in-gaza-intensive-raids-on"
+          }
+        ]
+      },
+      {
+        "headline": "Palestine — Hebron Siege and Internal Displacement",
+        "score": 6.5,
+        "body": "Israeli forces maintained a blockade around Hebron in the southern West Bank for a seventh consecutive day, keeping 10 main entrances closed and restricting movement. Ongoing military operations and field pressures have driven approximately 5,000 Palestinians—comprising 780 families, or roughly two percent of the city's total population—to displace from their homes, contributing to severe economic disruption and rising humanitarian pressure.",
+        "verified_figures": [
+          "5,000 Palestinians displaced",
+          "780 families displaced",
+          "10 main entrances closed"
+        ],
+        "sources": [
+          {
+            "name": "جريدة القدس",
+            "url": "https://alquds.com/en/posts/266908-hebron-siege-enters-its-seventh-day-thousands-of-palestinians-displaced-and"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Flooding Swamps Al-Hasakah Displacement Camps",
+        "score": 5.0,
+        "body": "Heavy rainfall in northeastern Syria's Al-Hasakah governorate caused severe flooding in the Washokani and Serekaniye displacement camps. Floodwaters swamped dozens of tents housing families previously displaced from Ras Al-Ain, destroying shelter, bedding, and personal belongings. Affected residents were left without shelter overnight, prompting urgent local appeals for emergency aid and replacement supplies.",
+        "verified_figures": [
+          "Dozens of displacement tents flooded"
+        ],
+        "sources": [
+          {
+            "name": "Shafaq News",
+            "url": "https://shafaq.com/en/Middle-East/Floods-swamp-displacement-camps-in-Al-Hasakah"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti: UN chief condemns Haiti attack that killed 47",
+        "score": 8.5,
+        "body": "At least 47 people, including at least five children, were killed and more than 50 others kidnapped by armed men in Haiti on Sunday, the United Nations confirmed on Tuesday. The incident, which took place in Kenscoff on the outskirts of the capital, Port-au-Prince, is believed to be one of the largest mass kidnappings in the troubled Caribbean country in recent years. In a video posted on social media, a gang leader threatened to murder hostages if Haiti's National Police kill any of his men in an attempt to rescue people. \"If any of our soldiers are hurt, I will kill all of them,\" he said.",
+        "verified_figures": [
+          "47 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "6 million in Haiti face severe hunger amid violence, displacement and El Niño",
+        "score": 8.5,
+        "body": "Nearly six million people in Haiti are experiencing severe hunger, with almost two million facing emergency levels of food insecurity, according to a new report released on Wednesday. The worsening crisis in the country of nearly 12 million people is being driven by escalating gang violence and displacement, high food and fuel prices, and an extreme El Niño weather phenomenon threatening food security. About one in two Haitians cannot consistently access enough food. The number of people facing severe hunger is expected to rise to 6.35 million – more than half the population – by mid-2027, according to an analysis published by the Integrated Food Security Phase Classification (IPC), a multi-",
+        "verified_figures": [
+          "6 million in Haiti face",
+          "12 million people is being",
+          "6.35 million"
+        ],
+        "sources": [
+          {
+            "name": "GhanaWeb",
+            "url": "https://www.ghanaweb.com/GhanaHomePage/africa/6-million-in-Haiti-face-severe-hunger-amid-violence-displacement-and-El-Ni-o-2058937"
+          }
+        ]
+      },
+      {
+        "headline": "Deadly Colombia earthquake leaves widespread destruction",
+        "score": 8.5,
+        "body": "Deadly Colombia earthquake leaves widespread destruction A 7.4-magnitude earthquake has hit Colombia, killing more than 100 people and damaging thousands of buildings. As rescue teams search for survivors, international aid has begun to arrive. Devastating damage The major earthquake that shook western Colombia on Monday was felt as far away as Ecuador, Venezuela and Panama. According to the US Geological Survey, the quake struck at around 7:34 a.m. local time near San Jose del Palmar in the Choco region, about 400 kilometers (250 miles) west of the capital, Bogota. Saving the essentials Many people left their homes and other buildings, seeking safety. The US Geological Survey and its Colomb",
+        "verified_figures": [
+          "100 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/deadly-colombia-earthquake-leaves-widespread-destruction/g-78325463"
+          }
+        ]
+      },
+      {
+        "headline": "New IPC analysis: 6.35 million Haitians are projected to face acute food insecurity by ...",
+        "score": 7.5,
+        "body": "October 29, 2026, Port-au-Prince, Haiti – Hunger across Haiti is worsening. A new Integrated Food Security Phase Classification (IPC) analysis, released yesterday, finds that more than 5.94 million people, 53% of the population, face “crisis” levels of acute food insecurity (IPC Phase 3 or above). That is an increase of nearly a quarter of a million compared to the same period a year earlier. The IPC’s assessment projects that these numbers will rise to 6.35 million people over the coming six months and that extreme hunger will expand to more regions. “These numbers reflect a humanitarian crisis in Haiti that, tragically, continues to deepen. When we say people are facing crisis levels of hu",
+        "verified_figures": [
+          "6.35 million Haitians are projected",
+          "5.94 million people",
+          "6.35 million people over the"
+        ],
+        "sources": [
+          {
+            "name": "Care.org",
+            "url": "https://www.care.org/media-and-press/new-ipc-analysis-6-35-million-haitians-are-projected-to-face-acute-food-insecurity-by-next-year/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Deadliest Ebola outbreak on record surpasses 10,000 cases and nearly 4,900 deaths",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo is confronting its deadliest Ebola outbreak on record, driven by the Bundibugyo virus for which no approved vaccine or treatment exists. Confirmed cases have passed 10,000, with nearly 4,900 deaths recorded since May, including over 1,000 children. The epidemic spans 66 health zones across eight provinces following recently confirmed infections in North Ubangi. Cases genetically linked to eastern DRC have also been identified in Kenya, Nigeria, Uganda, and France. On October 23, international partners launched the Tumaini clinical trial in Bunia, Ituri province, to evaluate candidate vaccines against the strain.",
+        "verified_figures": [
+          "10,060 confirmed cases",
+          "4,887 deaths",
+          "More than 1,000 children killed",
+          "8 provinces affected",
+          "66 health zones affected"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/congo-ebola-spread-vaccine/a-78457248"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine war live: Russia strikes Kyiv as aid convoy enters stricken city of Oleshky",
+        "score": 9.0,
+        "body": "Russia said its forces struck energy infrastructure in and around Ukraine's capital on Friday as an aid ⁠convoy entered the beleaguered Russian-held city of Oleshky ​in southern Ukraine, carrying food and medical supplies as part of a localised ceasefire deal. Ukrainian officials said 527 people would be evacuated from the city to areas controlled by Kyiv. Follow our liveblog for the latest updates.",
+        "verified_figures": [
+          "527 people"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-oleshky-ceasefire-1eb633aee4d33b3845a72053d7f6346c"
+          }
+        ]
+      },
+      {
+        "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+        "score": 7.5,
+        "body": "Russian drone attack on Ukrainian train station kills at least 14, officials say. At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Russian oil refinery struck as Ukraine renews drone attacks",
+        "score": 7.5,
+        "body": "Russian oil refinery struck as Ukraine renews drone attacks An oil refinery in Russia’s Samara region has been struck in renewed Ukrainian drone strikes. Russian authorities say they intercepted more than 1,000 Ukrainian drones over multiple regions overnight.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Aid convoy enters besieged Ukrainian town Oleshky",
+        "score": 7.0,
+        "body": "Aid convoy enters besieged Ukrainian town Oleshky. Moscow and Kyiv have so far observed the six-day truce as evacuations from Oleshky get under way.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/30/aid-convoy-enters-besieged-ukrainian-town-oleshky?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "India — Severe Cyclone Arnab triggers flooding, mass evacuations, and deaths",
+        "score": 8.0,
+        "body": "Cyclone Arnab struck India's eastern coast, bringing torrential rain and wind gusts exceeding 140 km/h across Andhra Pradesh and Odisha. Andhra Pradesh state officials confirmed at least six deaths from building collapses, falling trees, and electrocution, while local reports indicated up to nine casualties. Torrential rainfall exceeding 546 mm in Ganjam district, Odisha, caused severe flooding that isolated around 300 villages and stranded more than 2,000 residents. Authorities evacuated over 180,000 people to safer ground. The storm damaged at least 15,000 electricity poles, causing widespread power outages and transport disruption across the eastern seaboard.",
+        "verified_figures": [
+          "6 confirmed deaths",
+          "9 reported deaths",
+          "Over 180,000 people evacuated",
+          "Around 300 villages marooned",
+          "More than 2,000 people stranded",
+          "546 mm of rain in 24 hours in Ganjam",
+          "At least 15,000 electricity poles damaged"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey"
+          }
+        ]
+      },
+      {
+        "headline": "China — Shallow magnitude 7.0 earthquake strikes northern Tibet",
+        "score": 7.5,
+        "body": "A shallow magnitude 7.0 earthquake struck Nagqu in northern Tibet at approximately 10:33 p.m. local time on Thursday, according to the China Earthquake Networks Center. The epicenter was recorded at a depth of 10 kilometers (6.2 miles). Official casualty and damage figures have not yet been reported from the remote, high-altitude county following the late-night tremor.",
+        "verified_figures": [
+          "Magnitude 7.0 earthquake",
+          "Depth of 10 km"
+        ],
+        "sources": [
+          {
+            "name": "The Daily Star",
+            "url": "https://www.thedailystar.net/news/world/news/earthquake-magnitude-7-strikes-chinas-tibet-4305136"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Central Africa — Escalating Ebola outbreak surpasses 10,000 cases across multiple nations",
+        "score": 9.5,
+        "body": "A rapidly spreading Ebola outbreak driven by the rare Bundibugyo strain has resulted in at least 10,172 confirmed cases and 4,932 deaths, reflecting a 48.5 percent case fatality rate. Ongoing community transmission centered in the Democratic Republic of the Congo has extended to affect Uganda, South Sudan, Kenya, and Nigeria. No approved vaccine or treatment currently exists for the strain. Although several international governments have implemented targeted travel restrictions, African health ministers and the Africa CDC agreed to maintain open regional borders while enhancing cross-border surveillance and readiness as experts warn of potential wider spread.",
+        "verified_figures": [
+          "10,172 confirmed cases",
+          "4,932 deaths",
+          "48.5 percent case fatality rate"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/ebola-congo-10000-cases-forecast-8bec4479473d61048250615db96eae55"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "Police operations or rescue attempts targeting gang positions in Kenscoff could prompt gang members to carry out threats to kill hostages.",
+      "potential_impact": "Immediate execution of more than 50 kidnapped civilians currently held by armed gang members.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    },
+    {
+      "location": "Oleshky, Kherson Oblast, Ukraine",
+      "score": 8.0,
+      "trigger": "A failure or violation of the six-day localized ceasefire during aid delivery operations could prompt a resumption of direct attacks.",
+      "potential_impact": "Disruption of emergency relief distribution and halt of planned evacuations for 527 vulnerable civilians.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/aid-convoy-enters-besieged-ukrainian-town-oleshky?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "location": "Taiz Governorate, Yemen",
+      "score": 7.5,
+      "trigger": "Continued siege restrictions and ongoing military escalation around Taiz could completely sever incoming food, water, and medical supply lines.",
+      "potential_impact": "Rapid acceleration of famine conditions and elevated mortality among civilians deprived of medical oxygen and critical sustenance.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/yemen-taiz-houthis-siege-famine-humanitarian-crisis-172666b6c90fc3f0ed8a161f2457be2c"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "DW.com",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "جريدة القدس",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Care.org",
+        "count": 1
+      },
+      {
+        "name": "GhanaWeb",
+        "count": 1
+      },
+      {
+        "name": "Shafaq News",
+        "count": 1
+      },
+      {
+        "name": "The Daily Star",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "3 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 5/5 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 4/6 region(s) with candidate material generated via Gemini (LLM), 2 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1229,
+      "sources_cited": 11
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
