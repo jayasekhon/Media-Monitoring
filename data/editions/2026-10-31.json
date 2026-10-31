@@ -1,0 +1,495 @@
+{
+  "date": "2026-10-31",
+  "printed_time": "11:50 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The death toll from the Ebola outbreak in the Democratic Republic of the Congo has surpassed 5,000 as cases exceed 10,000 across eight provinces and spread to neighboring countries.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A 7.4-magnitude earthquake in western Colombia killed at least 100 people and damaged thousands of buildings across affected communities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "A drone strike on a displacement camp in Ethiopia killed at least 16 civilians and injured several others amid ongoing conflict.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "A magnitude 7.8 earthquake in the southern Philippines killed at least 32 people, injured 200, and left 12 missing.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "A missile strike on a passenger train at a railway station in Dnipro, Ukraine, killed at least 13 people and injured 10 others.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The Ebola outbreak originating in the Democratic Republic of the Congo has surpassed 5,000 deaths and 10,000 cases, expanding across eight provinces and spreading to neighboring African nations.",
+    "label": "AFRICA — Over 5,000 Ebola Deaths Recorded"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Hostility Escalation and Threat of Health System Collapse in Taiz",
+        "score": 8.0,
+        "body": "According to World Health Organization data, recent military escalation in Yemen has caused 1,677 deaths and 7,395 injuries, placing severe pressure on trauma care centers. Simultaneously, Yemen's Health Ministry warned that 42 health facilities in Taiz governorate face closure within days due to acute shortages of medicines, oxygen, and medical supplies. The worsening medical crisis occurs amid an ongoing Houthi blockade and deteriorating humanitarian conditions.",
+        "verified_figures": [
+          "1,677 deaths",
+          "7,395 injuries",
+          "42 health facilities facing imminent closure"
+        ],
+        "sources": [
+          {
+            "name": "يمن مونيتور",
+            "url": "https://www.yemenmonitor.com/en/Details/ArtMID/908/ArticleID/186381"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Ongoing Military Activity Hinders Return of 300,000 Displaced Civilians",
+        "score": 7.2,
+        "body": "UN officials report that approximately 300,000 people remain displaced in Lebanon despite the return of nearly 970,000 individuals to their home communities in the south. Persistent Israeli military activity, including strikes, fires, and demolitions both within and beyond the declared combat zone, is severely hindering safe civilian returns and compounding insecurity for populations attempting to re-establish their lives.",
+        "verified_figures": [
+          "300,000 displaced",
+          "nearly 970,000 returned"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/10/1168713"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Flash Floods Kill Eight and Leave Missing Across Multiple Provinces",
+        "score": 5.5,
+        "body": "Heavy rainfall across Syria triggered flash floods, resulting in at least seven to eight fatalities, including five children who drowned in floodwaters. Rescue teams saved 60 trapped civilians, while search and rescue operations remain underway for four missing individuals. Disaster management authorities have mobilized emergency relief teams, heavy machinery, and health services to address the damage across affected provinces.",
+        "verified_figures": [
+          "7 to 8 deaths",
+          "5 children drowned",
+          "60 civilians rescued",
+          "4 missing persons"
+        ],
+        "sources": [
+          {
+            "name": "Rudaw",
+            "url": "https://rudaw.net/english/categories/syria/1079958"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Settler Violence Disrupts Olive Harvest in West Bank",
+        "score": 3.5,
+        "body": "Attacks by Israeli settlers targeted Palestinian farmers and olive pickers across the occupied West Bank. In Burqa, northwest of Nablus, a 36-year-old Palestinian man sustained injuries after being beaten by settlers, requiring treatment by Palestinian Red Crescent Society medical teams. Israeli forces and settlers targeted multiple agricultural communities during the ongoing olive harvest season, resulting in two arrests.",
+        "verified_figures": [
+          "1 Palestinian man injured",
+          "2 Palestinians arrested"
+        ],
+        "sources": [
+          {
+            "name": "Head Topics",
+            "url": "https://nl.headtopics.com/news/palestinian-olive-pickers-attacked-by-settlers-two-arrested-89375106"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — 7.4-magnitude earthquake kills over 100 people",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake struck western Colombia near San Jose del Palmar in the Choco region, killing at least 100 people and damaging thousands of buildings. The tremor was felt as far away as Panama, Venezuela, and Ecuador. Search and rescue operations are ongoing as international aid begins to arrive in the affected areas.",
+        "verified_figures": [
+          "More than 100 people killed",
+          "Thousands of buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/deadly-colombia-earthquake-leaves-widespread-destruction/g-78325463"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Gang attack in Kenscoff leaves 47 dead and over 50 kidnapped",
+        "score": 8.0,
+        "body": "Armed gang members killed at least 47 people, including five children, and kidnapped more than 50 others in Kenscoff, near Port-au-Prince, according to the United Nations. The incident marks one of Haiti's largest mass kidnappings in recent years. A gang leader publicly threatened to execute hostages if national police conduct rescue operations.",
+        "verified_figures": [
+          "At least 47 people killed",
+          "At least 5 children killed",
+          "More than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — El Salvador plans 2,000-troop deployment following gang attack",
+        "score": 5.0,
+        "body": "El Salvador plans to deploy over 2,000 military personnel to Haiti following the disappearance of four Salvadoran aviation technicians during an October 18 gang attack. Haiti's transitional government has formally agreed to the expanded deployment, which received private backing from US President Donald Trump as authorities attempt to locate missing personnel and address security conditions.",
+        "verified_figures": [
+          "4 aviation technicians missing",
+          "More than 2,000 troops planned for deployment"
+        ],
+        "sources": [
+          {
+            "name": "International Business Times, Singapore Edition",
+            "url": "https://www.ibtimes.sg/trump-backs-bukeles-plan-send-salvadoran-troops-haiti-after-4-soldiers-are-killed-95740"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo's Ebola Outbreak Nears 5,000 Deaths, Now World's Second-Largest Ever",
+        "score": 10.0,
+        "body": "DR Congo's Ebola Outbreak Nears 5,000 Deaths, Now World's Second-Largest Ever.",
+        "verified_figures": [
+          "5,000 Deaths"
+        ],
+        "sources": [
+          {
+            "name": "NDTV",
+            "url": "https://www.ndtv.com/health/dr-congos-ebola-outbreak-nears-5-000-deaths-now-worlds-second-largest-ever-12260110"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Deaths in DR Congo Exceed 5,000 as Outbreak Spreads to Eight Provinces",
+        "score": 10.0,
+        "body": "NEW DELHI, Oct 31: The death toll from Ebola in the Democratic Republic of the Congo has reached over 5,000, according to government data. This outbreak, declared in May, has also infected more than 10,000 people. The Bundibugyo strain of the virus is responsible for this outbreak, which is the worst on record for the country. Authorities have struggled to contain the spread, with the virus now affecting eight of the DRC’s 26 provinces. Contributing factors to the rapid spread include delayed detection of cases, ongoing conflict, and overwhelmed health services. The outbreak’s severity has drawn international attention, with Nigeria recently reporting its first case, marking the fourth Afric",
+        "verified_figures": [
+          "10,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Udaipur Kiran",
+            "url": "https://udaipurkiran.com/ebola-deaths-in-dr-congo-exceed-5000-as-outbreak-spreads-to-eight-provinces/"
+          }
+        ]
+      },
+      {
+        "headline": "At least 16 civilians killed in drone strike on Ethiopia displacement camp",
+        "score": 9.5,
+        "body": "At least 16 civilians killed in drone strike on Ethiopia displacement camp Several other people were injured and taken for treatment following the strike. ADDIS ABABA: At least 16 civilians were killed in a drone strike on a displacement camp in Ethiopia, as renewed fighting in the country continues to take a toll on people already forced from their homes. The attack struck a camp sheltering displaced civilians, with local officials and residents reporting multiple casualties. Several other people were injured and taken for treatment following the strike. The identities of those killed were not immediately released. It was also not immediately clear who carried out the attack, while authorit",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Pakistan Today",
+            "url": "https://www.pakistantoday.com.pk/2026/10/30/at-least-16-civilians-killed-in-drone-strike-on-ethiopia-displacement-camp"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola death toll in DR Congo passes 5,000",
+        "score": 9.5,
+        "body": "The death toll from Ebola in the Democratic Republic of the Congo (DRC) has surpassed 5,000, government data show, with authorities yet to find a way to control the country’s deadliest outbreak of the virus on record. The latest death toll was announced on Friday. Recommended Stories list of 3 items- list 1 of 3Why a measles outbreak in Pennsylvania poses risks beyond US borders - list 2 of 3Families brace for a fourth winter of wind, rain and floods in Gaza’s camps - list 3 of 3Port Sudan families can barely afford water as shortages persist Ebola has infected more than 10,000 people in the DRC since the outbreak was declared in May.",
+        "verified_figures": [
+          "10,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Deadly Attack on Passenger Train in Dnipro",
+        "score": 9.0,
+        "body": "The United Nations condemned a strike on a passenger train in the Ukrainian city of Dnipro that killed at least 13 people and injured 10 others. The train was traveling between Zaporizhzhia and Dnipro when it was hit at a railway station. Emergency teams continued rescue and recovery operations, with UN officials warning the death toll could rise. The UN stated that repeated strikes against civilians and transit infrastructure are driving severe deterioration in humanitarian conditions across Ukraine as winter approaches.",
+        "verified_figures": [
+          "at least 13 people killed",
+          "10 people injured"
+        ],
+        "sources": [
+          {
+            "name": "سانا",
+            "url": "https://sana.sy/en/international/2354668/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Humanitarian Evacuation Operation from Occupied Oleshky",
+        "score": 7.5,
+        "body": "A localized ceasefire brokered by US First Lady Melania Trump enabled a major humanitarian aid and evacuation operation in the Russian-occupied town of Oleshky, Ukraine. Humanitarian teams delivered aid and deployed a 25-bus convoy with 50 medical personnel to evacuate over 750 civilians who wished to leave the city, where approximately 2,000 people were previously estimated to remain. Evacuees were transported through Anapa, Russia, to Gomel, Belarus, before returning to Ukrainian territory. Although the temporary pause in hostilities provided immediate relief, prospects for sustained humanitarian access remain uncertain.",
+        "verified_figures": [
+          "approximately 2,000 civilians remaining in Oleshky",
+          "over 750 people evacuated",
+          "25 buses",
+          "50 medical personnel"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Severe War Damage to Black Sea Marine Ecosystems",
+        "score": 2.5,
+        "body": "The ongoing war between Russia and Ukraine has caused extensive ecological destruction across the Black Sea. Heavy military activities and the widespread deployment of naval mines have severely damaged marine ecosystems, resulting in the recorded deaths of more than 120,000 dolphins and widespread environmental degradation across the maritime region.",
+        "verified_figures": [
+          "more than 120,000 dolphins killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Philippines — Magnitude 7.8 Earthquake Kills at Least 32",
+        "score": 9.0,
+        "body": "A magnitude 7.8 earthquake struck the southern Philippines, leaving at least 32 people dead, 200 injured, and 12 missing. Civil defense officials reported that rescue operations are ongoing, with reports indicating individuals may be trapped inside a school. Tsunami warnings issued following the earthquake have mostly been lifted, while damage assessment remains underway across affected areas.",
+        "verified_figures": [
+          "at least 32 people dead",
+          "200 people injured",
+          "12 people missing",
+          "magnitude 7.8 earthquake"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/powerful-earthquake-shakes-the-philippines/g-77459824"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Deepening Poverty and Refugee Return Crisis",
+        "score": 7.5,
+        "body": "A United Nations Development Programme report indicates that an estimated 28 million people in Afghanistan live in poverty, driven by prolonged drought, international aid reductions, and the return of approximately 2.9 million Afghans in a single year. The influx pushed an additional 1.4 million people into hardship. Afghanistan's UN representative warned that returning refugees face severe shortages of shelter, healthcare, and livelihood opportunities, while Taliban restrictions on women further undermine economic resilience.",
+        "verified_figures": [
+          "28 million people living in poverty",
+          "2.9 million returning Afghans",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "India — Flash Floods Spurred by Bhutan Glacial Lake Burst Force Evacuations",
+        "score": 5.5,
+        "body": "Indian authorities evacuated approximately 12,000 people in West Bengal state following the collapse of the Shintaphu glacial lake in Bhutan's Gasa region. The outburst released an estimated 7.4 million cubic meters of water, mud, and debris into downstream river systems, significantly elevating river levels, including the Sankosh River, and heightening inundation risks along the border region.",
+        "verified_figures": [
+          "approximately 12,000 people evacuated",
+          "approximately 7.4 million cubic meters of water, mud, soil, and rocks released"
+        ],
+        "sources": [
+          {
+            "name": "Vietnam.vn",
+            "url": "https://www.vietnam.vn/en/an-do-so-tan-12-000-nguoi-do-lu-quet-tu-bhutan"
+          }
+        ]
+      },
+      {
+        "headline": "India — Cyclone Arnab Remnants Cause Heavy Rain as New Storm Approaches",
+        "score": 5.0,
+        "body": "Remnants of Cyclone Arnab triggered heavy rainfall, thunderstorms, and gusty winds across eastern and central India after weakening into a depression over Chhattisgarh and Odisha. Meanwhile, the India Meteorological Department warned of a new cyclonic system forming in the Bay of Bengal, projected to intensify and bring heavy rain to several southern states, including Andhra Pradesh, Tamil Nadu, and Kerala.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Jagran Josh",
+            "url": "https://www.jagranjosh.com/general-knowledge/after-cyclone-arnab-another-bay-of-bengal-cyclone-to-hit-india-andhra-pradesh-odisha-imd-weather-prediction-intensifiying-by-november-1-when-is-landfall-why-backtoback-storms-are-occuring-in-2026-1820013496-1"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo/Multi-Country — Ebola outbreak surpasses 5,000 deaths amid regional spread",
+        "score": 9.0,
+        "body": "The Africa Centres for Disease Control and Prevention has warned that an outbreak of the Bundibugyo Ebola virus strain remains uncontrolled across affected nations. Official data shows confirmed cases have surpassed 10,200, with more than 5,000 deaths recorded, reflecting a lethality rate near 50 percent. First declared in mid-May in the Democratic Republic of the Congo, the virus has spread to Uganda, Kenya, and Nigeria, with around 30 cases identified outside DR Congo. During a high-level emergency meeting, health ministers from over 40 African nations agreed to keep borders open while strengthening cross-border coordination to manage containment efforts.",
+        "verified_figures": [
+          "Over 10,200 confirmed cases",
+          "5,026 deaths",
+          "Nearly 50% lethality rate",
+          "4 countries affected (DR Congo, Uganda, Kenya, Nigeria)",
+          "About 30 confirmed cases outside DR Congo"
+        ],
+        "sources": [
+          {
+            "name": "ReliefWeb",
+            "url": "https://reliefweb.int/report/democratic-republic-congo/multi-country-ebola-bundibugyo-outbreak-update-ndeg24"
+          }
+        ]
+      },
+      {
+        "headline": "India — Landslides and floods from Cyclone Arnab kill three in Odisha",
+        "score": 3.0,
+        "body": "Heavy rainfall triggered by Cyclone Arnab caused landslides and flooding in the Kandhamal district of Odisha, India, leaving three people dead and two rescued. Local authorities reported that Raikia block was among the hardest-hit areas, leaving several villages temporarily cut off. Local emergency responders have re-established contact with impacted populations, distributing essential supplies while restoration work and search-and-rescue operations near completion.",
+        "verified_figures": [
+          "3 killed",
+          "2 rescued"
+        ],
+        "sources": [
+          {
+            "name": "Big News Network.com",
+            "url": "https://www.bignewsnetwork.com/news/279405567/odisha-three-killed-two-rescued-in-cyclone-arnab-triggered-landslide-floods-rescue-operations-underway"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "Police rescue operations attempting to free over 50 hostages kidnapped during the Kenscoff gang attack could prompt immediate executions by armed gang members.",
+      "potential_impact": "Dozens of abducted civilians, including children, face execution, compounding severe violence and instability near Port-au-Prince.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    },
+    {
+      "location": "Taiz Governorate, Yemen",
+      "score": 8.0,
+      "trigger": "The complete exhaustion of medicines, oxygen, and essential medical supplies within days could force the closure of 42 health facilities in Taiz governorate.",
+      "potential_impact": "Thousands of injured and critically ill civilians would be deprived of emergency care and trauma treatment amid an ongoing blockade.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "يمن مونيتور",
+          "url": "https://www.yemenmonitor.com/en/Details/ArtMID/908/ArticleID/186381"
+        }
+      ]
+    },
+    {
+      "location": "Southern India",
+      "score": 5.5,
+      "trigger": "The intensification of a newly forming cyclonic system in the Bay of Bengal over the next 72 hours could bring heavy rainfall and severe weather to coastal southern states.",
+      "potential_impact": "Severe rain and storm surges could trigger flash flooding, infrastructure destruction, and community displacement across Andhra Pradesh, Tamil Nadu, and Kerala.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Jagran Josh",
+          "url": "https://www.jagranjosh.com/general-knowledge/after-cyclone-arnab-another-bay-of-bengal-cyclone-to-hit-india-andhra-pradesh-odisha-imd-weather-prediction-intensifiying-by-november-1-when-is-landfall-why-backtoback-storms-are-occuring-in-2026-1820013496-1"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "DW.com",
+        "count": 4
+      },
+      {
+        "name": "Jagran Josh",
+        "count": 2
+      },
+      {
+        "name": "يمن مونيتور",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Big News Network.com",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Head Topics",
+        "count": 1
+      },
+      {
+        "name": "International Business Times, Singapore Edition",
+        "count": 1
+      },
+      {
+        "name": "NDTV",
+        "count": 1
+      },
+      {
+        "name": "Pakistan Today",
+        "count": 1
+      },
+      {
+        "name": "ReliefWeb",
+        "count": 1
+      },
+      {
+        "name": "Rudaw",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "Udaipur Kiran",
+        "count": 1
+      },
+      {
+        "name": "Vietnam.vn",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      },
+      {
+        "name": "سانا",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "1 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 4/4 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1155,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
