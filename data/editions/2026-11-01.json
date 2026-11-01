@@ -1,0 +1,417 @@
+{
+  "date": "2026-11-01",
+  "printed_time": "12:46 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A powerful 7.4-magnitude earthquake in western Colombia killed over 100 people and damaged thousands of structures across the region.",
+      "region": "Americas"
+    },
+    {
+      "rank": 2,
+      "text": "The Ebola epidemic originating in the Democratic Republic of the Congo has killed over 5,000 people, with ongoing violence hampering containment efforts in the epicenter.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Flash floods across remote mountain valleys in Nepal and Tibet killed at least 157 people and left hundreds missing as entire villages were destroyed.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 4,
+      "text": "A magnitude 7.8 earthquake in the southern Philippines killed at least 32 people and injured 200 others, with rescue teams searching for survivors trapped in rubble.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Renewed conflict in Yemen displaced over 290,000 people since August, leaving hundreds of pregnant women without access to basic maternal healthcare.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "A 7.4-magnitude earthquake in western Colombia has killed more than 100 people and damaged thousands of buildings, triggering urgent search and rescue efforts.",
+    "label": "AMERICAS — Colombia Earthquake"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Mass Displacement and Maternal Healthcare Collapse",
+        "score": 8.0,
+        "body": "A resurgence of conflict in Yemen between government forces and Houthi rebels has displaced over 290,000 people since August, adding to 5.2 million existing internally displaced persons. UN OCHA reports that 600 displaced pregnant women face giving birth within two weeks without access to hospitals, midwives, or clean water due to collapsed maternal health infrastructure and aid funding shortages. Additionally, over 65,000 refugees and asylum seekers face worsening conditions as food and fuel prices rise.",
+        "verified_figures": [
+          "Over 290,000 people displaced since August",
+          "5.2 million previously internally displaced",
+          "600 displaced pregnant women facing birth without healthcare",
+          "More than 65,000 refugees and asylum-seekers affected"
+        ],
+        "sources": [
+          {
+            "name": "Arab News",
+            "url": "https://www.arabnews.jp/en/middle-east/displacement-in-yemen-tops-290000-including-hundreds-of-women-about-to-give-birth-un-warns-3001179"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Casualties, Displacements, and Human Rights Warnings in Gaza",
+        "score": 7.5,
+        "body": "Israeli military operations across the Gaza Strip killed at least four Palestinians, including a teacher during shelling on the Nuseirat refugee camp. The UN Human Rights Office in the Occupied Palestinian Territory warned of an increased risk of ethnic cleansing, citing expanded military operations, destruction of civilian infrastructure, and deliberate targeting of displacement shelters forcing civilians into shrinking zones, particularly from Gaza City and central Gaza.",
+        "verified_figures": [
+          "At least 4 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue"
+          }
+        ]
+      },
+      {
+        "headline": "Iran/Israel/USA — Escalating Tensions and Threats of Military Action",
+        "score": 5.0,
+        "body": "Iran's Supreme Leader warned the United States and Israel against conducting further military strikes on Tehran amid escalating regional tensions and threats of renewed conflict. Both US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have threatened new military actions against Iran. However, US Secretary of State Marco Rubio stated that no final decision regarding fresh strikes has been made by the US administration.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Settlers Block Access to West Bank Communities",
+        "score": 4.0,
+        "body": "Activists reported that Israeli settlers blocked access to over 20 Palestinian communities in the Masafer Yatta region of the occupied West Bank by locking a main gate in Umm al-Khair, trapping families inside their homes. International activists confronting the settlers reported being attacked and threatened while attempting to reopen access for the affected communities.",
+        "verified_figures": [
+          "Families from more than 20 Palestinian communities trapped"
+        ],
+        "sources": [
+          {
+            "name": "The Siasat Daily",
+            "url": "https://www.siasat.com/nearly-killed-andrey-x-recounts-israeli-attack-in-west-bank-3568061/amp/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — 7.4-magnitude earthquake kills over 100 people",
+        "score": 9.5,
+        "body": "A 7.4-magnitude earthquake struck western Colombia near San Jose del Palmar in the Choco region, approximately 400 kilometers west of Bogota. The quake was felt as far as Ecuador, Venezuela, and Panama. The disaster killed more than 100 people and damaged thousands of buildings, forcing residents to flee into the streets for safety. International aid has begun arriving as rescue teams search for survivors in the affected areas.",
+        "verified_figures": [
+          "More than 100 people killed",
+          "Thousands of buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/deadly-colombia-earthquake-leaves-widespread-destruction/g-78325463"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Salvadoran troops deploy after ambush leaves personnel missing",
+        "score": 6.5,
+        "body": "El Salvador deployed 2,000 troops to Port-au-Prince, Haiti, to combat gang violence following an ambush in which four Salvadoran aviation technicians were abducted. Heavy armor and Salvadoran forces took quarters in the Tabarre neighborhood. Salvadoran President Nayib Bukele stated the deployment aims solely to recover the missing personnel. Meanwhile, US President Donald Trump publicly suggested that the four missing technicians may have been killed.",
+        "verified_figures": [
+          "2,000 Salvadoran troops deployed",
+          "4 Salvadoran aviation technicians missing/abducted"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/americas/trump-suggests-missing-salvadoran-personnel-in-haiti-may-have-been-killed/4107806"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Army strikes Colombian ELN rebel camp near border",
+        "score": 5.5,
+        "body": "The Venezuelan army attacked a National Liberation Army (ELN) camp inside Venezuelan territory along the Colombian border. Rights NGO Fundaredes reported several fatalities, with media reports citing between nine and 19 people killed. The operation represents the first reported attack by Venezuelan military forces against Colombian ELN rebels inside Venezuela. Video footage released by the NGO showed destroyed camp infrastructure and bodies at the site.",
+        "verified_figures": [
+          "At least 9 to 19 people killed"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://newswav.com/article/several-dead-in-venezuelan-army-attack-on-colombian-leftist-rebel-camp-ngo-A2611_SPiPw5"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Death Toll Surpasses 5,000",
+        "score": 9.0,
+        "body": "An ongoing Ebola outbreak in the Democratic Republic of the Congo has killed over 5,000 people and infected more than 10,300 across eight of the country's 26 provinces. First declared in May, the epidemic is caused by the Bundibugyo virus strain, for which no approved treatment or vaccine currently exists, though clinical trials are underway. Health authorities identified Ituri province in the northeast as the epicenter, accounting for 71 percent of all confirmed cases. Ongoing armed conflict in Ituri is severely impeding access to affected communities and hampering response operations. Confirmed cases have also been detected outside the DRC in Kenya, Uganda, and Nigeria.",
+        "verified_figures": [
+          "Over 5,000 deaths",
+          "More than 10,300 confirmed cases",
+          "8 affected provinces"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Rare ceasefire enables humanitarian evacuations and aid delivery in Oleshky",
+        "score": 7.5,
+        "body": "A temporary ceasefire in the front-line city of Oleshky, Kherson region, enabled a major humanitarian operation to evacuate starved residents from Russian occupation. Hundreds of civilians, ranging from infants to the elderly, were transported in a convoy of 25 buses and ambulances via Belarus to Ukrainian-controlled territory in Chernihiv. The truce also allowed teams to clear mines from transport routes and deliver relief supplies to residents who opted to remain. Following the operation, Ukrainian and Russian officials agreed to institute regular humanitarian missions in the town.",
+        "verified_figures": [
+          "25 buses accommodating up to 750 people for evacuation convoy"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/three-planes-carrying-residents-evacuated-oleshky-arrive-belarus-news-agency-2026-10-31/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine"
+          }
+        ]
+      },
+      {
+        "headline": "Russia/Ukraine — Large-scale drone strike damages industrial facility east of Moscow",
+        "score": 2.5,
+        "body": "Russian authorities reported a massive overnight drone attack targeting an industrial facility in the Kstovo district of the Nizhny Novgorod region, east of Moscow. Regional officials stated that air defense forces destroyed over 100 drones, and preliminary reports indicated no casualties despite significant damage to the facility. Ukrainian media identified the target as a major oil refinery. The strike comes amid renewed calls from Türkiye for a negotiated settlement to end the ongoing war.",
+        "verified_figures": [
+          "Over 100 drones destroyed",
+          "0 casualties reported"
+        ],
+        "sources": [
+          {
+            "name": "Türkiye Today",
+            "url": "https://www.turkiyetoday.com/world/ukraine-reportedly-strikes-major-russian-oil-refinery-in-massive-drone-attack-3231448"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Philippines — Magnitude 7.8 Earthquake Kills At Least 32 in South",
+        "score": 9.0,
+        "body": "A powerful magnitude 7.8 earthquake struck the southern Philippines, killing at least 32 people, injuring 200, and leaving 12 missing. Civil defense officials reported that accounting for victims remains ongoing and rescue operations are underway amid reports that individuals may be trapped inside a school building. Initial damage assessments are continuing across affected areas, while most tsunami warnings issued after the quake have been lifted.",
+        "verified_figures": [
+          "at least 32 killed",
+          "200 injured",
+          "12 missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/powerful-earthquake-shakes-the-philippines/g-77459824"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Over 28 Million in Poverty Amid Aid Cuts and Returns",
+        "score": 8.0,
+        "body": "A United Nations Development Programme report indicates that an estimated 28 million people in Afghanistan were living in poverty in 2025. The country's humanitarian and economic situation continues to deteriorate due to prolonged drought, declining international aid, and mass population movements. UN findings show that the return of approximately 2.9 million Afghans over the year pushed an additional 1.4 million people into hardship, despite modest growth in real gross domestic product.",
+        "verified_figures": [
+          "28 million in poverty",
+          "2.9 million returnees",
+          "1.4 million pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "The Kabul Tribune",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — UN Investigator Accuses Junta of Intentionally Targeting Civilians",
+        "score": 7.5,
+        "body": "A United Nations rights investigator reported that Myanmar’s military junta is deliberately attacking civilians to terrorize populations into submission. The investigator stated that expanding military acquisitions from countries including Russia and China are intensifying conflict and fueling severe human rights violations. Concerns were raised that international and regional actors continue engaging with the military administration without requiring reductions in violence, release of thousands of political prisoners, or inclusive peace dialogues.",
+        "verified_figures": [
+          "thousands of political prisoners"
+        ],
+        "sources": [
+          {
+            "name": "The Manila Times",
+            "url": "https://www.manilatimes.net/2026/11/01/world/asia-oceania/un-investigator-myanmar-junta-attacking-civilians/2458756/amp"
+          }
+        ]
+      },
+      {
+        "headline": "China/Tibet — Magnitude 7.0 Earthquake Kills 16 and Destroys Hundreds of Homes",
+        "score": 7.0,
+        "body": "A magnitude 7.0 earthquake struck Baqing County in Nagqu, Tibet, killing at least 16 people, injuring dozens, and destroying hundreds of homes. According to data from the United States Geological Survey, the seismic event resulted from movement along a normal fault. The earthquake highlights persistent tectonic instability in the region, raising safety concerns regarding major infrastructure and mega hydropower projects constructed in earthquake-prone zones.",
+        "verified_figures": [
+          "at least 16 killed",
+          "dozens injured",
+          "hundreds of homes destroyed"
+        ],
+        "sources": [
+          {
+            "name": "IANS LIVE",
+            "url": "https://ianslive.in/chinas-mega-hydropower-projects-in-earthquake-prone-tibet-spark-safety-concerns--20261031181803"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo / Regional — Ebola Outbreak",
+        "score": 9.0,
+        "body": "A major Ebola outbreak originating in the Democratic Republic of the Congo has killed 5,026 people out of 10,351 confirmed cases since mid-May, representing a lethality rate near 50 percent. The epidemic is caused by the Bundibugyo virus strain, for which no vaccine is available. Cross-border transmission has been detected, with Kenya recording eight confirmed cases and two deaths, while Nigeria has registered one confirmed case and isolated two suspected individuals. Cases were also previously identified in Uganda and France. The Africa Centres for Disease Control and Prevention has appealed for urgent international support to contain the spread.",
+        "verified_figures": [
+          "5,026 deaths",
+          "10,351 confirmed cases",
+          "8 confirmed cases and 2 deaths in Kenya",
+          "1 confirmed case and 2 suspected cases in Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "Africanews",
+            "url": "https://www.africanews.com/amp/2026/10/31/ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal / Tibet — Flash Floods",
+        "score": 9.0,
+        "body": "Severe flash floods swept through remote valleys in Nepal and Tibet on Wednesday, destroying multiple villages. Nepali police confirmed that emergency personnel have recovered 157 bodies, while hundreds of people remain missing across the impacted region. Rescue teams are working to relocate families living in flood-prone zones to safe locations. Government officials announced that public resources are being deployed to manage search and rescue operations, medical care, food distribution, and emergency shelter for displaced residents.",
+        "verified_figures": [
+          "157 bodies recovered in Nepal",
+          "Hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Middle East / Iran",
+      "score": 5.0,
+      "trigger": "Direct military strikes by Israeli or US forces against Iranian targets could provoke immediate armed retaliation by Tehran.",
+      "potential_impact": "A broader regional conflict would put millions of civilians at risk, cause widespread destruction of infrastructure, and generate massive displacement.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "France 24 English",
+          "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks"
+        }
+      ]
+    },
+    {
+      "location": "Haiti",
+      "score": 6.5,
+      "trigger": "Aggressive military incursions by newly deployed Salvadoran troops into gang-controlled areas to recover missing personnel could spark severe urban warfare.",
+      "potential_impact": "Intensified fighting in Port-au-Prince risks heavy civilian casualties, severe protection threats, and expanded displacement across the capital.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/americas/trump-suggests-missing-salvadoran-personnel-in-haiti-may-have-been-killed/4107806"
+        }
+      ]
+    },
+    {
+      "location": "Venezuela / Colombia Border",
+      "score": 5.5,
+      "trigger": "Further military attacks by the Venezuelan armed forces against ELN rebel encampments could prompt retaliatory cross-border strikes.",
+      "potential_impact": "Escalating military operations along the frontier threaten remote border communities with displacement, crossfire casualties, and heightened insecurity.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "AFP",
+          "url": "https://newswav.com/article/several-dead-in-venezuelan-army-attack-on-colombian-leftist-rebel-camp-ngo-A2611_SPiPw5"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "DW.com",
+        "count": 3
+      },
+      {
+        "name": "France 24 English",
+        "count": 3
+      },
+      {
+        "name": "AFP",
+        "count": 2
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "Africanews",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Arab News",
+        "count": 1
+      },
+      {
+        "name": "IANS LIVE",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Kabul Tribune",
+        "count": 1
+      },
+      {
+        "name": "The Manila Times",
+        "count": 1
+      },
+      {
+        "name": "The Siasat Daily",
+        "count": 1
+      },
+      {
+        "name": "Türkiye Today",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 983,
+      "sources_cited": 14
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
