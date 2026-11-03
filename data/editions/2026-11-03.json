@@ -1,0 +1,462 @@
+{
+  "date": "2026-11-03",
+  "printed_time": "1:47 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An unprecedented outbreak of the Bundibugyo Ebola virus strain has killed over 5,300 people across the Democratic Republic of the Congo, Uganda, and Kenya, with more than 10,000 cases recorded.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Strikes in the Gaza Strip have pushed the cumulative death toll to 74,615, alongside 1,593 fatalities reported by official sources during ongoing ceasefire violations.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "A Russian strike on a humanitarian aid distribution center in Zaporizhzhia killed at least 31 people, while widespread attacks on energy infrastructure caused additional fatalities across Ukraine.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "A 7.4-magnitude earthquake in western Colombia's Choco region killed more than 100 people and damaged thousands of structures.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "An assessment in the Democratic Republic of the Congo reveals that 28.8 million people face acute food insecurity through December 2026 due to armed conflict and disease.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An outbreak of the rare Bundibugyo Ebola strain centered in the Democratic Republic of the Congo has killed over 5,300 people across the region, making it the fastest-growing Ebola outbreak on record.",
+    "label": "AFRICA — Rapidly Expanding Ebola Outbreak Kills Over 5,300"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza death toll rises to 74,615 as Israeli attacks leave more Palestinians dead and inj...",
+        "score": 10.0,
+        "body": "Gaza death toll rises to 74,615 as Israeli attacks leave more Palestinians dead and injured.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "İlke Haber Ajansı",
+            "url": "https://ilkha.com/english/world/gaza-death-toll-rises-to-74615-as-israeli-attacks-leave-more-palestinians-dead-and-injured-573368"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza Government Media Office: 1,593 Killed, 5,748 injured in 5,989 Israeli ceasefire vi...",
+        "score": 9.5,
+        "body": "Gaza Government Media Office: 1,593 Killed, 5,748 injured in 5,989 Israeli ceasefire violations.",
+        "verified_figures": [
+          "1,593 Killed",
+          "5,748 injured"
+        ],
+        "sources": [
+          {
+            "name": "وكالة سبأ",
+            "url": "https://saba.ye/en/news3825331.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Israeli airstrike targets Aita al-Jabal; explosions continue in southern Lebanon",
+        "score": 8.0,
+        "body": "Bint Jbeil – Several areas in southern Lebanon witnessed a military escalation on the ground, marked by an intense Israeli airstrike targeting the outskirts of the town of Aita al-Jabal in the Bint Jbeil district. The strike coincided with widespread bombing and destruction operations carried out by Israeli forces in and around the town of al-Tayri. This attack is part of a series of ongoing assaults targeting a number of border villages and towns, resulting in significant damage to infrastructure and property. Nature of targeting and field operations Israeli airstrikes focused on targeting the high ground and vital outskirts of the towns of Aita al-Jabal and Taybeh. Simultaneously, the skie",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "صوت الإمارات",
+            "url": "https://www.voiceofemirates.com/en/news/2026/11/02/israeli-airstrike-targets-aita-al-jabal-explosions-continue-in-southern-lebanon/"
+          }
+        ]
+      },
+      {
+        "headline": "EU condemns Houthi escalation as Yemen faces worsening siege and insecurity",
+        "score": 7.5,
+        "body": "The European Union has condemned what it called continued military escalation by the Houthis in Yemen, including attacks on Saudi Arabia and strikes it said targeted civilians and civilian infrastructure. The EU said it stood in solidarity with Yemen’s internationally recognised government and Saudi Arabia, and cited attacks on Aden’s Al-Maashiq palace, the continued siege of Taiz, military action along Yemen’s west coast and attacks on Saudi Arabia. All Houthi military action must end immediately, according to the statement issued on Monday on behalf of the bloc by its High Representative Kaja Kallas. It added that the EU wanted “all actors, including Iran” to stop military support to the H",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Howl.Link",
+            "url": "https://www.brusselstimes.com/eu-affairs/2388399/eu-condemns-houthi-escalation-as-yemen-faces-worsening-siege-and-insecurity/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1793638397"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — 7.4-Magnitude Earthquake Kills Over 100 People",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake struck western Colombia near San Jose del Palmar in the Choco region, killing more than 100 people and damaging thousands of buildings. The epicenter was located about 400 kilometers west of Bogota, with tremors felt in Ecuador, Venezuela, and Panama. Rescue teams are actively searching for survivors among destroyed structures as initial international assistance arrives in affected communities.",
+        "verified_figures": [
+          "more than 100 people killed",
+          "thousands of buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/deadly-colombia-earthquake-leaves-widespread-destruction/g-78325463"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Acute Food Insecurity Projected to Affect 6.35 Million People",
+        "score": 8.0,
+        "body": "An Integrated Food Security Phase Classification analysis projects that 6.35 million people in Haiti will face acute food insecurity over the next six months. According to the assessment, 5.94 million people—representing 53 percent of the national population—were already in IPC Phase 3 or higher at the time of evaluation. Humanitarian organizations report that armed violence, widespread displacement, elevated food prices, poor crop harvests, and climate shocks continue to exacerbate the emergency.",
+        "verified_figures": [
+          "6.35 million people projected to face acute food insecurity",
+          "5.94 million people (53% of population) in IPC Phase 3 or above"
+        ],
+        "sources": [
+          {
+            "name": "fundsforNGOs News",
+            "url": "https://news.fundsforngos.org/2026/11/03/care-ipc-analysis-haiti-6-35-million-acute-food-insecurity/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Flooding Damages Hundreds of Homes in New Mexico",
+        "score": 4.0,
+        "body": "Severe October flooding across northern New Mexico damaged roads, bridges, and housing infrastructure across multiple counties and indigenous pueblos. Preliminary damage assessments report at least 604 homes affected, including 353 that were severely damaged or destroyed, with officials projecting total home damage could reach 2,000. State authorities have requested a federal major disaster declaration to provide financial assistance for temporary housing, home repairs, and local infrastructure restoration.",
+        "verified_figures": [
+          "604 homes damaged",
+          "353 homes severely damaged or destroyed",
+          "up to 2,000 homes potentially damaged"
+        ],
+        "sources": [
+          {
+            "name": "AOL.com",
+            "url": "https://www.aol.com/articles/mexico-governor-asks-president-trump-033125000.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo & Regional — Ebola Outbreak",
+        "score": 9.5,
+        "body": "An outbreak of the rare Bundibugyo Ebola virus strain has killed over 5,300 people since May, becoming the fastest-growing Ebola outbreak on record. According to Africa CDC data, the Democratic Republic of the Congo is the epicenter, accounting for 5,372 of the 5,376 recorded fatalities. More than 10,000 cases have been reported across the region, with the case fatality rate surpassing 50 percent. Confirmed cases and deaths have also been documented in Uganda and Kenya, alongside monitored cases in Nigeria and France. Health agencies warn up to 12 countries are at risk, with no licensed vaccine currently available for this strain.",
+        "verified_figures": [
+          "5,376 total deaths (5,372 in DRC, 2 in Kenya, 2 in Uganda)",
+          "Over 10,000 cases",
+          "Case fatality rate over 50%"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Acute Hunger",
+        "score": 8.5,
+        "body": "An Integrated Food Security Phase Classification analysis indicates that 28.8 million people in the Democratic Republic of the Congo face acute food insecurity through December 2026. Humanitarian organization CARE reported that hunger is most severe in eastern and northeastern regions, propelled by armed conflict, repeated population displacement, crop failures, and disease outbreaks. Without immediate intervention, an additional 1.5 million people are projected to enter crisis levels of food insecurity by early 2027, bringing the total affected population to 30.3 million people.",
+        "verified_figures": [
+          "28.8 million people facing acute food insecurity through Dec 2026",
+          "30.3 million people projected facing food crisis by early 2027"
+        ],
+        "sources": [
+          {
+            "name": "fundsforNGOs News",
+            "url": "https://news.fundsforngos.org/2026/11/03/care-ipc-28-8-million-acute-hunger-drc-ebola-conflict/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes kill dozens at Zaporizhzhia aid hub and target power grid",
+        "score": 9.0,
+        "body": "A Russian strike on a former school serving as a humanitarian aid distribution point in Komyshuvakha, Zaporizhzhia region, killed at least 31 people, with dozens missing under rubble. The attack occurred as residents gathered for weekly aid packages. Subsequent overnight strikes across nine regions involved 289 attack drones, 17 ballistic missiles, and 59 cruise missiles, damaging hospitals, hitting power plants, and triggering emergency power cuts. Ukrainian officials reported at least 18 additional fatalities in the follow-up bombardments.",
+        "verified_figures": [
+          "at least 31 people killed",
+          "48 missing",
+          "289 attack drones, 17 ballistic missiles, and 59 cruise missiles launched",
+          "at least 18 killed in follow-up strikes"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-humanitarian-attack-drones-power-264da8725dc2bb1f0039a698a59af9fc"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/russia-pummels-ukraine-new-strikes-after-bombing-aid-point-kills-29"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261103-dozens-killed-dozens-more-missing-after-russian-strike-on-ukrainian-aid-site"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Over 750 civilians evacuated from Russian-occupied Oleshky amid famine risk",
+        "score": 6.5,
+        "body": "More than 750 Ukrainian civilians were evacuated from the Russian-occupied city of Oleshky in Kherson region following a temporary ceasefire and humanitarian corridor negotiated between Ukrainian and Russian officials. The local population had been facing near-famine conditions as winter approached. The operation marks a rare instance of direct bilateral coordination to facilitate civilian relief amidst ongoing hostilities.",
+        "verified_figures": [
+          "Over 750 civilians evacuated"
+        ],
+        "sources": [
+          {
+            "name": "Good News Network",
+            "url": "https://www.goodnewsnetwork.org/over-750-ukraine-civilians-evacuated-from-famine-conditions-in-most-substantial-truce-of-the-war/"
+          }
+        ]
+      },
+      {
+        "headline": "Black Sea — Military strikes on shipping imperil grain exports and global food security",
+        "score": 6.0,
+        "body": "Renewed attacks targeting shipping in the Black Sea have disrupted maritime transport routes vital for agricultural commodities. The strikes threaten grain exports from the region, creating risks of global food price increases and worsening international food insecurity.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Military Airstrikes Hit School and Health Facility in Kayah and Rakhine",
+        "score": 7.5,
+        "body": "UNICEF reported that an airstrike hit a school housing displaced families in Loikaw Township, Kayah State, on 31 October, killing three children and injuring five others. Subsequent military strikes in Rakhine State targeted a temporary healthcare facility, reportedly killing a newborn infant and healthcare workers. Additional attacks in Kyaukphyu reportedly killed two displaced persons and injured 16 others. UNICEF emphasized that children and essential civilian infrastructure, including schools and medical units, continue to face severe risks amid intensifying bombardment.",
+        "verified_figures": [
+          "3 children killed",
+          "5 children injured",
+          "2 IDPs killed",
+          "16 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Mirage News",
+            "url": "https://www.miragenews.com/unicef-reports-children-killed-injured-in-1771101/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Deepening Poverty Driven by Mass Returns, Drought, and Aid Cuts",
+        "score": 7.5,
+        "body": "A report by the United Nations Development Programme indicates that an estimated 28 million people in Afghanistan were living in poverty in 2025. The humanitarian and socioeconomic crisis has deteriorated further due to ongoing drought, severe cuts in international development aid, and the return of approximately 2.9 million Afghan nationals during the year. These mass returns pushed an additional 1.4 million people into economic hardship, straining local coping mechanisms despite minor overall economic growth.",
+        "verified_figures": [
+          "28 million people in poverty",
+          "2.9 million returned Afghans",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "India — Mass Evacuations Prepared as Cyclone Murasu Approaches Andhra Pradesh",
+        "score": 6.5,
+        "body": "Disaster management authorities in Andhra Pradesh, India, are preparing to evacuate approximately 30,000 people as Cyclone Murasu approaches the eastern coastline. The storm represents the second severe cyclonic system to affect the state within a week, following the impact of Cyclone Arnab. Emergency operations have already relocated around 2,000 residents from high-risk coastal areas to safer locations while precautionary measures continue across vulnerable districts.",
+        "verified_figures": [
+          "30,000 people planned for evacuation",
+          "2,000 people evacuated"
+        ],
+        "sources": [
+          {
+            "name": "theopenpress.in",
+            "url": "https://theopenpress.in/article/cyclone-murasu-andhra-pradesh-evacuation-landfall-2026"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of Congo — Ebola Outbreak Kills Over 5,300",
+        "score": 9.5,
+        "body": "Africa CDC has revised the death toll from the ongoing Ebola outbreak to 5,376 people, with 5,372 deaths recorded in the Democratic Republic of Congo and two each in Kenya and Uganda. The outbreak, caused by the rare Bundibugyo virus strain, began in the DRC in May and has infected more than 10,000 people, reflecting a case fatality rate above 50 percent. The virus has also reached Nigeria, making it the fastest-growing Ebola outbreak on record.",
+        "verified_figures": [
+          "5,376 total deaths",
+          "5,372 deaths in Democratic Republic of Congo",
+          "2 deaths in Kenya",
+          "2 deaths in Uganda",
+          "more than 10,000 confirmed cases",
+          "fatality rate of more than 50%"
+        ],
+        "sources": [
+          {
+            "name": "Euronews.com",
+            "url": "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Historic Southwestern Flooding Triggers Evacuations",
+        "score": 4.0,
+        "body": "Historic flooding caused by a major storm system forced evacuations across at least 12 counties in Arizona, Colorado, and New Mexico after waterways burst their banks. The storm dropped multiple months’ worth of rainfall across the American Southwest over several days before moving eastward into the central United States.",
+        "verified_figures": [
+          "evacuations in at least a dozen counties"
+        ],
+        "sources": [
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/11/02/weather/storm-flooding-arizona-colorado-election-day-climate"
+          }
+        ]
+      },
+      {
+        "headline": "Global — WHO Chief Urges Completion of Pandemic Treaty Amid Outbreaks",
+        "score": 3.0,
+        "body": "Speaking at a negotiation meeting in Geneva, World Health Organization Director-General Tedros Adhanom Ghebreyesus urged member states to finalize operational details of the international Pandemic Treaty without delay. Highlighting the ongoing Ebola Bundibugyo virus outbreak in Africa and recent hantavirus cases, the WHO chief emphasized that remaining disagreements between wealthy and developing nations over key treaty mechanisms leave global health security vulnerable.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Euronews.com",
+            "url": "https://www.euronews.com/2026/11/02/recent-virus-outbreaks-show-urgent-need-to-complete-pandemic-treaty-says-who-chief"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Andhra Pradesh, India",
+      "score": 6.5,
+      "trigger": "The imminent landfall of Cyclone Murasu, following closely behind Cyclone Arnab, could hit vulnerable coastal districts within the next 72 hours.",
+      "potential_impact": "Severe coastal flooding and storm surges could force the evacuation of up to 30,000 people and cause widespread destruction to local infrastructure.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "theopenpress.in",
+          "url": "https://theopenpress.in/article/cyclone-murasu-andhra-pradesh-evacuation-landfall-2026"
+        }
+      ]
+    },
+    {
+      "location": "Southern Lebanon",
+      "score": 8.0,
+      "trigger": "Intensifying Israeli airstrikes and ground destruction operations around border towns like Aita al-Jabal and al-Tayri could spark wider armed confrontation.",
+      "potential_impact": "Accelerated civilian displacement, infrastructure destruction, and loss of life across southern border communities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "صوت الإمارات",
+          "url": "https://www.voiceofemirates.com/en/news/2026/11/02/israeli-airstrike-targets-aita-al-jabal-explosions-continue-in-southern-lebanon/"
+        }
+      ]
+    },
+    {
+      "location": "Black Sea Shipping Corridors",
+      "score": 6.0,
+      "trigger": "Continued military strikes targeting commercial vessels in the Black Sea could paralyze regional maritime trade routes.",
+      "potential_impact": "Disruption to agricultural exports will drive up international food prices and deepen hunger crises in import-dependent countries.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "AFP",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Euronews.com",
+        "count": 2
+      },
+      {
+        "name": "fundsforNGOs News",
+        "count": 2
+      },
+      {
+        "name": "theopenpress.in",
+        "count": 2
+      },
+      {
+        "name": "صوت الإمارات",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "AOL.com",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "CNN",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Good News Network",
+        "count": 1
+      },
+      {
+        "name": "Howl.Link",
+        "count": 1
+      },
+      {
+        "name": "Mirage News",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      },
+      {
+        "name": "İlke Haber Ajansı",
+        "count": 1
+      },
+      {
+        "name": "وكالة سبأ",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "5 item(s) had no extractable figures in available reporting.",
+      "2 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 4/4 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1123,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
