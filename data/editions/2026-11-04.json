@@ -1,0 +1,522 @@
+{
+  "date": "2026-11-04",
+  "printed_time": "1:53 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Gaza Death Toll Reaches 74,615 / 1,599 Killed During Ceasefire.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Parts of Africa are facing the fastest-spreading Ebola epidemic on record.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "04.11.2026 | ALJazeera Ebola outbreak: Misinformation causing deaths in DRC | The Listening Post | | Trust in Ghana’s Judiciary: Which recent case most influenced your view?",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Parts of Africa are facing the fastest-spreading Ebola epidemic on record.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 5,
+      "text": "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak Additional staff, such as public health advisors, are being recruited.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Gaza Death Toll Reaches 74,615 / 1,599 Killed During Ceasefire.",
+    "label": "MIDDLE EAST — Gaza Death Toll Reaches 74,615 / 1,599 Killed During Ceasefire"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza Death Toll Reaches 74,615 / 1,599 Killed During Ceasefire",
+        "score": 10.0,
+        "body": "Gaza Death Toll Reaches 74,615 / 1,599 Killed During Ceasefire.",
+        "verified_figures": [
+          "1,599 Killed"
+        ],
+        "sources": [
+          {
+            "name": "خبرگزاری صدای افغان(آوا)",
+            "url": "https://www.avapress.com/en/news/369763/gaza-death-toll-reaches-74-615-1-599-killed-during-ceasefire"
+          }
+        ]
+      },
+      {
+        "headline": "4 airstrikes target Houthi weapons depots, military vehicles in Yemen: Report",
+        "score": 8.0,
+        "body": "4 airstrikes target Houthi weapons depots, military vehicles in Yemen: Report Airstrikes hit Central Security Camp in Al-Bayda, with attacks, clashes reported in Al-Dhalea, Taiz, Marib, Lahj Ikram Kouachi 04 November 2026•Update: 04 November 2026 ISTANBUL Four airstrikes targeted weapons depots and military vehicles belonging to Yemen’s Houthi group at the Central Security Camp in Al-Bayda province, Al-Jumhuriya TV reported on Wednesday, citing field sources. The broadcaster provided no details on casualties or the extent of the damage, and the party responsible for the attack remained unidentified. The Houthis control most of Al-Bayda, a strategically important province in central Yemen tha",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/4-airstrikes-target-houthi-weapons-depots-military-vehicles-in-yemen-report/4110961"
+          }
+        ]
+      },
+      {
+        "headline": "France/Lebanon: Opening of war crimes investigation into deadly Israeli strike is a cri...",
+        "score": 8.0,
+        "body": "Responding to the news that the French War Crimes Unit has opened a judicial investigation into a deadly November 2024 Israeli strike on a civilian building in central Beirut, following a legal complaint filed by French-Lebanese artist and filmmaker Ali Cherri and the International Federation for Human Rights, Amnesty International’s Regional Director Heba Morayef said: The opening of this judicial investigation by the French War Crimes Unit is a critical, long-overdue step towards making a dent in the wall of pervasive impunity enjoyed by Israeli forces for war crimes committed in Lebanon. Heba Morayef, Amnesty International “The opening of this judicial investigation by the French War Crim",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Amnesty International",
+            "url": "https://www.amnesty.org/en/latest/news/2026/11/france-lebanon-opening-of-war-crimes-investigation-into-deadly-israeli-strike-is-a-critical-step-towards-justice-truth-and-reparation/"
+          }
+        ]
+      },
+      {
+        "headline": "The Engineering of Famine in Palestine Continues and Civilians Pay the Price",
+        "score": 7.5,
+        "body": "The Engineering of Famine in Palestine Continues and Civilians Pay the Price The ceasefire didn't end Gaza's hunger crisis; destroyed farmland, livestock, fisheries, rising food prices, and declining aid left thousands of families with limited food options and unmet basic needs. RAFIF ESLIM PALESTINE- Famine in Palestine did not end after Israel announced a ceasefire in October 2025, as it continued in various forms, starting from the destruction of the agricultural, animal, and fisheries sectors, to focusing humanitarian aid on starches and legumes only without protein, and ending with the insane rise in commodity prices, which pushed many families to limit themselves to what fills their em",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "JINHAGENCY",
+            "url": "https://jinhaagency.com/en/community-life/the-engineering-of-famine-in-palestine-continues-and-civilians-pay-the-price-40479"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Colombia — 7.4-Magnitude Earthquake Kills Over 100",
+        "score": 9.0,
+        "body": "A 7.4-magnitude earthquake struck western Colombia near San Jose del Palmar in the Chocó region, killing more than 100 people and damaging thousands of buildings. The epicenter was located roughly 400 kilometers west of Bogotá, with tremors felt across Ecuador, Venezuela, and Panama. Rescue teams are searching for survivors under collapsed structures, while international aid has begun arriving to support emergency operations.",
+        "verified_figures": [
+          "7.4-magnitude earthquake",
+          "More than 100 people killed",
+          "Thousands of buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/deadly-colombia-earthquake-leaves-widespread-destruction/g-78325463"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Armed Gang Attack Leaves 47 Dead and Over 50 Kidnapped",
+        "score": 9.0,
+        "body": "Armed men launched an attack in Kenscoff, on the outskirts of Port-au-Prince, killing at least 47 people, including five children, and kidnapping more than 50 others. The United Nations confirmed the casualties in what represents one of the largest mass kidnappings in Haiti in recent years. A gang leader publicly threatened to kill the hostages if Haitian National Police attempt a rescue operation.",
+        "verified_figures": [
+          "At least 47 people killed",
+          "At least 5 children killed",
+          "More than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia & Argentina — Severe Floods Displace Over 158,000",
+        "score": 7.0,
+        "body": "Simultaneous severe weather systems have triggered widespread flooding in Colombia and Argentina, affecting or displacing more than 158,000 people. In northern Colombia, record rainfall killed at least 14 people and affected 156,000 others, submerging roughly 80 percent of Córdoba department while destroying homes and crops. Meteorologists warn that flood conditions across both countries are expected to worsen through November.",
+        "verified_figures": [
+          "More than 158,000 people affected or displaced",
+          "At least 156,000 people affected in Colombia",
+          "14 people killed in Colombia",
+          "80% of Córdoba department submerged"
+        ],
+        "sources": [
+          {
+            "name": "Latin Times",
+            "url": "https://www.latintimes.com/colombia-argentina-floods-displace-158000-people-600843"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Salvadoran Forces Launch Large Ground Offensive Against Gangs",
+        "score": 6.0,
+        "body": "Salvadoran military units launched their first major ground operation in Haiti, deploying armored vehicles into Plaine du Cul-de-Sac and killing at least 12 fighters from the 400 Mawozo and Chèn Méchan gangs. The offensive follows the October 18 kidnapping of four Salvadoran technicians serving with the UN-backed Gang Suppression Force. El Salvador currently maintains over 2,000 military personnel in Haiti under an authorized deployment through October 2027.",
+        "verified_figures": [
+          "At least 12 gang fighters killed",
+          "4 technicians kidnapped",
+          "More than 2,000 Salvadoran troops deployed"
+        ],
+        "sources": [
+          {
+            "name": "Latin Times",
+            "url": "https://www.latintimes.com/el-salvador-ground-operation-against-gangs-haiti-600873"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Why an Ebola outbreak in Africa doesn’t mean an epidemic in Britain",
+        "score": 10.0,
+        "body": "Parts of Africa are facing the fastest-spreading Ebola epidemic on record. The outbreak is caused by the Bundibugyo virus, one of several types of Ebola virus, and has grown dramatically in the Democratic Republic of the Congo (DRC). Cases have now appeared in other countries too. By October 31, 2026, the DRC had recorded 10,467 cases and 5,103 deaths. Kenya and Nigeria have also reported cases, and Uganda was affected earlier in the outbreak. Conflict and an ongoing humanitarian crisis make it harder for health workers to find cases, treat patients and track those who have been exposed. At the same time, large numbers of people and goods travel between the affected areas and neighbouring co",
+        "verified_figures": [
+          "10,467 cases",
+          "5,103 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Conversation",
+            "url": "https://theconversation.com/why-an-ebola-outbreak-in-africa-doesnt-mean-an-epidemic-in-britain-295685"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak: Misinformation causing deaths in DRC | The Listening Post",
+        "score": 10.0,
+        "body": "Ebola outbreak: Misinformation causing deaths in DRC | The Listening Post. 04.11.2026 | ALJazeera Ebola outbreak: Misinformation causing deaths in DRC | The Listening Post | | Trust in Ghana’s Judiciary: Which recent case most influenced your view?",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Modern Ghana",
+            "url": "https://www.modernghana.com/videonews/aljazeera/1/747344"
+          }
+        ]
+      },
+      {
+        "headline": "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak...",
+        "score": 9.5,
+        "body": "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak Additional staff, such as public health advisors, are being recruited. The Centers for Disease Control and Prevention (CDC) sent an \"urgent request\" to its workforce to recruit personnel to help screen passengers coming from Central Africa for any potential signs of Ebola illness, according to an internal email to staff obtained by ABC News. The email was sent by acting CDC Director Dr. Jay Bhattacharya. An HHS official confirmed the authenticity of the letter to ABC News. Last week, the CDC temporarily barred entry of non-U.S. citizen travelers who had previously visited the Democratic Republic of Congo,",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/ebola-outbreak-risks-becoming-deadliest-record-irc-warns/story?id=133305446"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola disease outbreak 2026: How MSF is responding",
+        "score": 9.5,
+        "body": "Ebola disease outbreak 2026: How MSF is responding As Ebola disease makes a resurgence in DR Congo, MSF staff are treating patients, setting up treatment centers and isolation units, and delivering supplies. As Ebola disease makes a resurgence in DR Congo, MSF staff are treating patients, setting up treatment centers and isolation units, and delivering supplies. October 26, 2026 — The first participant in the Tumaini clinical trial of vaccine candidates against Bundibugyo virus, which causes Ebola disease, was vaccinated today, as the outbreak continues in Democratic Republic of Congo (DRC). Doctors Without Borders/Médecins Sans Frontières (MSF) and its research arm, Epicentre, are among sev",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Doctors Without Borders",
+            "url": "https://www.doctorswithoutborders.org/latest/ebola-disease-outbreak-2026-how-msf-responding"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strike on humanitarian aid hub in Zaporizhzhia region",
+        "score": 9.5,
+        "body": "A Russian strike targeted a humanitarian aid center in Ukraine's Zaporizhzhia region, causing extensive casualties among civilians gathered for assistance. Ukrainian officials confirmed dozens of people were killed or remain missing following the bombardment. According to local reporting, the confirmed death toll has risen to at least 31 people. The facility was actively providing relief supplies when it was struck, making it one of the deadliest single attacks on humanitarian infrastructure during the war.",
+        "verified_figures": [
+          "at least 31 killed",
+          "dozens dead and missing"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/dozens-dead-missing-after-russian-strike-ukrainian-aid-centre-officials-say-2026-11-04/"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/zelensky-says-dozens-dead-missing-russian-strike-days-us-talks"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Massive power grid strikes and acute front-line food insecurity",
+        "score": 7.5,
+        "body": "Russian forces launched one of the war's largest coordinated attacks against Ukraine's national power grid, causing widespread electrical outages and threatening vital municipal services. Concurrently, civilian hardship remains acute near front-line areas. In Zaporizhzhia, an estimated 2,000 civilians—including unaccompanied children—gathered at a single cathedral to receive emergency food rations as daily Russian drone and artillery strikes continued across the city.",
+        "verified_figures": [
+          "about 2,000 people gathered for bread in Zaporizhzhia"
+        ],
+        "sources": [
+          {
+            "name": "Euromaidan Press",
+            "url": "https://euromaidanpress.com/2026/11/04/russo-ukrangian-war-day-1714-russia-launches-one-of-largest-attacks-on-ukraines-power-grid-of-war/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Escalating attacks disrupt education across two-thirds of school days",
+        "score": 6.0,
+        "body": "Air-raid alarms are now disrupting nearly two-thirds of school days across Ukraine, severely impeding children's access to safe education. Frequent alarms force students and teachers into shelters, compounding psychological trauma and learning loss. In response, UNICEF is partnering with the Ukrainian government to reinforce school bomb shelters, offer mental health support, and deliver catch-up learning programs to maintain educational continuity for vulnerable children.",
+        "verified_figures": [
+          "air-raid alarms affect nearly two-thirds of school days"
+        ],
+        "sources": [
+          {
+            "name": "Unicef",
+            "url": "https://www.unicef.org/ukraine/en/press-releases/increased-attacks-disrupt-childrens-education-air-raid-alarms-affect-nearly-two"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Hantavirus outbreak infects over 1,500 people across multiple regions",
+        "score": 4.5,
+        "body": "Health authorities in Russia report an outbreak of hemorrhagic fever with renal syndrome caused by hantavirus, with 1,512 patients diagnosed across several regions. Official figures record 656 cases in Udmurtia, 367 in Bashkortostan, and 278 in the Nizhny Novgorod Region, along with additional infections in Tatarstan and Saratov. The surge is linked to seasonal autumn migrations of wild rodents into human habitats, exposing residents to infected droppings and saliva.",
+        "verified_figures": [
+          "1,512 total patients diagnosed",
+          "656 cases in Udmurtia",
+          "367 cases in Bashkortostan",
+          "278 cases in Nizhny Novgorod Region"
+        ],
+        "sources": [
+          {
+            "name": "Outbreak News Today",
+            "url": "https://outbreaknewstoday.substack.com/p/russia-records-hantavirus-outbreak"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "UNICEF says children are being killed in schools and clinics as airstrikes hit Karenni ...",
+        "score": 9.0,
+        "body": "Three children were killed and five others injured when an airstrike hit a school for displaced children and families in Loikaw Township, Karenni (Kayah) State, on 31 October, as the UN Children’s Fund (UNICEF) warned on 3 November that Myanmar’s children are being killed in the places meant to protect them. According to UNICEF, further airstrikes struck Rakhine State over the weekend, including one on a temporary health clinic that reportedly killed a newborn baby and several health workers. The agency did not give the number of health workers killed or the clinic’s location, and it did not name who carried out the strikes. In its statement, UNICEF said children are “bearing the brunt” of M",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Myanmar Peace Monitor",
+            "url": "https://mmpeacemonitor.org/en/en-news/unicef-says-children-are-being-killed-in-schools-and-clinics-as-airstrikes-hit-karenni-and-rakhine/"
+          }
+        ]
+      },
+      {
+        "headline": "UNICEF Warns Of Worsening Hunger and Humanitarian Crisis in Afghanistan As Millions Fac...",
+        "score": 9.0,
+        "body": "The Kabul Tribune (KT) — Afghanistan's humanitarian crisis continued to worsen in September, with 15.9 million people facing crisis-level food insecurity or worse, while acute malnutrition, disease outbreaks and large-scale returns from neighboring countries placed additional pressure on already strained services, according to a UNICEF report. The report said 3.4 million people were experiencing emergency levels of food insecurity (IPC Phase 4), while child wasting reached its highest recorded levels for the August-October period. UNICEF screened approximately 1.3 million children for wasting during the reporting period, admitting 107,396 children with severe or high-risk moderate wasting fo",
+        "verified_figures": [
+          "15.9 million people facing crisis",
+          "3.4 million people were experiencing",
+          "1.3 million children for wasting"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0011814"
+          }
+        ]
+      },
+      {
+        "headline": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambiq...",
+        "score": 8.5,
+        "body": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone The educational centre in Loikaw Township, Kayah state was being used by displaced families when it came under attack on Saturday, amid an ongoing civil war sparked by a coup in 2021. Further airstrikes were reported in Rakhine state over the weekend, including one that struck a temporary healthcare facility, reportedly killing a newborn baby and healthcare workers. ‘Stark reminder’ “These reports are yet another stark reminder that children are bearing the brunt for the devastating conflict in Myanmar,” UNICEF said. It added that youngsters “are being killed and inj",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/11/1168729"
+          }
+        ]
+      },
+      {
+        "headline": "Major and Captain in Myanmar Military Killed in Sittwe Clashes",
+        "score": 8.0,
+        "body": "Major and Captain in Myanmar Military Killed in Sittwe Clashes.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Narinjara News",
+            "url": "https://www.narinjara.com/news/detail/6aea08f9062b9c5dcd917c45"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Over 5,000 dead in rapidly spreading Ebola epidemic",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo is experiencing a severe Ebola epidemic caused by the Bundibugyo virus, recording 10,467 cases and 5,103 deaths as of 31 October 2026. Cases have also been reported in Kenya and Nigeria, following earlier infections in Uganda. Ongoing armed conflict and humanitarian distress in affected regions are heavily impeding health personnel from tracking contacts and delivering medical treatment. In response to regional risks, UNICEF has delivered over 50 metric tonnes of personal protective equipment and infection control materials to assist preparedness efforts in neighbouring South Sudan.",
+        "verified_figures": [
+          "10,467 cases in DRC",
+          "5,103 deaths in DRC",
+          "over 50 metric tonnes of supplies delivered to South Sudan"
+        ],
+        "sources": [
+          {
+            "name": "Unicef",
+            "url": "https://www.unicef.org/southsudan/press-releases/unicef-scales-preparedness-response-ebola-outbreaks-neighbouring-countries"
+          }
+        ]
+      },
+      {
+        "headline": "South Sudan — 42 new cholera cases reported in Unity State",
+        "score": 4.5,
+        "body": "Health officials in South Sudan's Unity State reported 42 new cholera cases within a 24-hour period, primarily concentrated in Rubkona County and the state capital of Bentiu. Despite the newly registered infections, health authorities noted that the overall rate of transmission has decreased over the past two months compared to earlier stages of the outbreak.",
+        "verified_figures": [
+          "42 cholera cases recorded in 24 hours"
+        ],
+        "sources": [
+          {
+            "name": "Eye Radio",
+            "url": "https://eyeradio.org/unity-state-records-42-cholera-cases-as-outbreak-eases/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ebola disease outbreak 2026: How MSF is responding",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Doctors Without Borders",
+          "url": "https://www.doctorswithoutborders.org/latest/ebola-disease-outbreak-2026-how-msf-responding"
+        }
+      ]
+    },
+    {
+      "location": "Ebola disease outbreak 2026: How MSF is responding",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Doctors Without Borders",
+          "url": "https://www.doctorswithoutborders.org/latest/ebola-disease-outbreak-2026-how-msf-responding"
+        }
+      ]
+    },
+    {
+      "location": "UNICEF scales up preparedness in response to Ebola outbreaks",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Unicef",
+          "url": "https://www.unicef.org/southsudan/press-releases/unicef-scales-preparedness-response-ebola-outbreaks-neighbouring-countries"
+        }
+      ]
+    },
+    {
+      "location": "LOOK: The Department of Health-Bureau of Quarantine issued a",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/gmanews/posts/look-the-department-of-health-bureau-of-quarantine-issued-an-advisory-on-the-add/1766909955480654/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "Doctors Without Borders",
+        "count": 3
+      },
+      {
+        "name": "Unicef",
+        "count": 3
+      },
+      {
+        "name": "DW.com",
+        "count": 2
+      },
+      {
+        "name": "Latin Times",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Amnesty International",
+        "count": 1
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Euromaidan Press",
+        "count": 1
+      },
+      {
+        "name": "Eye Radio",
+        "count": 1
+      },
+      {
+        "name": "Facebook",
+        "count": 1
+      },
+      {
+        "name": "JINHAGENCY",
+        "count": 1
+      },
+      {
+        "name": "Modern Ghana",
+        "count": 1
+      },
+      {
+        "name": "Myanmar Peace Monitor",
+        "count": 1
+      },
+      {
+        "name": "Narinjara News",
+        "count": 1
+      },
+      {
+        "name": "Outbreak News Today",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Conversation",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      },
+      {
+        "name": "خبرگزاری صدای افغان(آوا)",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "9 item(s) had no extractable figures in available reporting.",
+      "3 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 14/14 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 3/6 region(s) with candidate material generated via Gemini (LLM), 3 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1125,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
