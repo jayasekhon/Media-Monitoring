@@ -1,0 +1,402 @@
+{
+  "date": "2026-11-05",
+  "printed_time": "2:06 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A rapidly expanding Ebola outbreak in the Democratic Republic of the Congo has caused over 5,000 deaths and spread to Kenya and Nigeria while active conflict severely obstructs emergency response operations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A Russian airstrike targeting a humanitarian aid distribution center and civilian shelter in Zaporizhzhia, Ukraine, killed at least 42 people and left dozens missing under rubble.",
+      "region": "Europe"
+    },
+    {
+      "rank": 3,
+      "text": "Escalating military hostilities, airstrikes, and a four-week siege of Taiz in Yemen have killed 1,771 people since August as daily casualty rates surge.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "The Democratic Republic of the Congo faces its worst cholera crisis in decades, with 1,800 deaths and 60,000 cases recorded amid militia control in eastern provinces.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Airstrikes targeting a school in Myanmar killed children, underscoring grave protection risks for civilians amidst ongoing military attacks.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A rapidly expanding Ebola outbreak in the Democratic Republic of the Congo has killed more than 5,000 people and spread to neighboring countries as ongoing armed conflict severely obstructs response operations.",
+    "label": "AFRICA — Regional Ebola Crisis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Escalating conflict drives sharp rise in casualties",
+        "score": 8.0,
+        "body": "Escalating military hostilities in Yemen have resulted in 1,771 deaths and 7,959 injuries between August and late October, according to the World Health Organization. Casualty rates rose to an average of 132 per day during late October. Intense fighting, airstrikes, and a four-week siege of Taiz continue following a failed government counteroffensive against Houthi forces. Separately, an attack on a camp in Yemen left 14 people dead and more than 30 wounded. In response to military setbacks and territorial losses, Yemen's government has dismissed several top political and military leaders.",
+        "verified_figures": [
+          "1,771 killed since August",
+          "7,959 injured since August",
+          "94 killed between Oct. 26 and 30",
+          "564 injured between Oct. 26 and 30",
+          "14 dead in camp attack",
+          "more than 30 wounded in camp attack"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Fatalities rise amid ongoing attacks in Gaza",
+        "score": 6.5,
+        "body": "Israeli military attacks in the Gaza Strip have killed four people, including a child, according to local officials. Authorities report that more than 1,600 Palestinians have been killed since a ceasefire agreement came into effect, while total reported fatalities in Gaza since the start of the conflict have surpassed 74,600 following recent strikes.",
+        "verified_figures": [
+          "4 people killed in Israeli attacks",
+          "1 child killed",
+          "more than 1,600 Palestinians killed since ceasefire took effect",
+          "overall death toll surpasses 74,600"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Casualties reported in southern airstrike",
+        "score": 3.0,
+        "body": "An Israeli airstrike on the town of Qabrikha in southern Lebanon killed one person and wounded another, according to the Lebanese Ministry of Public Health. The attack highlights continuing cross-border security risks and localized violence impacting communities in southern Lebanon.",
+        "verified_figures": [
+          "1 killed",
+          "1 injured"
+        ],
+        "sources": [
+          {
+            "name": "وكالة سبأ",
+            "url": "https://www.saba.ye/en/news3827007.htm"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — International Troop Surge Responds to Escalating Gang Violence",
+        "score": 7.0,
+        "body": "Haitian acting Prime Minister Alix Didier Fils-Aimé defended an international troop surge after El Salvador deployed over 2,000 soldiers to Haiti. The deployment followed an October 18 ambush and kidnapping of four Salvadoran aviation technicians in gang-controlled territory. Haitian police recently recovered the burned vehicle used by the missing technicians in Croix-des-Bouquets, though the men remain missing. The Salvadoran force joins a UN-backed deployment exceeding 4,000 personnel. Haitian authorities stated all foreign forces operate under government direction. The Viv Ansanm gang coalition currently controls an estimated 90 percent of Port-au-Prince.",
+        "verified_figures": [
+          "over 2,000 Salvadoran troops deployed",
+          "4 Salvadoran technicians kidnapped",
+          "over 4,000 total international personnel deployed",
+          "gangs control an estimated 90% of Port-au-Prince"
+        ],
+        "sources": [
+          {
+            "name": "Latin Times",
+            "url": "https://www.latintimes.com/haiti-defends-salvadoran-troop-surge-against-gangs-600902"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Flooding Disrupts Water Supply to Navajo Nation Communities",
+        "score": 5.0,
+        "body": "Sandoval County, New Mexico, declared a disaster emergency after severe flooding along the Jemez River and Rio Puerco watersheds ruptured a primary water line. The infrastructure damage left residents across three Navajo Nation chapters—Torreon-Star Lake, Ojo Encino, and Counselor—and surrounding communities without running drinking water. The emergency declaration enables local authorities to purchase and distribute emergency water supplies. The severe weather is part of broader El Niño-driven flooding affecting the Four Corners region and Florida, which has swamped homes, washed out roads, and disrupted local telecommunications infrastructure.",
+        "verified_figures": [
+          "3 Navajo Nation chapters without running water"
+        ],
+        "sources": [
+          {
+            "name": "NTD News",
+            "url": "https://www.ntd.com/new-mexico-county-declares-emergency-after-floods-cut-water-to-navajo-communities_1183469.html"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Post-Earthquake Financial Assistance Reaches Affected Residents",
+        "score": 4.0,
+        "body": "Humanitarian organization GiveDirectly, alongside local partner Alimenta La Solidaridad, completed direct cash distributions to 3,765 people affected by magnitude 7.2 and 7.5 earthquakes in Catia La Mar, La Guaira state. Eligible residents received $340 each through a digital transfer system utilizing USDC stablecoins and local mobile payments. Dissemination began 21 days following the June 24 quakes, delivering 86 cents of every donated dollar directly as cash to survivors in one of the areas hit hardest by the seismic activity.",
+        "verified_figures": [
+          "3,765 people assisted",
+          "$340 per recipient",
+          "magnitude 7.2 and 7.5 earthquakes"
+        ],
+        "sources": [
+          {
+            "name": "EIN Presswire",
+            "url": "https://www.einpresswire.com/article/954528666/givedirectly-sent-cash-to-venezuela-earthquake-survivors-using-usdc-stablecoins"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo & Regional — Escalating Ebola outbreak kills over 5,000",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is facing a major Ebola outbreak caused by the Bundibugyo strain, with over 10,000 cases and 5,000 deaths recorded. Response operations are severely hindered by armed conflict, displacement, adverse weather, attacks on health infrastructure, and remote access difficulties. Cross-border transmission has occurred, with Kenya confirming nine cases and two deaths, while Nigeria has recorded one case. In addition, a British healthcare worker assisting response efforts in the country tested positive for Ebola and is being evacuated to the United Kingdom for specialist treatment.",
+        "verified_figures": [
+          "10,467 cases in DRC",
+          "5,103 deaths in DRC",
+          "9 cases in Kenya",
+          "2 deaths in Kenya",
+          "1 case in Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "allAfrica.com",
+            "url": "https://allafrica.com/stories/202611050004.html"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Severe cholera outbreak causes 1,800 deaths amid ongoing conflict",
+        "score": 8.0,
+        "body": "The World Health Organization reported that an ongoing cholera outbreak in the Democratic Republic of the Congo has killed approximately 1,800 people and generated around 60,000 cases this year, marking the country's worst cholera crisis in decades. Most infections are concentrated in the eastern provinces of North and South Kivu. Response efforts are severely constrained by active armed conflict, eastern territorial control by militias such as M23, and concurrent health emergencies, further worsening protection and health risks for vulnerable populations.",
+        "verified_figures": [
+          "around 1,800 deaths",
+          "some 60,000 cases"
+        ],
+        "sources": [
+          {
+            "name": "Medical Xpress",
+            "url": "https://medicalxpress.com/news/2026-11-dead-cholera-ebola-dr-congo.html"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — WHO recommends clinical evaluation of new Ebola vaccine candidates",
+        "score": 6.0,
+        "body": "The World Health Organization has recommended two vaccine candidates for clinical evaluation to address the active Bundibugyo Ebola strain outbreak in the Democratic Republic of the Congo. The candidates—University of Oxford and Serum Institute of India's ChAdOx1 and Moderna's mRNA-1469—will join the ongoing Tumaini trial following national regulatory approvals. This marks the first time vaccines developed specifically against the Bundibugyo strain will be tested during an active disease outbreak.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "EMJ",
+            "url": "https://www.emjreviews.com/general-healthcare/news/two-new-ebola-vaccine-candidates-recommended-amidst-drc-outbreak/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Strike on Aid Centre Kills at Least 42 Civilians in Zaporizhzhia",
+        "score": 9.0,
+        "body": "Ukrainian authorities reported that the death toll from a Russian air strike on a humanitarian aid distribution centre and civilian shelter in the Zaporizhzhia region has risen to 42 people, with dozens more believed to be missing under the rubble. The attack targeted a school building in the frontline settlement of Komyshuvakha that was being used to distribute aid and provide shelter. Released bodycam footage showed civilians rushing into an underground shelter prior to the strike. Russian forces also maintained attacks on Ukrainian energy, transport, and logistical infrastructure, leading to power disruptions in Kyiv.",
+        "verified_figures": [
+          "At least 42 people killed",
+          "Dozens missing"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/death-toll-russian-strike-ukrainian-aid-centre-reaches-42-police-say-2026-11-05/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/ukraine-russia-war-kyiv-airstrike-water-37dc5e85a5c8c135996bc2720e0674d9"
+          }
+        ]
+      },
+      {
+        "headline": "Global — UN Refugee Chief Warns of 117 Million Displaced Amid Funding Shortfalls",
+        "score": 6.0,
+        "body": "Addressing the United Nations General Assembly's Third Committee, UN High Commissioner for Refugees Barham Salih stated that conflict, violence, and persecution have forcibly displaced over 117 million people worldwide. Citing ongoing crises in Ukraine and Sudan, Salih warned that dwindling humanitarian funding is placing severe strain on assistance efforts for displaced populations and host countries. He emphasized that humanitarian operations cannot indefinitely substitute for political solutions to unresolved wars.",
+        "verified_figures": [
+          "Over 117 million people forcibly displaced worldwide"
+        ],
+        "sources": [
+          {
+            "name": "Mirage News",
+            "url": "https://www.miragenews.com/refugee-chief-117-million-displaced-as-peace-1772301/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Severe Malnutrition Surge Overcrowds Southern Hospitals",
+        "score": 6.5,
+        "body": "Hospitals and health facilities across southern Afghanistan are experiencing a surge in severe malnutrition cases, leading to overcrowded wards, according to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA). The agency warned that the deteriorating food security crisis is being compounded by significant resource reductions for humanitarian organizations operating in the country.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Lokmat Times",
+            "url": "https://www.lokmattimes.com/health/afghanistan-hospitals-grapple-with-severe-malnutrition-surge-un-warns-of-worsening-crisis-a001-w02/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — UN Reports Children Killed in School Airstrikes",
+        "score": 7.5,
+        "body": "Airstrikes targeting a school in Myanmar have resulted in the deaths of children, according to statements from the United Nations. The strike underscores grave ongoing protection concerns for civilians and children as military attacks continue to impact critical civilian infrastructure across the country.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "WORLD News Group",
+            "url": "https://wng.org/sift/airstrikes-on-a-school-kill-children-in-myanmar-un-says-1793807927"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Junta Accuses Opposition Forces of Cross-Border Shooting",
+        "score": 3.0,
+        "body": "Myanmar’s military has denied responsibility for a cross-border shooting that wounded a Thai civilian, blaming anti-junta resistance groups for the attack. In a statement released on 3 November, the military accused the Karen National Union, the National Unity Government, and People's Defence Forces of firing into Thailand to destabilize bilateral relations.",
+        "verified_figures": [
+          "1 Thai civilian injured"
+        ],
+        "sources": [
+          {
+            "name": "Khaosod English",
+            "url": "https://www.khaosodenglish.com/featured/2026/11/05/myanmar-military-blames-resistance-groups-for-shooting-into-thailand-to-stir-conflict/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo / Global — Rapidly Spreading Ebola Outbreak Causes Over 5,000 Deaths Amid Regional Expansion",
+        "score": 9.0,
+        "body": "A rapidly expanding Ebola outbreak in the Democratic Republic of the Congo (DRC) has resulted in 10,467 recorded cases and 5,103 deaths. Caused by the Bundibugyo virus, the disease has spread regionally, with cases reported in Kenya, Uganda, and Nigeria. Active conflict and an ongoing humanitarian crisis in DRC continue to severely obstruct response efforts, including case identification, contact tracing, and patient treatment. Meanwhile, a British healthcare worker deployed with a humanitarian organization in DRC tested positive for Ebola and is being medically evacuated to London for specialist care, while Nigerian health authorities are mobilizing emergency response measures following an imported case in Abuja.",
+        "verified_figures": [
+          "10,467 recorded cases in DRC",
+          "5,103 deaths in DRC"
+        ],
+        "sources": [
+          {
+            "name": "allAfrica.com",
+            "url": "https://allafrica.com/stories/202611050004.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Port-au-Prince, Haiti",
+      "score": 7.0,
+      "trigger": "Direct military confrontations between newly deployed international forces and the Viv Ansanm coalition controlling 90 percent of the capital following recent kidnappings.",
+      "potential_impact": "Widespread civilian displacement and complete paralysis of humanitarian access across urban neighborhoods.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Latin Times",
+          "url": "https://www.latintimes.com/haiti-defends-salvadoran-troop-surge-against-gangs-600902"
+        }
+      ]
+    },
+    {
+      "location": "Gaza Strip, Occupied Palestinian Territory",
+      "score": 6.5,
+      "trigger": "Continued military strikes causing civilian casualties despite ceasefire agreements.",
+      "potential_impact": "Further collapse of fragile local aid delivery mechanisms and heightened civilian protection concerns.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera English",
+        "count": 3
+      },
+      {
+        "name": "Latin Times",
+        "count": 2
+      },
+      {
+        "name": "allAfrica.com",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "EIN Presswire",
+        "count": 1
+      },
+      {
+        "name": "EMJ",
+        "count": 1
+      },
+      {
+        "name": "Khaosod English",
+        "count": 1
+      },
+      {
+        "name": "Lokmat Times",
+        "count": 1
+      },
+      {
+        "name": "Medical Xpress",
+        "count": 1
+      },
+      {
+        "name": "Mirage News",
+        "count": 1
+      },
+      {
+        "name": "NTD News",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "WORLD News Group",
+        "count": 1
+      },
+      {
+        "name": "وكالة سبأ",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1105,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
