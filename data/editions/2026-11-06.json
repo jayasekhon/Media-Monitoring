@@ -1,0 +1,387 @@
+{
+  "date": "2026-11-06",
+  "printed_time": "1:51 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An escalating Ebola outbreak across Central and East Africa has killed over 5,300 people amidst cross-border transmission and severe operational challenges.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A Russian strike targeting a humanitarian aid distribution point in Ukraine's Zaporizhzhia region killed at least 53 people and trapped up to 39 beneath rubble.",
+      "region": "Europe"
+    },
+    {
+      "rank": 3,
+      "text": "An attack by armed men in Kenscoff, Haiti, killed at least 47 people and led to the mass kidnapping of over 50 hostages.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "More than 53 percent of Yemen's population faces crisis-level food insecurity amidst leadership restructuring and an ongoing siege of Taiz.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Reported military attacks across the Gaza Strip despite an active ceasefire have resulted in 1,599 deaths and 5,774 injuries.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An escalating Ebola outbreak centered in the Democratic Republic of the Congo has infected over 10,400 people and killed more than 5,300 across Central and East Africa, severely straining regional healthcare infrastructure.",
+    "label": "AFRICA — Escalating Regional Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Conflict Escalates Amid Worsening Food Insecurity and Taiz Siege",
+        "score": 8.0,
+        "body": "Yemen’s UN-recognized government has restructured its political and military leadership following Houthi advances, a four-week siege of Taiz, and a failed counteroffensive that left thousands dead on both sides. The political crisis coincides with a UN Food and Agriculture Organization report projecting that over 53% of Yemenis face crisis-level food insecurity (IPC Phase 3 or worse) during the ongoing dry season, with millions at emergency levels (IPC Phase 4). Additionally, recent Saudi-led airstrikes in Taiz’s Maqbanah district reportedly killed at least seven civilians, including two children, and wounded six others.",
+        "verified_figures": [
+          "over 53% of population facing IPC Phase 3 or worse food insecurity",
+          "thousands dead in counteroffensive",
+          "at least 7 civilians killed in Taiz",
+          "6 injured in Taiz airstrike"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza/OPT — Ongoing Military Attacks Reported Despite Ceasefire",
+        "score": 7.5,
+        "body": "Media outlets report continuing military attacks across the Gaza Strip despite an active ceasefire agreement. According to regional news sources, reported violations of the ceasefire have resulted in 1,599 Palestinians killed and 5,774 injured. Separately, alternative reporting claims Gaza's population has increased and disputes reports of widespread famine and casualty statistics for women and children.",
+        "verified_figures": [
+          "1,599 Palestinians killed",
+          "5,774 injured"
+        ],
+        "sources": [
+          {
+            "name": "خبرگزاری صدای افغان(آوا)",
+            "url": "https://www.avapress.com/en/news/369904/gaza-amidst-ceasefire-violations-1-599-palestinians-killed-5-774-injured"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Over 1 Million Face Severe Food Insecurity Following Conflicts",
+        "score": 6.0,
+        "body": "An Integrated Food Security Phase Classification analysis published on 5 November reveals that approximately 1.05 million people in Lebanon are facing high levels of acute food insecurity between September 2026 and July 2027. Humanitarian analysts attribute the high hunger levels to the compounding impacts of two consecutive armed conflicts and a fragile economic recovery across the country.",
+        "verified_figures": [
+          "1.05 million people facing high acute food insecurity"
+        ],
+        "sources": [
+          {
+            "name": "ReliefWeb",
+            "url": "https://reliefweb.int/report/lebanon/lebanon-around-105-million-people-face-high-levels-acute-food-insecurity-following-two-successive-conflicts-and-fragile-recovery-ipc-acute-food-insecurity-analysis-september-2026-july-2027-published-5-november-2026"
+          }
+        ]
+      },
+      {
+        "headline": "Egypt — Border Security Guards Killed in Clashes Near Sudan Border",
+        "score": 4.0,
+        "body": "Two Egyptian border guards were killed in armed clashes near Egypt's southern border with Sudan. Egyptian military authorities reported that the exchange of fire involved illegal armed groups operating in the region tied to illicit gold mining. Recent security operations targeting the illegal mining networks resulted in the confiscation of 34 firearms and over 6,300 rounds of ammunition, with further operations scheduled.",
+        "verified_figures": [
+          "2 Egyptian border guards killed",
+          "34 firearms seized",
+          "over 6,300 rounds of ammunition seized"
+        ],
+        "sources": [
+          {
+            "name": "AzerNews",
+            "url": "https://www.azernews.az/region/266904.html"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass attack and kidnappings in Kenscoff leave 47 dead",
+        "score": 8.5,
+        "body": "The United Nations confirmed that an attack by armed men in Kenscoff, near Port-au-Prince, killed at least 47 people, including five children, and resulted in the kidnapping of over 50 others. The event represents one of Haiti's largest mass kidnappings in recent years. In a video broadcast, a gang leader threatened to kill all hostages if the Haitian National Police harm any gang members in rescue attempts. Separately, Salvadoran President Nayib Bukele announced that Salvadoran forces have deployed to Haiti to conduct operations against armed gang networks.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "at least 5 children killed",
+          "more than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Severe weather and tornado prompt flood and evacuation warnings",
+        "score": 3.0,
+        "body": "Severe thunderstorms across Florida, Oklahoma, and Colorado triggered flood warnings and evacuation alerts, disrupting local activities and polling stations. In Keyes, Oklahoma, a tornado caused extensive structural damage and forced a polling site to relocate, though no casualties were reported. Local authorities across affected states have requested federal financial assistance to repair widespread damage to housing and infrastructure. The storm system was accompanied by unseasonably high temperatures across eastern North America.",
+        "verified_figures": [
+          "0 casualties reported"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Tremor in Tolima prompts evacuations without reported casualties",
+        "score": 2.0,
+        "body": "A strong earthquake centered in the department of Tolima triggered early morning evacuations across major cities, including Bogotá, Cali, and Ibagué. Authorities reported no major structural damage or injuries from the tremor. However, the event has heightened psychological strain among populations still recovering from a magnitude 7.4 earthquake in August centered near San José del Palmar, Chocó, which caused widespread devastation.",
+        "verified_figures": [
+          "0 injuries reported"
+        ],
+        "sources": [
+          {
+            "name": "The Bogotá Post",
+            "url": "https://www.thebogotapost.com/an-open-wound-new-colombia-earthquake-sparks-conversation-about-trauma/56868/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo / Regional — Ebola Outbreak Kills Over 5,300 as WHO Recommends Vaccine Candidates",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo and neighboring East and Central African countries face an escalating Ebola outbreak that has infected over 10,400 people and killed more than 5,300. The World Health Organization confirmed cross-border transmission, including nine cases and two deaths in Kenya, one case in Nigeria, and infections in Uganda. Expert groups recommended adding two Bundibugyo-strain vaccine candidates—developed by Oxford/Serum Institute and Moderna—to the ongoing Tumaini clinical trial in the DRC. Response operations are severely hampered by population displacement, heavy rains, attacks on healthcare facilities, remote geography, and delayed international support.",
+        "verified_figures": [
+          "Over 10,400 total infections across Central and East Africa",
+          "More than 5,300 deaths",
+          "9 Ebola cases in Kenya, including 2 deaths",
+          "1 confirmed Ebola case in Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "Latin Times",
+            "url": "https://www.latintimes.com/who-recommends-bundibugyo-ebola-vaccines-drc-trial-600932"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo / United Kingdom — British Aid Worker Infected with Ebola Evacuated for Specialist Care",
+        "score": 4.0,
+        "body": "A British healthcare worker deployed with a humanitarian organization to support Ebola response operations in the Democratic Republic of the Congo has contracted the virus. The patient is reported in stable condition and is being medically evacuated to a high-consequence infectious disease unit in the United Kingdom. This represents the first confirmed Ebola case involving a British national during the current outbreak. Government officials confirmed that established transport and containment protocols have been activated for the transfer, though flight timing remains unannounced.",
+        "verified_figures": [
+          "1 British healthcare worker infected"
+        ],
+        "sources": [
+          {
+            "name": "Pharmacy Business",
+            "url": "https://www.pharmacy.biz/uk-first-british-ebola-case-dr-congo-outbreak/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Strike on Zaporizhzhia Aid Distribution Point Kills at Least 53",
+        "score": 9.0,
+        "body": "The death toll from a Russian attack on a humanitarian aid distribution point in Ukraine's southeastern Zaporizhzhia region has risen to at least 53, according to local officials. Emergency responders are utilizing DNA testing to identify victims, while up to 39 individuals are reported to remain trapped beneath the rubble. The strike represents one of the deadliest single attacks on civilian populations and relief operations in Ukraine this year, posing severe risks to localized humanitarian delivery and civilian protection efforts in the region.",
+        "verified_figures": [
+          "At least 53 killed",
+          "Up to 39 trapped under rubble"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/death-toll-russian-bombing-ukrainian-aid-point-rises-53-governor-says-2026-11-06/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Military Airstrike Kills Three Students at Karen State School",
+        "score": 6.5,
+        "body": "A Myanmar military air assault targeted a Christian Bible college in Pkay Bu Village Tract within Karen State's Hpapun District, killing three female students and injuring six others. According to local reports, regime fighter jets dropped ten bombs on the area, followed by an hour-long aerial bombardment involving an armored drone. Two of the students were killed instantly, while a third succumbed to injuries while being transported across the Salween River to Thailand for emergency medical treatment.",
+        "verified_figures": [
+          "3 female students killed",
+          "6 students injured"
+        ],
+        "sources": [
+          {
+            "name": "Premier Christian News",
+            "url": "https://premierchristian.news/us/news/article/three-students-killed-in-military-airstrike-on-bible-college-in-myanmar"
+          }
+        ]
+      },
+      {
+        "headline": "Global / Asia-Pacific — UNHCR Reports 90 Million Displaced Face Climate Threats",
+        "score": 5.5,
+        "body": "A report by the UN refugee agency indicates that nearly 90 million forcibly displaced people globally reside in countries facing severe climate hazards, including extreme heat, floods, and droughts. Released ahead of the COP31 climate conference, the assessment highlights that almost three-quarters of the global forcibly displaced population live in highly vulnerable nations, explicitly citing Afghanistan and Bangladesh. UNHCR called for increased adaptation funding to support displaced populations facing environmental hazards alongside ongoing displacement.",
+        "verified_figures": [
+          "90 million forcibly displaced people live in climate-threatened countries globally",
+          "nearly three-quarters of displaced people live in severe climate risk countries"
+        ],
+        "sources": [
+          {
+            "name": "Prothom Alo English",
+            "url": "https://en.prothomalo.com/international/g6t5yf50f7"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar & Bangladesh — EU Allocates €16 Million in Emergency Aid",
+        "score": 5.0,
+        "body": "The European Union has announced an additional €16 million in humanitarian funding to assist populations affected by conflict in Myanmar, alongside Rohingya refugees and host communities in Bangladesh. Inside Myanmar, the support will prioritize healthcare, nutrition, and food aid. The allocation responds to a severe food security crisis exacerbated by ongoing armed fighting, recent flooding, fuel price increases, and the projected regional impacts of Super El Niño.",
+        "verified_figures": [
+          "€16 million allocated in humanitarian aid"
+        ],
+        "sources": [
+          {
+            "name": "European Civil Protection and Humanitarian Aid Operations",
+            "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Central and East Africa — Ebola Outbreak Spreads as New Candidate Vaccines Enter Trials",
+        "score": 9.0,
+        "body": "An outbreak of the Bundibugyo Ebola virus across Central and East Africa has infected over 10,400 people and killed more than 5,300, with a case-fatality rate exceeding 50 percent. Centered in the Democratic Republic of the Congo, the virus has spread to Uganda, Kenya, and Nigeria, where a case was confirmed in Abuja. WHO expert groups have recommended two candidate vaccines, developed by Moderna and the Oxford/Serum Institute, for testing during the active DRC outbreak. Additionally, a British doctor infected in the DRC was evacuated to London for specialist isolation treatment, while international travel requirements are being adjusted in response to the epidemic.",
+        "verified_figures": [
+          "more than 5,300 dead",
+          "over 10,400 infected",
+          "case-fatality rate exceeding 50 percent"
+        ],
+        "sources": [
+          {
+            "name": "Latin Times",
+            "url": "https://www.latintimes.com/who-recommends-bundibugyo-ebola-vaccines-drc-trial-600932"
+          },
+          {
+            "name": "The Guardian Nigeria News",
+            "url": "https://guardian.ng/opinion/editorial/ebola-outbreak-better-health-emergency-preparedness-is-non-negotiable/"
+          }
+        ]
+      },
+      {
+        "headline": "India — Flooding from Cyclone Arnab Destroys Crops in Odisha",
+        "score": 3.0,
+        "body": "Flooding triggered by Cyclone Arnab in Ganjam district, Odisha state, has severely damaged standing paddy and vegetable crops across agricultural lands. The widespread crop loss has caused severe distress among farming communities, resulting in at least two reported farmer suicides in the district within four days following the flood damage.",
+        "verified_figures": [
+          "2 reported deaths"
+        ],
+        "sources": [
+          {
+            "name": "The New Indian Express",
+            "url": "https://www.newindianexpress.com/states/odisha/2026/Nov/06/odisha-farmer-ends-life-over-crop-loss-due-to-floods-caused-by-cyclone-arnab"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "Targeted security or rescue operations by the Haitian National Police against armed gang networks holding abducted civilians.",
+      "potential_impact": "Execution of over 50 kidnapped hostages and a severe intensification of armed violence near Port-au-Prince.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "DW.com",
+        "count": 2
+      },
+      {
+        "name": "Latin Times",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "AzerNews",
+        "count": 1
+      },
+      {
+        "name": "European Civil Protection and Humanitarian Aid Operations",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Pharmacy Business",
+        "count": 1
+      },
+      {
+        "name": "Premier Christian News",
+        "count": 1
+      },
+      {
+        "name": "Prothom Alo English",
+        "count": 1
+      },
+      {
+        "name": "ReliefWeb",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "The Bogotá Post",
+        "count": 1
+      },
+      {
+        "name": "The Guardian Nigeria News",
+        "count": 1
+      },
+      {
+        "name": "The New Indian Express",
+        "count": 1
+      },
+      {
+        "name": "خبرگزاری صدای افغان(آوا)",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1017,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
