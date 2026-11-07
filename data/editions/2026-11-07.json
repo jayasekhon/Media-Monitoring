@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-07",
+  "printed_time": "12:33 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An Ebola outbreak across eight eastern and northeastern provinces in the Democratic Republic of the Congo has surpassed 10,500 cases and 5,100 deaths.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "The death toll from a strike on a Ukrainian humanitarian aid distribution point has increased to 53 people.",
+      "region": "Europe"
+    },
+    {
+      "rank": 3,
+      "text": "A strike on a crowded market in the Waziyah district of Yemen's Taiz province killed at least 30 civilians and injured eight others.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Armed attackers killed at least 47 people, including five children, and kidnapped more than 50 others in Kenscoff, Haiti.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "Heavy winter rainfall flooded thousands of tents across Gaza displacement sites as shelter supply entries remain blocked.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An Ebola outbreak in the Democratic Republic of the Congo has caused over 5,100 deaths out of more than 10,500 cases across eight provinces as health agencies initiate vaccine trials.",
+    "label": "AFRICA — DR Congo Ebola Outbreak Exceeds 5,100 Fatalities"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Strike on Market in Taiz Province Kills at Least 30 Civilians",
+        "score": 9.0,
+        "body": "At least 30 people were killed and eight injured in a strike on the Al-Hadara market in the Waziyah district of Yemen's Taiz province. Yemeni armed forces accused Houthi militia of launching a ballistic missile at the crowded commercial site, while Houthi-run health authorities reported at least 30 deaths resulting from airstrikes in the area. The attack caused severe civilian casualties in a densely populated market setting.",
+        "verified_figures": [
+          "at least 30 killed",
+          "8 injured"
+        ],
+        "sources": [
+          {
+            "name": "アラブニュース",
+            "url": "https://www.arabnews.jp/en/japan/yemeni-forces-accuse-houthis-of-deadly-market-attack-in-taiz-3001328"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/yemen-airstrikes-market-houthis-bcc2409ada0398125173d84261bd1fff"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza/OPT — Winter Rains Flood Displacement Camps Amid Shelter Supply Blockade",
+        "score": 7.5,
+        "body": "Heavy winter rains flooded thousands of tents across displacement sites in Gaza, including Gaza City port, Deir al-Balah, Nuseirat, Jabalia, and Beit Lahia. Gaza's Civil Defence recorded 1,500 distress calls within 10 hours as floodwaters inundated temporary shelters and destroyed bedding and personal belongings. The storm exacerbates dire humanitarian conditions for displaced families living in makeshift shelters with no fuel, amid reports that Israeli authorities continue to block shelter materials from entering the enclave.",
+        "verified_figures": [
+          "1,500 distress calls in 10 hours",
+          "thousands of tents flooded"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Persian Gulf — Missile Attack on Commercial Tanker Kills Seafarer",
+        "score": 4.0,
+        "body": "A seafarer was killed following a suspected missile attack and fire on the Marshall Islands-flagged oil tanker MT Velos Sapphire in the Persian Gulf. The vessel was sailing toward Bahrain when the strike occurred. The crew extinguished the fire, and the ship subsequently arrived at Bahrain's Khalifa Bin Salman Port.",
+        "verified_figures": [
+          "1 seafarer killed"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — At least 47 killed and over 50 kidnapped in Kenscoff attack",
+        "score": 8.5,
+        "body": "Armed men killed at least 47 people, including five children, and abducted more than 50 others in Kenscoff, a suburb of Port-au-Prince, according to the United Nations. A gang leader publicly threatened to execute the hostages if police conduct operations that harm his group members. The incident marks one of the largest mass kidnappings in Haiti in recent years, worsening protection risks and security conditions around the capital.",
+        "verified_figures": [
+          "At least 47 people killed",
+          "At least 5 children killed",
+          "More than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Police operation kills Boston gang leader Mathias Saintil",
+        "score": 4.5,
+        "body": "Haitian National Police killed Mathias Saintil, identified by authorities as the leader of the Boston gang in the Cité Soleil neighborhood of Port-au-Prince. Police reported that Saintil died in hospital after sustaining multiple gunshot wounds during a tactical operation. Prime Minister Alix Didier Fils-Aimé welcomed the outcome of the action as law enforcement targets armed criminal networks in the capital.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/americas/haiti-pm-says-gang-leader-mathias-saintil-dead-2026-11-07/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Exceeds 10,500 Cases as Vaccine Trials Commence",
+        "score": 9.0,
+        "body": "An Ebola outbreak caused by the Bundibugyo species in the Democratic Republic of the Congo has infected more than 10,500 people and killed over 5,100 across eight eastern and northeastern provinces. The reported case fatality rate stands at nearly 49 percent. The World Health Organization and national authorities have launched clinical trials for two new vaccine candidates—ChAdOx1 and mRNA-1469—targeting contacts of infected patients. Health agencies warn that continued transmission inside DR Congo maintains a serious threat of regional spread.",
+        "verified_figures": [
+          "10,668 cases",
+          "5,126 deaths",
+          "48.7 percent case fatality rate",
+          "8 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/audio/2026/11/1168755"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Ebola Outbreak Nears End with No New Cases Reported in 18 Days",
+        "score": 4.0,
+        "body": "Health authorities in Kenya reported that the country is nearing the end of an Ebola outbreak after registering no new infections for 18 consecutive days. A sixth patient infected with the Bundibugyo strain has recovered and met discharge requirements. Out of nine cumulative confirmed cases since the outbreak began in early October, six patients have recovered and one remains under treatment.",
+        "verified_figures": [
+          "9 confirmed cases",
+          "6 recoveries",
+          "1 patient under treatment",
+          "18 consecutive days without new cases"
+        ],
+        "sources": [
+          {
+            "name": "ChimpReports",
+            "url": "https://chimpreports.com/kenya-nears-end-of-ebola-outbreak-as-sixth-patient-recovers/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Death Toll Rises to 53 in Bombing of Aid Point",
+        "score": 9.0,
+        "body": "The death toll from a Russian attack on a Ukrainian aid distribution point has risen to 53 people, according to regional authorities. The strike highlights severe ongoing risks to civilians and humanitarian infrastructure in conflict-affected areas. Additional details on the exact site and circumstances of the attack were not immediately provided in initial official statements.",
+        "verified_figures": [
+          "53 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/death-toll-russian-bombing-ukrainian-aid-point-rises-53-governor-says-2026-11-06/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Kyiv Struck as Infrastructure Attacks Warned",
+        "score": 5.5,
+        "body": "A Russian missile strike on Kyiv damaged buildings and injured two civilians. The attack coincided with warnings from Ukrainian President Volodymyr Zelenskyy that Russian forces are preparing new strikes against key infrastructure, including energy facilities and bridges. President Zelenskyy also stated that Ukrainian forces are continuing targeted attacks against Russia's oil refining sector.",
+        "verified_figures": [
+          "2 civilians injured"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-forces-plan-new-strikes-energy-targets-bridges-2026-11-06/"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Trapped Grain Storage Crisis Threatens Regional Food Security",
+        "score": 6.0,
+        "body": "Millions of tonnes of Ukrainian grain risk spoiling without adequate storage as fighting turns Black Sea shipping routes into active conflict zones. The maritime transport constraints compound broader food security risks across the Middle East, where several countries rely heavily on affordable Ukrainian agricultural exports alongside fertilizer and energy shipments transported through the Strait of Hormuz.",
+        "verified_figures": [
+          "Millions of tonnes of grain at risk of spoiling"
+        ],
+        "sources": [
+          {
+            "name": "The National",
+            "url": "https://www.thenationalnews.com/news/mena/2026/11/06/ukraine-grain-storage-gulf-food-security-middle-east/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar/Bangladesh — EU Allocates €16 Million in Humanitarian Aid for Conflict and Refugee Crisis",
+        "score": 5.0,
+        "body": "The European Union has allocated an additional €16 million in humanitarian assistance for conflict-affected populations in Myanmar as well as Rohingya refugees and host communities in Bangladesh. Escalating conflict in Myanmar continues to worsen humanitarian needs and fuel displacement across borders. In Myanmar, the aid will focus on healthcare, nutrition, and food assistance to address a deteriorating food crisis linked to armed conflict, flooding, fuel price increases, and projected Super El Niño weather impacts. In Bangladesh, funding will prioritize food security and essential support.",
+        "verified_figures": [
+          "€16 million in humanitarian aid"
+        ],
+        "sources": [
+          {
+            "name": "The Brussels Times",
+            "url": "https://www.brusselstimes.com/eu-affairs/2396195/eu-tackles-myanmar-conflict-and-rohingya-refugee-crisis-with-e16m-lifeline"
+          }
+        ]
+      },
+      {
+        "headline": "Asia-Pacific/Global — UNHCR Report Highlights Climate Risks Facing 90 Million Displaced People",
+        "score": 6.0,
+        "body": "A report released by UNHCR ahead of the COP31 climate summit warns that nearly 90 million forcibly displaced people live in countries severely exposed to extreme heat, droughts, and flooding. According to the agency, nearly three-quarters of the world's forcibly displaced population reside in climate-vulnerable countries, including Bangladesh and Afghanistan. The report highlights the growing intersection between armed conflict, displacement, and environmental crises, while calling for increased adaptation funding to support vulnerable communities.",
+        "verified_figures": [
+          "nearly 90 million forcibly displaced people",
+          "nearly three-quarters of the world's forcibly displaced people"
+        ],
+        "sources": [
+          {
+            "name": "Prothom Alo English",
+            "url": "https://en.prothomalo.com/international/g6t5yf50f7"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — WHO clears Ebola vaccine candidates for active outbreak trial",
+        "score": 7.5,
+        "body": "The World Health Organization has recommended introducing two candidate vaccines targeting the Bundibugyo Ebola virus into an active outbreak trial in the Democratic Republic of the Congo. Moderna's mRNA-1469 and the University of Oxford's ChAdOx1 will join the Tumaini ring vaccination trial following clearance by WHO's independent advisory group. This marks the first controlled efficacy trial of Bundibugyo-specific vaccines during an active Ebola outbreak.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Tech Times",
+            "url": "https://www.techtimes.com/articles/330189/20261106/first-bundibugyo-ebola-vaccines-enter-active-outbreak-efficacy-trial-who-clears-moderna-oxford.htm"
+          }
+        ]
+      },
+      {
+        "headline": "East Africa — UN warns El Niño floods could displace nearly three million",
+        "score": 7.5,
+        "body": "According to a United Nations warning, nearly three million people could be displaced by El Niño floods across East Africa. The official UN alert highlights the potential for major population displacement caused by El Niño-driven flood events in the region.",
+        "verified_figures": [
+          "nearly 3,000,000 people could be displaced"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/regional/420772/nearly-three-million-people-could-be-displaced-by-el-nino-floods-in-east-africa-un-warns?amp=1"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Health advisory issued following mpox cases in Anchorage",
+        "score": 2.0,
+        "body": "State health officials in Alaska have issued an advisory following four new cases of mpox in Anchorage. None of the infected individuals reported traveling outside the state during the month prior to diagnosis. Three of the Anchorage cases emerged in October. This marks the highest annual number of mpox cases reported in Alaska since 2022, when five cases were diagnosed.",
+        "verified_figures": [
+          "4 cases"
+        ],
+        "sources": [
+          {
+            "name": "Alaska Beacon",
+            "url": "https://alaskabeacon.com/2026/11/06/new-outbreak-of-mpox-in-anchorage-prompts-advisory-from-state-health-officials/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ukraine",
+      "score": 7.0,
+      "trigger": "Anticipated Russian missile strikes targeting Ukrainian energy infrastructure and critical transportation bridges over the coming days.",
+      "potential_impact": "Severe disruptions to basic energy, heating, and transit services during winter conditions, aggravating civilian hardship across affected regions.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-forces-plan-new-strikes-energy-targets-bridges-2026-11-06/"
+        }
+      ]
+    },
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 7.5,
+      "trigger": "Targeted tactical police operations against the gang responsible for the Kenscoff attack following public threats to execute hostages.",
+      "potential_impact": "Immediate execution of more than 50 abducted civilians and heightened armed violence in suburban Port-au-Prince.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 4
+      },
+      {
+        "name": "DW.com",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Alaska Beacon",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "ChimpReports",
+        "count": 1
+      },
+      {
+        "name": "Prothom Alo English",
+        "count": 1
+      },
+      {
+        "name": "Tech Times",
+        "count": 1
+      },
+      {
+        "name": "The Brussels Times",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The National",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "アラブニュース",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 888,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
