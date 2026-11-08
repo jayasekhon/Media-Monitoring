@@ -1,0 +1,405 @@
+{
+  "date": "2026-11-08",
+  "printed_time": "12:51 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo is experiencing its largest Ebola outbreak on record, with 5,198 deaths and 10,668 confirmed cases across eight provinces amid a lack of licensed vaccines.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "An Allied Democratic Forces militant attack on a health clinic in North Kivu killed up to 44 people and dispersed confirmed and suspected Ebola patients into local communities.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Saudi-led coalition air strikes killed at least 33 people near Sanaa following Houthi ballistic missile strikes targeting Riyadh's financial district.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Winter storms submerged displacement camps in sewage and rainwater across the Gaza Strip, threatening 200,000 dilapidated tents alongside continued airstrikes.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "An estimated 28 million people in Afghanistan live in poverty following prolonged drought and the return of 2.9 million refugees over the past year.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The Democratic Republic of the Congo is confronting an unprecedented Ebola outbreak caused by the Bundibugyo strain, recording 5,198 deaths among 10,668 confirmed cases while violent attacks on health facilities sever containment lines.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Winter storms flood displacement camps amid ongoing military strikes",
+        "score": 8.5,
+        "body": "Torrential rainfall flooded displacement camps across the Gaza Strip, particularly in Deir al-Balah, submerging tents, destroying essential belongings, and exposing displaced families to sewage overflow. Human rights organizations warned of an escalating crisis, stating that approximately 200,000 tents are dilapidated and incapable of providing adequate shelter against winter conditions. Simultaneously, continued Israeli military attacks over a 48-hour period resulted in the deaths of six to ten Palestinians, according to local health officials.",
+        "verified_figures": [
+          "At least 6 to 10 Palestinians killed in strikes over 48 hours",
+          "Approximately 200,000 tents completely dilapidated"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/video/watch/idRW659007112026RP1/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen/Saudi Arabia — Coalition air strikes kill dozens near Sanaa following Houthi missile launch",
+        "score": 9.0,
+        "body": "Air strikes conducted by the Saudi-led coalition killed at least 33 people near Sanaa, Yemen. Following the coalition bombardment, Houthi rebels launched two ballistic missiles targeting the financial district in Riyadh, Saudi Arabia. Saudi forces intercepted both incoming missiles, but falling debris caused structural damage to the Aramco Tower in the capital.",
+        "verified_figures": [
+          "At least 33 people killed in air strikes near Sanaa",
+          "2 ballistic missiles intercepted over Riyadh"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang leader Mathias Saintil killed in security operations",
+        "score": 6.5,
+        "body": "Haitian Prime Minister Alix Didier Fils-Aimé announced the death of Mathias Saintil, leader of the Boston gang operating in Cité Soleil, Port-au-Prince. According to human rights monitoring cited by local reports, Saintil died in a hospital from abdominal injuries sustained during a drone strike in the Boston area. The killing occurred amid intensified security operations involving Salvadoran personnel deployed after four Salvadoran aviation technicians serving with an international Gang Suppression Force were kidnapped on 18 October.",
+        "verified_figures": [
+          "4 Salvadoran aviation technicians kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "Citizen Digital",
+            "url": "https://citizen.digital/article/haiti-prime-minister-says-gang-leader-mathias-saintil-is-dead-n393507"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — 400 Mawozo gang requests UN dialogue and ceasefire",
+        "score": 5.5,
+        "body": "The 400 Mawozo gang, one of Haiti's major armed groups, sent a written statement to a national dismantling agency and appealed to the United Nations Secretary-General to send a delegation to Haiti for dialogue and reconciliation. The group, accused by the UN and human rights organizations of widespread killing, rape, and kidnapping, described the outreach as a push to preserve human lives. The request follows a similar appeal made by gang leader Wilson Joseph on 1 November.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://www.nwaonline.com/news/2026/nov/08/haitian-gang-aims-for-peace-in-letter-to-un/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Collapse of 15 housing towers following dual earthquakes",
+        "score": 6.0,
+        "body": "An engineering analysis following two powerful earthquakes in Venezuela pointed to possible building-code violations in five public housing complexes where 15 residential towers collapsed. Technical experts noted that structural defects likely increased the risk of failure, though direct causation remains under investigation. Emergency search efforts have taken place across damaged structures, including a collapsed 13-story tower where missing residents were reported buried beneath rubble.",
+        "verified_figures": [
+          "15 residential towers collapsed",
+          "5 public housing complexes affected"
+        ],
+        "sources": [
+          {
+            "name": "Mezha.net",
+            "url": "https://mezha.net/eng/news/mezha-cb37a1c10c691cd795c6986f_cnn_analysis_points/"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Three soldiers killed in drone strike on military base",
+        "score": 4.5,
+        "body": "A drone attack targeting a military base in Colombia has left three soldiers dead. Further details regarding the perpetrators, the exact location of the base, or broader operational impacts were not immediately released in preliminary reporting.",
+        "verified_figures": [
+          "3 soldiers dead"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/colombia-drone-attack-military-base-7eb8bd82e98900f790b6d4e35eb702ec"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak reaches record 5,198 deaths amid rapid spread",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is experiencing the largest Ebola outbreak in its history, caused by the Bundibugyo virus strain. According to World Health Organization figures as of 3 November, the country recorded 10,668 confirmed cases and 5,198 deaths across eight provinces, representing a 48.7 percent case fatality ratio. Active transmission persists across 51 health zones, with 2,881 recorded recoveries. UN officials warned that the outbreak is expanding faster than containment capacities. Response efforts remain severely hampered by a lack of licensed vaccines targeting the Bundibugyo strain.",
+        "verified_figures": [
+          "10,668 confirmed cases",
+          "5,198 deaths",
+          "2,881 recoveries",
+          "48.7 percent case fatality ratio"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/congo-ebola-spread-vaccine/a-78457248"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Militant attack on North Kivu clinic kills dozens and disperses Ebola patients",
+        "score": 9.0,
+        "body": "Militants affiliated with Islamic State and the Allied Democratic Forces raided the village of Cantine-Aloya in North Kivu province, setting fire to a health facility and killing between 33 and 44 people. The assault forced patients and staff to flee. Local health officials confirmed that those dispersed included one confirmed Ebola patient and five suspected cases, three of whom are high-risk contacts. The flight of infected individuals into surrounding communities creates severe risks of accelerating Ebola transmission in eastern Democratic Republic of the Congo.",
+        "verified_figures": [
+          "33 to 44 people killed",
+          "1 confirmed Ebola patient fled",
+          "5 suspected Ebola cases fled"
+        ],
+        "sources": [
+          {
+            "name": "Sowetan",
+            "url": "https://www.sowetan.co.za/news/world/2026-11-08-islamist-militants-force-ebola-patients-to-flee-in-deadly-drc-raid/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Air Attacks Target Energy Infrastructure and Cause Mass Power Outages",
+        "score": 7.0,
+        "body": "Massive Russian drone and missile strikes targeted Ukrainian energy infrastructure and residential areas, causing severe electricity disruptions across multiple regions. Ukrainian officials stated Russian forces launched 172 drones and 36 ballistic missiles, causing damage in Kyiv and other parts of the country. Attacks in Dnipropetrovsk and Kharkiv cut power to approximately 850,000 people. At least nine people were wounded in the strikes, while reporting also indicated Russian forces targeted emergency crews responding to a strike location in southern Ukraine.",
+        "verified_figures": [
+          "850,000 people left without power",
+          "172 drones and 36 ballistic missiles launched",
+          "9 people wounded"
+        ],
+        "sources": [
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/russian-strikes-cut-power-hundreds-thousands-ukraine"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-strike-bomb-humanitarian-aid-e64dd583955f11e4cf08ef5af6eaf35b"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Poland — Nine Dead and 16 Wounded in Kraków Terrorist Shooting",
+        "score": 4.0,
+        "body": "Polish authorities initiated a terrorism investigation after a gunman opened fire in Kraków's central market square, killing six people and wounding up to 16 others. Police subsequently discovered three additional bodies inside the suspect's residence. The suspect, identified as a Polish citizen holding radical far-right views, used an automatic firearm before being shot and apprehended by police. Foreign nationals from Austria, Britain, Germany, Portugal, and Russia were among the casualties, including one British citizen who was killed.",
+        "verified_figures": [
+          "6 killed in market square",
+          "3 bodies discovered at suspect's home",
+          "15 to 16 wounded"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/poland-mourns-six-dead-krakow-shooting-rampage"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Deepening Poverty and Population Returns",
+        "score": 7.5,
+        "body": "A new United Nations Development Programme report indicates that Afghanistan's humanitarian crisis deepened in 2025, leaving an estimated 28 million people living in poverty. The crisis is driven by prolonged drought, declining international assistance, and mass population returns. Approximately 2.9 million Afghans returned to the country during the year, pushing an additional 1.4 million people into severe economic hardship despite modest national GDP growth.",
+        "verified_figures": [
+          "28 million people living in poverty in 2025",
+          "2.9 million Afghan returnees in 2025",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "The Kabul Tribune",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Thailand/China — Protection Risks and Forced Deportations of Uyghur Refugees",
+        "score": 5.5,
+        "body": "Human rights activists warn that two Uyghur men currently detained in Thailand face severe risks of torture and abuse if deported to China. The warning follows the forced deportation of 40 Uyghur men from Thailand to China last year, despite offers from the United States and Canada to resettle them. The United Nations noted that the whereabouts of those previously returned remain unknown.",
+        "verified_figures": [
+          "2 Uyghur men facing deportation",
+          "40 Uyghur men forcibly deported to China last year"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Armed Conflict Impacts Mental Health and Agricultural Labor",
+        "score": 4.5,
+        "body": "A cross-sectional study of 1,504 hired agricultural workers in Myanmar demonstrates that exposure to active armed conflict leads to heightened absenteeism and lower labor productivity. Published in BMC Global and Public Health, the research identifies psychological trauma as the primary mechanism through which political violence impairs worker performance among vulnerable rural populations.",
+        "verified_figures": [
+          "1,504 hired agricultural laborers surveyed"
+        ],
+        "sources": [
+          {
+            "name": "Bioengineer.org",
+            "url": "https://bioengineer.org/research-report-conflict-mental-health-and-labor-productivity-evidence-from-hired-farm-workers-in-myanmar/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Complicated by Vaccine Shortages",
+        "score": 6.5,
+        "body": "The Democratic Republic of the Congo is responding to an outbreak of the Ebola Bundibugyo strain, for which there is currently no licensed vaccine. Health specialists report that vaccine shortages and epidemiological barriers are complicating response efforts, forcing researchers to accelerate testing for multi-purpose vaccines. The Bundibugyo strain previously caused epidemics in Uganda in 2007 and the DRC in 2012, but previous research opportunities were not fully capitalized on, leaving health systems without a specific preventative tool during the current outbreak.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Vietnam.vn",
+            "url": "https://www.vietnam.vn/en/dich-ebola-phoi-bay-khoang-trong-trong-nghien-cuu-vaccine"
+          }
+        ]
+      },
+      {
+        "headline": "Japan — 5.7-Magnitude Earthquake Injures at Least 22 in Central Prefectures",
+        "score": 5.0,
+        "body": "A 5.7-magnitude earthquake struck central Japan early on 8 November, injuring at least 22 people across Shizuoka and Aichi prefectures. The tremor's epicenter was located in western Shizuoka at a depth of approximately 40 kilometers. Strong shaking shattered shop windows, damaged several structures, and forced the temporary suspension of local and bullet train services. No tsunami warning was issued, and operators confirmed no abnormalities at the Hamaoka nuclear power plant. Meteorological officials noted this was the third major earthquake to hit Japan this month.",
+        "verified_figures": [
+          "at least 22 people injured"
+        ],
+        "sources": [
+          {
+            "name": "A News",
+            "url": "https://www.anews.com.tr/asia/2026/11/08/20-injured-in-57-magnitude-earthquake-in-central-japan"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ukraine",
+      "score": 7.5,
+      "trigger": "Further Russian missile and drone targeting of damaged energy infrastructure during freezing winter weather.",
+      "potential_impact": "Extended blackouts leaving over 850,000 civilians without municipal heating, water, and power supplies.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/russia-ukraine-war-strike-bomb-humanitarian-aid-e64dd583955f11e4cf08ef5af6eaf35b"
+        }
+      ]
+    },
+    {
+      "location": "Thailand",
+      "score": 6.0,
+      "trigger": "Forced deportation of two detained Uyghur asylum seekers to China.",
+      "potential_impact": "Severe protection risks including arbitrary detention, torture, and enforced disappearance upon arrival.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "AFP",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "A News",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Bioengineer.org",
+        "count": 1
+      },
+      {
+        "name": "Citizen Digital",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Mezha.net",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "Sowetan",
+        "count": 1
+      },
+      {
+        "name": "The Kabul Tribune",
+        "count": 1
+      },
+      {
+        "name": "Vietnam.vn",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 788,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
