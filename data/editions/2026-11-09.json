@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-09",
+  "printed_time": "3:23 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola outbreak in the Democratic Republic of the Congo has surpassed 10,000 confirmed cases and 5,100 deaths, with active transmission across eight provinces and international spread.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A cholera outbreak in Lakes State, South Sudan, has claimed 12 lives among 253 suspected cases, prompting health officials to call for an immediate scale-up in humanitarian aid.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "An attack by suspected Allied Democratic Forces rebels in North Kivu killed at least 33 civilians and displaced Ebola patients from a local hospital, heightening risks of epidemic spread.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "Houthi authorities reported that an airstrike near Yemen's capital killed at least 44 people.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Torrential rainfall in the Gaza Strip inundated more than 70,000 tents across displacement camps, worsening humanitarian conditions for displaced families.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Ebola epidemic in the Democratic Republic of the Congo has caused over 5,000 deaths across eight provinces, prompting international health authorities to recommend candidate vaccines for clinical evaluation during the active outbreak.",
+    "label": "AFRICA — DRC Ebola Epidemic Exceeds 5,000 Fatalities as Clinical Trials Target Bundibugyo Strain"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Houthi Rebels Report At Least 44 Killed in Airstrike Near Capital",
+        "score": 8.0,
+        "body": "Houthi officials reported that an airstrike near the Yemeni capital killed at least 44 people. Further details regarding the precise location, targeted assets, or responsible parties were not immediately available in initial reporting. The reported casualty figure remains an allegation by Houthi authorities as information continues to emerge regarding the strike.",
+        "verified_figures": [
+          "at least 44 killed (claimed by Houthi rebels)"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/iran-us-rubio-yemen-saudi-arabia-9b6fa963ea4766a08956e53506494468"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied Palestinian Territory — Severe Flooding Inundates Displacement Camps in Gaza",
+        "score": 7.5,
+        "body": "Heavy rains swept through the Gaza Strip, flooding over 70,000 tents in displacement camps and deteriorating conditions for families facing a severe humanitarian crisis. Displaced residents were reported using pots and pans to bail water out of their shelters. EU Commissioner for Equality, Preparedness and Crisis Management Hadja Lahbib called for expanded aid access into Gaza, noting that heavy rainfall is compounding an already severe crisis while humanitarian organizations attempt to maintain operations.",
+        "verified_figures": [
+          "over 70,000 tents flooded"
+        ],
+        "sources": [
+          {
+            "name": "Middle East Monitor",
+            "url": "https://www.middleeastmonitor.com/20261108-eu-commissioner-urges-more-aid-access-to-gaza-as-floods-sweep-through-displacement-camps/"
+          }
+        ]
+      },
+      {
+        "headline": "Iraq — Flash Floods Cause Fatalities and Widespread Destruction in Erbil",
+        "score": 5.0,
+        "body": "Torrential rain and severe thunderstorms caused deadly flash floods in Erbil, the capital of Iraq's Kurdistan Region. At least two people, including a five-year-old boy, were killed. Rainfall reached an estimated 80mm, far exceeding forecasts. Floodwaters swept away vehicles and inundated hundreds of homes and businesses, with local authorities estimating preliminary economic damages to exceed $8 million.",
+        "verified_figures": [
+          "at least 2 people killed",
+          "80mm of rainfall",
+          "over $8 million in estimated damages"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow"
+          }
+        ]
+      },
+      {
+        "headline": "Syria/Jordan — Joint Committee Established to Investigate Fatal October Airstrikes",
+        "score": 4.0,
+        "body": "Syrian Foreign Minister Asaad al-Shibani and his Jordanian counterpart met in Damascus to establish a joint security and technical committee to investigate an October 26 airstrike in Deraa province that Syrian authorities stated killed civilians. Jordanian officials stated the strikes targeted Islamic State militants linked to a attack in Jordan. The two nations also signed 11 new cooperation agreements aimed at restoring bilateral relations.",
+        "verified_figures": [
+          "civilians killed in October 26 airstrike (Syrian authorities)"
+        ],
+        "sources": [
+          {
+            "name": "Egyptian Gazette",
+            "url": "https://egyptian-gazette.com/world/syria-jordan-seek-to-mend-ties-after-deadly-airstrikes/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Gang leader killed in drone strike as armed group requests peace talks",
+        "score": 7.0,
+        "body": "Haitian authorities confirmed the death of Mathias Saintil, leader of the Nan Boston gang, following a drone strike during security operations in the Cité Soleil area of Port-au-Prince. The operation comes amid intensified anti-gang measures involving foreign military support, including more than 2,000 Salvadoran troops deployed to the country. Following the escalation, the 400 Mawozo gang, led by Wilson Joseph, appealed to the United Nations and Haiti's National Commission for Disarmament, Demobilization, and Reintegration for dialogue and a temporary suspension of military operations. Security forces continue operations against armed groups across the capital.",
+        "verified_figures": [
+          "over 2,000 Salvadoran troops deployed"
+        ],
+        "sources": [
+          {
+            "name": "FBC News",
+            "url": "https://www.fbcnews.com.fj/world/haiti-pm-says-gang-leader-mathias-saintil-is-dead/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Surpasses 10,000 Cases Across Multiple Provinces",
+        "score": 9.0,
+        "body": "The World Health Organization reported that the Democratic Republic of the Congo has recorded 10,668 confirmed cases and 5,198 deaths from the Bundibugyo strain of Ebola as of 3 November, representing a case fatality rate of 48.7 percent. Active transmission continues across 51 health zones in eight provinces. Cases connected to the outbreak have also been reported in neighboring countries, with Kenya recording nine confirmed cases and two deaths, Uganda logging 20 confirmed cases and two deaths, and Nigeria reporting one case. Médecins Sans Frontières called for expanded access to the ERVEBO vaccine to help protect vulnerable populations, as no licensed vaccine specifically targets the Bundibugyo strain.",
+        "verified_figures": [
+          "10,668 confirmed cases in DRC",
+          "5,198 deaths in DRC",
+          "48.7 percent case fatality ratio",
+          "51 active health zones across 8 provinces in DRC",
+          "9 confirmed cases and 2 deaths in Kenya",
+          "20 confirmed cases and 2 confirmed deaths in Uganda",
+          "1 confirmed case in Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "EnviroNews Nigeria",
+            "url": "https://www.environewsnigeria.com/ebola-drc-records-10668-cases-5198-deaths-who/"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — ADF Attack Kills 33 Civilians and Displaces Ebola Patients in North Kivu",
+        "score": 8.0,
+        "body": "Suspected Allied Democratic Forces rebels attacked Cantine-Aloya village in Beni territory, North Kivu, on 5 November, killing at least 33 civilians and burning more than 50 houses, churches, and a health post. The attack prompted 180 patients to flee the Kelekele Hospital Centre, including one confirmed Ebola patient and five suspected cases, drawing warnings from the Africa CDC about accelerated epidemic spread. Separately, police in Beni intervened to prevent unidentified individuals from setting fire to a Médecins Sans Frontières Ebola Treatment Centre following the death of a patient.",
+        "verified_figures": [
+          "at least 33 people killed",
+          "more than 50 houses burned",
+          "180 patients fled hospital",
+          "1 confirmed Ebola patient and 5 suspected cases fled"
+        ],
+        "sources": [
+          {
+            "name": "National Security News",
+            "url": "https://nationalsecuritynews.com/2026/11/islamic-states-isis-insurgency-in-the-democratic-republic-of-the-congo-drc-is-now-escalating-the-countrys-worst-ebola-epidemic/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Fuel Shortages Endanger Agriculture and Trigger Bakery Strike in North Kordofan",
+        "score": 5.0,
+        "body": "Severe fuel shortages and rising operational costs in Sudan's El Gezira state have damaged extensive areas of maize crops after farmers were left unable to operate irrigation pumps. Petrol prices reached SDG 600,000 per four-gallon container, forcing farmers to seek fuel outside the state. In North Kordofan, a general strike by bakeries in the capital city of El Obeid disrupted bread supplies as bakers protested rising production costs, adding further pressure to household budgets amid rising food and transport prices.",
+        "verified_figures": [
+          "four-gallon container of petrol reached SDG 600,000"
+        ],
+        "sources": [
+          {
+            "name": "allAfrica.com",
+            "url": "https://allafrica.com/stories/202611090013.html"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — Mutual Long-Range Strikes Target Energy Infrastructure and Cause Casualties",
+        "score": 6.5,
+        "body": "Russia and Ukraine exchanged widespread long-range strikes overnight ahead of planned diplomatic negotiations. Russian attacks targeted Ukrainian energy infrastructure, while Ukrainian drone strikes hit Russia's second-largest oil refinery, causing fires and renewed fuel shortages across several Russian regions. At least four people were killed during the overnight exchanges. In southern Ukraine, Russian strikes targeted emergency crews who had arrived at the site of a prior deadly attack.",
+        "verified_figures": [
+          "at least 4 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/fuel-shortages-return-russian-regions-after-ukrainian-refinery-attacks-2026-11-09/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-talks-trump-514ff90fc04fae340898967e6655151c"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Poland — Fatal Mass Shooting in Kraków Market Square",
+        "score": 4.5,
+        "body": "Poland initiated two days of national mourning following a mass shooting in Kraków's main market square. A 24-year-old gunman opened fire, killing six people and injuring at least 15 others. Police shot and detained the suspect, who later died in hospital. Polish authorities have launched a terrorism investigation to establish whether the attacker acted alone.",
+        "verified_figures": [
+          "6 people killed",
+          "at least 15 injured"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261109-poland-begins-2-days-of-national-mourning-after-gunman-kills-6"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Leaked Data Indicates Over 400,000 Russian Military Fatalities",
+        "score": 4.0,
+        "body": "Leaked death records from Russia's state statistics agency, Rosstat, indicate that more than 400,000 Russian soldiers have been killed since Moscow launched its full-scale invasion of Ukraine nearly five years ago. The data, obtained by hacker collectives Cyber Partisans and Silent Crow, reportedly contains details from over 11 million death certificates detailing ages, residences, and locations of death.",
+        "verified_figures": [
+          "more than 400,000 Russians killed"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Military Airstrikes and Drone Bombardments Hit Health Facilities and Schools",
+        "score": 7.5,
+        "body": "Myanmar military airstrikes and drone attacks targeting civilian infrastructure killed at least 18 people and injured dozens across Rakhine, Kayah, and Karen states. Attacks on 31 October and 1 November struck a temporary maternity clinic in Rakhine State, killing at least 12 people—including a one-week-old infant—and injuring 32 others, while a separate strike on a school in Kayah State killed three students. On 3 November, air and drone bombardments targeted a Christian Bible school in Karen State's Hpapun District, killing three female students and injuring six others.",
+        "verified_figures": [
+          "18 killed",
+          "38 injured",
+          "12 killed and 32 injured in Rakhine State",
+          "3 students killed in Kayah State",
+          "3 killed and 6 injured in Karen State"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/myanmar/147017-myanmar-airstrikes-kill-15-civilians-including-a-newborn-and-three-students-targeting-maternity-clinic-and-school/"
+          }
+        ]
+      },
+      {
+        "headline": "Thailand — Government Restricts Entry Rules for Displaced Myanmar Population",
+        "score": 4.5,
+        "body": "Thai Prime Minister Anutin Charnvirakul announced that Thailand will provide humanitarian assistance to individuals fleeing conflict in Myanmar, but will generally deny entry unless individuals face direct threats to their lives. Following a National Security Council meeting, authorities instructed border officials in Tak province and Mae Sot district to prepare emergency aid responses for potential influxes while maintaining strict border entry controls.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Khaosod English",
+            "url": "https://www.khaosodenglish.com/news/2026/11/09/thailand-to-allow-myanmar-refugees-in-only-if-lives-are-threatened-anutin/"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Partial Collapse of Tarbela Dam Barrier Triggers Flood Surge",
+        "score": 3.5,
+        "body": "A protective barrier collapsed at the partially constructed Tarbela Dam T-5 hydropower project in Khyber Pakhtunkhwa province, triggering a sudden flood water surge. Emergency personnel rescued one worker who was swept away by the surge. No casualties were reported following the incident.",
+        "verified_figures": [
+          "0 casualties reported",
+          "1 worker rescued"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "China/Myanmar — Border Crossings Opened in Opposition-Controlled Rebel Areas",
+        "score": 3.0,
+        "body": "China opened border passages adjoining territories controlled by the Kachin Independence Army and two Brotherhood Alliance member groups in Shan State, Myanmar. The opening followed a Myanmar military airstrike on a Chinese vehicle and comes amid diplomatic shifts between Naypyidaw and Washington.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Intelligence Online",
+            "url": "https://www.intelligenceonline.com/asia-pacific/2026/11/09/beijing-helps-myanmar-rebels-after-junta-attack-on-chinese-vehicle,110915947-art"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "12 dead in Lakes since March cholera outbreak amid rising cases",
+        "score": 10.0,
+        "body": "12 dead in Lakes since March cholera outbreak amid rising cases The Health Authority in Lakes State, South Sudan, has confirmed that the cholera outbreak in the state has so far claimed 12 lives, as the number of suspected cases reaches 253. Of these, 33 have been confirmed, and 147 people remain ill, according to Nelson Makoi Makur, the State Acting Minister of Health. Yirol East County is the worst affected, recording 10 deaths, while Yirol West and Awerial counties have each reported one fatality. Makor briefed the state governor on the situation and called on health partners and humanitarian agencies to urgently scale up their response to contain the spread of the disease. “We came to br",
+        "verified_figures": [
+          "12 dead",
+          "147 people",
+          "10 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Eye Radio",
+            "url": "https://eyeradio.org/12-dead-in-lakes-since-march-cholera-outbreak-amid-rising-cases/"
+          }
+        ]
+      },
+      {
+        "headline": "The Ebola outbreak highlighted gaps in vaccine research.",
+        "score": 9.5,
+        "body": "The Ebola outbreak highlighted gaps in vaccine research. Half a century after the Ebola virus was discovered, the world still lacks a licensed vaccine to prevent the Bundibugyo strain – the causative agent of the current outbreak in the Democratic Republic of Congo (DRC). The paradox is that this virus strain caused an outbreak in Uganda in 2007 and appeared in the DRC in 2012, but previous opportunities for vaccine research were not taken advantage of. According to Dr. Torsten Feldt, a tropical medicine specialist at Düsseldorf University Hospital (Germany), scientists have had ample time to develop vaccines and treatments through the two previous outbreaks, but the delay in research has ha",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Vietnam.vn",
+            "url": "https://www.vietnam.vn/en/dich-ebola-cho-thay-khoang-trong-trong-nghien-cuu-vaccine"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak: WHO moves to test first vaccines",
+        "score": 9.5,
+        "body": "NCDC, Robert Koch Institute to strengthen AMR surveillance in Nigeria World Health Organisation (WHO) has recommended two new vaccine candidates for an ongoing Ebola clinical trial in the Democratic Republic of the Congo (DRC), paving the way for the first clinical evaluation of vaccines specifically designed to protect against the Bundibugyo virus during an active outbreak. The candidates, ChAdOx1, developed by the University of Oxford in collaboration with the Serum Institute of India, and mRNA-1469, developed by Moderna, were recommended by WHO’s Independent Technical Advisory Group on Candidate Vaccines Prioritisation following an assessment of available preclinical and early clinical ev",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian Nigeria News",
+            "url": "https://guardian.ng/news/ebola-outbreak-who-moves-to-test-first-vaccines/"
+          }
+        ]
+      },
+      {
+        "headline": "New outbreak of mpox in Anchorage prompts advisory from state health officials",
+        "score": 9.0,
+        "body": "A rare viral disease has emerged in an outbreak in Alaska’s largest city that appears to be expanding, state health officials report. There are now four new cases in Anchorage of mpox, a viral disease formerly called monkeypox that is spread through close contact and can be fatal. None of the patients reported traveling outside the state in the monthlong period before becoming infected. It is the highest number of annual mpox cases in Alaska since 2022, when five cases were diagnosed in the state amid a global outbreak. Between 2023 and 2025, there were only two Alaska cases. Three of the Anchorage cases emerged in October and were reported in late October through a state Department of Healt",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Anchorage Daily News",
+            "url": "https://www.adn.com/alaska-news/anchorage/2026/11/08/new-outbreak-of-mpox-in-anchorage-prompts-advisory-from-state-health-officials/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "North Kivu, Democratic Republic of the Congo",
+      "score": 8.5,
+      "trigger": "Continued armed attacks by rebel groups targeting health facilities or causing further displacement of Ebola patients from medical centres could rapidly accelerate community transmission.",
+      "potential_impact": "Uncontrolled spread of the fatal Bundibugyo Ebola strain in conflict zones would disrupt containment measures and severely increase mortality across eastern DRC.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "National Security News",
+          "url": "https://nationalsecuritynews.com/2026/11/islamic-states-isis-insurgency-in-the-democratic-republic-of-the-congo-drc-is-now-escalating-the-countrys-worst-ebola-epidemic/"
+        }
+      ]
+    },
+    {
+      "location": "Gaza Strip, Occupied Palestinian Territory",
+      "score": 8.0,
+      "trigger": "Persistent winter storms combined with continued aid access restrictions could completely submerge temporary shelters across major displacement sites.",
+      "potential_impact": "Mass flooding of hundreds of thousands of displaced residents risks triggering severe waterborne disease outbreaks and acute exposure crises without adequate shelter.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Middle East Monitor",
+          "url": "https://www.middleeastmonitor.com/20261108-eu-commissioner-urges-more-aid-access-to-gaza-as-floods-sweep-through-displacement-camps/"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine and Russia",
+      "score": 7.0,
+      "trigger": "Escalating reciprocal long-range drone and missile strikes targeting electrical grids and fuel infrastructure in the lead-up to diplomatic talks could disrupt essential utilities.",
+      "potential_impact": "Severe power grid damage and severe fuel shortages ahead of winter could leave vulnerable civilian populations without essential heating, electricity, and clean water.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/fuel-shortages-return-russian-regions-after-ukrainian-refinery-attacks-2026-11-09/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "Middle East Monitor",
+        "count": 2
+      },
+      {
+        "name": "National Security News",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "Anchorage Daily News",
+        "count": 1
+      },
+      {
+        "name": "Egyptian Gazette",
+        "count": 1
+      },
+      {
+        "name": "EnviroNews Nigeria",
+        "count": 1
+      },
+      {
+        "name": "Eye Radio",
+        "count": 1
+      },
+      {
+        "name": "FBC News",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "Intelligence Online",
+        "count": 1
+      },
+      {
+        "name": "Khaosod English",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "The Guardian Nigeria News",
+        "count": 1
+      },
+      {
+        "name": "Vietnam.vn",
+        "count": 1
+      },
+      {
+        "name": "allAfrica.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "5 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 4/4 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 929,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
