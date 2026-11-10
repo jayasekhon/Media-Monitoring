@@ -1,0 +1,496 @@
+{
+  "date": "2026-11-10",
+  "printed_time": "2:28 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The foreign ministers of Syria and Jordan met in Damascus on Monday for the first time since Jordanian airstrikes killed civilians in southern Syria last month, announcing a joint investigation into the incident and signing 11 new co-operation agreements.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Nineteen agricultural emergency rooms across Darfur warn that the current farming season has failed, raising fears of impending famine as drought and irregular rainfall devastate crops.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "In a commentary published in Archives of Public Health, researchers report that Somalia is actively battling concurrent outbreaks of cholera, measles, and diphtheria.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Around 600,000 Displaced People in Rakhine Face Severe Livelihood Challenges; Cholera Deaths Reported, Says CAS.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The foreign ministers of Syria and Jordan met in Damascus on Monday for the first time since Jordanian airstrikes killed civilians in southern Syria last month, announcing a joint investigation into the incident and signing 11 new co-operation agreements.",
+    "label": "MIDDLE EAST — Syria, Jordan seek to mend ties after deadly airstrikes"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Syria, Jordan seek to mend ties after deadly airstrikes",
+        "score": 10.0,
+        "body": "The foreign ministers of Syria and Jordan met in Damascus on Monday for the first time since Jordanian airstrikes killed civilians in southern Syria last month, announcing a joint investigation into the incident and signing 11 new co-operation agreements. Syrian Foreign Minister Asaad al-Shibani said Jordan had shown understanding and openness towards resolving the incident in Deraa province, adding that the two countries had set up a joint security and technical committee to investigate the circumstances of the airstrikes. Jordan said its strikes on October 26 targeted Islamic State militants linked to a deadly attack on a church in Jordan’s Karak province. Syrian authorities said the strik",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Egyptian Gazette",
+            "url": "https://egyptian-gazette.com/world/syria-jordan-seek-to-mend-ties-after-deadly-airstrikes/"
+          }
+        ]
+      },
+      {
+        "headline": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideas...",
+        "score": 10.0,
+        "body": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news.",
+        "verified_figures": [
+          "44 killed"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/iran-us-rubio-yemen-saudi-arabia-9b6fa963ea4766a08956e53506494468"
+          }
+        ]
+      },
+      {
+        "headline": "Three children killed as heavy rains batter displaced families in Gaza",
+        "score": 9.5,
+        "body": "Three children killed as heavy rains batter displaced families in Gaza.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ReliefWeb",
+            "url": "https://reliefweb.int/report/occupied-palestinian-territory/three-children-killed-heavy-rains-batter-displaced-families-gaza"
+          }
+        ]
+      },
+      {
+        "headline": "Airstrikes near Sanaa killed 44, mostly women and children",
+        "score": 9.0,
+        "body": "Airstrikes near Sanaa killed 44, mostly women and children.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NewsBytes",
+            "url": "https://www.newsbytesapp.com/news/world/airstrikes-near-sanaa-killed-44-mostly-women-and-children/tldr"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Earthquakes Kill Over 1,700 and Prompt International Response",
+        "score": 9.5,
+        "body": "A pair of powerful earthquakes in north-central Venezuela has killed more than 1,700 people and injured nearly 1,000 others, with thousands reported missing. Rescue workers warn that the window to locate survivors beneath the rubble is closing. Venezuelan emergency teams are conducting intensive rescue operations, supported by search and rescue units dispatched by the United States and aid commitments from China and the European Union.",
+        "verified_figures": [
+          "More than 1,700 people killed",
+          "Almost 1,000 people injured",
+          "Thousands missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/venezuela-earthquake-latest-news/live-77748269"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Mass Kidnapping and Lethal Attack Amid Escalating Gang Conflict",
+        "score": 8.0,
+        "body": "An attack by armed men in Kenscoff on the outskirts of Port-au-Prince killed at least 47 people, including five children, and resulted in the kidnapping of over 50 others, according to the United Nations. A gang leader threatened to execute hostages if security forces intervene. Simultaneously, Haitian security forces killed Boston gang leader Mathias Saintil in Cité Soleil during targeted operations utilizing explosive drones.",
+        "verified_figures": [
+          "At least 47 people killed",
+          "At least 5 children killed",
+          "More than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Investigation Launched After Child Killed in Security Operation",
+        "score": 3.5,
+        "body": "Mexican authorities are investigating military and police involvement in the fatal shooting of a seven-year-old American child in the border city of Matamoros. The death occurred during a joint security operation conducted to detain an alleged drug trafficker.",
+        "verified_figures": [
+          "1 child killed"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/11/09/7-year-old-american-girl-killed-mexico-authorities-probe-police-involvement/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Surpasses 5,000 Deaths",
+        "score": 9.0,
+        "body": "An Ebola outbreak in eastern Democratic Republic of the Congo has expanded to 10,910 confirmed cases and 5,234 confirmed deaths, making it the second largest and fastest growing on record. The current crude case-fatality rate is 48.7 percent. Doctors Without Borders has called for expanded deployment of the Ervebo vaccine to provide potential cross-protection against the Ebola Bundibugyo strain. Internationally, the U.S. Centers for Disease Control and Prevention is recruiting personnel to conduct airport screenings for travelers coming from Central Africa.",
+        "verified_figures": [
+          "10,910 confirmed cases",
+          "5,234 confirmed deaths",
+          "48.7% crude case-fatality rate"
+        ],
+        "sources": [
+          {
+            "name": "CIDRAP",
+            "url": "https://www.cidrap.umn.edu/viral-hemorrhagic-fever/wider-use-ervebo-vaccine-urged-dr-congo-ebola-outbreak-nears-11000-cases"
+          }
+        ]
+      },
+      {
+        "headline": "Ethiopia / Kenya — Border Clashes Displace Over 50,000 People",
+        "score": 7.5,
+        "body": "Deadly clashes in the Moyale border region between Ethiopia and Kenya have displaced more than 50,000 people into Kenya. Displaced individuals reported burned homes and civilian casualties associated with tensions over flag displays in disputed areas. Families fleeing across the border are arriving without adequate shelter, food, cooking supplies, or bedding. Humanitarian concerns are escalating as displaced populations face severe hardship, with infants sleeping on bare floors and cases of diarrhoea spreading among affected groups.",
+        "verified_figures": [
+          "More than 50,000 displaced"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Severe Drought Drives 90 Percent Crop Loss in Darfur",
+        "score": 7.0,
+        "body": "Nineteen agricultural emergency rooms in Darfur warn of widespread crop failure caused by drought and erratic rainfall. Human rights group Justice Africa Sudan projects harvest losses of around 90 percent across major sorghum-producing regions, raising severe concerns over impending famine. The organization called for an immediate nationwide ceasefire, full humanitarian access, and urgent emergency aid funding. Representatives described 2026 as one of the severe agricultural downturns in Sudan's recent history due to persistent low rainfall across large parts of the country.",
+        "verified_figures": [
+          "90 per cent harvest losses in key sorghum-producing regions"
+        ],
+        "sources": [
+          {
+            "name": "Dabanga Radio TV Online",
+            "url": "https://www.dabangasudan.org/en/all-news/article/darfur-faces-looming-famine-as-emergency-rooms-report-crop-failure-justice-africa-sudan-calls-for-immediate-ceasefire-humanitarian-access"
+          }
+        ]
+      },
+      {
+        "headline": "Somalia — Concurrent Outbreaks of Cholera, Measles, and Diphtheria",
+        "score": 5.5,
+        "body": "Public health researchers report that Somalia is confronting simultaneous outbreaks of cholera, measles, and diphtheria. Experts argue these overlapping health emergencies act as a syndemic driven by shared structural vulnerabilities. The crisis is heavily aggravated by widespread malnutrition, insufficient access to safe drinking water, and compromised sanitation systems across affected areas, severely challenging national public health responses.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Bioengineer.org",
+            "url": "https://bioengineer.org/somalia-battles-overlapping-cholera-measles-and-diphtheria-outbreaks-as-syndemic/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Russia — US-led peace negotiations open in Abu Dhabi",
+        "score": 5.0,
+        "body": "United States, Russian, and Ukrainian officials met in Abu Dhabi for trilateral talks aimed at negotiating an end to the war in Ukraine. The meetings represent the first substantive negotiations between Moscow and Kyiv since February. US officials stated they are seeking a final end to the conflict and proposing a long-term security architecture between Europe and Russia. US Senator Marco Rubio characterized the initial four-hour discussion as very productive, with negotiations expected to continue.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Unconfirmed tremors and explosion sounds reported across several cities",
+        "score": 3.0,
+        "body": "Residents across several regions in Ukraine, including Kyiv, Zhytomyr, Vinnytsia, and Dnipro, reported underground tremors, loud rumblings, and sounds resembling explosions on 10 November. Eyewitnesses described shaking walls, swinging doors, and damaged plaster in some buildings. Unverified reports circulated on social media alleging a major underground explosion near Kyiv, but officials have not confirmed an earthquake or any direct cause for the vibrations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "UkrMedia News",
+            "url": "https://ukrmedia.news/en/suspilstvo/zemletrus-ukrayina-10-lystopada-poshtovkhy/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Around 600,000 Displaced People in Rakhine Face Severe Livelihood Challenges; Cholera D...",
+        "score": 10.0,
+        "body": "Around 600,000 Displaced People in Rakhine Face Severe Livelihood Challenges; Cholera Deaths Reported, Says CAS.",
+        "verified_figures": [
+          "600,000 Displaced"
+        ],
+        "sources": [
+          {
+            "name": "Narinjara News",
+            "url": "https://www.narinjara.com/news/detail/6af21a783b496a70723b0c06"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar military airstrikes on schools in Sagaing kill 11",
+        "score": 8.0,
+        "body": "Regime airstrikes on schools and residential houses in Kani and Taze townships in Sagaing Region over the weekend killed 11 civilians, including young children, and injured four others, according to the National Unity Government (NUG). On Saturday morning, three junta gyrocopters from the Monywa-based Northwestern Command bombed Nyaung Pin Lel village, located 13 miles southwest of Kani town. The bombs landed by the village school and nearby residential houses, killing eight civilians immediately. Two young girls and a toddler passed away from their injuries the following day, bringing the death toll to 11. According to the NUG’s human rights department, those killed in the attack included f",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Myanmar Now",
+            "url": "https://myanmar-now.org/en/news/myanmar-military-airstrikes-on-schools-in-sagaing-kill-11/"
+          }
+        ]
+      },
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "No internet, no advance warning: 11 killed in Myanmar military bombing in Sagaing",
+        "score": 7.0,
+        "body": "Read a version of this story in Burmese It was just before noon on Saturday. Three gyrocopters flew low as they approached Nyaung Pin Lay village. A school and surrounding residential area was bombed. Eleven were killed, including four children. A resident told RFA that although the local People’s Defense Forces (PDF) received a tip that the Myanmar military would bomb the school, the warning could not reach them in time due to the lack of internet in the village. “Information that this would be bombed was sent online to everyone. They did inform us,” the Kani Township resident told RFA on the condition of anonymity for security reasons. “But because there was no Starlink communication, casu",
+        "verified_figures": [
+          "11 killed"
+        ],
+        "sources": [
+          {
+            "name": "Radio Free Asia",
+            "url": "https://www.rfa.org/english/myanmar/2026/11/10/starlink-burma-civil-war-scam-center/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "MSF calls for broader access to ERVEBO vaccine during Ebola outbreak",
+        "score": 9.5,
+        "body": "As the Bundibugyo Ebola outbreak continues in Democratic Republic of Congo (DRC), Doctors Without Borders/Médecins Sans Frontières (MSF) is calling for access to ERVEBO, the only licensed Ebola vaccine currently available at scale, to be expanded rapidly. MSF is urging the World Health Organization (WHO) Strategic Advisory Group of Experts on Immunization (SAGE) to lift restrictions limiting ERVEBO vaccination to research protocols so that available doses can be deployed rapidly to protect those most at risk. MSF is also calling for enough doses to be made available to support a meaningful expansion of vaccination. ERVEBO is not an experimental vaccine. It is licensed and approved for use ag",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Doctors Without Borders",
+            "url": "https://www.doctorswithoutborders.org/latest/msf-calls-broader-access-ervebo-vaccine-during-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak tops 10,000 cases as Chicago hospitals prepare",
+        "score": 9.5,
+        "body": "Ebola outbreak tops 10,000 cases as Chicago hospitals prepare.",
+        "verified_figures": [
+          "10,000 cases"
+        ],
+        "sources": [
+          {
+            "name": "USA Today",
+            "url": "https://www.usatoday.com/embed/video/92476484007/"
+          }
+        ]
+      },
+      {
+        "headline": "Ghana mandates Ebola airport screening and 21-day tracking as Bundibugyo outbreak nears...",
+        "score": 9.5,
+        "body": "Ghana has enforced mandatory electronic health declarations and a strict 21-day monitoring protocol for international arrivals, stepping up its defenses against the deadliest Ebola outbreak in recent history. The Ghana Health Service (GHS) intensified border controls at Kotoka International Airport and other entry points in early November 2026 to prevent the importation of the Bundibugyo virus. With the outbreak surpassing 9,700 cases in Central and East Africa and no licensed vaccine available, West African aviation hubs are relying on aggressive surveillance and traveler tracking to maintain open transit corridors while shielding domestic populations. A continental emergency scales rapidly",
+        "verified_figures": [
+          "10,000 cases",
+          "9,700 cases"
+        ],
+        "sources": [
+          {
+            "name": "https://streamlinefeed.co.ke/",
+            "url": "https://streamlinefeed.co.ke/news/ghana-mandates-ebola-airport-screening-and-21-day-tracking-as-bundibugyo-outbreak-nears-10000-cases"
+          }
+        ]
+      },
+      {
+        "headline": "How Ghana can prepare for possible Ebola outbreak",
+        "score": 9.5,
+        "body": "The President of the Ghana Medical Association, Professor Yorke, has called for intensified public education, wider dissemination of information on quarantine and isolation facilities, improved case management preparedness, and stronger surveillance across relevant agencies to ensure the country is adequately prepared to respond to a possible Ebola outbreak. Speaking at a recent press conference to mark the close of its 68th Annual General Conference, the GMA President said Ghana must move beyond routine surveillance at the country's entry points and strengthen its capacity to respond to a possible outbreak. \"The GMA calls for intensified public education, designation of quarantine and isola",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "GhanaWeb",
+            "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/How-Ghana-can-prepare-for-possible-Ebola-outbreak-2060517"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Three children killed as heavy rains batter displaced famili",
+      "score": 9.5,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "ReliefWeb",
+          "url": "https://reliefweb.int/report/occupied-palestinian-territory/three-children-killed-heavy-rains-batter-displaced-families-gaza"
+        }
+      ]
+    },
+    {
+      "location": "CDC asks staff to volunteer to help with Ebola screenings at",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/International/ebola-outbreak-risks-becoming-deadliest-record-irc-warns/story?id=133305446"
+        }
+      ]
+    },
+    {
+      "location": "Wider use of Ervebo vaccine urged as DR Congo Ebola outbreak",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "url": "https://www.cidrap.umn.edu/viral-hemorrhagic-fever/wider-use-ervebo-vaccine-urged-dr-congo-ebola-outbreak-nears-11000-cases"
+        }
+      ]
+    },
+    {
+      "location": "MSF calls for broader access to ERVEBO vaccine during Ebola ",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Doctors Without Borders",
+          "url": "https://www.doctorswithoutborders.org/latest/msf-calls-broader-access-ervebo-vaccine-during-ebola-outbreak"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "Al Jazeera English",
+      "The Guardian",
+      "Washington Post"
+    ],
+    "all_sources": [
+      {
+        "name": "CIDRAP",
+        "count": 2
+      },
+      {
+        "name": "DW.com",
+        "count": 2
+      },
+      {
+        "name": "Doctors Without Borders",
+        "count": 2
+      },
+      {
+        "name": "ReliefWeb",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Bioengineer.org",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Dabanga Radio TV Online",
+        "count": 1
+      },
+      {
+        "name": "Egyptian Gazette",
+        "count": 1
+      },
+      {
+        "name": "GhanaWeb",
+        "count": 1
+      },
+      {
+        "name": "Myanmar Now",
+        "count": 1
+      },
+      {
+        "name": "Narinjara News",
+        "count": 1
+      },
+      {
+        "name": "NewsBytes",
+        "count": 1
+      },
+      {
+        "name": "Radio Free Asia",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "USA Today",
+        "count": 1
+      },
+      {
+        "name": "UkrMedia News",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "https://streamlinefeed.co.ke/",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "9 item(s) had no extractable figures in available reporting.",
+      "5 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 14/14 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 3/6 region(s) with candidate material generated via Gemini (LLM), 3 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1044,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
