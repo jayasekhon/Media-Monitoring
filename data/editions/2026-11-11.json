@@ -1,0 +1,438 @@
+{
+  "date": "2026-11-11",
+  "printed_time": "1:41 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The deadliest Ebola outbreak on record in the Democratic Republic of the Congo has surpassed 11,000 cases and 5,300 deaths, while armed attacks on health facilities severely disrupt emergency response operations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A winter storm in Gaza flooded 70,000 temporary tents and killed at least five people, threatening disease outbreaks among over 940,000 displaced Palestinians living in flood-prone areas.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "More than four million children in Afghanistan are projected to require treatment for acute malnutrition as severe food insecurity and health access restrictions worsen.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "A joint military strike by Salvadoran forces and Haitian police targeting the 400 Mawozo gang compound near Port-au-Prince left approximately 20 alleged gang members dead.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "The World Health Organization reported more than 3,000 cholera fatalities globally during the first nine months of 2026, with nearly 90 percent of deaths occurring in Africa.",
+      "region": "Global / Cross-Cutting"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The record-setting Ebola epidemic in the Democratic Republic of the Congo has passed 11,000 total cases and caused more than 5,300 deaths, while recent armed attacks on health facilities in North Kivu severely disrupt response efforts.",
+    "label": "AFRICA — DR Congo Ebola Outbreak Exceeds 11,000 Cases Amid Attacks on Health Facilities"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "OPT/Gaza — Winter storm floods thousands of tents, worsening health and shelter crises",
+        "score": 8.0,
+        "body": "A winter storm severely impacted Gaza, flooding an estimated 70,000 makeshift tents and killing at least five Palestinians, including three children and a woman. The heavy rainfall destroyed critical sanitation infrastructure, spilling sewage into living areas and prompting health warnings from UNICEF and the World Health Organization over potential disease outbreaks. More than 940,000 displaced Palestinians reside in flood-prone areas, while aid agencies report that 150,000 new temporary shelters remain outside Gaza awaiting approval from Israeli authorities to enter the enclave.",
+        "verified_figures": [
+          "At least 5 people killed, including 3 children and a woman",
+          "70,000 tents flooded",
+          "More than 940,000 displaced people in flood-prone areas",
+          "150,000 new shelters awaiting Israeli approval to enter Gaza"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood"
+          }
+        ]
+      },
+      {
+        "headline": "OPT/Gaza — Israeli airstrike in Gaza City kills local athlete",
+        "score": 4.5,
+        "body": "An Israeli airstrike on Gaza City killed Mahmoud Abdel-Malek, a 20-year-old goalkeeper for the Gaza Sports Club. The fatal strike occurred days after Abdel-Malek participated in a local sports tournament held in honor of slain athletes in the territory.",
+        "verified_figures": [
+          "1 killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "OPT/Gaza — Rights group warns of health system impacts following detention of Gaza doctor",
+        "score": 4.0,
+        "body": "Physicians for Human Rights Israel raised concerns over the arbitrary detention of Gaza physician Dr. Abu Safia by Israeli forces. The advocacy organization warned that the ongoing detention of healthcare personnel violates individual rights and further degrades Gaza's overwhelmed health system during continued airstrikes across the region.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Egypt/Gaza — F1 driver Lewis Hamilton inspects Gaza aid logistics at Rafah border",
+        "score": 2.0,
+        "body": "Seven-time Formula One world champion Lewis Hamilton visited the Egyptian side of the Rafah border crossing to tour logistics facilities operated by the Egyptian Red Crescent. Hamilton inspected humanitarian aid operations serving Gaza and met with organizations delivering relief goods to the territory.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Salvadoran military operation targets major gang compound near capital",
+        "score": 7.0,
+        "body": "Salvadoran military forces supporting the Haitian National Police conducted a joint operation targeting the 400 Mawozo gang in Croix-des-Bouquets, near Port-au-Prince. The strikes targeted the gang's headquarters and the residence of its leader, Lanmò San Jou, leaving approximately 20 alleged gang members dead. Haitian Prime Minister Alix Didier Fils-Aimé commended the operation, while El Salvador's President Nayib Bukele highlighted the military action as part of El Salvador's commitment of over 2,000 troops to assist Haiti in addressing widespread armed gang violence.",
+        "verified_figures": [
+          "20 gang members killed",
+          "more than 2,000 Salvadoran soldiers deployed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Resurgent measles outbreak threatens national elimination status",
+        "score": 5.0,
+        "body": "The United States risks losing its official measles-free elimination status as it experiences its worst outbreak of the virus in 35 years. Health authorities report more than 5,400 cases nationwide. If its status is revoked, the U.S. would join several other nations where the previously eliminated disease has resurfaced, raising major public health concerns regarding vaccination coverage and preventative health policies.",
+        "verified_figures": [
+          "more than 5,400 cases nationwide"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/nov/11/measles-status-rfk-jr-anti-vaccine-agenda"
+          }
+        ]
+      },
+      {
+        "headline": "Global — Over 3,000 cholera deaths recorded in 2026 following record 1999 peak",
+        "score": 6.0,
+        "body": "The World Health Organization reports that over 3,000 people have died from cholera during the first nine months of 2026, with nearly 90 percent of deaths occurring in Africa. The figure follows 2025, which was the deadliest year for cholera since 1999 with almost 7,900 reported fatalities. Health officials emphasized that most deaths occur at the community level before patients can reach treatment, despite cholera being preventable and treatable where clean water and basic healthcare are accessible.",
+        "verified_figures": [
+          "almost 7,900 deaths last year",
+          "more than 3,000 deaths in first nine months of 2026"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/11/1168782"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Epidemic Surpasses 11,000 Cases as Health Facilities Suffer Attacks",
+        "score": 9.5,
+        "body": "The ongoing Ebola epidemic in the Democratic Republic of the Congo has surpassed 11,000 cases, with official health figures showing 11,042 infections and 5,387 deaths across eight provinces since May. The outbreak, driven by the Bundibugyo strain for which there is no known vaccine or treatment, is the country's deadliest on record. Humanitarian response efforts face severe operational disruption. Starting 4 November, armed fighters attacked five health facilities in North Kivu over five consecutive days, burning three clinics to the ground and forcing the evacuation of hundreds of patients.",
+        "verified_figures": [
+          "11,042 total cases",
+          "5,387 deaths",
+          "8 of 26 provinces affected",
+          "5 health facilities attacked",
+          "3 health facilities burned"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-outbreak-cae4cef6e48c1d2210a59c72676bff29"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Last Ebola Patient Discharged as 42-Day Outbreak Clearance Countdown Begins",
+        "score": 4.0,
+        "body": "Kenya has discharged its seventh and final recovering Ebola patient, starting a mandatory 42-day countdown to be officially declared free of the virus. The outbreak began in early October after a businessman contracted the Bundibugyo strain in the Democratic Republic of the Congo and died in Nairobi, alongside his mother. Health authorities reported that seven infected patients recovered, while 135 identified contacts successfully completed their required 21-day quarantine period without developing symptoms.",
+        "verified_figures": [
+          "7 patients recovered",
+          "2 deaths",
+          "135 contacts completed 21-day quarantine"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-releases-last-ebola-patient-starts-42-day-countdown-disease-free-status-2026-11-11/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — RSF Drone Strike Kills Nine Civilians in Blue Nile Region",
+        "score": 6.0,
+        "body": "A drone strike attributed to the Rapid Support Forces killed at least nine civilians and seriously injured several others in Sudan's Blue Nile region. The strike highlights ongoing protection concerns and civilian casualties resulting from the active conflict between armed factions in Sudan.",
+        "verified_figures": [
+          "at least 9 civilians killed"
+        ],
+        "sources": [
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/AddisstandardEng/posts/daily_brief-rsf-drone-strike-kills-nine-civilians-in-sudans-blue_nile-regionaddi/1571155931716304/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian occupation authorities allegedly block humanitarian aid in Oleshky",
+        "score": 6.0,
+        "body": "Kherson Regional Governor Oleksandr Prokudin stated that Russian occupation authorities in Oleshky are withholding humanitarian aid delivered during a recent temporary ceasefire. According to local officials, supplies intended for civilians are being held in a warehouse rather than distributed to the estimated 1,300 residents remaining in the city. The temporary ceasefire and humanitarian delivery had been arranged with international mediation, but Ukrainian officials report the aid has not reached those in need.",
+        "verified_figures": [
+          "1,300 civilians remaining in Oleshky"
+        ],
+        "sources": [
+          {
+            "name": "Streamline Feed",
+            "url": "https://streamlinefeed.co.ke/news/ukraine-says-occupation-authorities-withhold-oleshky-aid"
+          }
+        ]
+      },
+      {
+        "headline": "Russia/Ukraine — Drone strikes spark port fire as Baltic nations issue airspace warnings",
+        "score": 5.0,
+        "body": "Russian authorities reported a fire at the Baltic Sea port of Ust-Luga following a drone attack, amidst ongoing exchanges of long-range strikes between Ukrainian and Russian forces. Nearby Baltic states and Finland issued overnight airspace warnings due to elevated aerial activity and potential threats near regional borders. The incidents reflect continuing security risks to critical infrastructure and surrounding national airspace as cross-border military strikes persist.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/drone-attack-causes-fire-russias-baltic-sea-port-ust-luga-governor-says-2026-11-11/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — United States mediates talks in Abu Dhabi to end conflict",
+        "score": 4.0,
+        "body": "Negotiators from Ukraine, Russia, and the United States have convened in Abu Dhabi for peace negotiations aimed at concluding the conflict. Discussions have entered a second day, focusing on potential pathways to a ceasefire, European security structures, territorial claims, and military restrictions. Both sides remain divided on core conditions, while external partners continue to advocate for diplomatic solutions to mitigate the ongoing regional security and economic burden.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Kyiv reports capture of first Indonesian national fighting for Russian forces",
+        "score": 3.0,
+        "body": "Ukrainian authorities reported the capture of a 49-year-old Indonesian citizen in the Zaporizhzhia region, identifying him as the first Indonesian prisoner of war detained during the conflict. The individual from Java was reportedly participating in a Russian assault group when the unit came under drone attack, allowing him to reach Ukrainian-controlled territory. Ukraine’s state-run I Want to Live project stated that the capture occurs amid reported increases in Russian recruitment efforts in Southeast Asia.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Escalating acute malnutrition crisis threatens over four million children",
+        "score": 7.0,
+        "body": "Worsening food insecurity, ongoing conflict, widespread illness, unsafe water, and restricted healthcare access are driving a severe child malnutrition crisis across Afghanistan. More than four million children are projected to require treatment for acute malnutrition, representing the highest figure recorded in the country over the last five years. Humanitarian conditions continue to deteriorate as families face compounding pressures, leaving vulnerable young children exposed to severe health risks.",
+        "verified_figures": [
+          "over 4 million children expected to need treatment for acute malnutrition"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF Australia",
+            "url": "https://www.unicef.org.au/stories/afghanistan-s-worsening-malnutrition-crisis"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Sindh farmers pursue legal action over climate damage from 2022 floods",
+        "score": 3.0,
+        "body": "Thirty-nine farmers from Pakistan's southern Sindh province are pursuing legal action against German energy firm RWE and cement maker Heidelberg Materials over climate-related damages from catastrophic flooding in 2022. The farmers allege that industrial greenhouse gas emissions from major global corporations contributed to severe environmental disasters affecting agricultural livelihoods in Pakistan.",
+        "verified_figures": [
+          "39 farmers suing German firms"
+        ],
+        "sources": [
+          {
+            "name": "Gulf News",
+            "url": "https://gulfnews.com/world/asia/pakistan/pakistan-farmers-in-long-fight-to-make-german-firms-pay-for-flood-damage-3-1.500743177"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Ebola Outbreak Exceeds 11,000 Cases",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting its largest Ebola outbreak on record, caused by the Bundibugyo virus. Designated a Public Health Emergency of International Concern, the outbreak has spread across 67 health zones in eight provinces since being declared in May 2026. World Health Organization figures through late October reported 10,467 confirmed cases and 5,103 deaths, while updated Congolese health ministry data shows total cases reaching 11,042 with 5,387 fatalities. Although transmission has slowed in some regions, new hotspots continue to emerge.",
+        "verified_figures": [
+          "11,042 total cases",
+          "5,387 total deaths",
+          "10,467 confirmed cases",
+          "5,103 confirmed deaths",
+          "67 health zones affected",
+          "8 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "World Health Organization (WHO)",
+            "url": "https://www.who.int/news-room/events/detail/2026/11/12/default-calendar/who-health-emergencies-epi-win-webinar-update-on-the-current-ebola-bundibugyo-virus-disease-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Global / Africa — WHO Reports Over 3,000 Cholera Fatalities in 2026",
+        "score": 7.0,
+        "body": "More than 3,000 people have died from cholera globally since the start of 2026, with nearly nine out of ten deaths occurring in Africa, according to the World Health Organization. While mortality numbers show a decline compared to 2025—which recorded nearly 7,900 deaths as the deadliest year for cholera since 1999—the WHO warned that the treatable diarrheal disease remains a serious threat. Officials maintained that the global goal to cut cases by 90 percent by 2030 remains within reach.",
+        "verified_figures": [
+          "more than 3,000 deaths in 2026",
+          "nearly 7,900 deaths in 2025",
+          "nearly 9 out of 10 deaths in Africa"
+        ],
+        "sources": [
+          {
+            "name": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/cholera-killed-more-than-3000-in-2026-who"
+          }
+        ]
+      },
+      {
+        "headline": "Israel / Egypt — Magnitude 4.5 Earthquake Triggers Evacuations in Southern Israel",
+        "score": 2.0,
+        "body": "A magnitude 4.5 earthquake with an epicenter near Taba in southern Sinai struck the Gulf of Eilat on Wednesday, triggering emergency alerts in southern Israel. Israeli authorities temporarily closed Ramon Airport and instructed residents across Eilat, Be’er Ora, Elifaz, the Timna Mines, and the Shkhoret Industrial Zone to move into open spaces. No casualties or structural damage were reported.",
+        "verified_figures": [
+          "magnitude 4.5 earthquake"
+        ],
+        "sources": [
+          {
+            "name": "The Media Line",
+            "url": "https://themedialine.org/headlines/magnitude-4-5-earthquake-triggers-evacuations-in-eilat-shuts-ramon-airport-temporarily/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Ust-Luga Port / Baltic Sea Region",
+      "score": 5.0,
+      "trigger": "Continued exchange of long-range cross-border drone attacks targeting Baltic infrastructure.",
+      "potential_impact": "Heightened aerial military activity could prompt wider airspace closures or unintentional security incidents across neighbouring Baltic nations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/drone-attack-causes-fire-russias-baltic-sea-port-ust-luga-governor-says-2026-11-11/"
+        }
+      ]
+    },
+    {
+      "location": "Abu Dhabi / Ukraine",
+      "score": 4.0,
+      "trigger": "A breakdown in tripartite negotiations over core disagreements regarding territorial claims and ceasefire conditions.",
+      "potential_impact": "Failure to achieve a diplomatic breakthrough could lead to intensified military operations and renewed offensive strikes along active frontlines in Ukraine.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "The Guardian",
+      "UNICEF",
+      "WHO"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 5
+      },
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Facebook",
+        "count": 1
+      },
+      {
+        "name": "Gulf News",
+        "count": 1
+      },
+      {
+        "name": "Streamline Feed",
+        "count": 1
+      },
+      {
+        "name": "The Media Line",
+        "count": 1
+      },
+      {
+        "name": "The Straits Times",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "UNICEF Australia",
+        "count": 1
+      },
+      {
+        "name": "World Health Organization (WHO)",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "5 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1094,
+      "sources_cited": 14
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
