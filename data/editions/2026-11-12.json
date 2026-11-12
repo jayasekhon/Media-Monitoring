@@ -1,0 +1,478 @@
+{
+  "date": "2026-11-12",
+  "printed_time": "2:45 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An unprecedented Ebola outbreak in the Democratic Republic of the Congo has surpassed 11,000 cases and 5,300 deaths, with ongoing insecurity obstructing response efforts in eastern regions.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Consecutive major earthquakes in Venezuela have killed nearly 3,000 people and left tens of thousands missing, straining national emergency response capacities.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Escalating airstrikes against Ukrainian power infrastructure have cut electricity to hundreds of thousands ahead of winter, while an attack on a Zaporizhzhia aid distribution site killed dozens.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "Flash flooding across remote valleys in Nepal and Tibet has killed at least 157 people and left hundreds missing, causing severe destruction across multiple villages.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 5,
+      "text": "A magnitude 7.4 earthquake in western Colombia killed over 100 people and damaged thousands of structures across the region.",
+      "region": "Americas"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The Democratic Republic of the Congo is confronting its deadliest Ebola outbreak on record, exceeding 11,000 cases and 5,300 deaths as persistent insecurity hinders health operations.",
+    "label": "AFRICA — DRC Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza / OPT — Fatal Storms Cause Severe Flooding Across Displacement Camps",
+        "score": 7.5,
+        "body": "Severe weekend storms and widespread flooding have struck displacement camps across the Gaza Strip, causing a landslide that killed at least four people. The adverse weather destroyed thousands of makeshift tent shelters, leaving displaced families exposed to harsh winter conditions amidst an ongoing humanitarian emergency. In response to the crisis, Italy announced a 5 million euro (5 million US dollar) emergency aid package through its Development Cooperation agency to provide rapid support to impacted displacement sites across the territory.",
+        "verified_figures": [
+          "at least 4 people killed",
+          "€5 million ($5 million) emergency aid allocated by Italy"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/11/12/palestinians-fear-floods-other-storm-risks-tent-cities-gazas-displaced/"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza / OPT — Doctor Killed as Israeli Campaign Strains Healthcare System",
+        "score": 7.0,
+        "body": "A Palestinian doctor was killed in Gaza as Israeli military operations and mass detentions continue to exert severe pressure on healthcare infrastructure across Gaza and the West Bank. Humanitarian and health services face severe disruption as medical workers and facilities remain directly impacted by ongoing hostilities and operational constraints. The incident highlights mounting protection concerns for medical personnel operating within conflict zones across the Palestinian territories.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — US Embassy Refutes Blockade Claims and Highlights Siege on Taiz",
+        "score": 4.5,
+        "body": "The United States Embassy in Yemen refuted statements by Houthi authorities asserting that a Saudi-led blockade is restricting the movement of goods into the country. An embassy spokesperson stated that essential supplies continue to enter Houthi-controlled regions. The embassy instead highlighted humanitarian access concerns stemming from the Houthi siege on the city of Taiz, alongside reports of renewed military engagements and advancing government forces in contested areas.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Consecutive Earthquakes Cause Thousands of Casualties",
+        "score": 9.5,
+        "body": "Two consecutive earthquakes measuring magnitude 7.2 and 7.5 struck Venezuela, killing nearly 3,000 people and leaving tens of thousands missing. One week after the disaster, rescue operations continue under difficult conditions as hopes of finding survivors fade. Aerial views demonstrate severe structural destruction across affected cities, while search teams face systemwide failures in response capacity. Affected families remain waiting at collapse sites as national authorities attempt to navigate the expanding emergency.",
+        "verified_figures": [
+          "nearly 3,000 deaths reported",
+          "at least 2,300 reported dead",
+          "tens of thousands still missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/venezuela-earthquakes-trigger-widening-crisis/g-77802771"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Magnitude 7.4 Earthquake Kills Over 100 People",
+        "score": 9.0,
+        "body": "A magnitude 7.4 earthquake struck western Colombia near San Jose del Palmar in the Choco region, killing over 100 people and damaging thousands of buildings. The tremor, which occurred at 7:34 a.m. local time, was felt across neighboring Panama, Ecuador, and Venezuela. International relief assistance has begun arriving as emergency personnel search ruined structures for survivors. Thousands of residents fled damaged homes and buildings following the impact.",
+        "verified_figures": [
+          "more than 100 people killed",
+          "thousands of buildings damaged"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/deadly-colombia-earthquake-leaves-widespread-destruction/g-78325463"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Mass Gang Attack Kills 47 as Armed Violence Escalates",
+        "score": 8.5,
+        "body": "Armed gang members launched a major attack in Kenscoff near Port-au-Prince, killing at least 47 people—including five children—and abducting over 50 others. Gang leaders threatened to execute hostages if police launch rescue attempts. Following the recent kidnapping of four Salvadoran U.N.-backed mission personnel, El Salvador-supported Haitian police carried out airstrikes against 400 Mawozo gang strongholds. The attack comes as a UN report documented 1,167 killed and 459 injured nationwide from July to September due to gang violence and security operations.",
+        "verified_figures": [
+          "at least 47 people killed in Kenscoff",
+          "at least 5 children killed",
+          "more than 50 people kidnapped",
+          "1,167 people killed between July and September",
+          "459 people injured between July and September"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Ebola tops 11,000 cases in Congo’s deadliest outbreak",
+        "score": 10.0,
+        "body": "Ebola tops 11,000 cases in Congo’s deadliest outbreak.",
+        "verified_figures": [
+          "11,000 cases"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-outbreak-cae4cef6e48c1d2210a59c72676bff29"
+          },
+          {
+            "name": "AP News",
+            "url": "https://apnews.com/article/congo-ebola-outbreak-cae4cef6e48c1d2210a59c72676bff29"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola: Insecurity in eastern DRC blocks response as deaths pass 5,300",
+        "score": 10.0,
+        "body": "Ebola: Insecurity in eastern DRC blocks response as deaths pass 5,300.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The EastAfrican",
+            "url": "https://www.theeastafrican.co.ke/tea/sustainability/ebola-insecurity-in-eastern-drc-blocks-response-5668350"
+          }
+        ]
+      },
+      {
+        "headline": "The Ebola outbreak in the DRC exceeds 11,100 infections and 5,400 deaths in less than s...",
+        "score": 10.0,
+        "body": "The Ebola outbreak in the DRC exceeds 11,100 infections and 5,400 deaths in less than six months.",
+        "verified_figures": [
+          "5,400 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/the-ebola-outbreak-in-the-drc-exceeds-11-100-infections-and-5-400-deaths-in-less-than-six-months/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak crosses 11,000 cases: Should India worry as the deadly virus spreads bey...",
+        "score": 10.0,
+        "body": "Ebola has a way of making headlines feel heavier than usual. Right now, an outbreak in the Democratic Republic of the Congo (DRC) is the second-largest on record. As of November 8, 2026, CDC data lists 11,021 confirmed cases and 5,358 deaths. For readers in India, the real question is how much of this should keep anyone awake at night. A different kind of Ebola This outbreak is caused by the Bundibugyo virus, one of the Ebola family. What stands out is the speed. It crossed 1,000 confirmed cases within 40 days of the response starting. The 2018 outbreak in the same country took roughly 235 days to reach that mark.",
+        "verified_figures": [
+          "11,000 cases",
+          "5,358 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Times of India",
+            "url": "https://timesofindia.indiatimes.com/health/ebola-outbreak-crosses-11000-cases-should-india-worry-as-the-deadly-virus-spreads-beyond-congo-what-we-need-to-know/articleshow/135743036.cms"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Escalating Infrastructure Attacks and Deadly Aid Station Airstrike",
+        "score": 9.0,
+        "body": "Ongoing attacks on Ukraine's energy, water, and civilian infrastructure continue to cause widespread outages, leaving hundreds of thousands without electricity as winter approaches. Local authorities reported that a November 2 Russian airstrike destroyed an aid distribution point in the Zaporizhzhia region, killing dozens of people and leaving many missing. The destruction comes amid repeated strikes on power stations, which have severely impaired energy generation across the country and increased vulnerabilities for millions facing harsh winter conditions.",
+        "verified_figures": [
+          "dozens of people killed in Zaporizhzhia airstrike",
+          "hundreds of thousands left without electricity"
+        ],
+        "sources": [
+          {
+            "name": "Care.org",
+            "url": "https://www.care.org/media-and-press/ukraine-millions-face-another-challenging-winter-amid-escalating-attacks/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Civilian Evacuation Proposals and Diplomacy Following Oleshky Truce",
+        "score": 6.0,
+        "body": "Russian President Vladimir Putin has proposed a joint Russian-Ukrainian humanitarian mission to evacuate civilians from the city of Kostiantynivka in eastern Ukraine. According to reports, the proposed initiative is modeled after a temporary ceasefire in Russian-occupied Oleshky, Kherson region, which enabled humanitarian assistance and the evacuation of nearly 800 civilians. Concurrently, Ukrainian and Russian representatives agreed to a large-scale prisoner exchange following peace discussions in Abu Dhabi, though specific figures for the exchange were not disclosed.",
+        "verified_figures": [
+          "nearly 800 civilians evacuated from Oleshky"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — €23 Million Grant Signed for Winter Gas Supply",
+        "score": 4.5,
+        "body": "The European Bank for Reconstruction and Development and Naftogaz Group signed a €23 million grant agreement on November 9, 2026, to assist Ukraine in purchasing natural gas for the winter heating season. Funded by the Netherlands, the grant aims to address peak demand and bolster energy security as attacks on gas production and power infrastructure persist. The assistance will be paired with the bank's own financing to help maintain gas supplies across the country.",
+        "verified_figures": [
+          "€23 million grant"
+        ],
+        "sources": [
+          {
+            "name": "fundsforNGOs News",
+            "url": "https://news.fundsforngos.org/2026/11/12/ebrd-netherlands-23-million-grant-naftogaz-winter-gas-ukraine/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Pakistan — Gunmen Kill 10 Police Officers and 18 Attackers in Northwest",
+        "score": 5.5,
+        "body": "In northwest Pakistan's Kohat district, armed fighters opened fire on police officers returning from a mine, triggering a clash that left 10 police officers and 18 fighters dead. Local authorities confirmed the casualties following the ambush. The violent encounter highlights persistent security threats and risks facing security personnel operating in the country's northwest.",
+        "verified_figures": [
+          "10 police officers killed",
+          "18 fighters killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — UN Warns of Severe Landmine Risks to Children",
+        "score": 6.0,
+        "body": "The United Nations warned of ongoing threats posed by landmines and unexploded ordnance across Afghanistan, where widespread explosive remnants of war cause deaths, permanent disabilities, and severe injuries. Previously reported data from Save the Children indicates that at least 338 children were killed or injured by landmines and unexploded ordnance between January 2025 and January 2026, underscoring severe protection concerns for youth.",
+        "verified_figures": [
+          "at least 338 children killed or injured between January 2025 and January 2026"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/news/islam/afghanistan/147132-un-warns-of-growing-threat-from-landmines-in-afghanistan-as-hundreds-of-children-are-killed-or-injured/"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — OCHA Warns Drought and Water Crisis Threaten Livelihoods",
+        "score": 6.0,
+        "body": "The United Nations Office for the Coordination of Humanitarian Affairs warns that prolonged drought and water shortages in Afghanistan are pushing community livelihoods to the brink of collapse. OCHA emphasized that front-line climate-impacted communities suffer severe consequences despite contributing least to global emissions. Reduced access to water has placed heavy strain on household income and daily survival, prompting calls for accessible climate financing.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "8AM Media",
+            "url": "https://8am.media/eng/ocha-drought-and-water-shortages-in-afghanistan-have-pushed-peoples-lives-to-the-brink/"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — ADB Approves $500M Contingent Disaster Financing",
+        "score": 3.5,
+        "body": "The Asian Development Bank approved $500 million in contingent disaster financing facilities to strengthen Pakistan's emergency response capacity following natural disasters, including floods and earthquakes. Provided through policy-based lending, the funds will afford the government rapid budget support during eligible emergency events to mitigate economic pressures and help protect vulnerable communities.",
+        "verified_figures": [
+          "$500 million in contingent disaster financing"
+        ],
+        "sources": [
+          {
+            "name": "Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/business/4005605-pakistan-to-access-500m-in-disaster-funds-after-floods-and-earthquakes-strike?amp"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak",
+        "score": 9.0,
+        "body": "An ongoing outbreak of Ebola disease caused by the Bundibugyo virus in the Democratic Republic of the Congo has become the largest ever recorded in the country. Designated a Public Health Emergency of International Concern, the outbreak has recorded 10,467 confirmed cases and 5,103 deaths across 67 health zones in eight provinces as of late October 2026, with total cases exceeding 11,000. While transmission has slowed in some regions, new hotspots continue to emerge.",
+        "verified_figures": [
+          "10,467 confirmed cases",
+          "5,103 deaths",
+          "67 health zones affected",
+          "8 provinces affected",
+          "Over 11,000 total cases"
+        ],
+        "sources": [
+          {
+            "name": "World Health Organization (WHO)",
+            "url": "https://www.who.int/news-room/events/detail/2026/11/12/default-calendar/who-health-emergencies-epi-win-webinar-update-on-the-current-ebola-bundibugyo-virus-disease-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal and Tibet — Flash Floods",
+        "score": 9.0,
+        "body": "Severe flash flooding swept through remote valleys across Nepal and Tibet, causing major destruction in multiple villages. Nepali police confirmed that emergency workers have recovered 157 bodies, while hundreds of people remain missing. Authorities are actively relocating families residing in flood-risk areas to safer locations. The Nepali government announced full responsibility for emergency rescue operations, medical treatment, food relief, and shelter for affected populations.",
+        "verified_figures": [
+          "157 bodies recovered",
+          "Hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "Global / Africa — Cholera Outbreak",
+        "score": 7.5,
+        "body": "The World Health Organization reported that cholera has claimed more than 3,000 lives globally in 2026. Africa accounts for 90 percent of all recorded global cholera deaths during the year, highlighting a severe concentration of fatalities across the continent amid ongoing humanitarian and public health challenges.",
+        "verified_figures": [
+          "More than 3,000 deaths globally in 2026",
+          "90% of global cholera deaths in Africa"
+        ],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/health/422149/africa-accounts-for-90-per-cent-of-global-cholera-deaths-in-2026-who-reports"
+          }
+        ]
+      },
+      {
+        "headline": "Japan — Earthquake",
+        "score": 3.5,
+        "body": "A strong earthquake struck eastern Aichi Prefecture in Japan, injuring 24 people across Aichi and neighboring Shizuoka prefectures. The quake registered an upper 5 on Japan's seven-level seismic intensity scale, representing the strongest shaking recorded in the prefecture in approximately 30 years. The seismic event occurred days after Japan launched a new national disaster management agency to strengthen emergency preparedness.",
+        "verified_figures": [
+          "24 people injured"
+        ],
+        "sources": [
+          {
+            "name": "News On Japan",
+            "url": "https://newsonjapan.com/article/151332.php"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Haiti (Kenscoff / Port-au-Prince)",
+      "score": 8.5,
+      "trigger": "Police rescue operations following anti-gang airstrikes could trigger retaliatory violence by armed groups.",
+      "potential_impact": "Gang members may execute more than 50 abducted hostages, worsening the protection crisis and driving further instability around the capital.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "AP News",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "Washington Post",
+      "WHO"
+    ],
+    "all_sources": [
+      {
+        "name": "DW.com",
+        "count": 5
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "8AM Media",
+        "count": 1
+      },
+      {
+        "name": "AP News",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Care.org",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "Devdiscourse",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "News On Japan",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "The EastAfrican",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Times of India",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      },
+      {
+        "name": "World Health Organization (WHO)",
+        "count": 1
+      },
+      {
+        "name": "fundsforNGOs News",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "3 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 4/4 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1078,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
