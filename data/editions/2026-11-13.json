@@ -1,0 +1,422 @@
+{
+  "date": "2026-11-13",
+  "printed_time": "2:02 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Ebola outbreak in the eastern Democratic Republic of the Congo has escalated to 11,114 confirmed cases and 5,433 deaths, while armed group attacks on health workers and medical facilities severely disrupt containment operations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Flash flooding in remote mountain valleys across Nepal and Tibet killed at least 157 people and left hundreds missing, driving major search, rescue, and emergency shelter operations.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "A magnitude 7.8 earthquake in the southern Philippines killed at least 32 people, injured 200, and left 12 missing amid ongoing search and rescue efforts.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "An attack by armed men in Kenscoff on the outskirts of Port-au-Prince, Haiti, killed at least 47 people, including five children, and resulted in the mass abduction of over 50 residents.",
+      "region": "Americas"
+    },
+    {
+      "rank": 5,
+      "text": "A record 30.3 million people in the Democratic Republic of the Congo are projected to face acute food insecurity at IPC Phase 3 or higher between January and June 2027.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "Ongoing armed conflict and targeted attacks on health infrastructure in eastern Democratic Republic of the Congo are crippling response efforts to an escalating Ebola outbreak that has claimed over 5,400 lives.",
+    "label": "AFRICA — DRC Ebola Outbreak Escalation"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza — Severe Storms Cause Fatal Landslide in Displacement Camps",
+        "score": 6.5,
+        "body": "Weekend storms in Gaza triggered a landslide that struck tent shelters, killing at least four people. Displaced Palestinians living in temporary tent settlements face heightened risks from severe weather and flooding as winter conditions set in. The incident highlights extreme protection and housing vulnerabilities among displaced populations taking shelter in exposed encampments across the territory.",
+        "verified_figures": [
+          "at least 4 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Washington Post",
+            "url": "https://www.washingtonpost.com/world/2026/11/12/palestinians-fear-floods-other-storm-risks-tent-cities-gazas-displaced/"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — IPC Analysis Projects Rising Acute Food Insecurity",
+        "score": 6.5,
+        "body": "More than 1 million people in Lebanon are currently experiencing Crisis or worse levels of acute food insecurity, according to a recent Integrated Food Security Phase Classification analysis. The report projects that acute food insecurity will affect 1.15 million people by mid-2027. Successive economic pressures, ongoing insecurity, and eroded livelihoods continue to weaken household coping capacities across the country.",
+        "verified_figures": [
+          "more than 1 million people facing Crisis or worse acute food insecurity",
+          "1.15 million people projected facing acute food insecurity by mid-2027"
+        ],
+        "sources": [
+          {
+            "name": "fundsforNGOs News",
+            "url": "https://news.fundsforngos.org/2026/11/13/lebanon-ipc-analysis-projects-1-15-million-acute-food-insecurity-by-mid-2027/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Measles Surge in Taiz Exacerbated by Access Restrictions",
+        "score": 6.5,
+        "body": "Health authorities in Yemen's Taiz governorate warned of a severe measles outbreak, recording more than 2,700 suspected and confirmed cases. Continued restrictions and blockades on access routes to Taiz city have severely hindered the delivery of childhood vaccines and essential medical supplies. The vaccine shortages have left thousands of children vulnerable, putting immense pressure on fragile, overcrowded health facilities.",
+        "verified_figures": [
+          "more than 2,700 suspected and confirmed infections"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://yemenonline.info/index.php/special-reports/14435"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Heavy Fighting and Airstrikes Cause Casualties in Taiz",
+        "score": 6.0,
+        "body": "Airstrikes and heavy ground clashes between Yemeni government forces and Houthi fighters in Taiz governorate have killed and wounded dozens of people over 48 hours. Combat expanded across southern and western outskirts, including Sabr Al-Mawadim, Al-Mawasit, and Najd Qasim. Houthi forces seized several mountain positions and villages following government force retreats, while unidentified airstrikes targeted Houthi vehicles near Mount Han and Wadi Al-Dhabab.",
+        "verified_figures": [
+          "dozens killed and wounded"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://yemenonline.info/index.php/special-reports/14097"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Armed Attack and Mass Kidnapping in Kenscoff",
+        "score": 9.0,
+        "body": "Armed men launched an attack in the Kenscoff area on the outskirts of Port-au-Prince, killing at least 47 people, including five children, and kidnapping over 50 others, according to the United Nations. The incident marks one of the largest mass abductions in Haiti in recent years. A gang leader subsequently released a video threatening to execute the hostages if Haitian police kill any gang members during rescue efforts. Residents reported relatives among those abducted as security conditions in the capital continue to deteriorate.",
+        "verified_figures": [
+          "at least 47 killed",
+          "at least 5 children killed",
+          "more than 50 kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Salvadoran Security Operation Targets Gang Stronghold",
+        "score": 6.5,
+        "body": "Salvadoran forces, operating alongside Haitian police, conducted a helicopter strike targeting a compound belonging to the 400 Mawozo gang near Port-au-Prince. El Salvador's President Nayib Bukele released footage of the operation, claiming it destroyed the residence and headquarters of gang leader Wilson Joseph, which was reportedly used for kidnappings, weapons trafficking, and extortion. As many as 20 people were killed in the strike, which followed the disappearance of four Salvadoran personnel in Haiti.",
+        "verified_figures": [
+          "as many as 20 people killed"
+        ],
+        "sources": [
+          {
+            "name": "Sight Magazine",
+            "url": "https://sightmagazine.com.au/essays/essay-el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Escalates Amid Rebel Attacks and Health Facility Destruction",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo's Ebola outbreak has reached 11,114 confirmed cases and 5,433 deaths since May, according to health officials. Response efforts across North Kivu and southern Ituri provinces are severely obstructed by Allied Democratic Forces attacks, which UN officials report have killed more people in recent days than the virus itself. In a recent attack on Cantine-Aloya in North Kivu, 66 people were killed, including three health workers, three medical facilities were burned, and three Ebola patients along with 1,000 contacts fled. Health authorities report 400 to 500 new infections weekly.",
+        "verified_figures": [
+          "11,114 confirmed cases",
+          "5,433 deaths",
+          "66 people killed",
+          "3 health workers killed",
+          "3 health facilities burned down",
+          "1,000 contacts fled",
+          "400 to 500 new infections per week"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/11/1168797"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Record 30.3 Million Projected to Face Acute Hunger",
+        "score": 8.0,
+        "body": "A record 30.3 million people in the Democratic Republic of the Congo are projected to face Crisis levels of acute food insecurity or worse (IPC Phase 3 or above) between January and June 2027, according to the latest Integrated Food Security Phase Classification analysis. United Nations agencies, including WFP, FAO, UNICEF, and WHO, warned that severe hunger is being driven by armed conflict, population displacement, rising food prices, and disease outbreaks such as Ebola. Humanitarian assistance is falling dangerously behind growing operational needs.",
+        "verified_figures": [
+          "30.3 million people projected to face IPC Phase 3+ acute food insecurity"
+        ],
+        "sources": [
+          {
+            "name": "WHO",
+            "url": "https://www.who.int/news/item/13-11-2026-conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Winter response 24.5 percent underfunded amid escalating infrastructure attacks",
+        "score": 7.0,
+        "body": "Humanitarian agency CARE reported that Ukraine's winter response plan remains 24.5 percent underfunded as the country enters its fifth winter of full-scale conflict. Escalating strikes targeting energy and water systems have disrupted heating and electricity, leaving hundreds of thousands of civilians affected by power outages across multiple regions. The organization also highlighted a recent attack on an aid distribution point in Zaporizhzhia that local officials reported killed dozens of people and left several missing, compounding protection concerns for vulnerable populations.",
+        "verified_figures": [
+          "24.5% underfunded",
+          "hundreds of thousands affected by power outages",
+          "dozens killed in Zaporizhzhia attack"
+        ],
+        "sources": [
+          {
+            "name": "fundsforNGOs News",
+            "url": "https://news.fundsforngos.org/2026/11/13/care-warns-ukraine-winter-humanitarian-response-underfunded-24-5/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian drone strike injures three at Kyiv hospital facility",
+        "score": 6.0,
+        "body": "A Russian drone strike targeted the National Institute of Traumatology and Orthopedics in central Kyiv, injuring three people. The drone hit the second floor of the medical facility and damaged an adjacent 19th-century building in an area near several foreign embassies. Ukrainian President Volodymyr Zelenskyy stated that speed restrictions placed on SpaceX's Starshield system hampered Ukraine's air defense capabilities during the night attack.",
+        "verified_figures": [
+          "3 people injured"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Agreement in principle for major prisoner exchange during peace talks",
+        "score": 5.0,
+        "body": "Russia and Ukraine agreed in principle to conduct a major prisoner of war exchange following United States-mediated negotiations in Abu Dhabi. United States envoy Jared Kushner indicated the agreement could lead to the largest humanitarian release of prisoners since the war began. Although two days of negotiations failed to yield a broader peace agreement, delegates agreed to expand upcoming talks to include European nations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The News International",
+            "url": "https://www.thenews.com.pk/latest/1423462-russia-and-ukraine-peace-talks-set-to-secure-largest-ever-prisoner-exchange-in-conflict-history"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Four killed in Ukrainian drone strike on Volgograd industrial zone",
+        "score": 4.5,
+        "body": "A Ukrainian drone strike on an industrial zone in Russia's Volgograd region killed four people, according to local official reports. The strike occurred as both countries reported continued overnight attacks alongside ongoing diplomatic efforts by the United States to broker a ceasefire.",
+        "verified_figures": [
+          "4 killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/four-killed-ukrainian-drone-strike-industrial-zone-russias-volgograd-official-2026-11-13/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Philippines — Magnitude 7.8 Earthquake Strikes Southern Region",
+        "score": 9.0,
+        "body": "A magnitude 7.8 earthquake struck the southern Philippines, resulting in at least 32 deaths, 200 injuries, and leaving 12 people missing. Philippine civil defense authorities report ongoing rescue operations, with reports indicating people may be trapped inside a school. Damage assessments are continuing across affected areas. Most tsunami warnings issued following the earthquake have been lifted.",
+        "verified_figures": [
+          "at least 32 people died",
+          "200 people injured",
+          "12 remain missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/powerful-earthquake-shakes-the-philippines/g-77459824"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Worsening Crisis for 600,000 Displaced in Rakhine State",
+        "score": 7.5,
+        "body": "A study by the Arakan Studies Center warns of a deteriorating humanitarian situation for between 500,000 and 600,000 internally displaced people in Myanmar’s western Rakhine State. According to reports on the research, displaced communities are enduring severe living conditions driven by ongoing military operations, declining aid delivery, and acute shortages of food, clean water, healthcare, and education.",
+        "verified_figures": [
+          "between 500,000 and 600,000 internally displaced people"
+        ],
+        "sources": [
+          {
+            "name": "ShiaWaves",
+            "url": "https://shiawaves.com/english/myanmar/147156-myanmar-report-warns-of-worsening-humanitarian-crisis-for-up-to-600000-displaced-people-in-rakhine-state/"
+          }
+        ]
+      },
+      {
+        "headline": "Pakistan — Military Reports 74 Armed Fighters Killed in Border Raids",
+        "score": 5.0,
+        "body": "Pakistan's military announced that security forces killed 74 armed fighters during multiple raids in areas along the country's border with Afghanistan. According to a statement from the military's news division, 31 of the fighters were killed in southwestern Balochistan province during operations conducted since November 3. Weapons, ammunition, and explosives were reportedly seized during the raids.",
+        "verified_figures": [
+          "74 armed fighters killed",
+          "31 fighters killed in Balochistan"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Ebola Outbreak Escalates Amid Conflict and Resource Shortfalls",
+        "score": 9.0,
+        "body": "Six months into the Ebola Bundibugyo outbreak in the eastern Democratic Republic of the Congo, disease transmission remains out of control amid ongoing armed conflict and response deficiencies. The World Health Organization reported 11,114 confirmed cases and 5,433 deaths, reflecting a 48 percent fatality rate. Humanitarian operations face severe disruption; a recent rebel attack in Cantine-Aloya, North Kivu, killed 66 people—including three health workers—burned three health facilities, and caused three Ebola patients and 1,000 contacts to flee. Doctors Without Borders warned that despite substantial international funding, critical supplies fail to reach frontline workers and affected communities, while UNICEF highlighted the compounding toll on displaced children.",
+        "verified_figures": [
+          "11,114 confirmed cases",
+          "5,433 confirmed deaths",
+          "66 people killed in Cantine-Aloya",
+          "3 health workers killed",
+          "3 health facilities burned",
+          "3 Ebola patients and 1,000 contacts fled"
+        ],
+        "sources": [
+          {
+            "name": "Unicef",
+            "url": "https://www.unicef.org/press-releases/fast-facts-ebolas-toll-children-six-months-outbreak-and-response-unicef"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal & Tibet — Flash Floods Kill Over 150 and Leave Hundreds Missing",
+        "score": 9.0,
+        "body": "A destructive flash flood swept through remote mountain valleys in Nepal and Tibet, destroying villages and causing mass casualties. Nepali police reported that rescue teams have recovered 157 bodies so far, while hundreds of people remain missing. Emergency personnel are working to evacuate families from high-risk zones to safe locations. The Nepalese government announced full responsibility for ongoing search, rescue, medical care, food distribution, and emergency shelter operations for affected populations.",
+        "verified_figures": [
+          "157 bodies recovered",
+          "hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Port-au-Prince / Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "Police or international security operations targeting local gang strongholds could prompt armed groups to execute over 50 recently abducted hostages.",
+      "potential_impact": "Mass executions of hostages would severely deepen protection threats and incite further armed retaliations across the capital's suburban communities.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.5,
+      "trigger": "Continued strikes against energy and water infrastructure during severe winter freezing while humanitarian winterization efforts remain 24.5 percent underfunded.",
+      "potential_impact": "Prolonged heating and power cutoffs would leave hundreds of thousands of vulnerable civilians without basic utilities during winter conditions.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "fundsforNGOs News",
+          "url": "https://news.fundsforngos.org/2026/11/13/care-warns-ukraine-winter-humanitarian-response-underfunded-24-5/"
+        }
+      ]
+    },
+    {
+      "location": "Taiz Governorate, Yemen",
+      "score": 7.0,
+      "trigger": "Continued road blockades and expanding armed clashes near Taiz city impeding the delivery of essential childhood vaccines during a rising measles outbreak.",
+      "potential_impact": "Unchecked disease transmission among thousands of unvaccinated children will lead to preventable deaths and overwhelm local medical facilities.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Yemen Online",
+          "url": "https://yemenonline.info/index.php/special-reports/14435"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Al Jazeera English",
+      "The Guardian",
+      "Washington Post",
+      "UNICEF",
+      "WHO"
+    ],
+    "all_sources": [
+      {
+        "name": "DW.com",
+        "count": 4
+      },
+      {
+        "name": "Yemen Online",
+        "count": 3
+      },
+      {
+        "name": "fundsforNGOs News",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Reuters",
+        "count": 1
+      },
+      {
+        "name": "ShiaWaves",
+        "count": 1
+      },
+      {
+        "name": "Sight Magazine",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The News International",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "Unicef",
+        "count": 1
+      },
+      {
+        "name": "WHO",
+        "count": 1
+      },
+      {
+        "name": "Washington Post",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1020,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
