@@ -1,0 +1,366 @@
+{
+  "date": "2026-11-14",
+  "printed_time": "1:02 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A glacial collapse near the Nepal-Tibet border triggered massive flash floods across central Nepal, killing at least 626 people and leaving over 2,400 missing.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "A severe Ebola outbreak in the Democratic Republic of the Congo has caused over 11,000 cases and more than 5,400 deaths, with containment severely impeded by over 80 attacks on health facilities.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "An attack by armed gangs on the outskirts of Port-au-Prince, Haiti, killed at least 47 people and resulted in the abduction of more than 50 individuals.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Escalating armed conflict and disease outbreaks in the Democratic Republic of the Congo have driven projections of acute food insecurity to a record 30.3 million people for early 2027.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "A strike on the Nasser Medical Complex in Khan Yunis killed six Palestinians and wounded 28 others, marking the first strike on a Gaza healthcare facility during the current ceasefire.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "A glacial collapse near the Nepal-Tibet border triggered catastrophic flash flooding across central Nepal, killing at least 626 people and leaving over 2,400 missing.",
+    "label": "GLOBAL / CROSS-CUTTING — Nepal Glacial Collapse Flash Floods"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Ceasefire violations and healthcare facility strike",
+        "score": 8.0,
+        "body": "A strike on the Nasser Medical Complex in Khan Yunis killed six Palestinians and wounded 28 others, marking the first attack on a healthcare facility under the current ceasefire. Despite a overall reduction in military operations, an average of four Palestinians continue to die daily from ongoing attacks. The humanitarian situation remains critical as displaced populations face freezing temperatures, severe weather, inadequate shelter, and severe restrictions on essential humanitarian aid access.",
+        "verified_figures": [
+          "six Palestinians killed",
+          "28 others wounded",
+          "average of four people dying each day"
+        ],
+        "sources": [
+          {
+            "name": "ABNA English",
+            "url": "https://en.abna24.com/news/1890215/The-Guardian-Gaza-ceasefire-fails-to-stop-Palestinian-deaths"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Ground clashes and airstrikes drive mass displacement",
+        "score": 7.5,
+        "body": "Ongoing fighting between government-aligned forces and Houthi rebels in southwestern Yemen has forced more than 340,000 people to flee their homes, according to the International Organization for Migration. Government-aligned Giants Brigades reported repelling a Houthi attack in the Al-Mudharaba district of Lahj province, while state-run media reported airstrikes targeting Houthi reinforcements in neighboring Taiz province. Displacement figures have risen significantly from the 280,000 reported by UNHCR in October.",
+        "verified_figures": [
+          "over 340,000 people displaced",
+          "280,000 people displaced in October"
+        ],
+        "sources": [
+          {
+            "name": "The Express Tribune",
+            "url": "https://tribune.com.pk/story/2640286/yemens-government-aligned-forces-repel-houthi-attack-as-fighting-has-displaced-over-340000-people"
+          }
+        ]
+      },
+      {
+        "headline": "Bahrain/Iran — IRGC targets US military radar installation",
+        "score": 6.0,
+        "body": "Iran’s Islamic Revolutionary Guard Corps claimed responsibility for destroying a US early-warning radar facility in Bahrain. The IRGC stated the action was a retaliatory strike following a US airstrike on a communications tower in Sirik, overlooking the Strait of Hormuz. The attack marks Iran's first direct strike on US military installations in several months, with the IRGC warning of further unconstrained force if military operations or oil interception in the Strait continue.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+          }
+        ]
+      },
+      {
+        "headline": "Occupied West Bank — Palestinian wounded in military raid near Jenin",
+        "score": 3.0,
+        "body": "Israeli forces wounded a 27-year-old Palestinian during a military raid in Jaba, south of Jenin in the occupied West Bank. Live ammunition and tear gas were used during the operation, with local sources reporting severe structural and property damage estimated at 200,000 shekels ($62,000). Separately, Israeli forces detained four Palestinians during a raid in Al-Mughayyir, northeast of Ramallah.",
+        "verified_figures": [
+          "one 27-year-old Palestinian wounded",
+          "four Palestinians detained",
+          "$62,000 in material damage"
+        ],
+        "sources": [
+          {
+            "name": "UA.NEWS",
+            "url": "https://ua.news/en/dovkolo-svitu/na-zakhidnomu-berezi-poranili-palestintsia-ta-zatrimali-chotirokh-anadolu-agency"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass Gang Attack Kills 47 and Abducts Over 50 Near Port-au-Prince",
+        "score": 9.0,
+        "body": "The United Nations confirmed that an attack by armed men in Kenscoff, on the outskirts of Port-au-Prince, left at least 47 people dead, including at least five children, and more than 50 others kidnapped. A gang leader publicly threatened to execute the hostages if security forces attempt a rescue. Concurrently, Haitian security forces have intensified operations against armed groups controlling large sections of the capital, killing Mathias Saintil, leader of the Boston gang affiliated with the Viv Ansanm coalition, during an offensive in the Cité Soleil slum.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "at least 5 children killed",
+          "more than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak exceeds 11,000 cases amid armed group attacks",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting a severe Ebola outbreak caused by the Bundibugyo strain, with over 11,000 confirmed cases and more than 5,000 deaths reported over six months. There are currently no approved vaccines or treatments for this strain. According to child-focused assessments, at least 1,737 children had died among 2,959 confirmed infections in under-18s by early November. Response efforts are severely hampered by logistical shortages and ongoing violence. The World Health Organization verified 81 attacks on health facilities, isolating responders from over 1,000 exposed individuals. UN officials report Allied Democratic Forces fighters in Ituri and North Kivu have killed more people in recent days than the virus itself.",
+        "verified_figures": [
+          "Over 11,000 confirmed cases",
+          "Over 5,000 deaths",
+          "1,737 confirmed child deaths",
+          "2,959 confirmed infections under age 18",
+          "81 attacks on health facilities verified by WHO",
+          "Over 1,000 exposed people cut off from health responders"
+        ],
+        "sources": [
+          {
+            "name": "Free Press Kashmir",
+            "url": "https://freepresskashmir.news/2026/11/14/congo-ebola-outbreak-exceeds-11000-cases-as-containment-efforts-falter/"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — Record 30.3 million projected to face acute hunger",
+        "score": 8.0,
+        "body": "A record 30.3 million people in the Democratic Republic of the Congo are projected to experience Crisis levels of acute food insecurity or worse (IPC Phase 3 or above) between January and June 2027, according to a joint release by FAO, WFP, UNICEF, and WHO. The projection includes 4.2 million individuals facing Emergency levels of hunger (IPC Phase 4). The escalating food crisis is driven by widespread armed conflict, population displacement, and compounding disease outbreaks. Humanitarian agencies are urging immediate action and expanding emergency agricultural support to help conflict-affected communities restore local food production and self-reliance.",
+        "verified_figures": [
+          "30.3 million people projected to face IPC Phase 3 or above",
+          "4.2 million people projected to face IPC Phase 4 (Emergency) hunger"
+        ],
+        "sources": [
+          {
+            "name": "Food and Agriculture Organization",
+            "url": "https://www.fao.org/newsroom/detail/conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity/en"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian Shelling Injures Seven Civilians in Kharkiv Region",
+        "score": 5.0,
+        "body": "Russian shelling targeted the village of Malynivka in the Chuhuiv district of Ukraine's Kharkiv region on 13 November, injuring seven individuals, including two children. State Emergency Service responders rescued a man and a woman trapped under building debris. The bombardment completely destroyed two residential houses, a garage, and a vehicle, while igniting a fire that covered an area of approximately 200 square meters before rescue operations concluded.",
+        "verified_figures": [
+          "7 people injured",
+          "2 children injured",
+          "2 people rescued from rubble",
+          "2 residential houses destroyed"
+        ],
+        "sources": [
+          {
+            "name": "112.ua",
+            "url": "https://112.ua/en/ratuvalniki-vivilnili-z-pid-zavaliv-dvoh-ludej-pisla-obstrilu-v-malinovci-harkivskoi-oblasti-197939"
+          }
+        ]
+      },
+      {
+        "headline": "Russia — Three Fatalities and Missile Strikes on Military Production Sites Reported",
+        "score": 4.5,
+        "body": "Three people were killed in Russia amid ongoing cross-border hostilities. Separately, the Ukrainian Navy reported carrying out a missile strike on 13 November using Neptune cruise missiles against drone production and servicing facilities in Russia's Rostov region. The targeted sites included an uncrewed aerial vehicle service center operated by Aero-Hit LLC and manufacturing plants belonging to Ionos LLC, which produce tactical strike drones.",
+        "verified_figures": [
+          "3 killed in Russia"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — Military airstrike kills 12 at Rakhine IDP camp",
+        "score": 8.0,
+        "body": "A Myanmar military airstrike targeted the Byar La internally displaced persons camp in Ponnagyun township, Rakhine State, killing 12 people, including a five-year-old child. According to local witnesses, fighter jets dropped bombs on the settlement without warning, causing severe civilian casualties northeast of the state capital, Sittwe. The attack underscores escalating protection risks for displaced populations in western Myanmar, where ongoing armed conflict between the military and opposition forces continues to inflict severe civilian harm.",
+        "verified_figures": [
+          "12 people killed"
+        ],
+        "sources": [
+          {
+            "name": "TRT World",
+            "url": "https://www.trtworld.com/article/36b69c7d0bcc"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal — Glacial collapse triggers deadly flash floods",
+        "score": 9.0,
+        "body": "A massive flash flood in central Nepal, triggered by an ice-rock avalanche from a glacial collapse near the Nepal-Tibet border, has killed at least 626 people. More than 2,400 people remain missing, while nearly 2,500 have been evacuated. The sudden torrent of water, mud, and debris swept away homes, vehicles, roads, bridges, and hydropower infrastructure across several towns and villages. Rescue operations are ongoing amid rising water levels in the Bhotekoshi River and fears of secondary flooding.",
+        "verified_figures": [
+          "626 killed",
+          "more than 2,400 missing",
+          "nearly 2,500 evacuated"
+        ],
+        "sources": [
+          {
+            "name": "DD News",
+            "url": "https://ddnews.gov.in/en/death-toll-surges-to-626-in-nepal-flash-floods-rescue-efforts-continue/"
+          }
+        ]
+      },
+      {
+        "headline": "Democratic Republic of the Congo — Ebola outbreak deaths pass 5,400",
+        "score": 8.5,
+        "body": "The ongoing Ebola outbreak has infected over 11,000 people and killed at least 5,437 within six months. Health agencies report that children account for more than one-third of all deaths. The outbreak continues to expand by up to 500 new cases weekly, with containment efforts severely compromised by more than 80 attacks on health facilities. Both the Africa Centres for Disease Control and Prevention and the World Health Organization cited significant operational constraints and security risks restricting response activities.",
+        "verified_figures": [
+          "over 11,000 cases",
+          "at least 5,437 deaths",
+          "more than one-third of deaths were children",
+          "up to 500 new cases per week",
+          "more than 80 attacks on health facilities"
+        ],
+        "sources": [
+          {
+            "name": "Daijiworld",
+            "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1335212"
+          }
+        ]
+      },
+      {
+        "headline": "Zambia — Mpongwe district enacts restrictions following cholera deaths",
+        "score": 4.0,
+        "body": "Local authorities in Mpongwe District, Copperbelt Province, have recorded 28 cholera cases and five suspected cholera-related deaths. In response, municipal officials closed bars, taverns, and butcheries operating under poor sanitary conditions and banned street food sales. Authorities are moving to prohibit public gatherings and are evaluating the temporary closure of local schools, excluding examination classes, to prevent further spread. To date, 18 patients have been successfully discharged.",
+        "verified_figures": [
+          "28 cholera cases",
+          "5 suspected cholera deaths",
+          "18 patients discharged"
+        ],
+        "sources": [
+          {
+            "name": "News Diggers!",
+            "url": "https://diggers.news/local/2026/11/14/mpongwe-moves-to-ban-public-gatherings-after-recording-5-cholera-deaths/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Lahj and Taiz Provinces, Yemen",
+      "score": 7.5,
+      "trigger": "Continued ground offensives by Houthi forces and state airstrikes in Lahj and Taiz could spark renewed large-scale clashes over the next 72 hours.",
+      "potential_impact": "Intensified fighting risks accelerating mass displacement beyond the 340,000 people already displaced and severing vital civilian supply corridors.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://tribune.com.pk/story/2640286/yemens-government-aligned-forces-repel-houthi-attack-as-fighting-has-displaced-over-340000-people"
+        }
+      ]
+    },
+    {
+      "location": "Strait of Hormuz / Persian Gulf",
+      "score": 6.5,
+      "trigger": "Further US military operations or vessel interceptions in the Strait of Hormuz could prompt retaliatory strikes by Iran's Islamic Revolutionary Guard Corps.",
+      "potential_impact": "Direct military confrontations risk disrupting international shipping lanes and expanding regional armed conflict.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        }
+      ]
+    },
+    {
+      "location": "Mpongwe District, Zambia",
+      "score": 4.0,
+      "trigger": "Unchecked sanitation deficits in public markets and social venues could drive rapid local transmission of cholera.",
+      "potential_impact": "Accelerated infection rates could strain district healthcare capacity and lead to widespread closures of public facilities and schools.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "News Diggers!",
+          "url": "https://diggers.news/local/2026/11/14/mpongwe-moves-to-ban-public-gatherings-after-recording-5-cholera-deaths/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "News Diggers!",
+        "count": 2
+      },
+      {
+        "name": "The Express Tribune",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "112.ua",
+        "count": 1
+      },
+      {
+        "name": "ABNA English",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "DD News",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Daijiworld",
+        "count": 1
+      },
+      {
+        "name": "Food and Agriculture Organization",
+        "count": 1
+      },
+      {
+        "name": "Free Press Kashmir",
+        "count": 1
+      },
+      {
+        "name": "TRT World",
+        "count": 1
+      },
+      {
+        "name": "UA.NEWS",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 920,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
